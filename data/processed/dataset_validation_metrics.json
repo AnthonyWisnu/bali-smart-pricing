@@ -1,0 +1,49 @@
+{
+  "total_records": 1000,
+  "total_features": 46,
+  "max_beds_verified": 18,
+  "price_summary": {
+    "min_idr": 154358,
+    "max_idr": 9786094,
+    "mean_idr": 2055053.823,
+    "median_idr": 1463813.0,
+    "std_idr": 1810634.295440282,
+    "q25_idr": 749308.5,
+    "q75_idr": 2766465.75,
+    "iqr_idr": 2017157.25,
+    "outliers_count": 55,
+    "outliers_pct": "5.5%"
+  },
+  "geolocation_audit": {
+    "records_with_coordinates": 1000,
+    "percentage_within_bali_bbox": "100.0%"
+  },
+  "regency_distribution": {
+    "Gianyar": 291,
+    "Karangasem": 186,
+    "Jembrana": 130,
+    "Buleleng": 126,
+    "Klungkung": 82,
+    "Bangli": 72,
+    "Badung": 53,
+    "Tabanan": 31,
+    "Denpasar": 29
+  },
+  "amenity_prevalence": {
+    "is_new_listing": "16.4%",
+    "is_room_only": "22.6%",
+    "is_superhost": "59.3%",
+    "has_self_checkin": "46.4%",
+    "has_private_pool": "37.3%",
+    "has_pool": "81.1%",
+    "has_bathtub": "48.3%",
+    "has_parking": "89.6%",
+    "has_workspace": "61.2%",
+    "nlp_luxury": "15.4%",
+    "nlp_beach_ocean": "32.2%",
+    "nlp_nature_view": "38.7%",
+    "nlp_budget_cozy": "3.8%",
+    "has_jacuzzi": "5.1%",
+    "has_service_staff": "10.2%"
+  }
+}
