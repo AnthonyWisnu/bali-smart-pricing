@@ -1,0 +1,37 @@
+{
+  "room_id": "1676463612707221560",
+  "name_raw": "Home in Ubud - Two Bedrooms One Living Room with View",
+  "price_raw": "Rp 2,967,060",
+  "rating_raw": "5.0",
+  "review_count_raw": 3,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1676463612707221560",
+  "sub_district": "Ubud",
+  "latitude": -8.53,
+  "longitude": 115.2687,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berliburlah ke seluruh vila yang damai dan bergaya di Ubud, dikelilingi oleh pepohonan dan pemandangan sawah yang menenangkan. Dirancang dengan sentuhan minimalis modern, ruang ini cocok untuk wisatawan yang mencari kenyamanan, privasi, dan pengalaman Bali yang tenang.\nBangun di pagi hari dengan udara segar, nikmati matahari terbenam keemasan, dan bersantai di tempat persemayaman pribadi Anda—hanya berkendara sebentar dari kafe, restoran, dan tempat wisata di Ubud.",
+  "scraped_at": "2026-10-04T08:19:26Z"
+}

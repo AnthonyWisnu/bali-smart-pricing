@@ -1,0 +1,37 @@
+{
+  "room_id": "33119511",
+  "name_raw": "Cottage in Mendoyo - Sunsets Beach Villa",
+  "price_raw": "Rp 7,702,945",
+  "rating_raw": "4.92",
+  "review_count_raw": 37,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/33119511",
+  "sub_district": "Mendoyo",
+  "latitude": -8.4088,
+  "longitude": 114.7918,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": null,
+    "beds": "2",
+    "baths": "0"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Absolute beachfront cottage.\nPondok kayu 2 lantai dengan pemandangan laut yang luar biasa.\n\nLantai dasar memiliki dapur, kamar mandi, area tamu, dan beranda dengan taman semi-pribadi yang memiliki pintu masuk sendiri. Di lantai atas terdapat kamar tidur dengan tata letak terbuka yang dilengkapi lemari besar, TV layar datar dengan Smart TV, dan balkon dengan tempat duduk. \n\nPondok ini memiliki air panas, AC, kipas angin, kulkas berukuran besar, ketel, peralatan memasak, dan Wifi.\n\nDi belakang pon",
+  "scraped_at": "2026-10-04T08:24:27Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1676025869528715269",
+  "name_raw": "Home in Nusa Penida - 2-Bedroom Escape with Shared Pool",
+  "price_raw": "Rp 4,311,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 10,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1676025869528715269",
+  "sub_district": "Nusa Penida",
+  "latitude": -8.7075,
+  "longitude": 115.4913,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Vila Kampuak Cottage: Liburan 2 Kamar Tidur dengan Kolam Renang Bersama\nBerliburlah ke perbukitan Nusa Penida yang tenang di Kampuak Cottage Villa. Menggabungkan pesona kayu pedesaan dengan kenyamanan modern, vila kami menawarkan keseimbangan sempurna antara relaksasi dan petualangan di pulau. Baik Anda bepergian sebagai keluarga atau sekelompok yang terdiri dari empat orang, Anda akan menemukan penginapan yang damai seperti di rumah sendiri di sini.",
+  "scraped_at": "2026-10-04T08:37:20Z"
+}

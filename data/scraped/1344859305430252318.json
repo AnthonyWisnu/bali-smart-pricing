@@ -1,0 +1,37 @@
+{
+  "room_id": "1344859305430252318",
+  "name_raw": "Villa in Tampaksiring - Villa Tampaksiring 2 Floors",
+  "price_raw": "Rp 4,953,725",
+  "rating_raw": "4.93",
+  "review_count_raw": 56,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1344859305430252318",
+  "sub_district": "Kecamatan Tampaksiring",
+  "latitude": -8.4376,
+  "longitude": 115.3056,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di Villa Tampaksiring, akomodasi yang menawarkan pengalaman menginap di tengah keindahan alam pedesaan Bali. Penginapan dengan konsep desin menyatu dengan alam, sentuhan tradisional Bali, dan menawarkan pemandangan sawah yang menenangkan dan udara segar.\nSelain dekat perawahan, villa kami juga dekat berbagi objek wisata diantaranya:\n1. Pura Gunung Kawi 3 menit\n2. Pura Tirta Empul 5 menit\n3. Ubud Center 20 menit\n4. Tegalalang (Ceking Rice Terrace) 15 menit\n5. Kintamani 30 menit.",
+  "scraped_at": "2026-10-04T08:15:25Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1631917929704598107",
+  "name_raw": "Treehouse in Susut - Alasari Bamboo House with Jungle Views.",
+  "price_raw": "Rp 4,390,679",
+  "rating_raw": "5.0",
+  "review_count_raw": 7,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1631917929704598107",
+  "sub_district": "Susut",
+  "latitude": -8.3922,
+  "longitude": 115.34028,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Temukan pemandangan indah di sekitarnya. Guesthouse bambu kami adalah kamar sederhana. Ini adalah tempat yang sempurna untuk bersantai, menjauh dari Ubud yang sibuk, dan menikmati udara segar.  \n\nHanya 40 menit dari Ubud, lokasinya cukup jauh untuk menjauhi hiruk-pikuk kota sembari tetap bisa menikmati sejumlah objek wisata lokal, air terjun, dan sawah terasering, yang hanya berjarak 30 menit perjalanan dengan sepeda motor. \n\nKami tak sabar menyambut Anda di keluarga kami. \n\nTermasuk sarapan dan",
+  "scraped_at": "2026-10-04T08:10:54Z"
+}

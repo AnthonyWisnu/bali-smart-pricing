@@ -1,0 +1,37 @@
+{
+  "room_id": "1709392732167995290",
+  "name_raw": "Home in Nusa Penida - Cozy 3BR Private Villa near Crystal Bay",
+  "price_raw": "Rp 9,195,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 10,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1709392732167995290",
+  "sub_district": "Nusa Penida",
+  "latitude": -8.7037,
+  "longitude": 115.4906,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Temukan tempat peristirahatan pulau Anda yang damai di Rest U Guest House, vila pribadi 3 kamar tidur yang luas hanya 15 menit dari Pantai Crystal Bay. Ideal untuk keluarga atau rombongan, vila ini menawarkan kamar tidur besar dengan kamar mandi di dalam yang sangat luas. Nikmati dapur lengkap yang terintegrasi dengan area makan yang nyaman untuk 6 orang. Harap perhatikan: Meskipun kami tidak memiliki kolam renang, teras pribadi kami yang nyaman dan lingkungan tropis yang rindang menawarkan temp",
+  "scraped_at": "2026-10-04T08:36:02Z"
+}

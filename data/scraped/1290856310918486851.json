@@ -1,0 +1,37 @@
+{
+  "room_id": "1290856310918486851",
+  "name_raw": "Cabin in Abang - Moonhouse Room 1 homestay",
+  "price_raw": "Rp 1,141,177",
+  "rating_raw": "4.69",
+  "review_count_raw": 13,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1290856310918486851",
+  "sub_district": "Kecamatan Abang",
+  "latitude": -8.33843,
+  "longitude": 115.64889,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Temukan Amed, sebuah desa pesisir yang tenang di pesisir timur laut Bali. Nikmati pantai berpasir hitam, tempat menyelam yang menakjubkan, dan suasana alami dengan pegunungan dan sawah. Rumah modern dan nyaman Anda memiliki pemandangan yang menakjubkan, ideal untuk bersantai setelah seharian berpetualang. Jelajahi budaya Bali, kuil lokal, dan nikmati hidangan tradisional di surga kedamaian autentik ini.",
+  "scraped_at": "2026-10-04T08:33:43Z"
+}

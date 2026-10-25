@@ -1,0 +1,37 @@
+{
+  "room_id": "1728768395234716746",
+  "name_raw": "Home in Ubud - Waterlili- 1BR Private Pool Villa with Garden View",
+  "price_raw": "Rp 7,417,651",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1728768395234716746",
+  "sub_district": "Ubud",
+  "latitude": -8.4838,
+  "longitude": 115.2819,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Temukan tempat persemayaman pribadi Anda sendiri di Casa Mahesa Villas. Vila elegan 1 kamar tidur ini mengundang Anda untuk bersantai dengan kolam renang pribadi yang jernih, interior tropis yang bergaya, dan lingkungan yang damai jauh dari keramaian. Nikmati pagi yang santai di tepi kolam renang, malam yang nyaman di ruang tamu terbuka Anda, dan nikmati kenyamanan dapur lengkap. Permata tersembunyi di dekat Ubud, dirancang untuk liburan romantis yang tak terlupakan dan momen Bali yang tenang.",
+  "scraped_at": "2026-10-04T08:20:30Z"
+}

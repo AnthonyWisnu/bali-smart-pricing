@@ -1,0 +1,37 @@
+{
+  "room_id": "1363559046225515422",
+  "name_raw": "Villa in Seririt - 3BR Villa In North Bali Near Beaches & Nature.",
+  "price_raw": "Rp 11,525,457",
+  "rating_raw": "5.0",
+  "review_count_raw": 6,
+  "regency": "Kabupaten Buleleng",
+  "url": "https://www.airbnb.com/rooms/1363559046225515422",
+  "sub_district": "Seririt",
+  "latitude": -8.19028,
+  "longitude": 114.91604,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "4",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berliburlah ke vila 3 kamar tidur yang luas ini di Bali Utara yang damai. Setiap kamar tidur memiliki kamar mandi sendiri untuk privasi dan kenyamanan. Nikmati ruang tamu terbuka dengan perabotan modern, dapur lengkap, dan kolam renang pribadi dengan area berenang dangkal untuk anak-anak. Baik Anda datang untuk bersantai atau menjelajah, vila ini menawarkan perpaduan sempurna antara kenyamanan dan pesona tropis, dan juga merupakan tempat awal yang sempurna untuk menjelajahi berbagai tempat menar",
+  "scraped_at": "2026-10-04T08:16:46Z"
+}

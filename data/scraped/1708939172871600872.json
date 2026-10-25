@@ -1,0 +1,37 @@
+{
+  "room_id": "1708939172871600872",
+  "name_raw": "Cabin in Kintamani - Romantic Mountain View Cabin with Pool | Kintamani",
+  "price_raw": "Rp 2,185,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1708939172871600872",
+  "sub_district": "Kintamani",
+  "latitude": -8.2842,
+  "longitude": 115.3819,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": null,
+    "beds": "4",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berliburlah ke dataran tinggi Kintamani yang tenang untuk tempat peristirahatan pasangan yang damai. Dikelilingi oleh kehijauan yang rindang dan pemandangan pegunungan megah Bali yang luas, kabin pribadi seluas 80 meter persegi ini memadukan gaya lokal Bali yang autentik dengan kenyamanan modern. Bangun pagi dengan udara pegunungan yang segar, nikmati kolam renang luar ruangan atau jelajahi Danau Batur dan Gunung Batur di dekatnya.",
+  "scraped_at": "2026-10-04T08:12:09Z"
+}

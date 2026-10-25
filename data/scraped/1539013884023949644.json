@@ -1,0 +1,37 @@
+{
+  "room_id": "1539013884023949644",
+  "name_raw": "Room in Melaya - Private Rooftop Room at Bingsari",
+  "price_raw": "Rp 2,949,943",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1539013884023949644",
+  "sub_district": "Melaya",
+  "latitude": -8.2374,
+  "longitude": 114.518,
+  "capacity": {
+    "guests": "1",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Kamar Atap di Bingsari menawarkan kehidupan pribadi yang tenang dengan balkon yang menghadap ke kolam renang di bawah. Di dalam, Anda akan menemukan tempat tidur berukuran King, kamar mandi dalam, dan berbagai fasilitas lengkap termasuk minibar, fasilitas teh dan kopi, TV pintar, AC, dan kipas angin. Dengan perlengkapan tidur berkualitas tinggi dan sentuhan yang apik di seluruh ruangan, kamar ini menjanjikan kenyamanan dan ketenangan untuk masa inap yang santai.",
+  "scraped_at": "2026-10-04T08:25:27Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1428906995833439939",
+  "name_raw": "Villa in Tegalalang - Shaka Bali villa -Over looking valley view",
+  "price_raw": "Rp 9,325,639",
+  "rating_raw": "4.96",
+  "review_count_raw": 52,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1428906995833439939",
+  "sub_district": "Tegallalang",
+  "latitude": -8.4738,
+  "longitude": 115.2637,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nikmati suasana tenang di villa tropis yang nyaman ini, lengkap dengan kolam pribadi yang bentuknya bulat dan pemandangan langsung ke hutan Bali. Bangun dengan suara alam dan relaksasi penuh setiap hari.\n\n🛏️ 1 kamar tidur luas & elegan\n💧 Private pool outdoor\n🌴 View hutan langsung dari kamar\n🍽️ Dapur lengkap & area makan\n📍 10 menit ke pusat Ubud\n\nCocok untuk honeymoon, liburan santai, atau staycation yang butuh ketenangan.\n\nBooking sekarang dan rasakan kedamaian Bali yang sesungguhnya!",
+  "scraped_at": "2026-10-04T08:14:22Z"
+}

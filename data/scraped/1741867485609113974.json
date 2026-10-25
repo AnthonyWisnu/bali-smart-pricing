@@ -1,0 +1,37 @@
+{
+  "room_id": "1741867485609113974",
+  "name_raw": "Villa in Ubud - Pondok Q Zarva 2 | Modern 1BR Villa private Pool",
+  "price_raw": "Rp 6,000,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1741867485609113974",
+  "sub_district": "Ubud",
+  "latitude": -8.5089,
+  "longitude": 115.2417,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di Pondok Q Sarva Ubud, vila pribadi satu kamar tidur yang tenang yang dirancang untuk pasangan, bulan madu, dan wisatawan yang ingin merasakan keindahan Ubud dengan privasi penuh.\n\nNikmati kolam renang pribadi Anda, dikelilingi suasana tropis tempat Anda bisa bersantai, menenangkan diri, dan melepaskan diri dari keramaian. Baik Anda memulai pagi dengan berenang yang menyegarkan atau menikmati malam yang tenang di tepi kolam renang, vila ini menawarkan suasana yang sempurna untuk ",
+  "scraped_at": "2026-10-04T08:22:33Z"
+}

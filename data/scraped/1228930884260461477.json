@@ -1,0 +1,37 @@
+{
+  "room_id": "1228930884260461477",
+  "name_raw": "Tiny home in Kerambitan - one bedroom private villa-Ricefield full view",
+  "price_raw": "Rp 3,381,208",
+  "rating_raw": "5.0",
+  "review_count_raw": 36,
+  "regency": "Kabupaten Tabanan",
+  "url": "https://www.airbnb.com/rooms/1228930884260461477",
+  "sub_district": "Kerambitan",
+  "latitude": -8.5021,
+  "longitude": 115.1029,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Tenang saja di tempat liburan yang unik dan tenang ini.\n\"Terhubung kembali dengan alam di tempat peristirahatan yang tenang dan nyaman ini, menampilkan kolam renang pribadi dengan pemandangan teras sawah yang menakjubkan dan pegunungan yang jauh. Bangunlah dengan suara lembut pedesaan, berendamlah yang menyegarkan, dan nikmati udara segar dari teras pribadi Anda. Sederhana, nyaman, dan dikelilingi oleh alam, tempat ini sangat cocok bagi mereka yang mencari kedamaian dan relaksasi jauh dari dunia",
+  "scraped_at": "2026-10-04T08:38:38Z"
+}

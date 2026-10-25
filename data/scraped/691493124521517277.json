@@ -1,0 +1,37 @@
+{
+  "room_id": "691493124521517277",
+  "name_raw": "Room in Kecamatan Denpasar Timur - Casa Bunga 2 near Sanur Harbour",
+  "price_raw": "Rp 2,252,565",
+  "rating_raw": "4.87",
+  "review_count_raw": 131,
+  "regency": "Kota Denpasar",
+  "url": "https://www.airbnb.com/rooms/691493124521517277",
+  "sub_district": "Kecamatan Denpasar Timur",
+  "latitude": -8.6736,
+  "longitude": 115.2393,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Ini akan menjadi pilihan terbaik Anda untuk menginap selama beberapa hari atau lebih di Bali, yang berlokasi di Denpasar. Kamarnya cukup luas untuk 2 tamu. Jangan ragu untuk mencari aksesibilitas, bagi siapa saja yang suka berlibur atau berbisnis, ada pantai Sanur, konsulat, beberapa pusat perbelanjaan seperti Plaza Renon dan Level 21, dan monumen paling terkenal di Bali yang disebut Bajrasandhi  sebagai destinasi utama untuk aktivitas sehari - hari, di dekatnya dan juga hari bebas mobil setiap ",
+  "scraped_at": "2026-10-04T08:08:14Z"
+}

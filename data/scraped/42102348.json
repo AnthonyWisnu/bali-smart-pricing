@@ -1,0 +1,37 @@
+{
+  "room_id": "42102348",
+  "name_raw": "Villa in Tegallengah - Villa Mahkai - Romantic Beachfront Vacation Rental",
+  "price_raw": "Rp 28,614,390",
+  "rating_raw": "4.9",
+  "review_count_raw": 10,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/42102348",
+  "sub_district": "Tegallengah",
+  "latitude": -8.19234,
+  "longitude": 114.88513,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "6",
+    "beds": "05798",
+    "baths": "6"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Dengan banyaknya pantai - pantai yang indah, pulau tropis yang belum terjamah di Bali Utara membanggakan keintiman dan iklimnya yang sempurna. Salah satu Luxury Villa Resort terletak di bagian barat Bali Utara, yang disebut Villa Mahkai. Di Villa Mahkai anda akan menemukan istirahat dan bersantai. Tidak ada pariwisata massal, tidak ada kemacetan lalu lintas, dan tidak ada polusi udara. Sebaliknya, Anda akan menemukan istirahat, privasi, dan kesenangan. Kami menyambut Anda dengan tangan terbuka.",
+  "scraped_at": "2026-10-04T08:29:16Z"
+}

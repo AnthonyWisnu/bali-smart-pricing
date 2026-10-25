@@ -1,0 +1,37 @@
+{
+  "room_id": "1445656157544795916",
+  "name_raw": "Villa in Ubud - Serene Ubud Stay w/Pool! Cafes & Nature Nearby",
+  "price_raw": "Rp 12,000,000",
+  "rating_raw": "4.94",
+  "review_count_raw": 149,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1445656157544795916",
+  "sub_district": "Ubud",
+  "latitude": -8.5368,
+  "longitude": 115.2617,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "5"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nikmati pengalaman bergaya di tempat yang berlokasi di pusat ini. Masuklah ke tempat suci pribadi Anda hanya beberapa menit dari pusat Ubud. Dikelilingi oleh hutan yang tenang namun dekat dengan kafe yang semarak, kuil suci, dan petualangan luar ruangan yang mendebarkan, vila 2 kamar tidur, 2,5 kamar mandi ini adalah keseimbangan sempurna antara relaksasi dan penemuan. Dirancang untuk keluarga, grup kecil, dan petualang yang mencari basis yang semarak di Bali.",
+  "scraped_at": "2026-10-04T08:19:08Z"
+}

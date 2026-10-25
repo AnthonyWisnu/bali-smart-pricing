@@ -1,0 +1,37 @@
+{
+  "room_id": "42552783",
+  "name_raw": "Hut in Tembuku - Kumbuh Jungle - Eco Bamboo Home with Large Pool",
+  "price_raw": "Rp 15,422,322",
+  "rating_raw": "4.73",
+  "review_count_raw": 233,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/42552783",
+  "sub_district": "Tembuku",
+  "latitude": -8.41548,
+  "longitude": 115.37531,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Kumbuh Jungle terletak di hutan rimbun sungai Bawak di Desa Kumbuh. Dirancang oleh tenaga kerja berbakat lokal, rumah bambu kami akan menciptakan tempat yang tenang dengan Taksu Bali dan keindahan hidup. Biarkan Kumbuh Jungle menjadi tempat Anda untuk menjernihkan pikiran dan semangat.",
+  "scraped_at": "2026-10-04T08:15:16Z"
+}

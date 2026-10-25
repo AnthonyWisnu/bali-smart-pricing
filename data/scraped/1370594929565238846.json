@@ -1,0 +1,37 @@
+{
+  "room_id": "1370594929565238846",
+  "name_raw": "Villa in Nusa Lembongan - Peaceful Private Home with Private Pool",
+  "price_raw": "Rp 22,841,148",
+  "rating_raw": "4.97",
+  "review_count_raw": 89,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1370594929565238846",
+  "sub_district": "Nusa Lembongan",
+  "latitude": -8.6818,
+  "longitude": 115.4525,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bebaskan diri Anda ke tempat peristirahatan pribadi 1-KT yang tenang di Nusa Lembongan. Sempurna untuk pasangan atau wisatawan solo, rumah modern ini memiliki kolam renang pribadi, tempat tidur berukuran king dengan pemandangan laut, hutan, dan Gunung Agung yang menakjubkan, serta ruang kerja khusus. Rasakan ketenangan dan kemewahan di tempat persemayaman pulau yang unik ini.",
+  "scraped_at": "2026-10-04T08:36:43Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1689160825868052342",
+  "name_raw": "Home in Kuta Utara - Spacious Brand New Single-story 4BR Villa Umalas",
+  "price_raw": "Rp 28,000,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 14,
+  "regency": "Kabupaten Badung",
+  "url": "https://www.airbnb.com/rooms/1689160825868052342",
+  "sub_district": "Kuta Utara",
+  "latitude": -8.6476,
+  "longitude": 115.1637,
+  "capacity": {
+    "guests": "8",
+    "bedrooms": "4",
+    "beds": "5",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Vila mewah 4 kamar tidur baru, selesai dibangun pada April 2026, terletak di perbatasan Umalas, hanya 200 m dari Raya Canggu dan beberapa menit ke Canggu & Seminyak. Terletak tersembunyi di ujung jalan yang tenang, vila ini menawarkan masa inap yang damai meskipun hanya 15 menit dari pantai dan 2 menit dari kafe, restoran, dan minimarket. Dengan tata letak satu lantai yang nyaman, ruang tamu yang terang, dan kolam renang pribadi, tempat ini adalah liburan Bali yang sempurna untuk masa inap jangk",
+  "scraped_at": "2026-10-04T08:10:11Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1486083523209009898",
+  "name_raw": "Home in Abang - Villa Alam Bayu",
+  "price_raw": "Rp 9,237,543",
+  "rating_raw": "5.0",
+  "review_count_raw": 9,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1486083523209009898",
+  "sub_district": "Abang",
+  "latitude": -8.32711,
+  "longitude": 115.63094,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bersantai bersama keluarga di tempat yang damai ini untuk tinggal.",
+  "scraped_at": "2026-10-04T08:34:30Z"
+}

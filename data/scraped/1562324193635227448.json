@@ -1,0 +1,37 @@
+{
+  "room_id": "1562324193635227448",
+  "name_raw": "Home in Kuta Utara - Semi-villa Nirwana",
+  "price_raw": "Rp 7,209,416",
+  "rating_raw": "5.0",
+  "review_count_raw": 18,
+  "regency": "Kota Denpasar",
+  "url": "https://www.airbnb.com/rooms/1562324193635227448",
+  "sub_district": "Kuta Utara",
+  "latitude": -8.65091,
+  "longitude": 115.17622,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bersantai dengan Gaya di Villa Dua Kamar Tidur dengan Kolam Renang Pribadi di Kerobokan\n\nVilla dengan Kolam renang Pribadi di Kerobokan, Bali. Villa yang menakjubkan ini menawarkan berbagai fasilitas hiburan yang akan memastikan masa inap yang tak terlupakan. nikmati berenang yang menyegarkan. Villa 2KT yang luas dengan Kolam renang Pribadi di Kerobokan akan memastikan masa inap yang berkesan.",
+  "scraped_at": "2026-10-04T08:07:44Z"
+}

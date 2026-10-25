@@ -1,0 +1,37 @@
+{
+  "room_id": "1249102994816219799",
+  "name_raw": "Home in Gerokgak - Beach Luxury Privacy for a group",
+  "price_raw": "Rp 56,370,765",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1249102994816219799",
+  "sub_district": "Gerokgak",
+  "latitude": -8.19719,
+  "longitude": 114.87125,
+  "capacity": {
+    "guests": null,
+    "bedrooms": "8",
+    "beds": "9",
+    "baths": "7"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Properti ini terdiri dari 2 vila yang bersebelahan satu sama lain. Dengan menggabungkan dua vila, Anda bisa membiarkan rombongan besar (16 orang) menikmati kemewahan dan ketenangan di Bali Utara. Makanan, permainan, dan bersantai bisa dilakukan bersama - sama. Setiap vila memiliki taman, kolam renang, dan ruang pijat sendiri sehingga Anda juga bisa menikmati privasi .",
+  "scraped_at": "2026-10-04T08:29:44Z"
+}

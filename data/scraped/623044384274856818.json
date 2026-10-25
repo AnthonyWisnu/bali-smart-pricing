@@ -1,0 +1,37 @@
+{
+  "room_id": "623044384274856818",
+  "name_raw": "Villa in Karangasem - Hidden Architectural Masterpiece in East Bali",
+  "price_raw": "Rp 45,290,516",
+  "rating_raw": "4.96",
+  "review_count_raw": 69,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/623044384274856818",
+  "sub_district": "Karangasem",
+  "latitude": -8.47371,
+  "longitude": 115.62605,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Di mana sungai bertemu laut, Villa Agung adalah mahakarya tersembunyi di pantai timur Bali yang tenang. Terletak di dalam Campuhan, perkebunan tepi laut lima hektar kami yang dirayakan di Architectural Digest, tempat ini mewujudkan keahlian Indonesia yang tak lekang oleh waktu dan harmoni arsitektur, alam, dan semangat Bali.",
+  "scraped_at": "2026-10-04T08:33:19Z"
+}

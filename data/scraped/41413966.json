@@ -1,0 +1,37 @@
+{
+  "room_id": "41413966",
+  "name_raw": "Villa in Nusa Penida - Agasta Villa Bungalows beautiful tranquil location",
+  "price_raw": "Rp 2,567,648",
+  "rating_raw": "4.87",
+  "review_count_raw": 139,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/41413966",
+  "sub_district": "Nusapenida",
+  "latitude": -8.73211,
+  "longitude": 115.49151,
+  "capacity": {
+    "guests": "8",
+    "bedrooms": "4",
+    "beds": "1",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Empat bungalo dengan tempat tidur yang sangat nyaman. Setiap kamar memiliki pintu masuknya sendiri dan tempat tidur queen sIze untuk 2 orang. Tempat tidur ekstra lainnya untuk 3 orang dalam satu grup. Kamar memiliki AC.\n\nKamar mandi besar dengan air panas dan dingin yang mengalir dan tekanan yang baik. Semua bungalo memiliki beberapa lampu dan lampu baca yang bagus.\n\n Sarapan disertakan dengan ruangan.\nLokasi dekat  dari kawasan wisata utama.",
+  "scraped_at": "2026-10-04T08:36:24Z"
+}

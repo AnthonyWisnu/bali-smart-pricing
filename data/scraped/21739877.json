@@ -1,0 +1,37 @@
+{
+  "room_id": "21739877",
+  "name_raw": "Villa in Melaya - Blue Gecko beachside villa",
+  "price_raw": "Rp 7,417,651",
+  "rating_raw": "4.88",
+  "review_count_raw": 157,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/21739877",
+  "sub_district": "Melaya",
+  "latitude": -8.2561,
+  "longitude": 114.475,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Dengan Tuan Rumah baru Blue Gecko adalah rumah bergaya vila modern di pantai di Bali Barat. Ada sangat sedikit klub, restoran, atau bar di area ini. Lokasi yang tenang dan damai ideal untuk bersantai dan menikmati kehidupan dan budaya pedesaan Bali",
+  "scraped_at": "2026-10-04T08:23:23Z"
+}

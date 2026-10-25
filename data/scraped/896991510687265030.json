@@ -1,0 +1,37 @@
+{
+  "room_id": "896991510687265030",
+  "name_raw": "Villa in Seririt - Kundalini Dolphin Beach Front Villa",
+  "price_raw": "Rp 32,873,467",
+  "rating_raw": "4.97",
+  "review_count_raw": 36,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/896991510687265030",
+  "sub_district": "Kecamatan Seririt",
+  "latitude": -8.1829,
+  "longitude": 114.9066,
+  "capacity": {
+    "guests": "8",
+    "bedrooms": "4",
+    "beds": "6",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa pribadi yang berlokasi unik di tengah alam dan budaya autentik di utara Bali dekat Lovina. Di pantai, di sebelah sawah dengan staf, di teluk yang tenang dengan lumba - lumba, jauh dari kebisingan lalu lintas. Untuk liburan yang tak terlupakan, bersama keluarga, teman atau pasangan romantis. Kolam renang besar yang indah 72m2 dan dek kolam renang luas 80m2 di taman besar dan kebebasan dan privasi villa kolam renang Anda sendiri.\nBanyak perjalanan sehari yang indah, perjalanan snorkeling, da",
+  "scraped_at": "2026-10-04T08:26:09Z"
+}

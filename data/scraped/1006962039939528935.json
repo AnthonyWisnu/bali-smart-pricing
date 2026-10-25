@@ -1,0 +1,37 @@
+{
+  "room_id": "1006962039939528935",
+  "name_raw": "Room in Pekutatan - Small downstairs room",
+  "price_raw": "Rp 1,426,471",
+  "rating_raw": "5.0",
+  "review_count_raw": 10,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1006962039939528935",
+  "sub_district": "Pekutatan",
+  "latitude": -8.41184,
+  "longitude": 114.81067,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": null,
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Ini adalah kamar tidur kecil kami di lantai bawah di lantai yang sama dengan dapur dan restoran. \n\nDouble bed, AC, meja kerja, kamar mandi pribadi dengan pancuran air panas dan wifi cepat (serat 100mbps) \n\n*** Ini tidak pribadi atau tenang *** Terletak di lantai pertama di vila kami, lantai yang sama dengan tempat tinggal kami dan dapur dan balkon lantai bawah berada. \n\nMelihat ke luar dari jendela Anda akan melihat balkon dan kolam renang area bersama Homestay kami.",
+  "scraped_at": "2026-10-04T08:25:58Z"
+}

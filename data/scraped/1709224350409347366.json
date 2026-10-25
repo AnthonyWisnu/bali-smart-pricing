@@ -1,0 +1,37 @@
+{
+  "room_id": "1709224350409347366",
+  "name_raw": "Home in Nusa Penida - Modern Island Comfort Just Minutes from the Harbor",
+  "price_raw": "Rp 8,905,500",
+  "rating_raw": "4.88",
+  "review_count_raw": 8,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1709224350409347366",
+  "sub_district": "Nusa Penida",
+  "latitude": -8.6844,
+  "longitude": 115.4885,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rasakan kenyamanan terbaik di Nalumi Villa, tempat peristirahatan modis 2 kamar tidur yang terletak hanya 1 km dari pelabuhan. Sangat cocok untuk keluarga atau rombongan kecil, villa ini memiliki dua kamar tidur ber-AC penuh, masing-masing dilengkapi kamar mandi pribadi modern. \n.\nNikmati dapur lengkap yang menyatu dengan mulus ke ruang makan yang nyaman. Keluar untuk bersantai di tepi kolam renang pribadi Anda yang jernih. Kemudahan, estetika, dan pesona pulau, semuanya dalam satu pengalaman me",
+  "scraped_at": "2026-10-04T08:36:04Z"
+}

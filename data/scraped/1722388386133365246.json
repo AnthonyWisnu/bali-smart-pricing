@@ -1,0 +1,37 @@
+{
+  "room_id": "1722388386133365246",
+  "name_raw": "Villa in Nusa Penida - Newly Built Pool Villa, Nusa Lembongan",
+  "price_raw": "Rp 30,072,030",
+  "rating_raw": "5.0",
+  "review_count_raw": 3,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1722388386133365246",
+  "sub_district": "Nusa Lembongan",
+  "latitude": -8.6786,
+  "longitude": 115.4556,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "1",
+    "beds": "4",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa tiga kamar tidur yang baru dibangun di pusat desa Jungutbatu, Nusa Lembongan, berjarak berjalan kaki sebentar dari restoran dan pantai. Villa ini dibangun di sekitar kolam renang pribadi dengan pemandangan laut dari taman, dan ruang tamu terbuka. Dibuat untuk keluarga atau rombongan kecil yang mencari kenyamanan dekat dengan segala yang ditawarkan desa ini.",
+  "scraped_at": "2026-10-04T08:35:50Z"
+}

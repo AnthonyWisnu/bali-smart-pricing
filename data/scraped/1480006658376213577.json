@@ -1,0 +1,37 @@
+{
+  "room_id": "1480006658376213577",
+  "name_raw": "Home in Sidemen - umajro rice field view",
+  "price_raw": "Rp 2,795,000",
+  "rating_raw": "4.87",
+  "review_count_raw": 38,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1480006658376213577",
+  "sub_district": "Kecamatan Sidemen",
+  "latitude": -8.48929,
+  "longitude": 115.43316,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "0"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Tenang saja di tempat liburan yang unik dan tenang ini.",
+  "scraped_at": "2026-10-04T08:15:12Z"
+}

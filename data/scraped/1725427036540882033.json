@@ -1,0 +1,37 @@
+{
+  "room_id": "1725427036540882033",
+  "name_raw": "Villa in Kuta Utara - Amare Villas 3 - Luxury Complex, Security, Umalas",
+  "price_raw": "Rp 15,500,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 3,
+  "regency": "Kabupaten Badung",
+  "url": "https://www.airbnb.com/rooms/1725427036540882033",
+  "sub_district": "Kuta Utara",
+  "latitude": -8.6617,
+  "longitude": 115.162,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Amare Villas adalah kompleks pribadi dan aman yang terdiri dari vila-vila bergaya modern. Terletak di area berpagar yang tenang dengan pengamanan 24/7, tempat ini menawarkan kenyamanan, privasi, dan suasana santai. Setiap vila memiliki desain bergaya dan area api unggun yang nyaman, cocok untuk bersantai di malam hari. Ideal untuk masa inap yang aman dan elegan.",
+  "scraped_at": "2026-10-04T08:09:50Z"
+}

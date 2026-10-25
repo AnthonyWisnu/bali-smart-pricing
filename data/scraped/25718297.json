@@ -1,0 +1,37 @@
+{
+  "room_id": "25718297",
+  "name_raw": "Place to stay in Kintamani - Cabin at Mount Batur",
+  "price_raw": "Rp 2,632,894",
+  "rating_raw": "4.82",
+  "review_count_raw": 116,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/25718297",
+  "sub_district": "Kintamani",
+  "latitude": -8.22154,
+  "longitude": 115.41384,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Kabin kayu unik di Gunung Batur untuk menginap semalam sebelum melakukan hiking/Jeep Tour ke Gunung Batur.\nCatatan:\nHarganya tergantung jumlah tamu.\nHarap baca catatan ini:\n# jika Anda 1 -2 orang akan mendapatkan satu kamar\n# jika Anda 3 -4 orang akan mendapatkan dua kamar \n# Jika Anda 5-6 orang akan mendapatkan tiga kamar\n# Anda bisa memesan tempat tidur ekstra di setiap kamar dengan biaya tambahan",
+  "scraped_at": "2026-10-04T08:34:31Z"
+}

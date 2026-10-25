@@ -1,0 +1,37 @@
+{
+  "room_id": "16682743",
+  "name_raw": "Room in Denpasar Selatan - My Big room in bali",
+  "price_raw": "Rp 1,073,360",
+  "rating_raw": "4.89",
+  "review_count_raw": 308,
+  "regency": "Kota Denpasar",
+  "url": "https://www.airbnb.com/rooms/16682743",
+  "sub_district": "Denpasar Selatan",
+  "latitude": -8.68246,
+  "longitude": 115.23619,
+  "capacity": {
+    "guests": "3",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rumah saya berada di jantung kota denpasar ,dekat dengan pantai sanur dan banyak restoran . Kami menyediakan transportasi untuk menjemput di bandara kapan saja,biayanya $ 16, tur satu hari untuk kami$ 50, juga menyewa : skuter, mobil, sepeda untuk menjelajahi Bali untuk liburan Anda\n\nlingkungan sekitar yang tenang, namun tempat saya tidak jauh dari monumen renon, 15 menit dari pantai sanur, 80 menit dari ubud.",
+  "scraped_at": "2026-10-04T08:07:55Z"
+}

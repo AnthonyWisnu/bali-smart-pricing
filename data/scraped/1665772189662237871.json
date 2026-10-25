@@ -1,0 +1,37 @@
+{
+  "room_id": "1665772189662237871",
+  "name_raw": "Villa in Amed - Exclusive Ocean View Villa w/Private Pool in Amed",
+  "price_raw": "Rp 23,029,970",
+  "rating_raw": "4.89",
+  "review_count_raw": 9,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1665772189662237871",
+  "sub_district": "Amed",
+  "latitude": -8.34473,
+  "longitude": 115.64301,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa eksklusif ini menawarkan posisi paling tinggi dan strategis di dalam komplek Vesica Villas di pusat Amed, Bali.\n\nTerletak di lahan tertinggi, vila mewah 2 lantai yang menakjubkan ini menawarkan pemandangan laut panorama yang memukau di seluruh Laut Bali, menciptakan nuansa ketenangan dan eksklusivitas yang sesungguhnya.\n\nVilla ini memiliki 3 kamar tidur yang luas dengan 4 kamar mandi (3 di antaranya adalah kamar mandi dalam), dibangun dengan standar kemewahan yang luar biasa menggunakan ba",
+  "scraped_at": "2026-10-04T08:30:34Z"
+}

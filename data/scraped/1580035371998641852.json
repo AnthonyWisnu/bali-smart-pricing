@@ -1,0 +1,37 @@
+{
+  "room_id": "1580035371998641852",
+  "name_raw": "Home in Ubud - Comfy and quite 2 br private villa Ubud",
+  "price_raw": "Rp 8,558,828",
+  "rating_raw": "5.0",
+  "review_count_raw": 12,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1580035371998641852",
+  "sub_district": "Ubud",
+  "latitude": -8.49607,
+  "longitude": 115.26863,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa yang nyaman & tenang menawarkan liburan yang damai dan pribadi dengan perabotan mewah, fasilitas modern (AC, WiFi, dapur), kolam renang/taman pribadi, dan lingkungan yang tenang, sering memadukan kemewahan dengan ketenangan untuk masa inap santai jauh dari hiruk pikuk, cocok untuk pasangan atau keluarga yang mencari istirahat sambil tetap memiliki akses mudah ke tempat-tempat lokal seperti atau kafe.",
+  "scraped_at": "2026-10-04T08:21:58Z"
+}

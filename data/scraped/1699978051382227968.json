@@ -1,0 +1,37 @@
+{
+  "room_id": "1699978051382227968",
+  "name_raw": "Villa in Tampaksiring - Casa Amor by Brüme\nbamboo villa view jungle ubud",
+  "price_raw": "Rp 22,252,952",
+  "rating_raw": "5.0",
+  "review_count_raw": 13,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1699978051382227968",
+  "sub_district": "Tampaksiring",
+  "latitude": -8.5121,
+  "longitude": 115.3032,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di Casa Amor,\n \"Konstruksi baru 2026\" \nrumah bambu yang terletak di Pejeng, hanya 10 menit dari Ubud. Nikmati pemandangan hutan yang menakjubkan dan suara sungai sakral yang menenangkan di bawahnya. Terletak di desa Bali yang autentik, tempat ini menawarkan perpaduan unik antara alam, kenyamanan, dan privasi. Bersantai di bak mandi dengan pemandangan atau bersenang-senang di seluncuran ikonik. Tempat sempurna untuk liburan romantis dan tak terlupakan.",
+  "scraped_at": "2026-10-04T08:12:55Z"
+}

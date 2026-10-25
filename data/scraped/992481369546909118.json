@@ -1,0 +1,37 @@
+{
+  "room_id": "992481369546909118",
+  "name_raw": "Home in Selat - Agung's Nest | Bamboo House",
+  "price_raw": "Rp 20,432,695",
+  "rating_raw": "4.89",
+  "review_count_raw": 202,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/992481369546909118",
+  "sub_district": "Kecamatan Selat",
+  "latitude": -8.4541,
+  "longitude": 115.4823,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": null,
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Agung's Nest by KOSAY Bali \n\nBerliburlah ke tempat peristirahatan bambu kami yang unik, yang terletak di tengah - tengah keindahan Bali Timur yang menakjubkan. Tempat yang jauh dari keramaian, di mana setiap detail selaras dengan alam. Bangunlah di Gunung Agung yang megah, saat Anda menikmati kehijauan yang rindang. Berendamlah di kolam renang infinity kami atau cukup bersantai di tengah - tengah surga yang sempurna. \n\nAyo, rasakan keajaiban Bali bersama kami – tempat di mana Anda akan benar - b",
+  "scraped_at": "2026-10-04T08:34:50Z"
+}

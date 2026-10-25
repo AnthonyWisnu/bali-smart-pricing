@@ -1,0 +1,37 @@
+{
+  "room_id": "719368449386840300",
+  "name_raw": "Room in Abang - Pool king bed fast WiFi with breakfast Rm 3",
+  "price_raw": "Rp 1,907,500",
+  "rating_raw": "4.95",
+  "review_count_raw": 61,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/719368449386840300",
+  "sub_district": "Abang",
+  "latitude": -8.3486,
+  "longitude": 115.6703,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "*HARAP BACA DETAIL LAIN Akomodasi modern dengan sentuhan Bali di antara dua pantai terbaik di daerah ini.  Ruang kerja luar ruangan yang besar, kursi meja, WIFI cepat, TV pintar layar datar besar, AC, kipas angin, dan dapur lengkap di lingkungan lokal yang tenang dengan banyak bintang. Tinggal bersama warga lokal yang bisa membantu Anda mendapatkan pengalaman ala Bali.  Disarankan menggunakan skuter.  Masuklah ke kolam renang yang menyegarkan di penghujung hari. Lantai 1.",
+  "scraped_at": "2026-10-04T08:33:49Z"
+}

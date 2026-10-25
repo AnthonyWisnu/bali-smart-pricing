@@ -1,0 +1,37 @@
+{
+  "room_id": "48063517",
+  "name_raw": "Villa in Nusa Penida - Comfy private villa 3Br Nusa Penida",
+  "price_raw": "Rp 17,889,370",
+  "rating_raw": "4.99",
+  "review_count_raw": 199,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/48063517",
+  "sub_district": "Nusa Penida",
+  "latitude": -8.6836,
+  "longitude": 115.5764,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Ini adalah VILA PRIBADI. \nterdiri dari 4 bangunan (3 kamar tidur + 1 dapur dan ruang makan). Semua kamar tidur luas dan dilengkapi dengan sofa, meja kopi, dan TV pintar. Kamar mandi dilengkapi dengan bak mandi dan pancuran semi luar ruangan yang memiliki akses langsung ke luar.\nDan kami tidak menyediakan sarapan, tetapi tamu bisa memasak di dapur kami, dan kami memiliki staf untuk membantu Anda berbelanja untuk membeli sesuatu.",
+  "scraped_at": "2026-10-04T08:37:06Z"
+}

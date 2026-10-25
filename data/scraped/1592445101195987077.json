@@ -1,0 +1,37 @@
+{
+  "room_id": "1592445101195987077",
+  "name_raw": "Villa in Abang - First Light Villa at Lipah Beach, Amed",
+  "price_raw": "Rp 20,751,099",
+  "rating_raw": "5.0",
+  "review_count_raw": 3,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1592445101195987077",
+  "sub_district": "Abang",
+  "latitude": -8.3482,
+  "longitude": 115.6792,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "4",
+    "baths": "5"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "200 m dari terumbu tropis dan restoran Pantai Lipah yang luar biasa, vila yang menakjubkan ini menawarkan pemandangan laut yang luas yang dibingkai oleh lereng bukit yang rimbun. \n\nMelayani enam tamu di tiga kamar tidur yang luas, yang masing-masing memiliki kamar mandi terbuka sendiri.\n\nDua ruang tamu besar dan dapur koki lengkap di jantung vila. \n\nDi luar ruangan, kolam renang infinity menghadap ke laut dan dilengkapi area makan di tepi kolam renang dan taman besar untuk dinikmati.\n\nTermasuk s",
+  "scraped_at": "2026-10-04T08:33:49Z"
+}

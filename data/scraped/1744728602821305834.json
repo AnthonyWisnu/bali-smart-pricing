@@ -1,0 +1,37 @@
+{
+  "room_id": "1744728602821305834",
+  "name_raw": "Home in Petang - Chill 1BR Plaga Eco Village 4 Nest in Plaga",
+  "price_raw": "Rp 5,706,250",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1744728602821305834",
+  "sub_district": "Pelaga",
+  "latitude": -8.268,
+  "longitude": 115.2493,
+  "capacity": {
+    "guests": "3",
+    "bedrooms": "1",
+    "beds": "8941",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "✨Dapatkan HARGA TERBAIK Anda di sini sekarang!✨\n\nTemukan kemewahan berkelanjutan di Plaga Eco 4, tempat peristirahatan eksklusif di pegunungan di dataran tinggi Bali Tengah. Terbatas hanya pada lima suite bambu, masing-masing menawarkan perapian dalam kamar yang nyaman, langit-langit beratap, tempat tidur kanopi, kamar mandi en-suite, dan balkon pribadi yang menghadap ke lembah yang rimbun. Terletak 6 menit dari Marigold Gardens dan 19 menit dari Air Terjun Nungnung. \n\nPesan hari ini!",
+  "scraped_at": "2026-10-04T08:15:06Z"
+}

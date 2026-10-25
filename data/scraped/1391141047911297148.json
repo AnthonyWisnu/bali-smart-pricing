@@ -1,0 +1,37 @@
+{
+  "room_id": "1391141047911297148",
+  "name_raw": "Villa in Tegalalang - Spacious Villa/Private Cinema/BBQ/Firepit/Pool",
+  "price_raw": "Rp 13,250,000",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1391141047911297148",
+  "sub_district": "Tegallalang",
+  "latitude": -8.3722,
+  "longitude": 115.30536,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "",
+  "scraped_at": "2026-10-04T08:16:29Z"
+}

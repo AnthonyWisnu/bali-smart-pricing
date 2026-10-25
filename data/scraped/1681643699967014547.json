@@ -1,0 +1,37 @@
+{
+  "room_id": "1681643699967014547",
+  "name_raw": "Home in Abang - Peaceful Bali Villa with Pool & Ocean Breeze",
+  "price_raw": "Rp 10,000,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 5,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1681643699967014547",
+  "sub_district": "Abang",
+  "latitude": -8.3316,
+  "longitude": 115.639,
+  "capacity": {
+    "guests": "10",
+    "bedrooms": "3",
+    "beds": "059",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa Sinar Cinta Amed, dengan pemandangan laut, kolam renang pribadi, taman rimbun, dan pesona Bali yang autentik. Direnovasi total pada tahun 2026, vila ini ideal untuk keluarga, pasangan, atau rombongan hingga 8 orang dewasa dan 2 anak-anak. Nikmati kamar tidur yang luas, matahari terbenam yang menakjubkan, terumbu karang terdekat untuk snorkeling, dan akses ke pantai yang hanya beberapa meter jauhnya. Dirancang untuk kenyamanan, ketenangan, dan langit malam yang tak terlupakan, Villa Sinar C",
+  "scraped_at": "2026-10-04T08:33:58Z"
+}

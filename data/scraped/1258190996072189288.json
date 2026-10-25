@@ -1,0 +1,37 @@
+{
+  "room_id": "1258190996072189288",
+  "name_raw": "Villa in Ubud - Peaceful Villa Surrounded by Rice Fields & Nature",
+  "price_raw": "Rp 9,213,026",
+  "rating_raw": "4.99",
+  "review_count_raw": 119,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1258190996072189288",
+  "sub_district": "Ubud",
+  "latitude": -8.4913,
+  "longitude": 115.2515,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "740",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Uma  Sari Villa adalah gerbang sempurna bagi mereka yang suka merasakan Bali bersama orang - orang dan budaya yang indah. \n\nLokasinya di Utara Ubud , jauh dari keramaian, hanya 6 menit berkendara dari pusat Ubud.",
+  "scraped_at": "2026-10-04T08:20:08Z"
+}

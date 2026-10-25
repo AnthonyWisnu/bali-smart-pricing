@@ -1,0 +1,37 @@
+{
+  "room_id": "1594181328798335709",
+  "name_raw": "Room in Kintamani - villa with natural hot spring pool and lake view",
+  "price_raw": "Rp 6,918,267",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1594181328798335709",
+  "sub_district": "Kecamatan Kintamani",
+  "latitude": -8.27086,
+  "longitude": 115.38187,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Terletak di dataran tinggi Kintamani yang tenang, Cinze Villas & Hot Spring menawarkan tempat peristirahatan yang tenang dikelilingi pemandangan pegunungan yang menakjubkan dan udara yang segar dan sejuk. Vila pribadi kami dirancang dengan cermat untuk memberikan kenyamanan, privasi, dan suasana santai, menjadikannya sempurna untuk pasangan, keluarga, dan wisatawan yang mencari ketenangan.",
+  "scraped_at": "2026-10-04T08:16:32Z"
+}

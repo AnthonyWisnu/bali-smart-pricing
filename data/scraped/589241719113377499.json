@@ -1,0 +1,37 @@
+{
+  "room_id": "589241719113377499",
+  "name_raw": "Apartment in Mendoyo - Medewi Manor Sea View Apartment",
+  "price_raw": "Rp 5,945,389",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/589241719113377499",
+  "sub_district": "Mendoyo",
+  "latitude": -8.4093,
+  "longitude": 114.7939,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": null,
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bersantailah di tempat yang damai dan bergaya ini dengan pemandangan laut dan sawah dari area makan luar ruang beranda yang luas. Apartemen ini memiliki semuanya; lantai marmer, dapur dengan bagian atas pembakar gas dan oven listrik, kulkas ukuran bagus, TV pintar 60\"yang terhubung dengan sistem Hi Fi. Berjalan dengan gorceries Anda dan Anda siap untuk pergi.",
+  "scraped_at": "2026-10-04T08:29:02Z"
+}

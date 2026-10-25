@@ -1,0 +1,37 @@
+{
+  "room_id": "1575838790573691375",
+  "name_raw": "Room in Nusa Penida - Tropical Wooden Retreat Near Kutampi Beach",
+  "price_raw": "Rp 1,845,000",
+  "rating_raw": "4.92",
+  "review_count_raw": 12,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1575838790573691375",
+  "sub_district": "Nusa Penida",
+  "latitude": -8.675,
+  "longitude": 115.5505,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Neduh Cottage – Retret Kayu Tropis Dekat Pantai Kutampi\n\nMenginap di pondok kayu kami yang menawan, hanya berjalan kaki sebentar dari Pantai Kutampi dan dikelilingi oleh restoran lokal. Nikmati:\n\n✔ Kamar bergaya kayu tropis dengan kamar mandi pribadi & TV\n✔ Kolam renang bersama dengan kursi berjemur\n✔ WiFi gratis & perlengkapan mandi disertakan\n✔ Lokasi yang sempurna untuk hari-hari di pantai & jalan-jalan kuliner\n\nSangat cocok untuk pasangan dan wisatawan yang mencari nuansa pulau yang santai!",
+  "scraped_at": "2026-10-04T08:37:25Z"
+}

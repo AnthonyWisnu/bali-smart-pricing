@@ -1,0 +1,37 @@
+{
+  "room_id": "1276687181400402804",
+  "name_raw": "Treehouse in Sidemen - Goofy House Sidemen with Breakfast",
+  "price_raw": "Rp 18,399,217",
+  "rating_raw": "4.82",
+  "review_count_raw": 78,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1276687181400402804",
+  "sub_district": "Kecamatan Sidemen",
+  "latitude": -8.4911,
+  "longitude": 115.416,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Kami tidak cocok untuk semua orang. Kami tidak membuat 'sesuatu untuk semua orang. Kami membuat segalanya untuk seseorang yang memahami keberlanjutan yang sesungguhnya.\n\nAkomodasi dua kamar tidur ecowood yang nyaman di Sidemen, Karangasem!Dibuat dengan sekitar 90% kayu daur ulang dan atap yang terbuat dari botol plastik yang dikumpulkan di seluruh Bali, tempat ini mencerminkan komitmen kami terhadap praktik ramah lingkungan. \n\nTujuan kami adalah memperluas keberlanjutan ini di semua properti kam",
+  "scraped_at": "2026-10-04T08:30:52Z"
+}

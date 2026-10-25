@@ -1,0 +1,37 @@
+{
+  "room_id": "1719937092825243987",
+  "name_raw": "Home in Tampaksiring - Pondok Asri Ubud (Traditional Wooden House)",
+  "price_raw": "Rp 10,945,119",
+  "rating_raw": "5.0",
+  "review_count_raw": 4,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1719937092825243987",
+  "sub_district": "Tampaksiring",
+  "latitude": -8.4968,
+  "longitude": 115.2914,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Vila kayu Joglo tradisional Jawa dengan kolam infiniti di pedesaan Ubud dibuat dengan tangan dengan gaya Knock-down tanpa paku dan menawarkan banyak ventilasi. Setengah dari rumah berada di dalam dengan kamar tidur utama dan 2 Kamar Lainnya. Kamar mandi besar dengan toilet, shower, dan Air Panas. Di area bersama terbuka dengan dapur.\n",
+  "scraped_at": "2026-10-04T08:16:13Z"
+}

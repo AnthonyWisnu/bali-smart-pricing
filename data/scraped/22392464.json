@@ -1,0 +1,37 @@
+{
+  "room_id": "22392464",
+  "name_raw": "Villa in Gerokgak - BEACHFRONT LUXURY VILLA LOVINA NORTH BALI",
+  "price_raw": "Rp 15,522,481",
+  "rating_raw": "4.98",
+  "review_count_raw": 171,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/22392464",
+  "sub_district": "Gerokgak",
+  "latitude": -8.18415,
+  "longitude": 114.92032,
+  "capacity": {
+    "guests": "8",
+    "bedrooms": "4",
+    "beds": "5",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa Senja adalah rumah tepi pantai yang unik dengan suasana mewah dan masih autentik karena interior gaya Bali yang unik yang menampilkan ruang tamu terbuka dengan biliar profesional, 4 kamar tidur dengan kamar mandi dalam dan kolam renang besar (18x6 meter dengan batu bali alami) berbaring di gazebo, saksikan matahari terbenam yang menakjubkan dari teras, nikmati koktail di kolam renang, nikmati waktu Anda di Bali.",
+  "scraped_at": "2026-10-04T08:23:12Z"
+}

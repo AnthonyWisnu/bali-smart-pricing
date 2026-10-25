@@ -1,0 +1,37 @@
+{
+  "room_id": "923429851971227198",
+  "name_raw": "Home in Seririt - Private seaside villa, cook",
+  "price_raw": "Rp 21,833,083",
+  "rating_raw": "4.92",
+  "review_count_raw": 95,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/923429851971227198",
+  "sub_district": "Seririt",
+  "latitude": -8.1948,
+  "longitude": 114.9164,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Kenyamanan, kenyamanan, privasi, dan keamanan mendasari estetika dan ketenangan tradisional Villa Kilau Indah. Kilau indah diterjemahkan sebagai shimmer yang indah, yang persis seperti yang terjadi saat matahari terbenam hampir setiap hari di properti ini. Untuk tamu yang menginap lebih dari 14 malam, kami menawarkan antar jemput gratis di mana saja di Bali. Juru masak kami, Dewi, bisa berbahasa Inggris dan menyiapkan sarapan, makan siang, dan makan malam Barat dan Indonesia (bebas gluten atas p",
+  "scraped_at": "2026-10-04T08:25:54Z"
+}

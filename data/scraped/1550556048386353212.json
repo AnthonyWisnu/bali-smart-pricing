@@ -1,0 +1,37 @@
+{
+  "room_id": "1550556048386353212",
+  "name_raw": "Room in Karangasem - Seraya Cove Est |Secluded Coastal Retreat Paradise",
+  "price_raw": "Rp 4,952,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 22,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1550556048386353212",
+  "sub_district": "Karangasem",
+  "latitude": -8.43845,
+  "longitude": 115.67844,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "7",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "“Seraya Cove Estate menawarkan tempat peristirahatan yang luar biasa bagi tamu yang mencari privasi, kenyamanan, dan pemandangan yang menakjubkan. Lokasinya yang terpencil memberikan ketenangan yang lengkap, ditingkatkan dengan pemandangan laut yang menakjubkan dan kolam renang infinity yang dirancang dengan indah yang menyatu dengan cakrawala. Villa ini terawat dengan baik, tenang, dan ideal untuk liburan yang damai. Sangat direkomendasikan untuk siapa saja yang mencari liburan pantai yang halu",
+  "scraped_at": "2026-10-04T08:30:48Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "989020487048284489",
+  "name_raw": "Cabin in Kecamatan Ubud - Bali Jungle Villa- Forest Haven",
+  "price_raw": "Rp 20,796,393",
+  "rating_raw": "4.84",
+  "review_count_raw": 215,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/989020487048284489",
+  "sub_district": "Kecamatan Ubud",
+  "latitude": -8.5341,
+  "longitude": 115.2655,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bergabunglah dengan kami di villa Bali baru kami, \nterletak dengan tenang di kebun kelapa suci hutan keanekaragaman hayati Ubud. \nBersantai dengan pemandian udara terbuka di hutan saat Anda mendengarkan tetesan air terjun dan satwa liar eksotis untuk menghabiskan waktu. Jelajahi berbagai kafe, restoran, dan kolam renang lokal yang ramah, dan kolam renang besar, cukup berjalan kaki di Titibatu. Kemewahan modern tersembunyi di hutan. Atau cukup berkendara 10 menit naik mobil ke pusat Ubud dan semu",
+  "scraped_at": "2026-10-04T08:19:22Z"
+}

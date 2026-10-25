@@ -1,0 +1,37 @@
+{
+  "room_id": "1744721800147167839",
+  "name_raw": "Home in Sukawati - Sarini Deluxe Kemenuh - 5 Minutes to Waterfall",
+  "price_raw": "Rp 4,000,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1744721800147167839",
+  "sub_district": "Sukawati",
+  "latitude": -8.5641,
+  "longitude": 115.2856,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bangun tidur di vila Joglo tradisional yang dirancang dengan indah dan dikelilingi kehijauan tropis. Nikmati kolam renang pribadi Anda, bersantailah di bawah tempat tidur kanopi yang elegan, dan nikmati pesona damai Kemenuh di dekat Ubud. Menggabungkan arsitektur khas Indonesia dengan kenyamanan modern, vila ini sangat cocok untuk liburan romantis, perayaan bulan madu, atau liburan santai di alam.",
+  "scraped_at": "2026-10-04T08:18:28Z"
+}

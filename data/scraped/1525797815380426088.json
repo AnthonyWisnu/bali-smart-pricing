@@ -1,0 +1,37 @@
+{
+  "room_id": "1525797815380426088",
+  "name_raw": "Home in Tegalalang - Hidden Retreat House Serenity Bali",
+  "price_raw": "Rp 5,294,263",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1525797815380426088",
+  "sub_district": "Tegallalang",
+  "latitude": -8.4181,
+  "longitude": 115.2802,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Terletak di tengah kehijauan tropis yang subur, vila menawan ini memadukan arsitektur tradisional Bali dengan keindahan alam yang tenang. Eksterior bata merah dan aksen kayu menciptakan suasana yang nyaman dan bersahaja, sementara teras yang luas mengundang Anda untuk bersantai dengan secangkir kopi dan suara alam. Dikelilingi oleh jalur batu, taman yang tenang, dan patung Buddha yang lembut, tempat peristirahatan yang damai ini menawarkan harmoni sempurna antara kenyamanan dan budaya — tempat l",
+  "scraped_at": "2026-10-04T08:10:52Z"
+}

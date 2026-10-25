@@ -1,0 +1,37 @@
+{
+  "room_id": "1725262385154510321",
+  "name_raw": "Home in Denpasar Barat - Central Location Private and Quite with Pool",
+  "price_raw": "Rp 5,564,708",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kota Denpasar",
+  "url": "https://www.airbnb.com/rooms/1725262385154510321",
+  "sub_district": "Denpasar Barat",
+  "latitude": -8.668,
+  "longitude": 115.1781,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "2",
+    "beds": "4",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bersantailah dan bersantailah di tempat yang tenang dan bergaya ini. Nikmati masa inap yang tak terlupakan di Waystasion Villa, tempat pribadi bagi mereka yang mencari ketenangan. Terletak secara strategis namun terpencil dari hiruk-pikuk, vila ini menawarkan tempat liburan yang sempurna dari keseharian.\n\n",
+  "scraped_at": "2026-10-04T08:08:19Z"
+}

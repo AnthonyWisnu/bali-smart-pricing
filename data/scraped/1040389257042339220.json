@@ -1,0 +1,37 @@
+{
+  "room_id": "1040389257042339220",
+  "name_raw": "Home in Sidemen - Elly House Sidemen",
+  "price_raw": "Rp 1,750,000",
+  "rating_raw": "4.9",
+  "review_count_raw": 121,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1040389257042339220",
+  "sub_district": "Sidemen",
+  "latitude": -8.4625,
+  "longitude": 115.4495,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Menginap di Elly House tak hanya memberikan kemudahan untuk mengeksplorasi destinasi petualangan Anda, tapi juga menawarkan kenyamanan bagi istirahat Anda.\n\nElly House merupakan akomodasi rekomendasi untuk Anda, seorang backpacker yang tak hanya mengutamakan budget, tapi juga kenyamanan saat beristirahat setelah menempuh petualangan seharian penuh.",
+  "scraped_at": "2026-10-04T08:33:06Z"
+}

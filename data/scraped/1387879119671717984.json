@@ -1,0 +1,37 @@
+{
+  "room_id": "1387879119671717984",
+  "name_raw": "Guesthouse in Melaya - Singel Bedroom B\nThe Cokelat Bali Guest House",
+  "price_raw": "Rp 3,096,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 3,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1387879119671717984",
+  "sub_district": "Kecamatan Melaya",
+  "latitude": -8.26333,
+  "longitude": 114.52931,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rasakan kedamaian di tempat peristirahatan pedesaan kami yang menarik dan menyenangkan.",
+  "scraped_at": "2026-10-04T08:27:12Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1157722586014061863",
+  "name_raw": "Home in Pemuteran - Sora Villa, Sumberkima Hill",
+  "price_raw": "Rp 15,452,617",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1157722586014061863",
+  "sub_district": "Pemuteran",
+  "latitude": -8.1704,
+  "longitude": 114.6134,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": null,
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Temukan ketenangan di Sumberkima Hill Retreat, tempat liburan damai di desa tepi laut Bali Sumberkima, dekat Pemuteran dan Pulau Menjangan - surga penyelam. Nikmati pemandangan gunung berapi Hills,  Bay, dan Jawa yang menakjubkan. Bersantap di dua restoran yang menampilkan cita rasa lokal dan internasional, bersantai dengan yoga, perawatan spa, dan bersantai di sauna kami atau mandi es yang menyegarkan. Tim kami siap mengatur tamasya, sesi kesehatan, dan banyak lagi untuk membenamkan Anda dalam ",
+  "scraped_at": "2026-10-04T08:28:48Z"
+}

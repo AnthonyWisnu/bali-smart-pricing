@@ -1,0 +1,37 @@
+{
+  "room_id": "917812688614930136",
+  "name_raw": "Home in Melaya - White Rose Beach House",
+  "price_raw": "Rp 11,982,359",
+  "rating_raw": "4.78",
+  "review_count_raw": 18,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/917812688614930136",
+  "sub_district": "Melaya",
+  "latitude": -8.2487,
+  "longitude": 114.4707,
+  "capacity": {
+    "guests": "8",
+    "bedrooms": "4",
+    "beds": "4",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bersantailah dan bersantailah di tempat yang tenang dan bergaya ini.  Nikmati budaya Bali, memancing, snorkeling, berjalan di Taman Nasional. Kami akan menjaga memasak dan membersihkan",
+  "scraped_at": "2026-10-04T08:23:17Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1604175133505501888",
+  "name_raw": "Villa in Nusa Penida - Unique Private Beachfront Villa – Nusa Ceningan",
+  "price_raw": "Rp 37,104,775",
+  "rating_raw": "5.0",
+  "review_count_raw": 9,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1604175133505501888",
+  "sub_district": "Ceningan Island",
+  "latitude": -8.69944,
+  "longitude": 115.44615,
+  "capacity": {
+    "guests": "8",
+    "bedrooms": "4",
+    "beds": "4",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Properti ini kini berada di bawah Manajemen K-Club. Vila ini telah menyambut tamu selama lebih dari 4 tahun dengan ulasan yang selalu sangat baik. Penginapan tepercaya, kini ditingkatkan dengan standar keramahtamahan K-Club.",
+  "scraped_at": "2026-10-04T08:36:14Z"
+}

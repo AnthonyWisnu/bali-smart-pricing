@@ -1,0 +1,37 @@
+{
+  "room_id": "26584250",
+  "name_raw": "Hotel in Mendoyo - West Break Bali - Medewi",
+  "price_raw": "Rp 4,500,000",
+  "rating_raw": "4.91",
+  "review_count_raw": 23,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/26584250",
+  "sub_district": "Mendoyo",
+  "latitude": -8.41213,
+  "longitude": 114.79819,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "LOKASI DEPAN PANTAI!!!  Kami memiliki 12 kamar dengan a/c, kamar mandi pribadi dan air PANAS masing - masing tidur 2 orang.  Kamar standar seperti yang ditunjukkan Rp 500.000 per malam.  Kami memiliki kolam renang, restoran/kafe, fasilitas pijat,  dan melayani pelajaran Surf.",
+  "scraped_at": "2026-10-04T08:29:59Z"
+}

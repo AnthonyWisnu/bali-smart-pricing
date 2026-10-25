@@ -1,0 +1,37 @@
+{
+  "room_id": "970700884461644737",
+  "name_raw": "Tiny home in Kecamatan Denpasar Selatan - Lumu Room",
+  "price_raw": "Rp 2,189,215",
+  "rating_raw": "4.76",
+  "review_count_raw": 136,
+  "regency": "Kota Denpasar",
+  "url": "https://www.airbnb.com/rooms/970700884461644737",
+  "sub_district": "Kecamatan Denpasar Selatan",
+  "latitude": -8.69493,
+  "longitude": 115.23723,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Terletak di jalan utama Denpasar yang ramai, hanya 15 menit dari pantai Sanur yang indah, kamar tidur yang estetis dan nyaman ini adalah tempat yang sempurna untuk pasangan. Apakah Anda ingin menginap sebelum naik feri melalui pelabuhan Sanur, atau hanya ingin menjelajahi Sanur dan Denpasar - Lumu adalah tempat yang sempurna untuk Anda.\n\nDilengkapi dengan kamar mandi pribadi, AC, wi - fi, dan fasilitas - semua yang Anda butuhkan untuk masa inap Anda yang nyaman.\n\nSungguh, seperti seperti di ruma",
+  "scraped_at": "2026-10-04T08:08:53Z"
+}

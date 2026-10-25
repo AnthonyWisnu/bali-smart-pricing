@@ -1,0 +1,37 @@
+{
+  "room_id": "1735197854543246969",
+  "name_raw": "Home in Abang - Joglo house in the jungle",
+  "price_raw": "Rp 1,859,513",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1735197854543246969",
+  "sub_district": "Abang",
+  "latitude": -8.33397,
+  "longitude": 115.63392,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rumah joglo tradisional besar yang baru terletak dengan damai di hutan yang tenang ",
+  "scraped_at": "2026-10-04T08:30:00Z"
+}

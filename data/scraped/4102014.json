@@ -1,0 +1,37 @@
+{
+  "room_id": "4102014",
+  "name_raw": "Villa in Melaya - Luxury beach villa Beachhouse",
+  "price_raw": "Rp 12,792,743",
+  "rating_raw": "4.71",
+  "review_count_raw": 21,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/4102014",
+  "sub_district": "Melaya",
+  "latitude": -8.26025,
+  "longitude": 114.47803,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "4",
+    "beds": "5",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Pantai barat terpencil di Bali adalah rahasia terbaik untuk liburan santai. \nBeachhouse memiliki semua kemewahan dan kolam renang pribadi dengan jacuzzi. Vila terletak di resor, tepat di pantai pasir hitam di daerah pedesaan, jauh dari tempat wisata. \nPantai berpasir Sumbersari yang indah sepanjang kilometer, pemandangan Jawa, dan ombak yang tenang menawarkan liburan yang sempurna.",
+  "scraped_at": "2026-10-04T08:25:43Z"
+}

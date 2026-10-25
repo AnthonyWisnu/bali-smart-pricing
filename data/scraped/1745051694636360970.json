@@ -1,0 +1,37 @@
+{
+  "room_id": "1745051694636360970",
+  "name_raw": "Home in Kediri - Amerta Yora |Private Pool Villa Near Kedungu Beach",
+  "price_raw": "Rp 7,442,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Tabanan",
+  "url": "https://www.airbnb.com/rooms/1745051694636360970",
+  "sub_district": "Kediri",
+  "latitude": -8.603,
+  "longitude": 115.0905,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berliburlah ke Amerta Yora Villa by Aayan, villa pribadi 2 kamar tidur yang bergaya di kawasan Kedungu yang damai. Nikmati kolam renang pribadi, dapur lengkap, ruang tamu dan ruang makan yang luas, Wi-Fi berkecepatan tinggi, dan layanan kebersihan harian. Sangat cocok untuk keluarga, pasangan, atau teman yang mencari liburan santai di Bali. Terletak ideal di dekat Pantai Kedungu, Tanah Lot, kafe, dan tempat wisata populer, menawarkan keseimbangan sempurna antara ketenangan dan kenyamanan.",
+  "scraped_at": "2026-10-04T08:38:36Z"
+}

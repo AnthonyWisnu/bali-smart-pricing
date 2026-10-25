@@ -1,0 +1,37 @@
+{
+  "room_id": "1739794866953423670",
+  "name_raw": "Room in Ubud - Sari Ning Villa Ubud with Private Pool",
+  "price_raw": "Rp 4,099,997",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1739794866953423670",
+  "sub_district": "Ubud",
+  "latitude": -8.5256,
+  "longitude": 115.2523,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Sari Ning Villa Ubud dengan Kolam renang Pribadi dengan gaya modern dan terletak di Ubud sekitar 10 menit ke pusat Ubud.\n",
+  "scraped_at": "2026-10-04T08:21:24Z"
+}

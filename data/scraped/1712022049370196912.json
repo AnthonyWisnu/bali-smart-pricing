@@ -1,0 +1,37 @@
+{
+  "room_id": "1712022049370196912",
+  "name_raw": "Home in Ubud - Mea'ji_Villa",
+  "price_raw": "Rp 11,675,825",
+  "rating_raw": "5.0",
+  "review_count_raw": 9,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1712022049370196912",
+  "sub_district": "Ubud",
+  "latitude": -8.4867,
+  "longitude": 115.2654,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "VILLA MEAJI, UBUD\n\nVilla Pribadi Modern di Pusat Jiwa Budaya Bali\n\n2 Kamar Tidur • Seluruh Vila Pribadi • Hingga 4 Tamu • Kolam Renang Pribadi 3 x 7 m • Wi-Fi 200 Mbps \n\nMeaji Villas diciptakan untuk yang terakhir—villa pribadi dua kamar tidur tempat desain modern berpadu dengan kemewahan yang tenang dan ketenangan abadi Ubud. Dari saat Anda tiba dan disambut dengan air kelapa segar dan keranjang buah musiman, dunia luar mulai memudar, dan waktu tampak bergerak sesuai keinginan Anda.",
+  "scraped_at": "2026-10-04T08:20:27Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1594016124385488307",
+  "name_raw": "Room in Manggis - Yoga Bale House 3, rm#3",
+  "price_raw": "Rp 5,135,297",
+  "rating_raw": "5.0",
+  "review_count_raw": 3,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1594016124385488307",
+  "sub_district": "Kecamatan Manggis",
+  "latitude": -8.53561,
+  "longitude": 115.50446,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "1",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bersantailah dan bersantailah di tempat yang tenang dan bergaya ini. Kamar ini berada di rumah tamu baru dengan pemandangan laut yang indah, pemandangan gunung, dan pelabuhan Padangbai. 20 menit berjalan kaki ke pantai Bias Tugel dan 10 menit ke kota. Anda bisa memesan taksi dari saya. Jalanan naik ke atas bukit dari rambu yoga bale. Anda bisa memesan pengiriman makanan dari saya.",
+  "scraped_at": "2026-10-04T08:32:54Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1598922502550401650",
+  "name_raw": "Villa in Ubud - Luxury 4BR villa 5 min to Ubud center | AJV",
+  "price_raw": "Rp 26,229,505",
+  "rating_raw": "4.86",
+  "review_count_raw": 22,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1598922502550401650",
+  "sub_district": "Ubud",
+  "latitude": -8.5289,
+  "longitude": 115.2639,
+  "capacity": {
+    "guests": "8",
+    "bedrooms": "4",
+    "beds": "4",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rasakan kenyamanan bersama seluruh keluarga di tempat bergaya ini. Tempat yang ramah keluarga saat privasi & keselamatan berada di satu tempat. Bangunan yang stabil dan dirancang dengan indah yang dipelihara di area yang nyaman. Kafe dan toko hanya berjarak beberapa menit. Terletak di Pengosekan, Ubud. Pusat Ubud hanya berjarak sekitar 10 menit, sedangkan objek wisata lainnya hanya berjarak sekitar 20 menit. Ini adalah tempat liburan Anda untuk menjauh dari hiruk-pikuk Ubud.",
+  "scraped_at": "2026-10-04T08:19:02Z"
+}

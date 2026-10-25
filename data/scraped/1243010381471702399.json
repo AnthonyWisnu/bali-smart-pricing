@@ -1,0 +1,37 @@
+{
+  "room_id": "1243010381471702399",
+  "name_raw": "Room in Kecamatan Ubud - Tropical Oasis Awaits: Jumanji @LEON",
+  "price_raw": "Rp 9,000,000",
+  "rating_raw": "4.83",
+  "review_count_raw": 52,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1243010381471702399",
+  "sub_district": "Kecamatan Ubud",
+  "latitude": -8.5121,
+  "longitude": 115.2503,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "LEON UBUD BALI, rumah kedua Anda di pusat Bali! Vila kami menawarkan pengalaman unik yang menggabungkan kemewahan dan petualangan, semuanya dalam suasana tenang hanya 3 km dari istana Ubud.\nDikelilingi oleh hutan yang rimbun, setiap vila dilengkapi dengan kolam terjun dan dapur kecilnya sendiri, lengkap dengan bahan sarapan untuk memulai hari Anda dengan benar. Tapi bukan itu saja - ada banyak pilihan bersantap lokal di dekatnya, cocok untuk saat Anda ingin menjelajahi kelezatan kuliner di area ",
+  "scraped_at": "2026-10-04T08:19:17Z"
+}

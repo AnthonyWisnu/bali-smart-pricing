@@ -1,0 +1,37 @@
+{
+  "room_id": "1620854863143615166",
+  "name_raw": "Cabin in Selat - Jiva Bali – Inaya",
+  "price_raw": "Rp 22,500,000",
+  "rating_raw": "4.8",
+  "review_count_raw": 5,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1620854863143615166",
+  "sub_district": "Selat",
+  "latitude": -8.45419,
+  "longitude": 115.48232,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di Inaya, tempat peristirahatan tropis yang luar biasa, di mana desain kontemporer berpadu secara mulus dengan lingkungan alam yang rindang. Nikmati kolam renang pribadi Anda dengan seluncuran, dibingkai pohon palem, ruang tamu terbuka yang cerah, dan suasana tenang yang dirancang untuk relaksasi murni.\n\nSempurna untuk pasangan, teman, atau keluarga, Inaya menawarkan kenyamanan, privasi, dan fasilitas premium 🌿✨",
+  "scraped_at": "2026-10-04T08:33:30Z"
+}

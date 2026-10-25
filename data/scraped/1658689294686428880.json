@@ -1,0 +1,37 @@
+{
+  "room_id": "1658689294686428880",
+  "name_raw": "Home in Payangan - Honeymoon Sunset Villa Ubud with Pool & Kitchen",
+  "price_raw": "Rp 10,508,245",
+  "rating_raw": "4.89",
+  "review_count_raw": 18,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1658689294686428880",
+  "sub_district": "Payangan",
+  "latitude": -8.4501,
+  "longitude": 115.2559,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bosan dengan hiruk pikuk kota dan mencari tempat yang tenang untuk liburan, bulan madu, atau sekadar istirahat? Kami mengajak Anda menikmati ketenangan sejati di Subu Utamas Ubud. Bangun dengan suara kicauan burung dan udara pagi yang segar, lalu bersantai di kolam renang pribadi Anda sambil menikmati pemandangan sawah dan hutan tropis yang menakjubkan. Rasakan kedamaian yang tak tertandingi.\nDi sini, alam menyambut Anda dengan hangat.",
+  "scraped_at": "2026-10-04T08:13:16Z"
+}

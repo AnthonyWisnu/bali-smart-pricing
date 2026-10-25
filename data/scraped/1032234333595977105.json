@@ -1,0 +1,37 @@
+{
+  "room_id": "1032234333595977105",
+  "name_raw": "Hostel in Mendoyo - Room - Turtle House Surf & Stay",
+  "price_raw": "Rp 1,459,470",
+  "rating_raw": "4.91",
+  "review_count_raw": 22,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1032234333595977105",
+  "sub_district": "Mendoyo",
+  "latitude": -8.40608,
+  "longitude": 114.80335,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "2",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di Homestay 2 kamar tidur kami yang nyaman di Sumbul, Bali Barat! Tempat peristirahatan kami yang damai dikelilingi sawah dan pegunungan, menawarkan liburan yang tenang.",
+  "scraped_at": "2026-10-04T08:25:33Z"
+}

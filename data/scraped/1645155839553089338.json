@@ -1,0 +1,37 @@
+{
+  "room_id": "1645155839553089338",
+  "name_raw": "Treehouse in Tegallalang - Beyond Heaven #1\nprivate house",
+  "price_raw": "Rp 11,252,412",
+  "rating_raw": "4.9",
+  "review_count_raw": 10,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1645155839553089338",
+  "sub_district": "Kecamatan Tegallalang",
+  "latitude": -8.4088,
+  "longitude": 115.28493,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nikmati suasana indah tempat romantis di alam ini.\nrumah ini istimewa bagi para pencinta alam\nyang paling istimewa adalah kamu bisa mengeluarkan tempat tidur untuk merasakan bagaimana tidur/bersantai di tengah hutan yang menakjubkan, ini akan menjadi pengalamanmu yang paling tak terlupakan bersama kekasihmu selama liburanmu di Bali. \nAnda bisa memasukkan tempat tidur ke dalam pada malam hari. Kami juga memiliki AC di kamar. \nIni bukan hotel, jadi jika Anda takut berada di alam, jangan pesan ruma",
+  "scraped_at": "2026-10-04T08:11:44Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "909805552777906282",
+  "name_raw": "Home in Pekutatan - Red gate villa",
+  "price_raw": "Rp 11,868,241",
+  "rating_raw": "4.76",
+  "review_count_raw": 21,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/909805552777906282",
+  "sub_district": "Kecamatan Pekutatan",
+  "latitude": -8.42079,
+  "longitude": 114.81283,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "4",
+    "beds": "4",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Seluruh rumah untuk keluarga atau rombongan untuk menikmati liburan santai di Bali. Bersantai di teras, melihat ke seberang sawah ke ombak, berjalan kaki sebentar melalui sawah ke pantai dan berselancar atau menyaksikan perahu nelayan masuk.  Tidurlah di malam hari dengan suara laut. Dapur dengan perlengkapan lengkap untuk memasak sendiri, wifi, dan smart tv besar, lantai mezzanine santai dengan karpet lembut dan beanbag untuk membaca buku atau tidur nyenyak. Kamar mandi mewah dengan bak mandi b",
+  "scraped_at": "2026-10-04T08:27:02Z"
+}

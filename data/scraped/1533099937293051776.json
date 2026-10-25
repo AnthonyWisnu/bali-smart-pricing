@@ -1,0 +1,37 @@
+{
+  "room_id": "1533099937293051776",
+  "name_raw": "Apartment in Abang - Serenia Villas Amed 1 BR Private pool and kitchen",
+  "price_raw": "Rp 6,703,350",
+  "rating_raw": "5.0",
+  "review_count_raw": 21,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1533099937293051776",
+  "sub_district": "Abang",
+  "latitude": -8.331,
+  "longitude": 115.6383,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Serenia Villas Amed adalah kompleks butik yang terdiri dari 10 vila kolam renang pribadi di Bali Timur. Setiap vila memiliki fasilitas yang sama: kamar tidur ber-AC dengan tempat tidur king, paviliun terbuka, kolam renang pribadi, dan dapur lengkap. Hanya posisinya di dalam komplek yang berbeda.\n\nFoto yang ditampilkan menampilkan satu villa sebagai contoh — saat check-in, Anda akan dialokasikan sebuah villa berdasarkan ketersediaan, yang mungkin bukan unit yang persis seperti yang tergambar. Kua",
+  "scraped_at": "2026-10-04T08:31:46Z"
+}

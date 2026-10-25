@@ -1,0 +1,37 @@
+{
+  "room_id": "1715445287128862537",
+  "name_raw": "Home in Kecamatan Kuta Utara - Romantic Villa | Jacuzzi + Modern Luxury",
+  "price_raw": "Rp 16,478,085",
+  "rating_raw": "5.0",
+  "review_count_raw": 8,
+  "regency": "Kota Denpasar",
+  "url": "https://www.airbnb.com/rooms/1715445287128862537",
+  "sub_district": "Kecamatan Kuta Utara",
+  "latitude": -8.62562,
+  "longitude": 115.15522,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "2",
+    "beds": "4",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berliburlah ke The Villa Keni, tempat peristirahatan romantis di Canggu yang dirancang untuk pasangan. Bersantai di bawah bintang-bintang di jacuzzi pribadi Anda, lalu bersantai di interior yang rapi dan modern dengan tekstur alami yang hangat. 2 kamar tidur, 2 kamar mandi, menampung hingga 4 orang. Ruang tamu konsep terbuka, kamar mandi bergaya spa, dan aliran dalam-ruangan-luar ruangan menciptakan liburan yang intim, cocok untuk bulan madu atau ulang tahun pernikahan. Jarak berjalan kaki ke ka",
+  "scraped_at": "2026-10-04T08:08:30Z"
+}

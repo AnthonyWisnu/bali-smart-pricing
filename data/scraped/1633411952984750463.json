@@ -1,0 +1,37 @@
+{
+  "room_id": "1633411952984750463",
+  "name_raw": "Home in Kerambitan - 2 bedrooms villa with rice field and mountain view",
+  "price_raw": "Rp 3,616,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 24,
+  "regency": "Kota Denpasar",
+  "url": "https://www.airbnb.com/rooms/1633411952984750463",
+  "sub_district": "Kerambitan",
+  "latitude": -8.502,
+  "longitude": 115.1031,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bersantai bersama seluruh keluarga di tempat menginap yang tenang ini. Rasakan kenyamanan dan ketenangan di vila pribadi kami dengan pemandangan sawah dan pegunungan yang menakjubkan. Luas, damai, dan sempurna untuk keluarga atau masa inap jangka panjang. Nikmati udara segar, lingkungan alami, dan suasana santai yang jauh dari kehidupan kota yang sibuk.",
+  "scraped_at": "2026-10-04T08:09:12Z"
+}

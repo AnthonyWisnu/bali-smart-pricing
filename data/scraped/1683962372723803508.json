@@ -1,0 +1,37 @@
+{
+  "room_id": "1683962372723803508",
+  "name_raw": "Villa in Kuta Utara - Designer 4BR Villa in Canggu w Pool, Patio&Garden",
+  "price_raw": "Rp 31,077,617",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Badung",
+  "url": "https://www.airbnb.com/rooms/1683962372723803508",
+  "sub_district": "Kuta Utara",
+  "latitude": -8.6342,
+  "longitude": 115.1502,
+  "capacity": {
+    "guests": "8",
+    "bedrooms": "4",
+    "beds": "4",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Seis Villa D — villa tropis mewah 4BR di prime Canggu\n• 4 kamar tidur stylish ber-AC\n• 3 kamar mandi elegan (1 dengan bathtub)\n• Kolam renang pribadi luas dengan kursi santai\n• Taman tropis yang indah & area outdoor lounge\n• Dapur lengkap\n• Meja kerja, safety box, fasilitas setrika & hairdryer\n• Wi-Fi 150 Mbps\n• Layanan kebersihan, handuk & linen segar\n• PS5, Netflix, fasilitas bayi & BBQ grill atas permintaan\n• Layanan concierge: transfer, rental scooter, spa & tur",
+  "scraped_at": "2026-10-04T08:09:40Z"
+}

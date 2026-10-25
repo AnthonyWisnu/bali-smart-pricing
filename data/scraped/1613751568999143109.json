@@ -1,0 +1,37 @@
+{
+  "room_id": "1613751568999143109",
+  "name_raw": "Treehouse in Selat - Brand new! Opening Rate! Sauca Muncan bamboo villa",
+  "price_raw": "Rp 21,716,598",
+  "rating_raw": "5.0",
+  "review_count_raw": 45,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1613751568999143109",
+  "sub_district": "Selat",
+  "latitude": -8.4282,
+  "longitude": 115.4458,
+  "capacity": {
+    "guests": "3",
+    "bedrooms": "1",
+    "beds": "4",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Sauca Muncan cocok untuk Anda dan orang yang Anda cintai. Anda akan memiliki vila PRIBADI Anda sendiri, tempat Anda bisa mengasingkan diri dari orang lain jika Anda mau.\n\nTidak hanya itu, Anda akan senang menginap di rumah. Daripada menginap di kamar yang suram di tengah kota, Anda akan menikmati angin sepoi-sepoi di sawah yang luas di mana energi yang indah berlimpah!",
+  "scraped_at": "2026-10-04T08:31:00Z"
+}

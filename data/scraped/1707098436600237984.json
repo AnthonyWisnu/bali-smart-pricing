@@ -1,0 +1,37 @@
+{
+  "room_id": "1707098436600237984",
+  "name_raw": "Home in Denpasar Selatan - Villa Tulip Sanur",
+  "price_raw": "Rp 6,620,192",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kota Denpasar",
+  "url": "https://www.airbnb.com/rooms/1707098436600237984",
+  "sub_district": "Denpasar Selatan",
+  "latitude": -8.66514,
+  "longitude": 115.24881,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Tempat istimewa ini dekat dengan segalanya, memudahkan Anda merencanakan kunjungan Anda. \ndekat dengan:\n- Pantai Sanur\n- Pelabuhan Matahari Terbit (Dekat dengan Pulau Nusa Penida)\n- Renon Square (Lapangan Renon) Kantor Pemerintah Pusat\n- Icon Mall, Living World Mall, dan Plaza Renon Mall\n- Rumah Sakit Internasional Bali\n- 35 Menit dari Bandara Internasional Ngurah Rai (Tergantung lalu lintas)\n- 39 Menit dari Pasar Seni Sukawati (Tergantung lalu lintas)\n",
+  "scraped_at": "2026-10-04T08:06:51Z"
+}

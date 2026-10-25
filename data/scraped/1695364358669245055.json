@@ -1,0 +1,37 @@
+{
+  "room_id": "1695364358669245055",
+  "name_raw": "Home in Selat - Ari's Bamboo House - NYAN BALI",
+  "price_raw": "Rp 14,264,713",
+  "rating_raw": "5.0",
+  "review_count_raw": 10,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1695364358669245055",
+  "sub_district": "Selat",
+  "latitude": -8.4522,
+  "longitude": 115.4805,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "ARI'S BAMBOO HOUSE oleh NYAN BALI\n\nSelamat datang di rumah bambu pribadi mewah kami, tempatmu untuk menikmati ketenangan dan suasana alam, tempat liburanmu yang sempurna untuk masa inap bulan madu.\nSetiap aspek rumah bambu kami dirancang dengan cermat agar selaras dengan lingkungan alam sekitarnya.\nSetiap detail diciptakan dengan cinta, untuk masa inap yang tidak akan pernah Anda lupakan.\n\nRasakan Bali yang autentik, jauh dari keramaian, dan ciptakan kenangan yang akan bertahan seumur hidup.",
+  "scraped_at": "2026-10-04T08:33:38Z"
+}

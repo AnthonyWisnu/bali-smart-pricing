@@ -1,0 +1,37 @@
+{
+  "room_id": "1652545652776271171",
+  "name_raw": "Villa in Denpasar Timur - 1BR Stylish Villa + Private Pool | Near Sanur Port",
+  "price_raw": "Rp 5,555,555",
+  "rating_raw": "4.89",
+  "review_count_raw": 19,
+  "regency": "Kota Denpasar",
+  "url": "https://www.airbnb.com/rooms/1652545652776271171",
+  "sub_district": "East Denpasar",
+  "latitude": -8.6532,
+  "longitude": 115.265,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Menginaplah di vila brutalis unik yang memadukan desain beton mentah dengan nuansa tropis yang damai. Menawarkan jendela bundar yang menakjubkan, kolam renang pribadi, area tamu yang nyaman, dan dapur lengkap untuk masa inap yang nyaman. Terletak hanya 500 meter dari Pantai Muara Tangtu, cocok untuk berjalan-jalan di pagi hari, menikmati angin laut, dan liburan santai di dekat laut. Sangat cocok untuk pecinta desain yang mencari privasi, ketenangan, dan pengalaman tropis yang unik.",
+  "scraped_at": "2026-10-04T08:06:51Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1696024643864190732",
+  "name_raw": "Home in Tegalalang - Yura house Private pool surrounded by nature",
+  "price_raw": "Rp 7,988,239",
+  "rating_raw": "5.0",
+  "review_count_raw": 3,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1696024643864190732",
+  "sub_district": "Tegallalang",
+  "latitude": -8.42258,
+  "longitude": 115.28,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Yura House adalah tempat peristirahatan yang nyaman di Tegallalang, hanya 10 menit berjalan kaki dari Ceking Rice Terrace yang terkenal. Dikelilingi oleh kehijauan yang rindang dan suasana yang damai, ini adalah tempat yang sempurna untuk bersantai dan merasakan keindahan Bali. Terletak tepat di samping Restoran D'Alas, tamu menikmati akses mudah ke hidangan lokal dan internasional yang lezat, serta diskon 10% untuk makanan selama mereka menginap. Sarapan disajikan secara eksklusif di restoran. ",
+  "scraped_at": "2026-10-04T08:12:03Z"
+}

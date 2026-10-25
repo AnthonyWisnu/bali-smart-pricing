@@ -1,0 +1,37 @@
+{
+  "room_id": "1736121532651355153",
+  "name_raw": "Home in Gianyar - Tropical 2BR Villa with Private Pool in Gianyar",
+  "price_raw": "Rp 11,017,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1736121532651355153",
+  "sub_district": "Kecamatan Gianyar",
+  "latitude": -8.4952,
+  "longitude": 115.3103,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berliburlah ke vila tropis 2 kamar tidur yang modern di Siangan, Gianyar yang damai. Nikmati kolam renang pribadi, taman rindang, area tamu berkonsep terbuka, dapur kecil, dan kamar tidur yang nyaman. Sangat cocok untuk pasangan, keluarga, atau teman yang mencari privasi dan relaksasi. Pusat Ubud, tempat wisata budaya, restoran, air terjun, dan pedesaan yang indah berjarak sekitar 30–40 menit dengan mobil, tergantung kondisi lalu lintas.",
+  "scraped_at": "2026-10-04T08:16:38Z"
+}

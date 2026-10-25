@@ -1,0 +1,37 @@
+{
+  "room_id": "1241608569514989496",
+  "name_raw": "Room in Kecamatan Ubud - Experience Unmatched Luxury: King Julian @LEON",
+  "price_raw": "Rp 12,500,000",
+  "rating_raw": "4.92",
+  "review_count_raw": 26,
+  "regency": "Kabupaten Badung",
+  "url": "https://www.airbnb.com/rooms/1241608569514989496",
+  "sub_district": "Kecamatan Ubud",
+  "latitude": -8.5122,
+  "longitude": 115.2502,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bayangkan daerah kantong yang tenang - cul - de - sac yang jauh dari jalan - jalan yang ramai. Jalan melengkung dengan lembut, mengarah ke tempat perlindungan Anda. King Julian adalah bungalo pribadi dengan kolam rendam. Terletak di pepohonan hijau yang rimbun, tempat ini memungkinkan tamu untuk bersantai dengan tenang, namun jantung Ubud yang ramai dengan atraksi budayanya dan pilihan bersantap hanya berjarak 3 km. Perpaduan sempurna ini memastikan bahwa saat Anda menikmati pelukan alam, kegemb",
+  "scraped_at": "2026-10-04T08:09:48Z"
+}

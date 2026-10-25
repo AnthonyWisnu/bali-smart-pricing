@@ -1,0 +1,37 @@
+{
+  "room_id": "1610527195084316892",
+  "name_raw": "Villa in Tampaksiring - Jungle Valley Pool Villa - Rooftop Ubud Views",
+  "price_raw": "Rp 29,250,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 11,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1610527195084316892",
+  "sub_district": "Tampaksiring",
+  "latitude": -8.4855,
+  "longitude": 115.3068,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bangun di atas hutan dengan pemandangan lembah sungai. Properti ini terletak di lereng bukit dengan pemandangan sungai tanpa gangguan, dikelilingi oleh pepohonan tropis yang menciptakan nuansa privasi dan ketenangan.\n\nVilla ini memiliki garis arsitektur yang bersih, batu alam, dan finishing kayu hangat, yang dirancang dengan cermat untuk mengikuti lanskap yang miring. Ruang tamu terbuka dengan pintu kaca dari lantai hingga langit-langit menghubungkan interior dengan luar ruangan, memenuhi rumah ",
+  "scraped_at": "2026-10-04T08:19:31Z"
+}

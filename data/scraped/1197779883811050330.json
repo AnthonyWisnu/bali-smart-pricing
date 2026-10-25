@@ -1,0 +1,37 @@
+{
+  "room_id": "1197779883811050330",
+  "name_raw": "Rooms in Gerokgak - Your room in a villa.",
+  "price_raw": "Rp 4,279,414",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1197779883811050330",
+  "sub_district": "Gerokgak",
+  "latitude": -8.19044,
+  "longitude": 114.78958,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "4",
+    "beds": "4",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Tempat yang damai ini menawarkan masa inap yang santai untuk seluruh keluarga. Kamar dengan teras pribadinya di sekitar kolam renang 12x5m \nmaksimal 8 orang akan berbagi taman hutan seluas 2000m2 ini",
+  "scraped_at": "2026-10-04T08:29:09Z"
+}

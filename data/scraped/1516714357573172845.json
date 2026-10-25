@@ -1,0 +1,37 @@
+{
+  "room_id": "1516714357573172845",
+  "name_raw": "Room in Kubu - Sea view double bed private bath and terrace",
+  "price_raw": "Rp 4,740,000",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1516714357573172845",
+  "sub_district": "Kubu",
+  "latitude": -8.219,
+  "longitude": 115.5322,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Penginapan Unik di Bali Utara di Tulamben\n\nVilla ini baru tetapi desainnya unik dan tradisional dari Rumah Joglo, perabotan kayu antik yang indah dan telah ada selama lebih dari 5 dekade, membuat villa ini istimewa.\n\nVilla memiliki kolam renang dan kulkas di setiap kamar. \n\nSetiap kamar Suite seluas 70 meter persegi memiliki kamar mandi pribadi dan teras serta memiliki kulkas.  Dua kamar menghadap ke laut, pemandangan matahari terbit dan terbenam dan 2 kamar lainnya menghadap ke Mont Agung.",
+  "scraped_at": "2026-10-04T08:34:15Z"
+}

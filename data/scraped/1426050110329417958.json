@@ -1,0 +1,37 @@
+{
+  "room_id": "1426050110329417958",
+  "name_raw": "Villa in Ubud - Brand new Villa w/jungle & rice field view",
+  "price_raw": "Rp 18,097,529",
+  "rating_raw": "4.91",
+  "review_count_raw": 76,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1426050110329417958",
+  "sub_district": "Ubud",
+  "latitude": -8.49823,
+  "longitude": 115.26887,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Ini adalah villa baru kami😊\nVilla menawarkan suasana yang nyaman dan damai. Bayangkan bangun dengan suara burung, dikelilingi oleh pepohonan hijau yang subur. Kolam renang, menghadap hutan dan sawah, menyediakan waktu relaksasi tanpa akhir. Di dalam, kamar tidur yang luas dengan kamar mandi menawarkan kenyamanan dan privasi. Nikmati sarapan lezat yang disiapkan dengan bahan-bahan segar, atau bersantai di tepi kolam renang sambil menikmati pemandangan yang menakjubkan. Vila ini lebih dari sekadar",
+  "scraped_at": "2026-10-04T08:21:48Z"
+}

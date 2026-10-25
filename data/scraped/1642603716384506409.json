@@ -1,0 +1,37 @@
+{
+  "room_id": "1642603716384506409",
+  "name_raw": "Villa in Nusa Penida - 3BR Ocean View · Private Infinity Pool · Helios",
+  "price_raw": "Rp 22,259,965",
+  "rating_raw": "5.0",
+  "review_count_raw": 10,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1642603716384506409",
+  "sub_district": "Nusa Penida",
+  "latitude": -8.6976,
+  "longitude": 115.58315,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Kapan terakhir kali Anda bangun tidur tanpa kegiatan apa pun selain menatap laut?\n\nVilla Helios dirancang tepat untuk itu. Minimalis, pribadi. Kolam renang infinity dengan pemandangan laut 180°. Tidak berisik, tidak ada tetangga, tidak ada agenda.\n\nSemuanya sudah ditangani sebelum Anda tiba. Transportasi perahu, sarapan, pemandu wisata ke pulau. Anda mendarat, Anda bernapas, Anda melambat.\n\nNusa Penida ada di depan pintu Anda. Namun, kemungkinan besar, Anda tidak akan ingin pergi.\nInilah arti se",
+  "scraped_at": "2026-10-04T08:36:00Z"
+}

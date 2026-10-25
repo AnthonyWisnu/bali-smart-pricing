@@ -1,0 +1,37 @@
+{
+  "room_id": "52325049",
+  "name_raw": "Villa in Seririt - Tranquil Private Pool Villa on Beach @Lovina Area",
+  "price_raw": "Rp 7,417,651",
+  "rating_raw": "4.69",
+  "review_count_raw": 32,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/52325049",
+  "sub_district": "Kecamatan Seririt",
+  "latitude": -8.19174,
+  "longitude": 114.88718,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Vila Satu Kamar Tidur dengan ruang tamu Besar dan dengan kolam renang pribadi dengan persawahan dan pemandangan laut, terletak di utara Bali, dan hanya 15 Menit ke pantai Lovina. Kami memiliki taman Hijau besar, danau kecil di depan vila kami, pantai dan pemandangan matahari terbenam dari vila. Dan restoran kami buka untuk sarapan, makan siang, dan makan malam Anda. Juga kami memiliki spa, tempat yoga, gym dan kolam renang umum.",
+  "scraped_at": "2026-10-04T08:28:36Z"
+}

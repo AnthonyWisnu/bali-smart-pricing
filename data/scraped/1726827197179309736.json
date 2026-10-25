@@ -1,0 +1,37 @@
+{
+  "room_id": "1726827197179309736",
+  "name_raw": "Rooms in Nusa Penida - 2BR Tropical Escape | Pool, Bathtub & Full Kitchen",
+  "price_raw": "Rp 9,234,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 4,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1726827197179309736",
+  "sub_district": "Nusa Penida",
+  "latitude": -8.6811,
+  "longitude": 115.5118,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berliburlah ke Santara Villa Penida, tempat peristirahatan tropis penuh gaya yang dirancang untuk kenyamanan dan bersantai. Menampilkan interior minimalis yang elegan, kolam renang, kamar mandi dengan bak mandi, dan dapur lengkap, setiap detail dibuat untuk membuat Anda merasa seperti di rumah. Terletak di lokasi yang nyaman, hanya 10 menit dari pelabuhan dan dekat dengan pantai ikonik Nusa Penida, kafe, restoran, dan pusat penyelaman, tempat ini adalah tempat liburan yang sempurna untuk keluarg",
+  "scraped_at": "2026-10-04T08:36:09Z"
+}

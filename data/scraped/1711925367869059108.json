@@ -1,0 +1,37 @@
+{
+  "room_id": "1711925367869059108",
+  "name_raw": "Apartment in Kuta - 48m² 1BR Apartment | Near Beach & Airport 10 min",
+  "price_raw": "Rp 3,157,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kota Denpasar",
+  "url": "https://www.airbnb.com/rooms/1711925367869059108",
+  "sub_district": "Kecamatan Kuta",
+  "latitude": -8.7361,
+  "longitude": 115.1676,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "\nNODE Stay menawarkan suite co-living berperabot lengkap yang dirancang untuk masa inap jangka panjang. Setiap studio pribadi dilengkapi dengan ruang kerja khusus, kamar mandi pribadi, Wi-Fi berkecepatan tinggi, dan layanan kebersihan mingguan. Terletak di Bali, hanya 10 menit dari Bandara Internasional Ngurah Rai dan dekat dengan Pantai Kuta, NODE menyediakan pengalaman tinggal dan bekerja yang mulus bagi para nomaden digital, tim jarak jauh, dan profesional independen yang mencari kenyamanan, ",
+  "scraped_at": "2026-10-04T08:08:13Z"
+}

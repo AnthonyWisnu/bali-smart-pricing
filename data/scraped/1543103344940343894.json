@@ -1,0 +1,37 @@
+{
+  "room_id": "1543103344940343894",
+  "name_raw": "Villa in Ubud - Peaceful 1BR Villa with Scenic Valley View in Ubud",
+  "price_raw": "Rp 8,398,986",
+  "rating_raw": "5.0",
+  "review_count_raw": 13,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1543103344940343894",
+  "sub_district": "Ubud",
+  "latitude": -8.47979,
+  "longitude": 115.25334,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Terletak di komplek vila yang tenang, vila satu kamar tidur yang damai ini menawarkan perpaduan sempurna antara privasi, kenyamanan, dan keindahan alam. Bangun dengan pemandangan matahari terbit yang menakjubkan, kehijauan yang rimbun, dan suara alam yang menenangkan. Desain vila yang nyaman dan suasana yang tenang menciptakan suasana yang sempurna untuk beristirahat dan meremajakan diri. Hanya 10 menit dari pusat Ubud yang ramai, vila ini merupakan tempat persembunyian yang ideal untuk pasangan",
+  "scraped_at": "2026-10-04T08:20:42Z"
+}

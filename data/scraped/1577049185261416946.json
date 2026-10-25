@@ -1,0 +1,37 @@
+{
+  "room_id": "1577049185261416946",
+  "name_raw": "Villa in Nusa Penida - Spirals Lembongan Villa",
+  "price_raw": "Rp 19,970,598",
+  "rating_raw": "4.79",
+  "review_count_raw": 28,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1577049185261416946",
+  "sub_district": "Nusa Penida",
+  "latitude": -8.6644,
+  "longitude": 115.4535,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "3",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Desain spiral ikonik mendefinisikan Spirals Lembongan Villa, memadukan arsitektur modern dengan lingkungan tropis. Cahaya alami, ruang terbuka, dan suasana yang tenang menciptakan masa inap yang benar-benar berkesan.",
+  "scraped_at": "2026-10-04T08:37:38Z"
+}

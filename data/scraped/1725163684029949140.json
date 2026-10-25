@@ -1,0 +1,37 @@
+{
+  "room_id": "1725163684029949140",
+  "name_raw": "Bungalow in Tegallalang - Ethnic Bungalow With 2 Layer Private Pool @Sebatu",
+  "price_raw": "Rp 3,199,707",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1725163684029949140",
+  "sub_district": "Kecamatan Tegallalang",
+  "latitude": -8.3682,
+  "longitude": 115.3003,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berliburlah ke bungalo etnik kami untuk masa inap yang unik dan tenang, tempat Anda bisa menikmati keindahan alam dan pesona budaya tradisional Bali. Pesan penginapan Anda hari ini dan nikmati suasana damai di Desa Banjar Jati. Terletak di Banjar Jati, Sebatu Tegallalang. Sekitar 17 Menit ke Alam Harum Bali dan 35 menit ke pusat Ubud. Harga sudah termasuk sarapan.",
+  "scraped_at": "2026-10-04T08:16:14Z"
+}

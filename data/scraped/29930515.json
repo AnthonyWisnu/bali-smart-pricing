@@ -1,0 +1,37 @@
+{
+  "room_id": "29930515",
+  "name_raw": "Bed and breakfast in Mendoyo - Sunsets at Sumbul2",
+  "price_raw": "Rp 4,279,414",
+  "rating_raw": "4.94",
+  "review_count_raw": 16,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/29930515",
+  "sub_district": "Mendoyo",
+  "latitude": -8.41022,
+  "longitude": 114.7931,
+  "capacity": {
+    "guests": "3",
+    "bedrooms": "1",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Siap disewakan 2 bungalo kayu tepi pantai di pantai Yeh Sumbul. 5 menit berkendara ke Medewi Point, pantai break di depan pintu. Pantai yang megah, persawahan, dan pemandangan pegunungan.  Kedua kamar lengkap, AC, shower air panas dan dingin, Smart TV, Wi-Fi gratis, kolam renang, kulkas, dan sarapan.",
+  "scraped_at": "2026-10-04T08:24:12Z"
+}

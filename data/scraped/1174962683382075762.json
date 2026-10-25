@@ -1,0 +1,37 @@
+{
+  "room_id": "1174962683382075762",
+  "name_raw": "Guesthouse in Kecamatan Ubud - Uma Kamei Villa 1",
+  "price_raw": "Rp 4,821,473",
+  "rating_raw": "4.96",
+  "review_count_raw": 98,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1174962683382075762",
+  "sub_district": "Kecamatan Ubud",
+  "latitude": -8.5111,
+  "longitude": 115.2522,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Tempatnyanya strategis dekat dengan pusat kota suasana malam disana sangat tenang dan indah.",
+  "scraped_at": "2026-10-04T08:21:42Z"
+}

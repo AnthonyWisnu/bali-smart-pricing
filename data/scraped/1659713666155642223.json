@@ -1,0 +1,37 @@
+{
+  "room_id": "1659713666155642223",
+  "name_raw": "Cabin in Kecamatan Ubud - Ubud Valley Private Nature Retreat",
+  "price_raw": "Rp 8,756,870",
+  "rating_raw": "4.7",
+  "review_count_raw": 23,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1659713666155642223",
+  "sub_district": "Kecamatan Ubud",
+  "latitude": -8.53756,
+  "longitude": 115.26769,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bangun dengan tubuh yang segar, pikiran yang seimbang kembali,\ndan diri yang diperbarui dengan lembut—\nseolah-olah hutan itu sendiri telah mengatur ulang sesuatu jauh di dalam diri Anda.\n\nKicauan burung, sungai yang mengalir, bunga tropis yang indah,\ndan pohon kelapa mengelilingi Anda.\nHutan membangkitkan indera Anda dalam harmoni yang tenang.\n\nSeiring malam melepaskan apa yang tidak lagi Anda butuhkan,\nAnda bangun dengan perasaan lebih ringan, tenang, dan utuh—\ntersentuh oleh nuansa romantis ya",
+  "scraped_at": "2026-10-04T08:22:27Z"
+}

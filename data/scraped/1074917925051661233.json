@@ -1,0 +1,37 @@
+{
+  "room_id": "1074917925051661233",
+  "name_raw": "Place to stay in Negara - A Unique Wooden Farm House.",
+  "price_raw": "Rp 1,683,236",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1074917925051661233",
+  "sub_district": "Kecamatan Negara",
+  "latitude": -8.31156,
+  "longitude": 114.60956,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Terhubung kembali dengan alam di tempat liburan yang tak terlupakan ini. Terletak kurang dari 10 menit dari kota Negara, rumah kecil ini cocok untuk backpacker/wisatawan solo dengan sepeda motor yang menyukai petualangan nyata. Meski tidak terlalu jauh dari kota, suasananya seperti di antah berantah. Ini adalah satu - satunya bangunan di sini yang dikelilingi alam. Tidak ada fasilitas mewah yang tersedia, hanya kamar dasar, AC, tempat tidur, kamar mandi, dan ruang untuk dapur/ penyimpanan. Desa ",
+  "scraped_at": "2026-10-04T08:27:38Z"
+}

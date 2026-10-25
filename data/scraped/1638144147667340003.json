@@ -1,0 +1,37 @@
+{
+  "room_id": "1638144147667340003",
+  "name_raw": "Cabin in Kediri - Bamboo Alpaca Lodge",
+  "price_raw": "Rp 6,082,473",
+  "rating_raw": "5.0",
+  "review_count_raw": 8,
+  "regency": "Kabupaten Badung",
+  "url": "https://www.airbnb.com/rooms/1638144147667340003",
+  "sub_district": "Kediri",
+  "latitude": -8.63139,
+  "longitude": 115.10107,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bangun pagi dengan alpaka tepat di luar jendela Anda. \n\nPondok kami berada di pusat Nuanu Creative City dan merupakan bagian dari Pacha Alpaca - suaka alpaka kecil tempat tamu bisa menikmati pengalaman unik bersama hewan-hewan yang ramah ini. \n\nLuangkan waktu bersama alpaka di ladang, ikuti pengalaman Koneksi Alpaka kami, atau sekadar bersantai dikelilingi alam dan kreativitas.",
+  "scraped_at": "2026-10-04T08:10:06Z"
+}

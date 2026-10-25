@@ -1,0 +1,37 @@
+{
+  "room_id": "1019904505709647882",
+  "name_raw": "Home in Seririt - Deep Blue Villa Managed By LBV",
+  "price_raw": "Rp 23,351,650",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1019904505709647882",
+  "sub_district": "Seririt",
+  "latitude": -8.1867,
+  "longitude": 114.9125,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Deep Blue Villa adalah perpaduan villa bergaya modern dan Bali yang mampu mengakomodasi hingga enam tamu dengan nyaman. \nVilla ini berlokasi di daerah yang tenang dan terpencil dekat dengan Lovina. Staf in - house kami akan menyambut Anda dengan hangat sepenuhnya.\nDilengkapi dengan semua fasilitas modern, silakan nikmati momen ketenangan dan harmoni.",
+  "scraped_at": "2026-10-04T08:26:15Z"
+}

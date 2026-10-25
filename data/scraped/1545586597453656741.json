@@ -1,0 +1,37 @@
+{
+  "room_id": "1545586597453656741",
+  "name_raw": "Room in Negara - West Bali Homestay with Balinese Farmer & Family",
+  "price_raw": "Rp 1,388,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 3,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1545586597453656741",
+  "sub_district": "Kecamatan Negara",
+  "latitude": -8.4257,
+  "longitude": 114.8193,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selami dunia menarik kehidupan Bali asli bersama Sudana Family. \r\nRasakan rumah tradisional Bali dan kehidupan sehari-hari sambil memiliki kamar pribadi Anda. Amati dan berpartisipasi sebagai Petani Tradisional Bali.\r\nNikmati kenyamanan memiliki pemandu lokal untuk membantu dan memberi tahu Anda selama menginap.\nRumah kami berjarak 7 menit dari Pantai Medewi dengan skuter.",
+  "scraped_at": "2026-10-04T08:24:30Z"
+}

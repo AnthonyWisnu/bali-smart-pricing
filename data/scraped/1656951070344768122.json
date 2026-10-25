@@ -1,0 +1,37 @@
+{
+  "room_id": "1656951070344768122",
+  "name_raw": "Home in Abang - New Villa in Amed with stunning Mount Agung views",
+  "price_raw": "Rp 9,283,475",
+  "rating_raw": "4.8",
+  "review_count_raw": 15,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1656951070344768122",
+  "sub_district": "Abang",
+  "latitude": -8.33097,
+  "longitude": 115.63872,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "21",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "BALIMOON \n\nVilla mewah baru dengan pemandangan Gunung Agung yang menakjubkan 🌴✨\n\nNikmati privasi total di tempat peristirahatan yang damai ini, yang menampilkan kamar mandi berdinding kaca yang menakjubkan dengan bak mandi santai yang menghadap ke alam. Kolam renang pribadi berukuran penuh dan dapur dengan ruang terbuka.\n\nDengan gaya minimalis dan kerajinan kayu Bali yang kokoh, vila ini terasa tenang dan sangat autentik.\n\n- 3 menit berkendara ke pantai \n- 9 menit berkendara ke Sunset Point Amed",
+  "scraped_at": "2026-10-04T08:30:43Z"
+}

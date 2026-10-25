@@ -1,0 +1,37 @@
+{
+  "room_id": "19529832",
+  "name_raw": "Guesthouse in Pekutatan - Moana Beach Villa Medewi Sumbul",
+  "price_raw": "Rp 2,657,801",
+  "rating_raw": "4.96",
+  "review_count_raw": 26,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/19529832",
+  "sub_district": "Pekutatan",
+  "latitude": -8.409,
+  "longitude": 114.79527,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "3",
+    "beds": "4",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berada di persawahan yang menghadap hamparan pantai selancar yang indah dengan pemandangan panorama dari segala arah. Perjalanan berjarak 2 -2,5 jam dari Kuta dengan transfer bandara tersedia dengan pemberitahuan.\n3 kamar untuk disewakan\nKamar tidur berisi\n- Smart TV\n- \nWi - Fi - Air panas\n- Tempat tidur berukuran King\n- \nAC - Sofa lounge single\n- Area duduk luar yang luas\n- Ruang umum yang berisi rak papan selancar, kulkas, dapur mandiri, dispenser air panas dan dingin\n- Sepeda motor untuk dise",
+  "scraped_at": "2026-10-04T08:28:20Z"
+}

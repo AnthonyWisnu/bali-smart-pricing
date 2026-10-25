@@ -1,0 +1,37 @@
+{
+  "room_id": "1654653761578408695",
+  "name_raw": "Cabin in Tegalalang - private jungle cabin + private poll + jungle view",
+  "price_raw": "Rp 5,690,000",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1654653761578408695",
+  "sub_district": "Tegallalang",
+  "latitude": -8.4125,
+  "longitude": 115.2837,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bersantai di tempat liburan unik dan tenteram ini. dengan pemandangan lembah yang indah dan suasana khas pedesaan di daerah tegallalang",
+  "scraped_at": "2026-10-04T08:13:20Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1696154777825030615",
+  "name_raw": "Guesthouse in Kecamatan Kuta Utara - Mesane Loft Private Pool & Soaking Tub Seminyak",
+  "price_raw": "Rp 8,000,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 12,
+  "regency": "Kota Denpasar",
+  "url": "https://www.airbnb.com/rooms/1696154777825030615",
+  "sub_district": "Kuta Utara",
+  "latitude": -8.67728,
+  "longitude": 115.1763,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rasakan perpaduan sempurna antara kemewahan, kenyamanan, dan kehidupan Tropis modern di vila minimalis elegan kami di dekat Seminyak. Dirancang dengan cermat dengan konsep mezzanine bohemian kontemporer Tropis dengan Sentuhan Mewah, setiap sudut vila menampilkan interior estetis, pencahayaan sekitar yang hangat, dan detail yang dipilih dengan indah yang menciptakan suasana yang benar-benar unik baik di siang maupun malam hari.\nMasa inap impian Anda menanti🤗",
+  "scraped_at": "2026-10-04T08:09:05Z"
+}

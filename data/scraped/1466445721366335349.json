@@ -1,0 +1,37 @@
+{
+  "room_id": "1466445721366335349",
+  "name_raw": "Villa in Ubud - Villa Sumika Luxury between jungle & rice fields 5 suites",
+  "price_raw": "Rp 57,864,900",
+  "rating_raw": "4.95",
+  "review_count_raw": 43,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1466445721366335349",
+  "sub_district": "Ubud",
+  "latitude": -8.476,
+  "longitude": 115.2518,
+  "capacity": {
+    "guests": "10",
+    "bedrooms": "5",
+    "beds": "5",
+    "baths": "5"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa baru: Villa Sumika adalah tempat liburan mewah dan tenang, yang dirancang untuk menawarkan ketenangan dan kedamaian.\nTerletak di Kedewatan, beberapa menit dari pusat Ubud yang semarak, vila ini menawarkan 5 suite yang terbuka ke taman tropis, yang dibatasi oleh kolam renang spektakuler sepanjang 22 meter.\n\nSepanjang masa inap Anda, tim rumah yang penuh perhatian dan manajer yang berdedikasi siap memastikan kesejahteraan Anda dan membuat setiap momen lebih menyenangkan.",
+  "scraped_at": "2026-10-04T08:14:44Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1213250190569773588",
+  "name_raw": "Cabin in Sukasada - Wanagiri Cabin Janane",
+  "price_raw": "Rp 16,346,155",
+  "rating_raw": "5.0",
+  "review_count_raw": 79,
+  "regency": "Kabupaten Buleleng",
+  "url": "https://www.airbnb.com/rooms/1213250190569773588",
+  "sub_district": "Kecamatan Sukasada",
+  "latitude": -8.2036,
+  "longitude": 115.1216,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berliburlah ke \"Wanagiri Cabin Cenane\" kabin yang nyaman dan tenang yang terletak di hutan yang rimbun. Tempat peristirahatan menawan ini menawarkan pemandangan menakjubkan, pepohonan hijau yang melimpah, dan hanya berjalan kaki singkat dari air terjun yang menakjubkan. Sangat cocok untuk pecinta alam yang mencari ketenangan, bersantai di dek yang luas, menikmati udara hutan yang segar, dan bersantai di kabin yang tertata apik ini. Dengan fasilitas modern dan pesona pedesaan, Ini adalah liburan ",
+  "scraped_at": "2026-10-04T08:16:57Z"
+}

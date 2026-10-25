@@ -1,0 +1,37 @@
+{
+  "room_id": "1200389185738523081",
+  "name_raw": "Place to stay in Sukasada - Bamboo house on hilltop with excellent views",
+  "price_raw": "Rp 9,387,362",
+  "rating_raw": "4.98",
+  "review_count_raw": 119,
+  "regency": "Kabupaten Buleleng",
+  "url": "https://www.airbnb.com/rooms/1200389185738523081",
+  "sub_district": "Kecamatan Sukasada",
+  "latitude": -8.1814,
+  "longitude": 115.1042,
+  "capacity": {
+    "guests": "5",
+    "bedrooms": "2",
+    "beds": "3",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Kami ingin berbagi rumah liburan keluarga bambu kami yang unik dan tenang yang terletak di properti besar - D'Oemah Bamboe. Jika Anda menyukai pengalaman alam yang luar biasa, ini adalah tempat yang tepat untuk Anda.\nDari rumah dan properti ada pemandangan menakjubkan dari lanskap alam yang paling indah, laut dan pegunungan. Di malam hari dan di malam hari, dari teras dan sambil berbaring di tempat tidur, Anda dapat menikmati pemandangan ratusan lampu dari daerah Singaraja dan dari perahu di lau",
+  "scraped_at": "2026-10-04T08:17:26Z"
+}

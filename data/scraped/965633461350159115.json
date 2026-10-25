@@ -1,0 +1,37 @@
+{
+  "room_id": "965633461350159115",
+  "name_raw": "Villa in Seririt - Villa Belvedere - Ultimate Luxury Beachfront Villa",
+  "price_raw": "Rp 43,831,290",
+  "rating_raw": "4.93",
+  "review_count_raw": 14,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/965633461350159115",
+  "sub_district": "Kecamatan Seririt",
+  "latitude": -8.18279,
+  "longitude": 114.92412,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa tepi pantai ini, yang terletak di desa Lokapaksa yang bergengsi di Bali Utara, adalah vila mewah modern dengan nuansa yang tenang. Berjalanlah di sepanjang jalur batu, dipenuhi tanaman tropis dan taman yang terawat, untuk mencapai pintu masuk. \n\nSekelompok teman tuan rumah, reuni keluarga, atau berbulan madu dipersilakan untuk berlibur di vila tepi pantai ini. Dengan fasilitas yang sempurna untuk bersantai, tempat makan, area tamu,s, dan teras.",
+  "scraped_at": "2026-10-04T08:27:20Z"
+}

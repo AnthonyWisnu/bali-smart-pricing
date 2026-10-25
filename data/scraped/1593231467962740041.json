@@ -1,0 +1,37 @@
+{
+  "room_id": "1593231467962740041",
+  "name_raw": "Home in Kintamani - Lazura Serenite",
+  "price_raw": "Rp 4,062,590",
+  "rating_raw": "4.95",
+  "review_count_raw": 19,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1593231467962740041",
+  "sub_district": "Kintamani",
+  "latitude": -8.2432,
+  "longitude": 115.4047,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Vila bergaya putih \nJaccuzi pribadi dengan sumber air panas alami",
+  "scraped_at": "2026-10-04T08:13:29Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1712305623463100795",
+  "name_raw": "Home in Tegalalang - 1 BDR Villa with Jungle View in North Ubud",
+  "price_raw": "Rp 5,494,414",
+  "rating_raw": "5.0",
+  "review_count_raw": 3,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1712305623463100795",
+  "sub_district": "Tegallalang",
+  "latitude": -8.4104,
+  "longitude": 115.2986,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Beristirahat dari kota dan bersantai di Casa Fortuna Villa. Properti ini dikelilingi oleh sawah yang luas dan menawarkan pemandangan yang menakjubkan untuk masa inap yang damai. Terletak di Sebatu Tegallalang, hanya 30 menit berkendara ke daerah Ubud.",
+  "scraped_at": "2026-10-04T08:10:57Z"
+}

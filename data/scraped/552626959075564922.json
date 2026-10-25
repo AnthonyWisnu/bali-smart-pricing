@@ -1,0 +1,37 @@
+{
+  "room_id": "552626959075564922",
+  "name_raw": "Villa in Nusa Penida - Elegant & Absolute BeachFront Villa Nusa Ceningan",
+  "price_raw": "Rp 41,303,981",
+  "rating_raw": "4.95",
+  "review_count_raw": 150,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/552626959075564922",
+  "sub_district": "Nusapenida",
+  "latitude": -8.69952,
+  "longitude": 115.44684,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bangun pagi langsung di laguna berwarna biru kehijauan Nusa Ceningan.\nVilla Lago(o)n adalah vila tepi perairan pribadi 3 kamar tidur yang dirancang untuk hingga 6 tamu, dengan pemandangan laguna tanpa penghalang, kolam renang infinity, dan akses langsung ke perairan.\nDibuat sebagai rumah pulau yang santai, bukan vila resor tradisional, Lago(o)n memadukan arsitektur kontemporer, ruang tamu terbuka, dan salah satu lokasi tepi laut paling unik di Ceningan.\nHabiskan hari di antara kolam renang infin",
+  "scraped_at": "2026-10-04T08:37:02Z"
+}

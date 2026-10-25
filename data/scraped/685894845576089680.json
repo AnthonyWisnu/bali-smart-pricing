@@ -1,0 +1,37 @@
+{
+  "room_id": "685894845576089680",
+  "name_raw": "Villa in Selemadeg - Luxury 5BR sea view Villa & Private Tennis Court",
+  "price_raw": "Rp 127,155,275",
+  "rating_raw": "5.0",
+  "review_count_raw": 4,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/685894845576089680",
+  "sub_district": "Kecamatan Selemadeg Barat",
+  "latitude": -8.45962,
+  "longitude": 114.9185,
+  "capacity": {
+    "guests": "11",
+    "bedrooms": "5",
+    "beds": "8",
+    "baths": "5"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di Villa Palem | Tempat Perlindungan Pribadi Anda Seluas 2 Hektare.\n\nDefinisikan kembali pengalaman Anda akan ruang di kabupaten Tabanan, Bali, yang tenang. Villa Palem adalah properti yang luas, tempat keanggunan arsitektur berpadu dengan keindahan pantai yang tenang. Jelajahi lahan tropis seluas dua hektar, berlatih di Yoga Shala terbuka, atau nikmati pertandingan saat matahari terbenam di lapangan tenis pribadi. Tempat peristirahatan yang santai, tempat kemewahan, pemandangan l",
+  "scraped_at": "2026-10-04T08:28:14Z"
+}

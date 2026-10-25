@@ -1,0 +1,37 @@
+{
+  "room_id": "1543263262176386249",
+  "name_raw": "Villa in Ubud - Solaris Villa – Brand New 3BR in the Heart of Ubud",
+  "price_raw": "Rp 28,000,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 20,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1543263262176386249",
+  "sub_district": "Ubud",
+  "latitude": -8.4763,
+  "longitude": 115.2504,
+  "capacity": {
+    "guests": "5",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di Villa Solaris, hunian dua lantai bergaya yang terletak di kompleks Damara Village yang damai dan aman di Ubud. Dirancang untuk kenyamanan dan keanggunan, vila ini menawarkan perpaduan sempurna antara pesona tropis dan fungsionalitas modern, ideal untuk masa inap panjang, liburan keluarga, atau sewa investasi.",
+  "scraped_at": "2026-10-04T08:20:21Z"
+}

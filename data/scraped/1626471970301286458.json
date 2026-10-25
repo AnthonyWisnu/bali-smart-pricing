@@ -1,0 +1,37 @@
+{
+  "room_id": "1626471970301286458",
+  "name_raw": "Home in Kintamani - Stuning Room Private Pool With Mountain View",
+  "price_raw": "Rp 9,008,640",
+  "rating_raw": "4.78",
+  "review_count_raw": 18,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1626471970301286458",
+  "sub_district": "Kintamani",
+  "latitude": -8.27935,
+  "longitude": 115.36289,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di kamar tamu kami yang dirancang dengan indah, tempat kenyamanan dan keanggunan berpadu dengan mulus. Tempat peristirahatan yang luas ini memiliki tempat tidur berukuran king yang mewah menghadap pemandangan Gunung Abang yang menakjubkan, menciptakan suasana yang tenang dan tak terlupakan. Kamar ini dirancang dengan cermat dengan dekorasi modern, pencahayaan sekitar yang lembut, dan detail yang indah yang meningkatkan pesona hangat dan menarik.",
+  "scraped_at": "2026-10-04T08:15:58Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "921987706389201212",
+  "name_raw": "Treehouse in Ubud - Wahem Luanan- Eco bamboo home , River View",
+  "price_raw": "Rp 26,912,384",
+  "rating_raw": "4.9",
+  "review_count_raw": 161,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/921987706389201212",
+  "sub_district": "Ubud",
+  "latitude": -8.5743,
+  "longitude": 115.25463,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Wahem Luanan adalah  salah satu Rumah Bambu  layak huni  Dengan pemandangan sawah dan sungai , dan dengan design unik, yang yang hampir semua perabotan disini terbuat dari bambu termasuk hal-hal kecil sekalipun. kami sebelumnya sudah mempertimbangan design dan kontruksi , dan wahem Luanan sudah Layak huni. Wahem Luanan sangat jauh dari bisingnya perkotaan, kami bukanlah hotel mewah , pengalaman ini benar-benar berpetualang anda akan menikmati suasana pedesaan yang sangat asri.",
+  "scraped_at": "2026-10-04T08:18:39Z"
+}

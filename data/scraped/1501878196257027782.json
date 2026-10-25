@@ -1,0 +1,37 @@
+{
+  "room_id": "1501878196257027782",
+  "name_raw": "Villa in Ubud - Tavisha : 5BR Family Villa w/Infinity Pool in Ubud",
+  "price_raw": "Rp 46,141,444",
+  "rating_raw": "4.93",
+  "review_count_raw": 144,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1501878196257027782",
+  "sub_district": "Ubud",
+  "latitude": -8.5106,
+  "longitude": 115.2432,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "5",
+    "beds": "7",
+    "baths": "5"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di Villa Tavisha! Vila kolam renang pribadi 5 kamar tidur yang indah di pinggiran Ubud menanti Anda, dikelilingi oleh alam namun hanya berjarak beberapa menit berkendara dari pusat Ubud yang ramai.",
+  "scraped_at": "2026-10-04T08:14:56Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "19023920",
+  "name_raw": "Villa in Pemuteran - Bali Il Mare – The Ultimate Beachfront Villa",
+  "price_raw": "Rp 26,834,055",
+  "rating_raw": "4.66",
+  "review_count_raw": 66,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/19023920",
+  "sub_district": "Pemuteran",
+  "latitude": -8.16077,
+  "longitude": 114.73086,
+  "capacity": {
+    "guests": "8",
+    "bedrooms": "4",
+    "beds": "4",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Kami terletak di Bali, destinasi wisata terindah di dunia, lebih tepatnya di Permuteran, terkenal dengan suasana santai, pantai - pantainya yang indah, dan kedekatannya dengan alam.\n\nDengan pemandangan pantai, kolam renang, lapangan tenis, paviliun yoga, terrasse, 6 staf termasuk koki, 4 kamar tidur dengan kamar mandi dalam.",
+  "scraped_at": "2026-10-04T08:24:53Z"
+}

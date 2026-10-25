@@ -1,0 +1,37 @@
+{
+  "room_id": "1135910391493862073",
+  "name_raw": "Room in Pekutatan - Batu Kayu Eco Surf Lodges - Villa Salak downstairs",
+  "price_raw": "Rp 5,145,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 42,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1135910391493862073",
+  "sub_district": "Kecamatan Pekutatan",
+  "latitude": -8.41579,
+  "longitude": 114.80401,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa Salak adalah dua tempat yang terbagi antara lantai atas dan lantai dasar bungalo. Dibuat dengan penuh cinta oleh pembangun lokal kami, tempat ini penuh dengan pesona dan kenyamanan, sangat cocok untuk liburan yang santai. Ini hanya di lantai bawah. \n\nTerletak hanya beberapa langkah dari pantai, \"rumah baru\" Anda akan memberi Anda akses langsung ke tempat berselancar utama Medewi.\n\nKamar ini bisa diatur dengan 2 tempat tidur twin atau 1 tempat tidur double. Sarapan, makan malam bbq makanan ",
+  "scraped_at": "2026-10-04T08:25:25Z"
+}

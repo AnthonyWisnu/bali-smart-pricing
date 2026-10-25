@@ -1,0 +1,37 @@
+{
+  "room_id": "1744696668161757315",
+  "name_raw": "Home in Kintamani - New 3 BR Pool Villa with Danau Batur Lake Access",
+  "price_raw": "Rp 7,371,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1744696668161757315",
+  "sub_district": "Kintamani",
+  "latitude": -8.28,
+  "longitude": 115.383,
+  "capacity": {
+    "guests": "10",
+    "bedrooms": "3",
+    "beds": "8",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Lebih dari sekadar tempat menginap, di sinilah momen tak terlupakan tercipta.\n\nSaksikan matahari terbit di atas Danau Batur, nikmati kopi dengan pemandangan pegunungan, tertawa bersama di tepi kolam renang pribadi Anda dengan seluncuran air, masak makanan di dapur yang luas, dan bersantai di interior tropis yang dirancang dengan indah. Setiap sudut diciptakan untuk membantu Anda bersantai, terhubung kembali, dan menikmati waktu berkualitas bersama orang-orang yang Anda sayangi.",
+  "scraped_at": "2026-10-04T08:10:30Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1607998613224296148",
+  "name_raw": "Villa in Tegalalang - 1BR Pool Villa with Ricefield & Mount Agung View",
+  "price_raw": "Rp 6,555,000",
+  "rating_raw": "4.97",
+  "review_count_raw": 37,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1607998613224296148",
+  "sub_district": "Tegallalang",
+  "latitude": -8.40702,
+  "longitude": 115.29761,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bebas ke vila kolam renang pribadi di Sebatu, Tegallalang, dikelilingi oleh sawah rimbun dengan pemandangan Gunung Agung yang menakjubkan. Nikmati privasi total, udara pegunungan yang segar, dan suasana alam yang tenang jauh dari keramaian. Sempurna untuk pasangan dan wisatawan yang mencari relaksasi, vila ini menawarkan tempat peristirahatan yang tenang namun tetap dekat dengan atraksi budaya dan kuliner Ubud.",
+  "scraped_at": "2026-10-04T08:14:25Z"
+}

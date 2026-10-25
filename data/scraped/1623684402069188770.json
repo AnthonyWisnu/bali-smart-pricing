@@ -1,0 +1,37 @@
+{
+  "room_id": "1623684402069188770",
+  "name_raw": "Room in Kuta Utara - Stylish Spacious Mezzanine at Kerobokan",
+  "price_raw": "Rp 4,878,532",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kota Denpasar",
+  "url": "https://www.airbnb.com/rooms/1623684402069188770",
+  "sub_district": "Kuta Utara",
+  "latitude": -8.6768,
+  "longitude": 115.1766,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nikmati pengalaman bergaya di tempat yang berlokasi di pusat kota ini.  Kamar bergaya Mezzanine yang luas terletak di Kerobokan yang tenang, lingkungan yang tenang hanya beberapa saat dari tempat-tempat paling semarak di Bali. The Rover memiliki 12 mezzanine yang dirancang dengan cermat, dengan nada hangat, tekstur alami, dan detail halus yang selaras dengan ritme Bali yang santai. Kenyamanan dan kehangatan di The Rover akan mengingatkan Anda akan perasaan seperti di rumah.",
+  "scraped_at": "2026-10-04T08:09:01Z"
+}

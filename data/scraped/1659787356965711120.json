@@ -1,0 +1,37 @@
+{
+  "room_id": "1659787356965711120",
+  "name_raw": "Room in Manggis - Serangan Mimba Inn | Junior Suite Room A",
+  "price_raw": "Rp 2,890,819",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1659787356965711120",
+  "sub_district": "Manggis",
+  "latitude": -8.5369,
+  "longitude": 115.5048,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Anda akan menyukai dekorasi bergaya di tempat menginap menawan ini.\nbangunan baru dengan kamar yang luas dan kamar mandi yang bersih, tempat ini sangat tenang dan dekat dengan pasir putih, dengan pemandangan pegunungan, kolam renang, dan taman, juga dengan balkon pribadi dan sarapan yang luar biasa. Tempat saya dekat dengan pantai pasir putih, hanya 7 menit berjalan kaki.",
+  "scraped_at": "2026-10-04T08:34:27Z"
+}

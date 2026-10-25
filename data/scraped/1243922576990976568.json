@@ -1,0 +1,37 @@
+{
+  "room_id": "1243922576990976568",
+  "name_raw": "Boat in Gilimanuk - Seahab Ocean Therapy \nEscape!",
+  "price_raw": "Rp 37,088,253",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1243922576990976568",
+  "sub_district": "Gerokgak",
+  "latitude": -8.1364,
+  "longitude": 114.5635,
+  "capacity": {
+    "guests": "5",
+    "bedrooms": "1",
+    "beds": "4",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Glamping di laut! Tidur di atas kapal di bawah bintang-bintang di tempat berlabuh yang indah dengan pemandangan gunung berapi di tepi cagar alam.  Terhubung kembali dengan alam di tempat liburan tak terlupakan ini.  Snorkeling di Pulau Menjangan dan Tibuan.\nTempat berlabuh yang tenang di perairan biru jernih yang tenang. Berlayar ke lokasi terpencil.",
+  "scraped_at": "2026-10-04T08:29:48Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1236589079877308125",
+  "name_raw": "Treehouse in Sidemen - Treehouse Bamboo Sidemen with Breakfast",
+  "price_raw": "Rp 17,500,000",
+  "rating_raw": "4.75",
+  "review_count_raw": 122,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1236589079877308125",
+  "sub_district": "Kecamatan Sidemen",
+  "latitude": -8.49218,
+  "longitude": 115.41504,
+  "capacity": {
+    "guests": "3",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Kami tidak cocok untuk semua orang. Kami tidak membuat 'sesuatu untuk semua orang. Kami membuat segalanya untuk seseorang yang memahami keberlanjutan yang sesungguhnya.\n\nTerhubung kembali dengan alam di tempat liburan yang tak terlupakan ini.  Ini adalah tempat yang bagus untuk bersantai dan menikmati nuansa lokal yang jauh dari kawasan wisata biasa. Sangat cocok untuk liburan yang santai!",
+  "scraped_at": "2026-10-04T08:11:24Z"
+}

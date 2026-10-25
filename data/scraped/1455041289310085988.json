@@ -1,0 +1,37 @@
+{
+  "room_id": "1455041289310085988",
+  "name_raw": "Home in Mendoyo - Rerene 2BR Villa Hideaway in Jembrana, West Bali",
+  "price_raw": "Rp 6,677,650",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1455041289310085988",
+  "sub_district": "Mendoyo",
+  "latitude": -8.38233,
+  "longitude": 114.68687,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Temukan seluruh tempat Vila 2 Kamar Tidur, tempat liburan yang damai di Bali Barat dengan vila desainer yang baru dibangun ini. Dikelilingi oleh hutan tropis dan hanya beberapa menit dari pantai yang tenang, tempat peristirahatan pribadi ini menawarkan kenyamanan, gaya, dan ketenangan—sangat cocok untuk pasangan, keluarga kecil, atau pekerja jarak jauh untuk kembali dan bersantai di tempat yang tenang dan bergaya ini\n\nDapur: Berfasilitas lengkap (kompor, kulkas, peralatan memasak)\nFasilitas:\nWi-",
+  "scraped_at": "2026-10-04T08:28:08Z"
+}

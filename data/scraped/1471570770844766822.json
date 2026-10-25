@@ -1,0 +1,37 @@
+{
+  "room_id": "1471570770844766822",
+  "name_raw": "Home in Gerokgak - Cosy stay in Hita Joglo Villa",
+  "price_raw": "Rp 14,892,360",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1471570770844766822",
+  "sub_district": "Gerokgak",
+  "latitude": -8.1636,
+  "longitude": 114.6493,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "2",
+    "beds": "67047",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di Hita Joglo Villa, tempat peristirahatan yang tenang yang terinspirasi oleh filosofi keseimbangan hidup Tri Hita Karana. Terletak di desa Pemuteran, vila kami dekat dengan pantai pasir putih yang romantis dan dengan pemandangan pegunungan yang megah. Arsitektur Joglo tradisional Jawa, dihiasi dengan ukiran rumit, menciptakan suasana tenang yang sempurna bagi keluarga dan teman-teman untuk bersantai. Dikelilingi oleh simfoni alam dari nyanyian burung, Hita Joglo Villa adalah temp",
+  "scraped_at": "2026-10-04T08:25:02Z"
+}

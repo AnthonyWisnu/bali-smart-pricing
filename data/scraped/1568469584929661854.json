@@ -1,0 +1,37 @@
+{
+  "room_id": "1568469584929661854",
+  "name_raw": "Villa in Tampaksiring - 9BR Naiba & Akari: Padel & Infinity Pool Ubud",
+  "price_raw": "Rp 68,736,347",
+  "rating_raw": "5.0",
+  "review_count_raw": 4,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1568469584929661854",
+  "sub_district": "Tampaksiring",
+  "latitude": -8.4982,
+  "longitude": 115.2902,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "9",
+    "beds": "13",
+    "baths": "9"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di Villa Naiba dan Villa Akari+Paddle, sebuah tempat suci 9 kamar tidur di Ubud di mana dua villa yang dirancang dengan indah bersatu untuk menawarkan pengalaman unik di jantung budaya Bali. Baik Anda merencanakan liburan bersama keluarga atau teman, ruang gabungan ini mengundang Anda untuk menikmati pesona kehidupan Bali yang dikelilingi oleh kehijauan tropis dan kenyamanan modern.",
+  "scraped_at": "2026-10-04T08:14:50Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "705409234100288579",
+  "name_raw": "Tiny home in Pekutatan - Beautiful private house with stunning view",
+  "price_raw": "Rp 2,860,575",
+  "rating_raw": "4.97",
+  "review_count_raw": 33,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/705409234100288579",
+  "sub_district": "Pekutatan",
+  "latitude": -8.40763,
+  "longitude": 114.81057,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "1",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bersantailah dan bersantailah di tempat yang tenang dan bergaya ini.\nTerletak di alam hijau dan dikelilingi sawah, daun pisang, dan pohon palem, kami ingin Anda bersantai dan menikmati kedekatannya dengan tempat berselancar Medewi yang populer sambil melihat sekilas kehidupan tradisional Bali.",
+  "scraped_at": "2026-10-04T08:23:26Z"
+}

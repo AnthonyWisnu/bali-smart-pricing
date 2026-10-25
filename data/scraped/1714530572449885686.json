@@ -1,0 +1,37 @@
+{
+  "room_id": "1714530572449885686",
+  "name_raw": "Villa in Mengwi - Modern 2-Bedroom Villa • 500m to the Ocean",
+  "price_raw": "Rp 7,500,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Badung",
+  "url": "https://www.airbnb.com/rooms/1714530572449885686",
+  "sub_district": "Kecamatan Mengwi",
+  "latitude": -8.6472,
+  "longitude": 115.1204,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Dirancang dengan gaya kontemporer dan kenyamanan sebagai prioritas, Pantai Lima menawarkan tempat peristirahatan yang tenang hanya berjalan kaki sebentar dari Pantai Lima. Bersantai di kolam renang pribadi Anda, bersantai di teras atap yang berperabot lengkap di lantai tiga, dan temukan kafe, restoran, dan gaya hidup pantai Pererenan. Pilihan sempurna untuk wisatawan yang mencari desain modern, privasi, dan pengalaman Bali yang berkesan.",
+  "scraped_at": "2026-10-04T08:09:50Z"
+}

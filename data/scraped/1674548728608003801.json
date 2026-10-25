@@ -1,0 +1,37 @@
+{
+  "room_id": "1674548728608003801",
+  "name_raw": "Home in Sidemen - The Beauty Riptide",
+  "price_raw": "Rp 14,492,948",
+  "rating_raw": "4.96",
+  "review_count_raw": 28,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1674548728608003801",
+  "sub_district": "Sidemen",
+  "latitude": -8.4692,
+  "longitude": 115.4178,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "1",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Vila dua lantai modern yang dikelilingi alam tropis, dengan kolam renang pribadi, pemandangan hijau yang rindang, dan suasana yang tenang. Sempurna untuk bulan madu, liburan penyembuhan, atau liburan pribadi di Bali. Dan Vila ini dilengkapi dengan smart home alexa.🌻",
+  "scraped_at": "2026-10-04T08:30:54Z"
+}

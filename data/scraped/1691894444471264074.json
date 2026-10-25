@@ -1,0 +1,37 @@
+{
+  "room_id": "1691894444471264074",
+  "name_raw": "Villa in Payangan - 1Br Deluxe Villa with Amazing View & Private Pool",
+  "price_raw": "Rp 3,309,413",
+  "rating_raw": "5.0",
+  "review_count_raw": 3,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1691894444471264074",
+  "sub_district": "Payangan",
+  "latitude": -8.4517,
+  "longitude": 115.2572,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Terletak di pusat Ubud, vila cantik ini menawarkan liburan yang damai dikelilingi pemandangan alam yang menakjubkan dan lanskap tropis yang rindang. Bangun dengan udara pagi yang segar, nikmati pemandangan menakjubkan dari ruang pribadi Anda, dan bersantai dalam suasana tenang yang dirancang untuk kenyamanan dan relaksasi. \n\nSempurna untuk liburan romantis, tempat peristirahatan yang tenang, atau masa inap yang berkesan di Bali, vila ini mengajak Anda merasakan pesona dan ketenangan Ubud yang se",
+  "scraped_at": "2026-10-04T08:19:58Z"
+}

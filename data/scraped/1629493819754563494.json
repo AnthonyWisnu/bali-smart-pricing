@@ -1,0 +1,37 @@
+{
+  "room_id": "1629493819754563494",
+  "name_raw": "Home in Selat - Bambu Terrace Viewpoint",
+  "price_raw": "Rp 11,457,417",
+  "rating_raw": "5.0",
+  "review_count_raw": 20,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1629493819754563494",
+  "sub_district": "Selat",
+  "latitude": -8.4388,
+  "longitude": 115.4645,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di surga unik kami, tempat Anda bisa menyaksikan matahari terbit sambil menghadap ke sawah dan menikmati kopi Anda.\n\nSurga wisata ramah lingkungan ini dibangun hampir seluruhnya dari bambu.\n\nSaya menyediakan loteng yang ditinggikan untuk bersantai dan menikmati burung penyanyi.",
+  "scraped_at": "2026-10-04T08:30:47Z"
+}

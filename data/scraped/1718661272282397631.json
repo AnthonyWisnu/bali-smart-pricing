@@ -1,0 +1,37 @@
+{
+  "room_id": "1718661272282397631",
+  "name_raw": "Villa in Cemagi - Savani : 3BR Chic Villa in Cemagi | Pool & Rooftop",
+  "price_raw": "Rp 13,417,025",
+  "rating_raw": "5.0",
+  "review_count_raw": 4,
+  "regency": "Kabupaten Badung",
+  "url": "https://www.airbnb.com/rooms/1718661272282397631",
+  "sub_district": "Cemagi",
+  "latitude": -8.6379,
+  "longitude": 115.1084,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berliburlah ke Villa Savani, tempat peristirahatan kontemporer 3 kamar tidur di Cemagi, tempat kenyamanan modern berpadu dengan gaya hidup tropis untuk liburan di Bali yang tak terlupakan.\n\nYang akan Anda sukai:\n- Lokasi prima hanya beberapa menit dari Pantai Cemagi & Seseh\n- Kolam renang pribadi, balkon, dan lounge rooftop yang stylish\n- Vila berfasilitas lengkap dengan staf khusus\n\nBaik Anda mencari liburan yang menenangkan atau ingin menjelajahi pesisir barat Bali yang indah, Villa Savani men",
+  "scraped_at": "2026-10-04T08:09:29Z"
+}

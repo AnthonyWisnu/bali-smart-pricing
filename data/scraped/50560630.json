@@ -1,0 +1,37 @@
+{
+  "room_id": "50560630",
+  "name_raw": "Treehouse in Selat - Magic Hills Bali - Queen House | Magical Eco Lodge",
+  "price_raw": "Rp 35,518,442",
+  "rating_raw": "4.86",
+  "review_count_raw": 125,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/50560630",
+  "sub_district": "Selat",
+  "latitude": -8.42476,
+  "longitude": 115.45791,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di sebuah permata kecil tersembunyi, Magic Hills Bali adalah salah satu seni arsitektur unik desain bambu dari kerajinan lokal, Terletak dengan panorama menakjubkan 360 pemandangan Bali Timur oleh makhluk ajaib dari alam adalah keistimewaan bagi tamu kami yang merasa bersyukur bahkan hal terkecil sekalipun, tempat yang tidak tersentuh ,360 pemandangan panorama di atas teras sawah, Gunung Agung, Matahari Terbit dan Matahari Terbenam. Pengalaman Bali Autentik untuk Menikmati dongeng",
+  "scraped_at": "2026-10-04T08:34:19Z"
+}

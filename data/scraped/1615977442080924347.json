@@ -1,0 +1,37 @@
+{
+  "room_id": "1615977442080924347",
+  "name_raw": "Home in Kintamani - New Room with Mountain view",
+  "price_raw": "Rp 3,300,000",
+  "rating_raw": "4.91",
+  "review_count_raw": 34,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1615977442080924347",
+  "sub_district": "Kintamani",
+  "latitude": -8.26735,
+  "longitude": 115.35318,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di kamar tamu kami yang dirancang dengan elegan, tempat kenyamanan bertemu gaya. Kamar yang luas ini memiliki tempat tidur berukuran king yang nyaman dengan pemandangan Gunung Batur, pencahayaan lembut, dan dekorasi modern yang menciptakan suasana yang hangat dan mengundang. Jendela besar memungkinkan cahaya alami berlimpah untuk mencerahkan ruangan, dan tirai gelap memastikan tidur yang nyenyak.",
+  "scraped_at": "2026-10-04T08:10:49Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1559366657666938314",
+  "name_raw": "Room in Mendoyo - Jembrana Eco-Jungle Bungalow",
+  "price_raw": "Rp 4,206,919",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1559366657666938314",
+  "sub_district": "Mendoyo",
+  "latitude": -8.37631,
+  "longitude": 114.70361,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di Eco-Jungle Bungalow Retreat\nTersembunyi di pusat alam tropis Bali, properti kami menawarkan liburan yang damai jauh dari keramaian. Dengan 5 bungalo kayu yang indah, kolam renang utama yang dikelilingi oleh tanaman hijau, dan restoran terbuka dengan pemandangan sawah, ini adalah tempat yang sempurna untuk bersantai, mengisi ulang energi, dan merasakan Bali yang sesungguhnya.",
+  "scraped_at": "2026-10-04T08:26:20Z"
+}

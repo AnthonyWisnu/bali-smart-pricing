@@ -1,0 +1,37 @@
+{
+  "room_id": "1664827789999233714",
+  "name_raw": "Room in Nusa Lembongan - Sea Sunbeach Villa - 1 King Suite with ocean views",
+  "price_raw": "Rp 14,162,471",
+  "rating_raw": "4.92",
+  "review_count_raw": 12,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1664827789999233714",
+  "sub_district": "Nusa lembongan",
+  "latitude": -8.6658,
+  "longitude": 115.4648,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Sea SunBeach Villa – Suite Tepi Pantai dengan Kolam Renang & Pemandangan Laut\n\nVila tepi pantai yang elegan yang terdiri dari tiga suite king mandiri yang menghadap ke laut.\nPemesanan fleksibel: pesan satu suite atau seluruh properti untuk privasi penuh.\nLokasi yang tenang, hanya beberapa menit dari Desa Jungutbatu. \n\nProperti ini berada tepat di tepi pantai dan berlokasi tepat di sebelah Agung Beach Club. Bila perlu, Anda bisa dengan mudah menemukan lokasi tepatnya dengan mencari Agung Beach Cl",
+  "scraped_at": "2026-10-04T08:38:10Z"
+}

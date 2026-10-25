@@ -1,0 +1,37 @@
+{
+  "room_id": "13300455",
+  "name_raw": "Villa in Ubud - Authentic Bamboo House with Infinity Pool in Ubud",
+  "price_raw": "Rp 6,006,000",
+  "rating_raw": "4.86",
+  "review_count_raw": 311,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/13300455",
+  "sub_district": "Ubud",
+  "latitude": -8.50932,
+  "longitude": 115.24895,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Kami terletak di tengah Penestanan, tak jauh dari jalan utama, sebuah kompleks kecil dengan empat rumah yang dioperasikan oleh keluarga Bali. Anda akan tinggal di rumah bambu yang menghadap ke sawah. Nantikan pengalaman autentik dan kolam renang tanpa batas yang menghadap ke sawah. Kami dengan senang hati akan memberi tahu Anda lebih banyak tentang kehidupan dan budaya di Bali. Banyak restoran, toko, dan tempat yoga hebat yang sangat dekat.",
+  "scraped_at": "2026-10-04T08:22:56Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1587440125904672600",
+  "name_raw": "Home in Nusa Penida - Unique villa overlooking sea & volcano (Solis)",
+  "price_raw": "Rp 17,590,000",
+  "rating_raw": "4.86",
+  "review_count_raw": 29,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1587440125904672600",
+  "sub_district": "Nusa Penida",
+  "latitude": -8.67792,
+  "longitude": 115.53376,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa 2 kamar tidur yang bergaya dan nyaman menghadap ke laut dan gunung Agung. Jarak berjalan kaki ke laut, toko, dan restoran.\nTeras dek yang indah di luar dengan kolam renang infinity dan sofa santai besar.\nDapur lengkap (semua yang mungkin Anda butuhkan), area makan untuk 6 hingga 8 orang, dan sofa besar yang nyaman. \nAC di setiap kamar, TV, dan kamar mandi dalam di kamar tidur. \nWi - Fi cepat dan andal. \nVilla kembar di sebelahnya dapat dihubungkan untuk rombongan yang lebih besar. \nPulau p",
+  "scraped_at": "2026-10-04T08:36:32Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1517874292888766452",
+  "name_raw": "Villa in Ubud - Romantic 1BR Villa with Private Pool in Ubud",
+  "price_raw": "Rp 5,135,297",
+  "rating_raw": "5.0",
+  "review_count_raw": 13,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1517874292888766452",
+  "sub_district": "Ubud",
+  "latitude": -8.5217,
+  "longitude": 115.2452,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nikmati vila kolam renang pribadi 1KT kami, yang dirancang untuk pasangan yang mencari liburan yang nyaman dan romantis. Terletak di pusat sawah Ubud yang tenang, vila ini menawarkan ruang akrab dengan kamar tidur yang menawan, area tamu yang luas, dan kolam renang pribadi Anda sendiri. Bangun dengan suara alam, nikmati pagi yang damai di tepi kolam renang, dan saksikan matahari terbenam yang ajaib bersama orang yang Anda cintai. Sangat cocok untuk bulan madu atau tempat peristirahatan yang tena",
+  "scraped_at": "2026-10-04T08:19:57Z"
+}

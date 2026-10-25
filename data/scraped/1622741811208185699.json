@@ -1,0 +1,37 @@
+{
+  "room_id": "1622741811208185699",
+  "name_raw": "Villa in Tampaksiring - Luxury Jungle Villa Valley Infinity Pool & Jacuzzi",
+  "price_raw": "Rp 42,409,396",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1622741811208185699",
+  "sub_district": "Tampaksiring",
+  "latitude": -8.4009,
+  "longitude": 115.3212,
+  "capacity": {
+    "guests": "8",
+    "bedrooms": "4",
+    "beds": "6",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bayangkan terbangun tanpa mendengar suara lalu lintas, kebisingan dari konstruksi, alat-alat listrik dengan debu dan polusi. Di sini benar-benar ada kehidupan yang Anda inginkan, tersembunyi jauh di dataran tinggi Bali, vila mewah dengan pemandangan lembah di tengah-tengah tempat wisata. Sangat mewah, dengan bisikan dari alam. \nini bukan pelarian, tetapi penyembuhan\n\n· 4 Kamar Tidur \n· Kolam renang infinity pribadi sepanjang 20 m \n· Jacuzzi kolam rendam garam Himalaya kesehatan\n. Tempat Yoga ter",
+  "scraped_at": "2026-10-04T08:12:04Z"
+}

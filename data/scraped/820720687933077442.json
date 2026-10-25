@@ -1,0 +1,37 @@
+{
+  "room_id": "820720687933077442",
+  "name_raw": "Treehouse in Semarapura - 3 Bdr - The Dream Cliffside Bamboo Villa By Avana",
+  "price_raw": "Rp 71,557,480",
+  "rating_raw": "4.97",
+  "review_count_raw": 263,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/820720687933077442",
+  "sub_district": "Klungkung",
+  "latitude": -8.4756,
+  "longitude": 115.4083,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Avana Dream Villa adalah mahakarya bambu 3 kamar tidur yang terletak di tepi tebing yang dramatis di dekat Sidemen. Dirancang untuk memadukan kemewahan dengan alam, tempat ini menawarkan pemandangan panorama yang menakjubkan dari setiap kamar.\n\nNikmati kolam renang infiniti pribadi Anda yang menghadap ke lembah-lembah yang subur, dengan Gunung Agung di sebelah kiri, sawah terasering di depan, dan Samudra Hindia di sebelah kanan.\n\nUntuk malam yang nyaman, kami juga menyediakan proyektor dan layar",
+  "scraped_at": "2026-10-04T08:15:43Z"
+}

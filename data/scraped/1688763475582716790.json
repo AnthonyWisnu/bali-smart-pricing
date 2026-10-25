@@ -1,0 +1,37 @@
+{
+  "room_id": "1688763475582716790",
+  "name_raw": "Home in Nusa Penida - 2BR Ocean View · Private Infinity Pool · Kerylos",
+  "price_raw": "Rp 18,097,530",
+  "rating_raw": "5.0",
+  "review_count_raw": 5,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1688763475582716790",
+  "sub_district": "Nusa Penida",
+  "latitude": -8.69736,
+  "longitude": 115.58152,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Kapan terakhir kali Anda bangun tanpa tujuan?\n\nVilla Kerylos adalah tempat liburan pribadi dengan 2 kamar tidur di atas lautan. Kolam renang infinity, pemandangan laut 180°, pagi yang tenang, dan hari-hari yang santai.\n\nSemuanya sudah diatur sebelum Anda tiba. Transportasi perahu, sarapan, rekomendasi pulau. Anda tiba, bersantai, dan menikmati ritme Nusa Penida.\n\nSebagian besar tamu berencana menjelajahi pulau ini. Sebagian besar akhirnya tinggal di dekat kolam renang lebih lama dari yang dihara",
+  "scraped_at": "2026-10-04T08:35:59Z"
+}

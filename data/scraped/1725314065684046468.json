@@ -1,0 +1,37 @@
+{
+  "room_id": "1725314065684046468",
+  "name_raw": "Villa in Kecamatan Ubud - Private 5BR Ubud Garden Villa & Pool",
+  "price_raw": "Rp 16,368,218",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1725314065684046468",
+  "sub_district": "Kecamatan Ubud",
+  "latitude": -8.4859,
+  "longitude": 115.2516,
+  "capacity": {
+    "guests": "15",
+    "bedrooms": "5",
+    "beds": "5",
+    "baths": "5"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berliburlah ke komplek taman Ubud 5 kamar tidur yang penuh jiwa, Pondok Alami, dengan kolam renang, tempat api unggun, BBQ, dan sudut-sudut tenang untuk hari-hari santai di Bali. Terletak di Kedewatan yang tenang, hanya beberapa langkah dari kafe lokal dan beberapa menit dari Neka Art Museum, Campuhan Ridge Walk, Bintang Supermarket, dan pusat Ubud. Lima kamar tidur en-suite berukuran king, meja kerja, dan tiga zona tamu pribadi menjadikannya ideal untuk keluarga, teman, liburan, dan masa inap y",
+  "scraped_at": "2026-10-04T08:21:20Z"
+}

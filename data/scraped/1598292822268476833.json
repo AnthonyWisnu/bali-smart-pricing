@@ -1,0 +1,37 @@
+{
+  "room_id": "1598292822268476833",
+  "name_raw": "Home in Nusa Lembongan - Stunning Villa Nusa Lembongan - 30m from Beach",
+  "price_raw": "Rp 17,574,126",
+  "rating_raw": "4.92",
+  "review_count_raw": 24,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1598292822268476833",
+  "sub_district": "Nusa lembongan",
+  "latitude": -8.6637,
+  "longitude": 115.455,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di Matahari House — vila 2 kamar tidur yang cerah dan tenang, hanya 30 m berjalan kaki dari Pantai Jungut Batu.\n\nDirancang untuk kehidupan pulau yang santai, vila ini memiliki kolam renang pribadi, interior yang diterangi sinar matahari, seprai berkualitas, dan kenyamanan modern untuk masa inap santai di tepi pantai. Sangat cocok untuk bersantai, melepas penat, dan menikmati yang terbaik dari Nusa Lembongan.",
+  "scraped_at": "2026-10-04T08:37:42Z"
+}

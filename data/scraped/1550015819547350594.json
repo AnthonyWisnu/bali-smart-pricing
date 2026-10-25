@@ -1,0 +1,37 @@
+{
+  "room_id": "1550015819547350594",
+  "name_raw": "Room in Karangasem - Cabin with Sea View",
+  "price_raw": "Rp 2,567,648",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1550015819547350594",
+  "sub_district": "Kecamatan Karangasem",
+  "latitude": -8.51147,
+  "longitude": 115.57725,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berjarak 2 menit berjalan kaki dari Pantai Candidasa, Biu Sea Villa Candidasa menawarkan taman, teras, dan akomodasi ber-AC dengan balkon dan Wi-Fi gratis.\n\nSemua unit memiliki dapur kecil lengkap untuk memasak sendiri. Kamar mandi pribadi dilengkapi bidet dan perlengkapan mandi gratis.",
+  "scraped_at": "2026-10-04T08:34:41Z"
+}

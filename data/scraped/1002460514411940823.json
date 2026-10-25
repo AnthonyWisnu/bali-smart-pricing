@@ -1,0 +1,37 @@
+{
+  "room_id": "1002460514411940823",
+  "name_raw": "Hotel in Ceningan Island - Butterfly Villas - Oceanview Family Room for 4",
+  "price_raw": "Rp 9,800,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 7,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1002460514411940823",
+  "sub_district": "Kecamatan Nusa Ceningan",
+  "latitude": -8.7011,
+  "longitude": 115.4558,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Tempat bergaya dan unik ini mengatur panggung untuk perjalanan yang berkesan. Tepat di tebing di tengah alam yang menghadap ke laut di teluk kristal nusa penida yang terkenal, vila ini memiliki 2 lantai dan 2 tempat tidur ukuran king besar. Satu kamar mandi besar yang bagus dan teras yang bagus di mana Anda bisa bersantai atau menikmati sarapan yang enak atau makan malam yang menyenangkan. di lantai atas Anda bisa membuka tirai dan melihat bintang - bintang dan tertidur",
+  "scraped_at": "2026-10-04T08:37:43Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1318516746171339242",
+  "name_raw": "Home in Pemuteran - Kupu Kupu Sumberkima Hill Villa",
+  "price_raw": "Rp 21,437,358",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1318516746171339242",
+  "sub_district": "Pemuteran ",
+  "latitude": -8.16913,
+  "longitude": 114.65001,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "1",
+    "beds": "3",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa Kupu Kupu menawarkan liburan yang tenang untuk pasangan atau keluarga kecil. Vila baru ini menggabungkan kenyamanan dengan pemandangan menakjubkan, menampilkan kamar tidur luas yang mencakup tempat tidur berukuran king dan tempat tidur bertingkat, sehingga ideal untuk hingga 4 orang.",
+  "scraped_at": "2026-10-04T08:28:26Z"
+}

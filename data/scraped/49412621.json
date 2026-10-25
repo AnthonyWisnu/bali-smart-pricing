@@ -1,0 +1,37 @@
+{
+  "room_id": "49412621",
+  "name_raw": "Bungalow in Manggis - Lakehouse with sauna & ice bath-The Hidden Escapes",
+  "price_raw": "Rp 9,385,000",
+  "rating_raw": "4.91",
+  "review_count_raw": 86,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/49412621",
+  "sub_district": "Manggis",
+  "latitude": -8.5422,
+  "longitude": 115.4855,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "The Hidden Escape Manggis adalah tempat persembunyian pribadi yang indah untuk pasangan romantis, seniman, nomaden digital, dan siapa saja yang ingin melepaskan diri dari gangguan kehidupan sehari-hari.\n\nTerletak di samping danau yang indah dan damai dan dikelilingi oleh hutan tropis, pura tradisional, pegunungan, dan kehidupan desa Bali yang autentik, properti ini menawarkan sisi Bali yang lebih tenang dan spiritual.\n \nSpiritual, mewah, dan pribadi secara unik. \n\nBali yang sesungguhnya tidak hi",
+  "scraped_at": "2026-10-04T08:37:54Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1736312998987616791",
+  "name_raw": "Home in Manggis - Villa Ananta Dause - 1BR Private Villa",
+  "price_raw": "Rp 2,550,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1736312998987616791",
+  "sub_district": "Kecamatan Manggis",
+  "latitude": -8.4848,
+  "longitude": 115.5657,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berliburlah ke vila pribadi 1 kamar tidur yang damai yang dikelilingi oleh pepohonan hijau yang rimbun di Bali Timur. Ideal untuk pasangan atau wisatawan solo, tempat ini memiliki kamar tidur yang nyaman, kamar mandi pribadi dengan air panas, dapur lengkap, area makan, dan teras santai. Nikmati WiFi gratis, Smart TV, parkir luas, dan suasana ramah hewan peliharaan. Terletak hanya beberapa menit dari Candidasa, tempat ini adalah tempat yang sempurna untuk menjelajahi Bali Timur sambil menikmati m",
+  "scraped_at": "2026-10-04T08:34:01Z"
+}

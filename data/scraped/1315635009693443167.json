@@ -1,0 +1,37 @@
+{
+  "room_id": "1315635009693443167",
+  "name_raw": "Home in Tampaksiring - Magical Bamboo Tis",
+  "price_raw": "Rp 8,500,000",
+  "rating_raw": "4.98",
+  "review_count_raw": 123,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1315635009693443167",
+  "sub_district": "Kecamatan Tampaksiring",
+  "latitude": -8.4609,
+  "longitude": 115.2986,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bambu Ajaib yang indah terletak di sawah pedesaan yang indah. Pemandangan 180 derajat yang menakjubkan dari balkon Anda sendiri, ada area chillout di lantai bawah dengan sofa besar dan dapur pribadi, kamar mandi tanpa atap di atas pancuran sehingga Anda bisa menatap langit dan pohon kelapa yang menggantung. \nKamar tidur lantai atas memiliki tempat tidur berukuran king yang nyaman dengan kelambu dan 1 tempat tidur ekstra \ndan tentu saja balkon dengan pemandangan menakjubkan ke arah pedesaan sekit",
+  "scraped_at": "2026-10-04T08:12:40Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "763431443840241144",
+  "name_raw": "Villa in Kintamani - batur garden bali",
+  "price_raw": "Rp 7,618,475",
+  "rating_raw": "4.59",
+  "review_count_raw": 85,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/763431443840241144",
+  "sub_district": "Kecamatan Kintamani",
+  "latitude": -8.2184,
+  "longitude": 115.392,
+  "capacity": {
+    "guests": "5",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Eratkan hubungan dengan orang-orang terkasih di tempat ramah keluarga ini.dengan pemandnagan gunung berapi dan sejuknya cuaca di daerah tropis yang di kelilingi perkebunan organic",
+  "scraped_at": "2026-10-04T08:35:04Z"
+}

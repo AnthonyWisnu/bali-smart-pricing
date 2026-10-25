@@ -1,0 +1,37 @@
+{
+  "room_id": "1704760581827650493",
+  "name_raw": "Tiny home in Rendang - Villa with Sunrice View in Karangasem, Room no. 2",
+  "price_raw": "Rp 3,940,643",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1704760581827650493",
+  "sub_district": "Rendang",
+  "latitude": -8.4154,
+  "longitude": 115.4248,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rasakan sensasi bangun pagi dengan panorama matahari terbit di balik Gunung Agung, ditemani udara segar dan suasana pedesaan Bali yang autentik. Sebuah tempat sempurna untuk beristirahat, menyegarkan pikiran, dan menciptakan momen tak terlupakan di Pulau Dewata.",
+  "scraped_at": "2026-10-04T08:15:21Z"
+}

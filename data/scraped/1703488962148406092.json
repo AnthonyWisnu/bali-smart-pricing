@@ -1,0 +1,37 @@
+{
+  "room_id": "1703488962148406092",
+  "name_raw": "Home in Ubud - Romantic Cabin With Infinity Ricefield View, Ubud",
+  "price_raw": "Rp 3,748,023",
+  "rating_raw": "5.0",
+  "review_count_raw": 6,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1703488962148406092",
+  "sub_district": "Ubud",
+  "latitude": -8.5596,
+  "longitude": 115.266,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Pondok joglo Jawa yang diukir dengan tangan yang terletak di samping sawah yang masih digunakan di pinggir Ubud, dengan bak mandi batu yang berdiri sendiri, tempat tidur berukuran king, dapur lengkap, dan teras pribadi tempat sarapan terasa lebih enak dengan pemandangan itu. Tenang, akrab, dan benar-benar tidak seperti apa pun yang bisa ditawarkan oleh hotel. Kirimkan pesan kepada kami di Airbnb untuk merencanakan masa inap Anda.",
+  "scraped_at": "2026-10-04T08:23:00Z"
+}

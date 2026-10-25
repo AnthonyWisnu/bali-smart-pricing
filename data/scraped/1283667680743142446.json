@@ -1,0 +1,37 @@
+{
+  "room_id": "1283667680743142446",
+  "name_raw": "Villa in Abang - Abing Villas - 100%  Seaview  & Private Pool",
+  "price_raw": "Rp 16,000,000",
+  "rating_raw": "4.88",
+  "review_count_raw": 32,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1283667680743142446",
+  "sub_district": "Kecamatan Abang",
+  "latitude": -8.3591,
+  "longitude": 115.698,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "3",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Liburan ke Surga: Villa Tepi Laut dengan Kolam Renang Infiniti - Ocean 4.\n\nSelamat datang di tempat peristirahatan tropis terbaik Anda! Vila dua kamar tidur mewah ini menawarkan perpaduan sempurna antara pesona alam dan kenyamanan modern. Terletak tepat di tepi laut, vila ini menawarkan pemandangan panorama yang menakjubkan dari laut biru dan terumbu karang di bawahnya. Bersantai di tepi kolam renang infinity pribadi Anda dan bersantai di kursi berjemur bergaya di bawah pergola kayu jati buatan ",
+  "scraped_at": "2026-10-04T08:31:28Z"
+}

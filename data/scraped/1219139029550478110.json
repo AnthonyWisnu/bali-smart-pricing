@@ -1,0 +1,37 @@
+{
+  "room_id": "1219139029550478110",
+  "name_raw": "Rooms in Melaya - Comfort of Family room at Bingsari, Blimbingsari",
+  "price_raw": "Rp 4,656,002",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1219139029550478110",
+  "sub_district": "Kecamatan Melaya",
+  "latitude": -8.2387,
+  "longitude": 114.51885,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "5",
+    "beds": "2",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Kamar keluarga yang menarik ini adalah pilihan yang sangat baik untuk keluarga atau grup yang bepergian bersama. Kamar ini memiliki sofa nyaman dengan tempat tidur tarik, memungkinkan hingga empat tamu tidur dengan nyaman di seprai premium dan bantal empuk. Dekorasinya hangat dan ramah, dengan pencahayaan lembut yang menciptakan suasana nyaman. Kamar dilengkapi dengan TV layar datar, minibar, kopi dan teh, ini adalah tempat yang sempurna untuk bersantai setelah seharian berjalan-jalan atau menje",
+  "scraped_at": "2026-10-04T08:23:32Z"
+}

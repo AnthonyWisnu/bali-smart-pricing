@@ -1,0 +1,37 @@
+{
+  "room_id": "25928140",
+  "name_raw": "Villa in Brongbong - Oceanfront, chefcook,private pool, tropical garden",
+  "price_raw": "Rp 36,657,018",
+  "rating_raw": "4.89",
+  "review_count_raw": 35,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/25928140",
+  "sub_district": "Brongbong",
+  "latitude": -8.19773,
+  "longitude": 114.86869,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "2",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa Yudhistira, vila liburan yang indah, terletak di lokasi yang tenang langsung di pantai Bali Utara tepat di sebelah barat kota Seririt.\nVilla ini menghirup suasana damai dan relaksasi yang menggabungkan semangat Bali yang unik dengan tingkat kenyamanan modern tertinggi. Kolam renang pribadinya yang besar, taman tropis yang rindang, dan pemandangan yang luar biasa, menjadikan akomodasi ini liburan yang sempurna untuk liburan mewah yang santai bagi hingga 6 tamu.",
+  "scraped_at": "2026-10-04T08:27:31Z"
+}

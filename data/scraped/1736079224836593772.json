@@ -1,0 +1,37 @@
+{
+  "room_id": "1736079224836593772",
+  "name_raw": "Room in Nusa Penida - Ocean View Bamboo Stay in Nusa Penida 02",
+  "price_raw": "Rp 2,275,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1736079224836593772",
+  "sub_district": "Kecamatan Nusa Penida",
+  "latitude": -8.6745,
+  "longitude": 115.5666,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berliburlah ke vila bambu unik kami yang menghadap ke laut Nusa Penida yang indah. Dibangun seluruhnya dari bambu alami, tempat peristirahatan yang damai ini memadukan keahlian tradisional dengan kenyamanan modern. Bangunlah untuk menikmati pemandangan laut yang menakjubkan, angin pulau yang segar, dan matahari terbit yang tak terlupakan. Meskipun vila ini menawarkan pemandangan laut yang menakjubkan, garis pantai di bawahnya berbatu dan bukan pantai untuk berenang. Demi keselamatan Anda, kami s",
+  "scraped_at": "2026-10-04T08:36:18Z"
+}

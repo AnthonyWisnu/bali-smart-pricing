@@ -1,0 +1,37 @@
+{
+  "room_id": "1659920515215433084",
+  "name_raw": "Villa in Nusa Penida - Peaceful 1BR Villa Penida | Open-Sky Shower",
+  "price_raw": "Rp 6,130,000",
+  "rating_raw": "4.9",
+  "review_count_raw": 10,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1659920515215433084",
+  "sub_district": "Nusa Penida",
+  "latitude": -8.6815,
+  "longitude": 115.5166,
+  "capacity": {
+    "guests": "3",
+    "bedrooms": "1",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Terletak di perbukitan Ped, vila ini damai, menenangkan, dan dikelilingi oleh pepohonan yang rindang - namun hanya 5 menit naik sepeda motor (atau 10–15 menit berjalan kaki) dari pantai.\n\nVila ini dirancang sebagai tempat persembunyian pribadi Anda di pulau. Terletak di dalam taman yang rindang, tempat ini menawarkan privasi yang memadai, udara segar, dan suara alam yang menenangkan.\n\nBangun dengan kicauan burung dan nikmati kopi pagi Anda di dapur terbuka sebelum berangkat menjelajahi pulau ini",
+  "scraped_at": "2026-10-04T08:36:17Z"
+}

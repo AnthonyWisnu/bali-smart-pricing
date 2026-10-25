@@ -1,0 +1,37 @@
+{
+  "room_id": "1569195777872647895",
+  "name_raw": "Villa in Sukawati - 2BR Charming Private Villa close to Ubud Center",
+  "price_raw": "Rp 9,000,000",
+  "rating_raw": "4.88",
+  "review_count_raw": 59,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1569195777872647895",
+  "sub_district": "Sukawati",
+  "latitude": -8.5599,
+  "longitude": 115.285,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Ubud Asri Villa adalah vila pribadi yang tenang, sangat cocok untuk tamu yang mencari ketenangan, penyembuhan, atau masa inap kerja jarak jauh yang produktif di Ubud. Dikelilingi oleh kehijauan dan berlokasi di lingkungan yang tenang, vila ini memiliki kolam renang pribadi untuk privasi lengkap. Jauh dari keramaian namun dekat dengan Ubud Center, tempat ini ideal untuk pasangan, wisatawan solo, atau keluarga kecil yang ingin bersantai, mengisi ulang energi, dan menikmati Ubud dengan kecepatan ya",
+  "scraped_at": "2026-10-04T08:18:33Z"
+}

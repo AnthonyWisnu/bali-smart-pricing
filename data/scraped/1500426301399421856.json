@@ -1,0 +1,37 @@
+{
+  "room_id": "1500426301399421856",
+  "name_raw": "Rooms in Tampaksiring - Treehouse Escape UBUD | Glass Pool, Valley Views",
+  "price_raw": "Rp 17,633,132",
+  "rating_raw": "4.89",
+  "review_count_raw": 134,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1500426301399421856",
+  "sub_district": "Tampaksiring",
+  "latitude": -8.47036,
+  "longitude": 115.28851,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Jadilah Tarzan dan nikmati liburan di rumah pohon dua kamar tidur dan dua kamar mandi kami, yang mengambang di atas lembah rimba Ubud yang subur. Datang melalui jembatan pribadi yang ditinggikan ke tempat perlindungan yang dipenuhi cahaya dengan langit-langit yang menjulang tinggi, jendela langit, jalan kaki kaca, ruang belajar khusus, dan ruang tamu dalam dan luar ruangan yang mudah.\n\nBersantailah di kolam renang pribadi tepi kaca Anda, nikmati pemandangan lembah panorama yang luas yang membent",
+  "scraped_at": "2026-10-04T08:11:14Z"
+}

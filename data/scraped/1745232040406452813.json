@@ -1,0 +1,37 @@
+{
+  "room_id": "1745232040406452813",
+  "name_raw": "Home in Ubud - Luxury house",
+  "price_raw": "Rp 25,100,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1745232040406452813",
+  "sub_district": "Ubud",
+  "latitude": -8.5591,
+  "longitude": 115.267,
+  "capacity": {
+    "guests": "8",
+    "bedrooms": "4",
+    "beds": "4",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berlibur ke tempat peristirahatan yang tenang di vila 4 kamar tidur kami yang luas dengan kolam renang pribadi, yang terletak di daerah yang tenang dan damai di Ubud.\nNikmati masa inap yang damai di vila 4 kamar tidur kami yang cocok untuk keluarga dan teman-teman. Villa ini memiliki dapur lengkap dan kamar yang luas dan nyaman.\n\nDua kamar tidur juga dilengkapi jacuzzi pribadi, cocok untuk bersantai dan melepas penat dengan air hangat dan menenangkan yang ideal untuk meredakan otot yang lelah da",
+  "scraped_at": "2026-10-04T08:21:15Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1730105123347832631",
+  "name_raw": "Room in Kubu - Arta Bali Glamping",
+  "price_raw": "Rp 2,937,001",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1730105123347832631",
+  "sub_district": "Kubu",
+  "latitude": -8.2503,
+  "longitude": 115.573,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "properti ini terletak di daerah karangasem, berjarak sekitar 30 menit dari amed, kami menawarkan suasana menginap di pedesaan dan pinggir pantai",
+  "scraped_at": "2026-10-04T08:31:32Z"
+}

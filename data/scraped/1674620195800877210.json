@@ -1,0 +1,37 @@
+{
+  "room_id": "1674620195800877210",
+  "name_raw": "Villa in Tampaksiring - Soul Dragonfly Villa | NEW 5BR w/ Large Pool",
+  "price_raw": "Rp 34,163,332",
+  "rating_raw": "5.0",
+  "review_count_raw": 8,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1674620195800877210",
+  "sub_district": "Tampaksiring",
+  "latitude": -8.50088,
+  "longitude": 115.29041,
+  "capacity": {
+    "guests": "11",
+    "bedrooms": "5",
+    "beds": "5",
+    "baths": "5"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di Soul Dragonfly Villa, tempat peristirahatan mewah 5 kamar tidur yang terletak di desa Pejeng yang tenang, hanya 12 menit berkendara ke timur Ubud tengah. Terletak di lahan subur seluas 1.000 m², vila yang dirancang dengan cermat ini mewujudkan perpaduan sempurna antara ruang tamu terbuka, kemewahan yang lembut, dan keindahan alam.",
+  "scraped_at": "2026-10-04T08:14:38Z"
+}

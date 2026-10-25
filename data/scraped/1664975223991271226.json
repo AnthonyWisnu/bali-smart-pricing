@@ -1,0 +1,37 @@
+{
+  "room_id": "1664975223991271226",
+  "name_raw": "Villa in Amed - Salty Breeze 2BR Beachfront Escape w/Japandi Touch",
+  "price_raw": "Rp 29,062,500",
+  "rating_raw": "4.83",
+  "review_count_raw": 18,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1664975223991271226",
+  "sub_district": "Amed",
+  "latitude": -8.3351,
+  "longitude": 115.6564,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bangun dengan suara ombak hanya beberapa langkah dari tempat tidur Anda, dengan pemandangan laut tanpa gangguan yang terbentang di hadapan Anda. Terletak tepat di Pantai Amed, vila dua kamar tidur ini menawarkan suasana tenang dan santai, di mana laut, langit, dan cahaya menentukan hari Anda. Tata letak terbuka membuat Anda tetap terhubung dengan pemandangan, sementara pagi hari dengan matahari terbit yang lembut dan matahari terbenam Amed yang terkenal indah dapat dinikmati langsung dari vila—s",
+  "scraped_at": "2026-10-04T08:30:14Z"
+}

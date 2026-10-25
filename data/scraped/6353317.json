@@ -1,0 +1,37 @@
+{
+  "room_id": "6353317",
+  "name_raw": "Villa in Ubud - BeBaliStay, Spacious Eco Farm House",
+  "price_raw": "Rp 12,003,768",
+  "rating_raw": "4.95",
+  "review_count_raw": 367,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/6353317",
+  "sub_district": "Ubud ",
+  "latitude": -8.46156,
+  "longitude": 115.23986,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "3",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Eco house build dan dilengkapi dengan kayu daur ulang. Terletak di bagian Ubud yang terpencil, di sepanjang sungai Ayung dengan pemandangan teras sawah yang indah. Dengan menginap di rumah kami, Anda akan menjadi bagian dari keluarga kami, lakukan apa yang kami lakukan sebagai orang Bali.",
+  "scraped_at": "2026-10-04T08:22:18Z"
+}

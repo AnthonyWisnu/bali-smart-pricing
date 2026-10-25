@@ -1,0 +1,37 @@
+{
+  "room_id": "784291198551757159",
+  "name_raw": "Cabin in Sukasada - Wanagiri Cabin",
+  "price_raw": "Rp 13,573,145",
+  "rating_raw": "4.99",
+  "review_count_raw": 190,
+  "regency": "Kabupaten Buleleng",
+  "url": "https://www.airbnb.com/rooms/784291198551757159",
+  "sub_district": "Sukasada",
+  "latitude": -8.2036,
+  "longitude": 115.1214,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "",
+  "scraped_at": "2026-10-04T08:17:41Z"
+}

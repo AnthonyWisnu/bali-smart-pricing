@@ -1,0 +1,37 @@
+{
+  "room_id": "1618703832354558433",
+  "name_raw": "Room in Abang - Double/Triple Private Room with Pool—Hideaway Amed",
+  "price_raw": "Rp 3,250,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 15,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1618703832354558433",
+  "sub_district": "Abang",
+  "latitude": -8.3368,
+  "longitude": 115.6513,
+  "capacity": {
+    "guests": "3",
+    "bedrooms": "1",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Hideaway Amed adalah akomodasi butik milik warga lokal yang terletak di bagian Amed yang tenang, hanya 5 menit berjalan kaki dari jalan utama. Kamar ini bisa menampung hingga tiga tamu dengan pilihan tempat tidur fleksibel termasuk tempat tidur double dan day bed, tiga tempat tidur single, atau tempat tidur double dan single. Kamar ini memiliki AC, WiFi, dan kamar mandi pribadi dengan air panas, serta dapur kecil dengan kulkas, kompor dua burner, air minum gratis, teh dan kopi, dan akses ke kola",
+  "scraped_at": "2026-10-04T08:32:55Z"
+}

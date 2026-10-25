@@ -1,0 +1,37 @@
+{
+  "room_id": "35558456",
+  "name_raw": "Hut in Tampaksiring - Hidden Bamboo Bali: paradise nearby ubud",
+  "price_raw": "Rp 9,857,042",
+  "rating_raw": "4.91",
+  "review_count_raw": 335,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/35558456",
+  "sub_district": "Tampaksiring",
+  "latitude": -8.39477,
+  "longitude": 115.33232,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "1",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Hidden Bamboo Bali adalah Rumah Bambu Ramah Lingkungan yang unik di Bali, terletak di desa Tampakasing yang berjarak 30 menit dari pusat kota Ubud dan 1 jam 40 menit dari Bandara . rumah pribadi di tengah alam yang cocok untuk pencinta alam, yoga, musik, dan wisatawan yang ingin melarikan diri dari kota - kota yang ramai. Bangunlah dengan suara alam,  saksikan matahari terbit dan nikmati pemandangan luar biasa yang menghadap perbukitan hutan yang tenang dari tempat tidur Anda. Pondok bambu kami ",
+  "scraped_at": "2026-10-04T08:20:21Z"
+}

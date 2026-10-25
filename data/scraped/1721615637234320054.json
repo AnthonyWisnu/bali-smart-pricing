@@ -1,0 +1,37 @@
+{
+  "room_id": "1721615637234320054",
+  "name_raw": "Home in Abang - Ody,s villa 3",
+  "price_raw": "Rp 8,756,870",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1721615637234320054",
+  "sub_district": "Abang",
+  "latitude": -8.3344,
+  "longitude": 115.6339,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "96036",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bersantailah bersama seluruh keluarga di tempat menginap yang tenang ini.",
+  "scraped_at": "2026-10-04T08:30:08Z"
+}

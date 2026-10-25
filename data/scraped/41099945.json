@@ -1,0 +1,37 @@
+{
+  "room_id": "41099945",
+  "name_raw": "Villa in Kecamatan Ubud - Ubud Private Pool Villa | Cozy & Peaceful Stay",
+  "price_raw": "Rp 5,181,000",
+  "rating_raw": "4.95",
+  "review_count_raw": 180,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/41099945",
+  "sub_district": "Kecamatan Ubud",
+  "latitude": -8.5187,
+  "longitude": 115.2501,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "🌺 Selamat datang di Narendra Private Villa Ubud — liburan tropis pribadi Anda di dekat Ubud.\n\nTerletak di Katik Lantang, hanya 10 menit dari Ubud Center, vila nyaman ini dikelilingi oleh pepohonan hijau yang rimbun dan sawah yang damai — sangat jauh dari lalu lintas namun dekat dengan tempat favorit seperti Casa Curandera, Tropical Ants, Illa's Kitchen, Warung Mandi, dan Rona Warung. Nikmati privasi penuh dengan kolam renang pribadi, ruang tamu terbuka, dan pemandangan tropis yang menenangkan.",
+  "scraped_at": "2026-10-04T08:20:13Z"
+}

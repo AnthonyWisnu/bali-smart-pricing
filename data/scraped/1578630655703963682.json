@@ -1,0 +1,37 @@
+{
+  "room_id": "1578630655703963682",
+  "name_raw": "Room in Lovina Beach - Rumah sudioka bed and breakfast @ Lovina Bali",
+  "price_raw": "Rp 1,512,345",
+  "rating_raw": "4.96",
+  "review_count_raw": 28,
+  "regency": "Kabupaten Buleleng",
+  "url": "https://www.airbnb.com/rooms/1578630655703963682",
+  "sub_district": "Lovina",
+  "latitude": -8.1657,
+  "longitude": 115.0215,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rumah sudioka bed and breakfast @ Lovina Bali adalah tempat yang menenangkan hanya 2 menit ke pantai dan pasar super Pepito dengan berjalan kaki, kami memiliki kamar berukuran besar dengan tempat tidur double 180 cm x 200 cm dan juga kamar mandi berukuran besar. Area parkir yang luas untuk mobil dan sepeda motor.",
+  "scraped_at": "2026-10-04T08:17:08Z"
+}

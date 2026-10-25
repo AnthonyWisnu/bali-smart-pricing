@@ -1,0 +1,37 @@
+{
+  "room_id": "1026517943708753495",
+  "name_raw": "Room in Payangan - 15% OFF | Hidden Riverside Hammock Sanctuary",
+  "price_raw": "Rp 5,117,428",
+  "rating_raw": "4.83",
+  "review_count_raw": 136,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1026517943708753495",
+  "sub_district": "Kecamatan Payangan",
+  "latitude": -8.4151,
+  "longitude": 115.2449,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Temukan tempat persemayaman tersembunyi milik Anda sendiri di Sacred Beji. Dikelilingi oleh kehijauan tropis yang rindang, tempat peristirahatan hutan yang akrab ini menawarkan privasi, ketenangan, dan keterhubungan yang mendalam dengan alam. Bangun dengan suara burung yang merdu, bersantai di hammock, dan biarkan irama hutan yang menenangkan menghilangkan kesibukan kehidupan sehari-hari. \n\nTempat peristirahatan yang damai di mana Anda bisa melambat, bernapas dalam-dalam, dan sekadar menikmati k",
+  "scraped_at": "2026-10-04T08:11:38Z"
+}

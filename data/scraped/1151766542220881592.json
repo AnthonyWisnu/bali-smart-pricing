@@ -1,0 +1,37 @@
+{
+  "room_id": "1151766542220881592",
+  "name_raw": "Villa in Seririt - Tropical Paradise Villa -  Exclusive Beach Access!",
+  "price_raw": "Rp 28,428,313",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1151766542220881592",
+  "sub_district": "Seririt",
+  "latitude": -8.19672,
+  "longitude": 114.8735,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "4",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di Villa Burung, di mana surga tropis bertemu dengan pantulan tradisional Bali. Selamat datang di Villa Burung, di mana surga tropis bertemu dengan pantulan tradisional Bali.\n\nRangkul daya pikat oasis kami yang tenang Vila tepi pantai ini berlokasi di desa Tegalengga Bali Utara. Villa ini memiliki area kolam renang pribadi lanskap yang indah dengan sun lounge yang dipadukan dengan taman yang rimbun dan luas.",
+  "scraped_at": "2026-10-04T08:26:48Z"
+}

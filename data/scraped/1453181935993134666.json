@@ -1,0 +1,37 @@
+{
+  "room_id": "1453181935993134666",
+  "name_raw": "Treehouse in Sidemen - Veluvana Mountain - Turtle House",
+  "price_raw": "Rp 44,391,785",
+  "rating_raw": "4.95",
+  "review_count_raw": 21,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1453181935993134666",
+  "sub_district": "Sidemen",
+  "latitude": -8.47925,
+  "longitude": 115.43474,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Veluvana Mountain adalah rumah bambu di Sidemen yang menampilkan konsep tanpa dinding, tanpa pintu yang mengajak tamu untuk hidup secara terbuka dan selaras dengan alam. Setiap struktur dibuat dari bahan alami seperti bambu dan dirancang dalam bentuk hewan, melambangkan hubungan yang mendalam dengan dunia alam. Tempat ini menawarkan pengalaman yang tenang dan mendalam bagi mereka yang mencari keindahan, kebebasan, dan ketenangan di pusat Bali.",
+  "scraped_at": "2026-10-04T08:34:24Z"
+}

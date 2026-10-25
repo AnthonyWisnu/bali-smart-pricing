@@ -1,0 +1,37 @@
+{
+  "room_id": "1633665672194749767",
+  "name_raw": "Home in Ubud - The Svagata Villa",
+  "price_raw": "Rp 9,924,450",
+  "rating_raw": "5.0",
+  "review_count_raw": 21,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1633665672194749767",
+  "sub_district": "Ubud",
+  "latitude": -8.5093,
+  "longitude": 115.2523,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Svagata Villa, yang terletak di Desa Penestanan yang tenang dan nyaman, jauh dari jalan yang ramai namun dekat dengan ,berbagai Restoran yang fantastis, dan berjarak 7 menit berkendara ke Istana Ubud dan Pasar Ubud, 6 menit berkendara ke Pura Saraswati, 5 menit berkendara ke Campuhan ridge walk, 5 menit berkendara ke museum blanco, 10 menit berkendara ke monkey forest, 3 menit ke alchemy  yoga studio, alchemy restaurant, brie restaurant, dan 4 menit berkendara ke Bintang Supermarket.",
+  "scraped_at": "2026-10-04T08:19:32Z"
+}

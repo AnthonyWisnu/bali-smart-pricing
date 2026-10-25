@@ -1,0 +1,37 @@
+{
+  "room_id": "30272334",
+  "name_raw": "Cottage in Negara - Hetty Cabana in Melaya",
+  "price_raw": "Rp 3,500,000",
+  "rating_raw": "4.91",
+  "review_count_raw": 137,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/30272334",
+  "sub_district": "Negara",
+  "latitude": -8.26707,
+  "longitude": 114.48152,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "4",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "The Beach House, Melaya Cabanas. Tiga cabana kami terletak di lahan seluas 13.000 meter persegi. Semua menampilkan pemandangan laut yang sejuk. Nikmati suara ombak, matahari terbenam dan pulau Jawa, langsung dari teras Anda, atau joging bermil - mil di sepanjang pantai.",
+  "scraped_at": "2026-10-04T08:25:19Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "788009527937118446",
+  "name_raw": "Tiny home in Kabupaten Tabanan - Balian Beachfront Luxury Tiny House",
+  "price_raw": "Rp 18,872,950",
+  "rating_raw": "4.99",
+  "review_count_raw": 163,
+  "regency": "Kabupaten Tabanan",
+  "url": "https://www.airbnb.com/rooms/788009527937118446",
+  "sub_district": "Kabupaten Tabanan",
+  "latitude": -8.48733,
+  "longitude": 114.94809,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Tepi pantai baru satu kamar tidur rumah mungil dengan kayu jati, pemandangan laut dan sawah yang menakjubkan. Terletak di lereng bukit tepi pantai di tengah taman tropis yang rindang, rumah kecil mewah ini adalah oasis Zen yang sesungguhnya. Desain unik ini dibangun sepenuhnya dari bahan daur ulang, menawarkan semua kenyamanan rumah.\n\nArea tamu ber - AC dilengkapi dengan furnitur mewah dan terbuka ke dek besar dengan jacuzzi bak mandi air panas, sangat cocok untuk bersantai dan menikmati pemanda",
+  "scraped_at": "2026-10-04T08:38:21Z"
+}

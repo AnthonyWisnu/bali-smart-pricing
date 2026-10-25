@@ -1,0 +1,37 @@
+{
+  "room_id": "1633936372303658949",
+  "name_raw": "Home in Buleleng - 3 Bedroom Private Pool Villa in Lovina",
+  "price_raw": "Rp 8,204,702",
+  "rating_raw": "4.79",
+  "review_count_raw": 19,
+  "regency": "Kabupaten Buleleng",
+  "url": "https://www.airbnb.com/rooms/1633936372303658949",
+  "sub_district": "Buleleng",
+  "latitude": -8.1586,
+  "longitude": 115.0296,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di tempat liburan tropis pribadi Anda di Pantai Lovina, Bali. Vila 3 kamar tidur dan 2 kamar mandi yang luas ini sangat cocok untuk keluarga atau rombongan yang mencari kenyamanan dan relaksasi. Nikmati kolam renang pribadi Anda, ruang tamu terbuka, dan lingkungan yang tenang. Berlokasi ideal di pusat Lovina, vila ini berada di tengah pantai, pertokoan lokal, kafe, dan restoran, sehingga memudahkan Anda menjelajah sambil menikmati tempat peristirahatan pulau yang tenang dan nyaman",
+  "scraped_at": "2026-10-04T08:16:47Z"
+}

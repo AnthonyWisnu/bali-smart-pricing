@@ -1,0 +1,37 @@
+{
+  "room_id": "16741212",
+  "name_raw": "Shared room in Karangasem Regency - Ocean Prana Hostel",
+  "price_raw": "Rp 960,285",
+  "rating_raw": "5.0",
+  "review_count_raw": 7,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/16741212",
+  "sub_district": "Karangasem Regency",
+  "latitude": -8.35751,
+  "longitude": 115.63832,
+  "capacity": {
+    "guests": "1",
+    "bedrooms": "6",
+    "beds": "6",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Ocean Prana Hostel berada di pusat Jemeluk Bay di Amed, Bali yang indah. Kami memiliki pantai terbaik di depan kami dengan pemandangan karang yang murah hati untuk snorkeling dan menyelam.\nJangan lewatkan kuil di bawah air hanya satu batu jauhnya dalam petualangan snorkeling Anda!\n\nBaik Anda seorang wisatawan solo, keluarga besar, atau sekelompok teman, ini adalah tempat yang sempurna untuk pulang ke rumah selama liburan Anda yang luar biasa di Bali.",
+  "scraped_at": "2026-10-04T08:31:03Z"
+}

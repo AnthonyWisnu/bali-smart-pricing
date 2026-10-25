@@ -1,0 +1,37 @@
+{
+  "room_id": "1724395225045667135",
+  "name_raw": "Villa in Canggu - Elegant 3BR Pool Villa w/ Rice Field View Canggu",
+  "price_raw": "Rp 19,872,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 3,
+  "regency": "Kota Denpasar",
+  "url": "https://www.airbnb.com/rooms/1724395225045667135",
+  "sub_district": "Canggu",
+  "latitude": -8.62334,
+  "longitude": 115.14058,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "0120",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Habiskan hari Anda berenang di kolam renang pribadi, berbagi makanan di area tamu terbuka, dan bersantai dengan pemandangan sawah yang rindang di Bali. Iklan ini untuk Lara Residence Unit 2 atau Unit 3, dua vila pribadi identik dengan 3 kamar tidur di Tumbak Bayuh, hanya 12 menit dari Pantai Pererenan. Anda akan menginap di salah satu vila yang dirancang dengan indah ini, masing-masing memiliki interior tropis industrial modern dan persiapan sambutan dengan air kelapa segar, buah tropis, bunga, ",
+  "scraped_at": "2026-10-04T08:08:50Z"
+}

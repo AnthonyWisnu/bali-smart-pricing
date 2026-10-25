@@ -1,0 +1,37 @@
+{
+  "room_id": "1099807540994391281",
+  "name_raw": "Home in Seririt - Private, tropical garden, authentic wooden house",
+  "price_raw": "Rp 7,801,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 8,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1099807540994391281",
+  "sub_district": "Seririt",
+  "latitude": -8.189,
+  "longitude": 114.8904,
+  "capacity": {
+    "guests": "5",
+    "bedrooms": "2",
+    "beds": "3",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berliburlah ke surga di mana rumah kayu tradisional autentik menanti Anda di tengah - tengah taman tropis yang rimbun dan luas. Nikmati suasana yang tenang dan nikmati keindahan alam yang mengelilingi Anda. Rasakan pesona era lampau, sambil menikmati fasilitas modern. Pesan sekarang untuk merasakan pengalaman menginap yang benar - benar unik dan mempesona!",
+  "scraped_at": "2026-10-04T08:24:36Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1735165473161162829",
+  "name_raw": "Villa in Ubud - New Wooden Villa Ubud Private Pool",
+  "price_raw": "Rp 8,280,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1735165473161162829",
+  "sub_district": "Ubud",
+  "latitude": -8.4874,
+  "longitude": 115.2725,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nikmati pengalaman menginap yang tenang di vila kayu satu kamar tidur dengan suasana tropis khas Bali. Vila ini dirancang menggunakan dominasi material kayu yang menciptakan kesan hangat, alami, dan nyaman, sangat cocok untuk pasangan, honeymoon, maupun solo traveler yang ingin menikmati waktu santai jauh dari keramaian.\n\nVila dilengkapi dengan kolam renang pribadi yang dikelilingi taman tropis, area sunbed, dan lounge untuk bersantai sepanjang hari. Anda dapat menikmati pagi yang tenang.",
+  "scraped_at": "2026-10-04T08:14:20Z"
+}

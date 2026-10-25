@@ -1,0 +1,37 @@
+{
+  "room_id": "1725877130464039074",
+  "name_raw": "Home in Ubud - 2-bedroom villa in Ubud with a swimming pool",
+  "price_raw": "Rp 3,850,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1725877130464039074",
+  "sub_district": "Ubud",
+  "latitude": -8.4962,
+  "longitude": 115.2734,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berliburlah ke Villa Kolam Renang Pribadi 2 Kamar Tidur kami di Ubud, tempat peristirahatan yang tenang dan dikelilingi pepohonan tropis yang rindang. Cocok untuk pasangan, keluarga, atau teman, vila ini memiliki dua kamar tidur yang nyaman, kolam renang pribadi, area tamu terbuka, dapur lengkap, Wi-Fi cepat, dan parkir gratis. Hanya beberapa menit dari tempat wisata, kafe, dan sawah terasering Ubud yang terkenal, tempat ini ideal untuk bersantai sambil menikmati keindahan dan budaya Bali.",
+  "scraped_at": "2026-10-04T08:18:53Z"
+}

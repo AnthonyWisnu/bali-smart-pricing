@@ -1,0 +1,37 @@
+{
+  "room_id": "1106811934097561791",
+  "name_raw": "Home in Kecamatan Ubud - Last Deal-Private Pool Villa 8 min fr Ubud Centre",
+  "price_raw": "Rp 9,676,474",
+  "rating_raw": "4.91",
+  "review_count_raw": 180,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1106811934097561791",
+  "sub_district": "Kecamatan Ubud",
+  "latitude": -8.52689,
+  "longitude": 115.25419,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Temukan Nata Raka Villa Ubud, vila modern minimalis baru dengan kolam renang pribadi di lingkungan yang tenang di Ubud. Dirancang untuk kenyamanan dan gaya, ini adalah tempat peristirahatan ideal bagi pasangan yang menginginkan ketenangan dan akses mudah ke Ubud.\n\nSorotan:\n- Desain modern minimalis yang elegan\n- Kolam renang pribadi & ruang tamu yang nyaman\n- Lokasi Ubud yang tenang, jauh dari keramaian\n- Hanya beberapa menit berkendara ke kafe, pasar & budaya Ubud",
+  "scraped_at": "2026-10-04T08:19:41Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1582976615772573319",
+  "name_raw": "Villa in Kecamatan Ubud - Emerald Hill Villa | Minimalist 2BR Villa in Ubud",
+  "price_raw": "Rp 15,579,468",
+  "rating_raw": "4.96",
+  "review_count_raw": 84,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1582976615772573319",
+  "sub_district": "Kecamatan Ubud",
+  "latitude": -8.5074,
+  "longitude": 115.2766,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "9",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di Emerald Hill Villas, tempat liburan modern yang mewah dan menarik di pusat kota Ubud - Bali. Villa berdesain minimalis ini memadukan arsitektur yang ramping dengan ruang terbuka yang semarak, menciptakan suasana yang halus namun energik. Nikmati privasi lengkap, tata letak yang bergaya, dan lokasi utama yang menyeimbangkan lingkungan yang damai dengan akses mudah ke budaya, bersantap, dan petualangan Ubud—ideal untuk pasangan, teman, atau pengembara digital yang mencari masa in",
+  "scraped_at": "2026-10-04T08:18:23Z"
+}

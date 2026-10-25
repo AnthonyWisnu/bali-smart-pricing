@@ -1,0 +1,37 @@
+{
+  "room_id": "1660036004304688377",
+  "name_raw": "Rooms in Kintamani - Angga Family house",
+  "price_raw": "Rp 5,533,352",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1660036004304688377",
+  "sub_district": "Kintamani",
+  "latitude": -8.2284,
+  "longitude": 115.3912,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "🌄 Penginapan unik di kaki Gunung Batur\nNikmati pengalaman autentik di Kintamani, di lingkungan yang tenang dan jauh dari keramaian.\n\n🛏️ \n . kamar pribadi yang nyaman\n\t•\tTempat tidur double yang nyaman\n\t•\tKamar mandi modern pribadi \n\n\t•\tTeras untuk menikmati lingkungan yang damai\n\nKawasan ini sangat tenang, dikelilingi perkebunan dan gunung berapi\n\n🍽️\nNikmati hidangan khas Bali buatan sendiri:\n\t•\tMakan siang dan makan malam tersedia\n\n🌋 Pengalaman Gunung Batur (wajib dilakukan)\n\nNikmati pengalaman",
+  "scraped_at": "2026-10-04T08:32:12Z"
+}

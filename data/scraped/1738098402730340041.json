@@ -1,0 +1,37 @@
+{
+  "room_id": "1738098402730340041",
+  "name_raw": "Home in Blahbatuh - Saba beach serenity residence by the sea",
+  "price_raw": "Rp 6,508,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kota Denpasar",
+  "url": "https://www.airbnb.com/rooms/1738098402730340041",
+  "sub_district": "Kecamatan Blahbatuh",
+  "latitude": -8.5921,
+  "longitude": 115.3043,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "32028",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rumah tropis modern dan bergaya di Saba, Gianyar, cocok untuk keluarga dan rombongan. Nikmati ruang tamu yang luas, dapur lengkap, Wi-Fi cepat, parkir pribadi, dan lokasi yang tenang hanya beberapa menit dari Pantai Saba, Bali Safari, Sanur, dan Ubud. Liburan Bali Anda yang sempurna dimulai di sini. Bersantailah bersama seluruh keluarga di tempat menginap yang damai ini.",
+  "scraped_at": "2026-10-04T08:08:34Z"
+}

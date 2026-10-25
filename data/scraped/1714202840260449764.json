@@ -1,0 +1,37 @@
+{
+  "room_id": "1714202840260449764",
+  "name_raw": "Home in Ubud - Cozy 2 bedroom private villa",
+  "price_raw": "Rp 5,642,666",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1714202840260449764",
+  "sub_district": "Ubud",
+  "latitude": -8.5098,
+  "longitude": 115.2483,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bersantailah bersama seluruh keluarga di tempat menginap yang tenang ini. \nVila ini berlokasi di tengah sawah dan lokasinya agak masuk ke dalam  kurang lebih 1 km dari jalan utama. yang hanya bisa diakses dengan sepeda motor dan berjalan kaki. ",
+  "scraped_at": "2026-10-04T08:19:22Z"
+}

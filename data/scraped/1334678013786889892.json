@@ -1,0 +1,37 @@
+{
+  "room_id": "1334678013786889892",
+  "name_raw": "Cabin in Manggis - Beachfront Cabin",
+  "price_raw": "Rp 10,315,824",
+  "rating_raw": "4.75",
+  "review_count_raw": 4,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1334678013786889892",
+  "sub_district": "Manggis",
+  "latitude": -8.4988,
+  "longitude": 115.6117,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Satu kabin super lebar dengan balkon samping dan depan, lainnya membuat kabin ini unik adalah dengan balkon atap, bisa melihat matahari terbit dan pemandangan pantai siang hari, dan\nSatu kabin standar, gaya pondok dan balkon yang menghadap taman hijau lebar dan pemandangan laut kecil",
+  "scraped_at": "2026-10-04T08:34:03Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1572123537436204761",
+  "name_raw": "Home in Ubud - Peaceful 2BR Retreat Minutes from Central Ubud",
+  "price_raw": "Rp 4,536,000",
+  "rating_raw": "4.9",
+  "review_count_raw": 40,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1572123537436204761",
+  "sub_district": "Ubud",
+  "latitude": -8.50246,
+  "longitude": 115.27136,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bebas ke vila 2 kamar tidur yang nyaman dan damai dengan pintu masuk pribadi, 2 kamar mandi modern, kulkas kecil, dan parkir gratis. Hanya beberapa menit dari pusat Ubud, Anda akan menikmati keseimbangan privasi dan kenyamanan yang sempurna. Bersantai di ruang yang tenang dan nyaman sambil tetap dekat dengan kafe, pasar, studio yoga, dan tempat terkenal di Ubud. Ideal untuk pasangan, teman, atau keluarga yang mencari tempat peristirahatan Bali yang hangat dan santai dengan akses mudah ke segala ",
+  "scraped_at": "2026-10-04T08:20:04Z"
+}

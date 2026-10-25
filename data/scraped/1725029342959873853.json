@@ -1,0 +1,37 @@
+{
+  "room_id": "1725029342959873853",
+  "name_raw": "Villa in Seseh Beach - Tropical 1BR Oasis | Private Pool & Beach Access",
+  "price_raw": "Rp 13,506,475",
+  "rating_raw": "5.0",
+  "review_count_raw": 4,
+  "regency": "Kabupaten Badung",
+  "url": "https://www.airbnb.com/rooms/1725029342959873853",
+  "sub_district": "Seseh Beach",
+  "latitude": -8.6428,
+  "longitude": 115.1097,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di Vila Ara, tempat liburan tropis pribadi Anda di desa Seseh yang menawan.\n\nVila 1 kamar tidur yang bergaya ini memadukan arsitektur modern dengan pesona tropis, menampilkan kolam renang pribadi, interior elegan, dan ruang terbuka yang cerah yang dirancang untuk bersantai. \n\nHanya berjalan kaki sebentar dari Pantai Seseh dan kafe-kafe terdekat, Villa Ara menawarkan keseimbangan sempurna antara privasi dan kenyamanan. Baik Anda merencanakan liburan romantis atau ingin terhubung ke",
+  "scraped_at": "2026-10-04T08:09:34Z"
+}

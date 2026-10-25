@@ -1,0 +1,37 @@
+{
+  "room_id": "1370831310578971516",
+  "name_raw": "Home in Kintamani - Cabin 5 Black Wood Kintamani",
+  "price_raw": "Rp 11,000,000",
+  "rating_raw": "4.92",
+  "review_count_raw": 13,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1370831310578971516",
+  "sub_district": "Kintamani",
+  "latitude": -8.26977,
+  "longitude": 115.35199,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di tempat peristirahatan pegunungan Anda di Kintamani, Bali! Benamkan diri Anda dalam pemandangan Gunung Batur yang mempesona dari kenyamanan kamar tidur pribadi Anda, di mana setiap pagi menghadirkan matahari terbit keemasan yang menakjubkan. Surga dua lantai satu kamar tidur ini dirancang untuk pecinta alam yang mencari liburan ke ketenangan.",
+  "scraped_at": "2026-10-04T08:12:46Z"
+}

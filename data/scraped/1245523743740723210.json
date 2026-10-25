@@ -1,0 +1,37 @@
+{
+  "room_id": "1245523743740723210",
+  "name_raw": "Room in Tampaksiring - Industrial Cabin: Cozy Riverside Getaway",
+  "price_raw": "Rp 5,558,675",
+  "rating_raw": "5.0",
+  "review_count_raw": 5,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1245523743740723210",
+  "sub_district": "Tampaksiring",
+  "latitude": -8.4327,
+  "longitude": 115.3178,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "5"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Sembunyi sejenak dari hiruk-pikuk dan temukan ketenangan di tepi sungai yang asri.\nRumah ini dirancang khusus bagi Anda yang merindukan harmoni antara kenyamanan modern dan alam yang jujur. Terletak tepat di bibir sungai yang tenang, setiap sudut bangunan ini memberikan akses visual langsung ke aliran air \nBangunan ini mengusung konsep ruang terbuka yang menyatukan area tidur dan area bersantai, menciptakan aliran udara yang sejuk dan suasana yang luas namun tetap intim.",
+  "scraped_at": "2026-10-04T08:11:59Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1380109866818967098",
+  "name_raw": "Home in Kecamatan Ubud - Pabuan villa, private & ethnic",
+  "price_raw": "Rp 12,222,006",
+  "rating_raw": "4.87",
+  "review_count_raw": 75,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1380109866818967098",
+  "sub_district": "Kecamatan Ubud",
+  "latitude": -8.5219,
+  "longitude": 115.2503,
+  "capacity": {
+    "guests": "5",
+    "bedrooms": "3",
+    "beds": "6",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Tempat menginap bergaya ini cocok untuk perjalanan grup dan keluarga, memiliki 3 kamar tidur yang masing-masing memiliki kamar mandi lengkap, Kami menawarkan perpaduan desain bohemia dengan bahan - bahan dari pengrajin lokal dan pernak pernik khas Indonesia, berada di kawasan tenang namun masih berjarak sangat dekat ke pusat Ubud (2 kilometer)\n- Ubud palace 2 km\n- Pepito supermarket 1,8 km\n- Monkey forest 2 km\n- Tegallalang rice terrace 4 km\n- Bandara I Gusti Ngurah Rai 27 km",
+  "scraped_at": "2026-10-04T08:19:50Z"
+}

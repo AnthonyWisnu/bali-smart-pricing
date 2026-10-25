@@ -1,0 +1,37 @@
+{
+  "room_id": "933935082788330993",
+  "name_raw": "Home in Bangli - Food Lover's Jungle Paradise\nPondok 2",
+  "price_raw": "Rp 1,751,375",
+  "rating_raw": "4.95",
+  "review_count_raw": 22,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/933935082788330993",
+  "sub_district": "Bangli",
+  "latitude": -8.4915,
+  "longitude": 115.3504,
+  "capacity": {
+    "guests": "3",
+    "bedrooms": "1",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bersantailah dan bersantailah di tempat yang tenang dan bergaya ini.",
+  "scraped_at": "2026-10-04T08:15:16Z"
+}

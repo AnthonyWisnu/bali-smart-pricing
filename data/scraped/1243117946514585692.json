@@ -1,0 +1,37 @@
+{
+  "room_id": "1243117946514585692",
+  "name_raw": "Hotel in Negara - Family Deluxe",
+  "price_raw": "Rp 1,886,436",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1243117946514585692",
+  "sub_district": "Kecamatan Negara",
+  "latitude": -8.3597,
+  "longitude": 114.6183,
+  "capacity": {
+    "guests": "3",
+    "bedrooms": "1",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bagi Anda yang menginginkan pelayanan yang berkualitas baik dengan harga yang ramah, Hotel Kawsar Syariah adalah pilihan tepat. Karena meski murah, akomodasi ini menyediakan fasilitas memadai dan pelayanan yang masih terjaga kualitasnya.\n\nHotel Kawsar Syariah adalah akomodasi dengan fasilitas yang baik dan kualitas layanan yang memuaskan menurut sebagian besar tamu.\n\nHotel Kawsar Syariah adalah pilihan cerdas bagi wisatawan yang berkunjung ke Negara.",
+  "scraped_at": "2026-10-04T08:24:47Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1636583126952001014",
+  "name_raw": "Villa in Selemadeg Barat - Salty Cabin Beachfront and Sunset Views Yeh Leh",
+  "price_raw": "Rp 7,030,000",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1636583126952001014",
+  "sub_district": "Selemadeg Barat",
+  "latitude": -8.4657,
+  "longitude": 114.9141,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rasakan pengalaman menginap yang berbeda di kabin yang dibangun dengan penuh inspirasi menggunakan material kayu bekas berkualitas tinggi, memberikan karakter hangat  yang tidak akan Anda temukan di tempat lain. Terletak tepat di pinggir jalan utama namun tetap menawarkan privasi penuh, Salty Cabin adalah oase sempurna bagi Anda yang mencari inspirasi tanpa kehilangan kemudahan akses.dengan pemandangan laut lepas langsung dari jendela besar Anda dan nikmati kopi pagi hari",
+  "scraped_at": "2026-10-04T08:24:05Z"
+}

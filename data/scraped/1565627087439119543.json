@@ -1,0 +1,37 @@
+{
+  "room_id": "1565627087439119543",
+  "name_raw": "Room in Ubud - Tropical Kasbah Beji Mas, private Room GF",
+  "price_raw": "Rp 3,000,000",
+  "rating_raw": "4.94",
+  "review_count_raw": 77,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1565627087439119543",
+  "sub_district": "Ubud",
+  "latitude": -8.54758,
+  "longitude": 115.26823,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Temukan tempat perlindungan tersembunyi di desa ramah lingkungan tepi sungai kami yang damai, hanya 10 menit dari Ubud! Di sini, kemewahan modern berpadu indah dengan jiwa artistik Bali.\n\n🌿 Tempat Peristirahatan Terpencil Anda:\n• Kamar bergaya modern yang dirancang dengan indah\n• Tempat tinggal kontemporer yang mulus dengan dapur bersama\n• Terletak di antara pepohonan buah yang semarak & kicauan burung tropis\n\nBangunlah dengan melodi alam dan nikmati ketenangan sejati. Rasakan perpaduan sempurna",
+  "scraped_at": "2026-10-04T08:19:07Z"
+}

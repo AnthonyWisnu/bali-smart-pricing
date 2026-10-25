@@ -1,0 +1,37 @@
+{
+  "room_id": "1711247890966285281",
+  "name_raw": "Room in Karangasem - View of Gods",
+  "price_raw": "Rp 5,831,934",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1711247890966285281",
+  "sub_district": "Karangasem",
+  "latitude": -8.4498,
+  "longitude": 115.6273,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Pemandangan Bali Timur yang menakjubkan, kami berlokasi di Planet Biru Villa di Karangasem. Lokasi kami berada di desa terpencil yang dikelilingi sawah, pegunungan, dan laut. Rasakan Bali yang sesungguhnya dengan menginap di Planet kami. Dari planet biru, Anda bisa berjalan kaki ke sawah dan sungai, cocok untuk mereka yang menyukai alam dan petualangan. Anda juga bisa bersantai dan menikmati alam sambil memesan makanan dari dapur kami",
+  "scraped_at": "2026-10-04T08:34:50Z"
+}

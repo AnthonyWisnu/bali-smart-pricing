@@ -1,0 +1,37 @@
+{
+  "room_id": "1478635068702946401",
+  "name_raw": "Home in Sawan - ViLLa Kansana#5 - Private Relaxing PooL",
+  "price_raw": "Rp 2,611,812",
+  "rating_raw": "4.94",
+  "review_count_raw": 17,
+  "regency": "Kabupaten Buleleng",
+  "url": "https://www.airbnb.com/rooms/1478635068702946401",
+  "sub_district": "Sawan",
+  "latitude": -8.08434,
+  "longitude": 115.11825,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "76787",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa 1KT baru cocok untuk pasangan yang mencari liburan yang bergaya dan nyaman dengan internet yang cepat dan stabil.",
+  "scraped_at": "2026-10-04T08:17:30Z"
+}

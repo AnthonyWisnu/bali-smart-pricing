@@ -1,0 +1,37 @@
+{
+  "room_id": "52275821",
+  "name_raw": "Villa in Manggis - Exquisite Luxury Villa Candidasa Bali",
+  "price_raw": "Rp 23,613,970",
+  "rating_raw": "4.94",
+  "review_count_raw": 16,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/52275821",
+  "sub_district": "Kecamatan Manggis",
+  "latitude": -8.5069,
+  "longitude": 115.5628,
+  "capacity": {
+    "guests": "7",
+    "bedrooms": "2",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa menakjubkan ini diperuntukkan bagi mereka yang menghargai gaya mewah dengan kehidupan terbuka. Dengan 3 lantai untuk dinikmati. Lantai 1 memiliki dapur lengkap & ruang tamu o/melihat kolam renang air garam dengan 1 br utama & ensuite & kamar untuk tempat tidur tambahan atau kantor..\nLantai 2 memiliki  2 kamar tidur ensuite yang indah untuk privasi total di antaranya ada dapur ke -2 & ruang tamu semua o/melihat pepohonan ke laut.\nAtap, tempat yang menakjubkan untuk yoga, meditasi, atau meni",
+  "scraped_at": "2026-10-04T08:33:59Z"
+}

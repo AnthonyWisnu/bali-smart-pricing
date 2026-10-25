@@ -1,0 +1,37 @@
+{
+  "room_id": "1702934277246133203",
+  "name_raw": "Home in Tegalalang - Baru! Galang House | Private Pool & Nature View",
+  "price_raw": "Rp 8,558,828",
+  "rating_raw": "5.0",
+  "review_count_raw": 8,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1702934277246133203",
+  "sub_district": "Tegallalang",
+  "latitude": -8.4095,
+  "longitude": 115.2845,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Galang House menghadirkan pengalaman menginap di tengah lanskap hijau dengan kolam renang pribadi yang menghadap area hutan dan lembah tropis. Desain minimalis dipadukan dengan tata ruang terbuka yang menghubungkan kamar, teras, dan area kolam. Dikelilingi pepohonan serta taman tropis, properti ini cocok bagi tamu yang ingin menikmati suasana dekat alam sambil tetap memiliki akses mudah ke berbagai destinasi di sekitarnya.",
+  "scraped_at": "2026-10-04T08:13:02Z"
+}

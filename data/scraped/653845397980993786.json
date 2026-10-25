@@ -1,0 +1,37 @@
+{
+  "room_id": "653845397980993786",
+  "name_raw": "Room in Abang - Palmterrace cottage",
+  "price_raw": "Rp 9,129,416",
+  "rating_raw": "5.0",
+  "review_count_raw": 50,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/653845397980993786",
+  "sub_district": "Abang",
+  "latitude": -8.39602,
+  "longitude": 115.60342,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": null,
+    "beds": "3",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Tempat bersantai dengan pemandangan indah pegunungan\nKamar bergaya dan nyaman",
+  "scraped_at": "2026-10-04T08:35:30Z"
+}

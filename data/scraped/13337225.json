@@ -1,0 +1,37 @@
+{
+  "room_id": "13337225",
+  "name_raw": "Bungalow in KLUNGKUNG - Surya Hills Oceanview Guesthouse 1",
+  "price_raw": "Rp 3,238,660",
+  "rating_raw": "4.94",
+  "review_count_raw": 526,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/13337225",
+  "sub_district": "Batununggul, Nusa Penida, Klungkung Bali",
+  "latitude": -8.69754,
+  "longitude": 115.58207,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bungalo pribadi matahari terbit dan pemandangan laut yang indah. Anda akan senang bangun dan tertidur dengan suara ombak. Bersantai, bermeditasi, atau nikmati pemandangan laut yang indah dari balkon pribadi Anda sendiri. Kami adalah keluarga lokal, sangat ramah dan bisa mengurus semua kebutuhan tamasya dan transportasi Anda dan membantu merencanakan masa inap Anda. Kami menyajikan sarapan lezat dengan teh/kopi. Bangunan baru, sangat bersih, bergaya modern namun klasik dengan AC, dan bak mandi de",
+  "scraped_at": "2026-10-04T08:38:12Z"
+}

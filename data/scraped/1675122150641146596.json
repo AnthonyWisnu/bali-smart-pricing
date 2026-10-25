@@ -1,0 +1,37 @@
+{
+  "room_id": "1675122150641146596",
+  "name_raw": "Home in Tampaksiring - Magical Bamboo Villa: Enchanting Escape near Ubud",
+  "price_raw": "Rp 8,500,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 16,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1675122150641146596",
+  "sub_district": "Tampaksiring",
+  "latitude": -8.4604,
+  "longitude": 115.29792,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Temukan tempat liburan tropis sejati di dekat Ubud, tempat keahlian tradisional & ramah lingkungan khas Bali berpadu dengan kenyamanan modern. \n\nTerletak di antara sawah terasering yang terpencil, vila bambu pribadi di Ubud ini menawarkan tempat liburan yang tenang bagi mereka yang mencari vila pribadi di Bali.\n\nBaik untuk liburan romantis maupun bulan madu, nikmati kolam renang dengan pemandangan sawah, dapur lengkap, dan lounge kanopi jaring khas – sempurna untuk menikmati matahari terbenam.",
+  "scraped_at": "2026-10-04T08:10:59Z"
+}

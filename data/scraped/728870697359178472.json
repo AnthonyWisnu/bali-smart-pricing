@@ -1,0 +1,37 @@
+{
+  "room_id": "728870697359178472",
+  "name_raw": "Place to stay in Susut - Nafka Lodge Private Eco Bamboo House, Jungle view.",
+  "price_raw": "Rp 3,908,531",
+  "rating_raw": "4.94",
+  "review_count_raw": 404,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/728870697359178472",
+  "sub_district": "Susut",
+  "latitude": -8.41089,
+  "longitude": 115.33315,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "5"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nafka Lodge (perpaduan nama anak - anak saya Natan dan Rafka) adalah Rumah Bambu yang indah dan berkelanjutan yang terletak di tengah hutan. Rumah pribadi ini memiliki satu kamar tidur, kamar mandi terbuka dengan pancuran luar ruangan, dan balkon dengan pemandangan paling menakjubkan ke arah hijau. Nafka adalah cara yang sempurna untuk merasakan alam Bali, mendengarkan suara hutan, dan merasakan kehidupan desa autentik di sekitar tempat ini.",
+  "scraped_at": "2026-10-04T08:10:28Z"
+}

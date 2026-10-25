@@ -1,0 +1,37 @@
+{
+  "room_id": "1744077364039847356",
+  "name_raw": "Home in Kuta Utara - Tropical 2BR Villa with Private Pool | Seminyak",
+  "price_raw": "Rp 9,975,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kota Denpasar",
+  "url": "https://www.airbnb.com/rooms/1744077364039847356",
+  "sub_district": "Kuta Utara",
+  "latitude": -8.67899,
+  "longitude": 115.16692,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "3",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di Alif Villa, villa kolam renang pribadi 2 kamar tidur yang bergaya di Seminyak. Hanya beberapa menit dari Seminyak Square dan Eat Street, Anda akan berada dekat dengan kafe, restoran, butik, dan pantai. Nikmati kolam renang pribadi, kamar tidur ber-AC, dapur lengkap, Wi-Fi cepat, dan area tamu yang nyaman. Cocok untuk pasangan, keluarga, atau teman yang mencari liburan santai di Bali.\n",
+  "scraped_at": "2026-10-04T08:08:02Z"
+}

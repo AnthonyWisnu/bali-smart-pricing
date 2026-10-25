@@ -1,0 +1,37 @@
+{
+  "room_id": "32930307",
+  "name_raw": "Apartment in Mendoyo - Medewi Manor: Garden View Apartment",
+  "price_raw": "Rp 2,692,911",
+  "rating_raw": "4.91",
+  "review_count_raw": 11,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/32930307",
+  "sub_district": "Mendoyo",
+  "latitude": -8.41226,
+  "longitude": 114.79939,
+  "capacity": {
+    "guests": "3",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Apartemen Garden View adalah salah satu dari tiga apartemen di Villa Tenang dua bangunan.  Dari jendela  dapur kecil Anda dapat melihat dari Pantai Sumbul tepat ke bawah ke Titik Medewi. \n\nIni adalah lantai dasar satu kamar tidur terpencil yang berisi ruang tamu mewah yang dirancang dan dibanderol untuk penghuni jangka panjang. Tempat ini penuh dengan semua mod kontra yang mungkin Anda inginkan, termasuk bioskop layar besar yang diproyeksikan dan akses ke seluruh kompleks vila, termasuk skyloung",
+  "scraped_at": "2026-10-04T08:26:35Z"
+}

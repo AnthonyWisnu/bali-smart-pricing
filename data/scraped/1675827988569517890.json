@@ -1,0 +1,37 @@
+{
+  "room_id": "1675827988569517890",
+  "name_raw": "Home in Abang - Absolute Beachfront. Private Villa, Amed, Bali.",
+  "price_raw": "Rp 37,198,496",
+  "rating_raw": "5.0",
+  "review_count_raw": 9,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1675827988569517890",
+  "sub_district": "Abang",
+  "latitude": -8.3355,
+  "longitude": 115.6575,
+  "capacity": {
+    "guests": "8",
+    "bedrooms": "4",
+    "beds": "12",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bangun dengan suara laut, bersantai di kolam renang pribadi Anda, dan nikmati ketenangan total di tepi laut di vila tepi pantai pribadi Anda yang berlayanan lengkap di Amed, Bali. Tim pribadi khusus kami, termasuk petugas kebersihan dan juru masak pribadi, akan memastikan masa inap yang tak terlupakan di desa nelayan Amed yang santai dengan kafe lokal, semuanya bisa ditempuh dengan berjalan kaki. Snorkeling di terumbu karang yang penuh warna hanya beberapa langkah dari villa tepi pantai pribadi ",
+  "scraped_at": "2026-10-04T08:32:49Z"
+}

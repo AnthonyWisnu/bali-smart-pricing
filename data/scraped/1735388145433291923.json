@@ -1,0 +1,37 @@
+{
+  "room_id": "1735388145433291923",
+  "name_raw": "Guesthouse in Negara - Jembrana Bali Homestay Villa Sea View",
+  "price_raw": "Rp 6,513,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1735388145433291923",
+  "sub_district": "Jembrana",
+  "latitude": -8.4021,
+  "longitude": 114.6506,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "3",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bersenang-senang bersama seluruh keluarga di tempat bergaya ini. Dengan Pemndangan Laut . Dan Dekat Dengan Pantai",
+  "scraped_at": "2026-10-04T08:23:21Z"
+}

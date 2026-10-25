@@ -1,0 +1,37 @@
+{
+  "room_id": "1546302605726502679",
+  "name_raw": "Cabin in Karangasem - Brandnew! Wooden Cabin by - Qchen Cuan Amed",
+  "price_raw": "Rp 2,250,000",
+  "rating_raw": "4.83",
+  "review_count_raw": 35,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1546302605726502679",
+  "sub_district": "Kecamatan Karangasem",
+  "latitude": -8.336,
+  "longitude": 115.6503,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Qchen Cuan Cabin adalah kabin kayu yang baru dibangun.\n\nKami memiliki desain estetis dengan kombinasi interior tradisional Bali dengan sentuhan modern. Memberi Anda pengalaman menginap Bali yang sangat autentik.\n\nKabin kami berlokasi di depan pintu pantai Amed (1 menit berjalan kaki).\n\nDi pagi hari Anda bisa melihat matahari terbit yang indah dan juga puncak Gunung Agung dari Balkon Anda sendiri.\n\n\nKabin ini adalah tempat pelarian yang sempurna untuk Anda menikmati relaksasi dan ketenangan penuh",
+  "scraped_at": "2026-10-04T08:32:13Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1725162511853033670",
+  "name_raw": "Home in Abang - Water Palace Villa",
+  "price_raw": "Rp 9,515,651",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1725162511853033670",
+  "sub_district": "Abang",
+  "latitude": -8.4125,
+  "longitude": 115.5875,
+  "capacity": {
+    "guests": "3",
+    "bedrooms": "2",
+    "beds": "1",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa peninggalan langka yang menghadap taman air Tirta Gangga. Pernah dianggap sebagai tempat tidur Raja Karangasem, tempat tinggal pribadi ini memadukan sejarah kerajaan, privasi yang tenang, dan desain Bali yang tak lekang oleh waktu. Dirancang ulang oleh desainer pemenang penghargaan Carole Muller, vila ini memiliki dua suite pribadi, ruang makan terbuka, pemandangan dari ketinggian, dan suasana yang damai untuk masa inap yang benar-benar unik.",
+  "scraped_at": "2026-10-04T08:31:54Z"
+}

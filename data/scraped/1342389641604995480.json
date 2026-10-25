@@ -1,0 +1,37 @@
+{
+  "room_id": "1342389641604995480",
+  "name_raw": "Villa in Kecamatan Ubud - 2BR Fes Private Villa Ubud Central - Unit 1",
+  "price_raw": "Rp 19,000,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 14,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1342389641604995480",
+  "sub_district": "Kecamatan Ubud",
+  "latitude": -8.51008,
+  "longitude": 115.2587,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rasakan pesona asli Bali di Villa Pribadi 2 Kamar Tidur kami di Bisma Road, Ubud Center! Nikmati perpaduan sempurna antara arsitektur kayu tradisional dan kenyamanan modern.\n\n✨ Central Serene:\n• Beberapa menit ke Hutan Monyet & kafe semarak\n• Dekat dengan Pasar & Istana Ubud (nikmati tarian tradisional!)\n• Terletak tersembunyi untuk privasi yang luar biasa\n\nIdeal untuk pasangan dan keluarga yang mencari tempat peristirahatan yang tenang dan santai tepat di pusat kota Ubud. Pesan liburan sempurna",
+  "scraped_at": "2026-10-04T08:21:51Z"
+}

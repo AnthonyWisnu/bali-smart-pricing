@@ -1,0 +1,37 @@
+{
+  "room_id": "1208610704876665312",
+  "name_raw": "Room in Mendoyo - Bungalow – Alen's Stay & Surf",
+  "price_raw": "Rp 1,250,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 3,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1208610704876665312",
+  "sub_district": "Kecamatan Mendoyo",
+  "latitude": -8.4064,
+  "longitude": 114.8012,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": null
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Terhubung kembali dengan alam di tempat damai tak terlupakan ini.",
+  "scraped_at": "2026-10-04T08:27:16Z"
+}

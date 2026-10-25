@@ -1,0 +1,37 @@
+{
+  "room_id": "1269210580187323340",
+  "name_raw": "Tent in Karangasem - Uma Kubu 2",
+  "price_raw": "Rp 2,481,115",
+  "rating_raw": "5.0",
+  "review_count_raw": 3,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1269210580187323340",
+  "sub_district": "Kecamatan Karangasem",
+  "latitude": -8.4142,
+  "longitude": 115.5967,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "2",
+    "beds": "1",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Uma Buug Sebuah akomodasi yang menawarkan tempat berlibur maupun glamping dengan suasana ramah lingkungan, akomodasi yang menyatu dengan alam dengan bangunan tradisional di tengah hamparan persawahan di kelilingi perbukitan memiliki pemandagan gunung berapa maupun matahari terbit atau matahari terbenam. Cocok untuk peyembuhan atau pelarian dengan suasana yang sepi.",
+  "scraped_at": "2026-10-04T08:31:17Z"
+}

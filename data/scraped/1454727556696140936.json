@@ -1,0 +1,37 @@
+{
+  "room_id": "1454727556696140936",
+  "name_raw": "Home in Abang - Julim Terra • Amed Luxury Stay",
+  "price_raw": "Rp 25,000,000",
+  "rating_raw": "4.36",
+  "review_count_raw": 11,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1454727556696140936",
+  "sub_district": "Abang",
+  "latitude": -8.32359,
+  "longitude": 115.62512,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di vila ramah lingkungan 3 kamar tidur kami di Amed – tempat peristirahatan pribadi dengan pemandangan pegunungan dan laut. Nikmati teras yang luas, kamar mandi terbuka, air minum, kolam renang bebas bahan kimia, dan nuansa hangat dari bahan alami. Tempat ideal untuk bersantai, bersantai, dan terhubung kembali – cocok untuk pasangan, keluarga, dan wisatawan solo yang mencari kedamaian. Wifi cepat dan jarak hanya 2 menit dari laut adalah nilai ekstra yang besar. Amed hanya 12 menit",
+  "scraped_at": "2026-10-04T08:35:09Z"
+}

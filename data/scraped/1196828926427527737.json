@@ -1,0 +1,37 @@
+{
+  "room_id": "1196828926427527737",
+  "name_raw": "Villa in Abang - Tropical Habitat Bali-Villa Nō.3",
+  "price_raw": "Rp 20,020,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 48,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1196828926427527737",
+  "sub_district": "Kecamatan Abang",
+  "latitude": -8.37081,
+  "longitude": 115.66005,
+  "capacity": {
+    "guests": "3",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Kemewahan Modern, Terbungkus Alam\nSebuah perumahan pribadi kecil yang terletak di antara puncak hijau yang subur di Bali Timur. Hanya beberapa menit dari laut, namun jauh dari kebisingan.\n\nDirancang untuk kehidupan yang lambat dan disengaja, tempat peristirahatan yang tenang ini memadukan interior pantai boho dengan kenyamanan kelas atas dan layanan yang penuh perhatian yang Anda harapkan dari resor mewah.\n\nPemandangan pegunungan panorama yang menakjubkan, menonton awan dari tempat tidur, dan ma",
+  "scraped_at": "2026-10-04T08:35:39Z"
+}

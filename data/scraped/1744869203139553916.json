@@ -1,0 +1,37 @@
+{
+  "room_id": "1744869203139553916",
+  "name_raw": "Place to stay in Kecamatan Ubud - Tugeh 1BR Villa Surrounded by Tropical Nature",
+  "price_raw": "Rp 5,902,571",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1744869203139553916",
+  "sub_district": "Ubud",
+  "latitude": -8.4979,
+  "longitude": 115.2596,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nikmati masa inap yang damai di vila satu kamar tidur yang menawan ini yang dikelilingi pepohonan tropis yang rindang di Ubud. Villa ini memiliki tempat tidur berukuran king yang nyaman, kamar mandi pribadi dalam, AC, Wi-Fi, dan area duduk luar ruangan yang nyaman. Sempurna untuk pasangan atau wisatawan solo yang mencari tempat peristirahatan yang santai. Terletak di Jl. Subak Sok Wayah, villa ini hanya dapat diakses dengan sepeda motor atau berjalan kaki, menciptakan tempat peristirahatan yang ",
+  "scraped_at": "2026-10-04T08:13:10Z"
+}

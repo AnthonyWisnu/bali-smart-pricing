@@ -1,0 +1,37 @@
+{
+  "room_id": "1713379864681670305",
+  "name_raw": "Home in Kuta Utara - 3BR Private Pool Villa w/ Rooftop near Seminyak",
+  "price_raw": "Rp 11,450,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 9,
+  "regency": "Kota Denpasar",
+  "url": "https://www.airbnb.com/rooms/1713379864681670305",
+  "sub_district": "Kuta Utara",
+  "latitude": -8.6831,
+  "longitude": 115.1717,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "✨ Villa ZIP ✨\nadalah villa kolam renang pribadi 3 kamar tidur yang luas dengan teras atap, yang terletak hanya beberapa menit dari Seminyak. Dirancang dengan interior minimalis putih dan kayu yang cerah, ini adalah tempat liburan yang sempurna untuk keluarga dan teman-teman.\n\nNikmati ruang tamu dalam dan luar ruangan yang luas, kolam renang pribadi, dan segala yang Anda butuhkan untuk liburan pulau yang nyaman.\n\nDengan akses mudah ke kafe, restoran, kelab pantai, dan pantai-pantai yang indah, Vi",
+  "scraped_at": "2026-10-04T08:08:32Z"
+}

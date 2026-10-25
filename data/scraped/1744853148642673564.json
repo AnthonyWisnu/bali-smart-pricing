@@ -1,0 +1,37 @@
+{
+  "room_id": "1744853148642673564",
+  "name_raw": "Home in Kuta Utara - Modern 2BR Villa in the Heart of Canggu",
+  "price_raw": "Rp 6,475,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Tabanan",
+  "url": "https://www.airbnb.com/rooms/1744853148642673564",
+  "sub_district": "Kuta Utara",
+  "latitude": -8.6317,
+  "longitude": 115.1502,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "🌴 CASA AMY CANGGU | Vila 2 Kamar Tidur Modern\n\nBersantai di vila 2 kamar tidur kami yang nyaman di pusat Canggu, hanya beberapa menit dari kafe, restoran, pusat kebugaran, toko kelontong, dan pantai. 🏊 Nikmati kolam renang pribadi, WiFi cepat, Netflix & YouTube Premium, dapur lengkap, dan tempat tidur berukuran king yang nyaman dengan kamar mandi pribadi. Cocok untuk liburan atau bekerja jarak jauh. 🌿 Harap perhatikan bahwa, karena lokasinya yang di pusat, mungkin terdengar sedikit kebisingan la",
+  "scraped_at": "2026-10-04T08:38:25Z"
+}

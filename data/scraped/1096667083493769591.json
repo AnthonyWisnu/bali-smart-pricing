@@ -1,0 +1,37 @@
+{
+  "room_id": "1096667083493769591",
+  "name_raw": "Villa in Nusa Penida - Moontana Beach 2BR Private Villa Nusa Penida",
+  "price_raw": "Rp 22,705,200",
+  "rating_raw": "4.61",
+  "review_count_raw": 66,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1096667083493769591",
+  "sub_district": "Kecamatan Nusa Penida",
+  "latitude": -8.6773,
+  "longitude": 115.5301,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Moontana Beachfront Villa di Nusa Penida!\nTerletak di sepanjang pantai Nusa Penida yang asri, vila yang mempesona ini menawarkan liburan yang sempurna untuk pecinta pantai dan penggemar alam.\n\nDua kamar tidur yang luas, masing - masing memiliki kamar mandi pribadi yang dilengkapi dengan bathtub mewah dan pemandangan laut yang menakjubkan, para tamu dapat menikmati relaksasi dan ketenangan tertinggi.\nBangunlah dengan suara ombak yang menenangkan yang menerjang pantai dan benamkan diri Anda dalam ",
+  "scraped_at": "2026-10-04T08:37:26Z"
+}

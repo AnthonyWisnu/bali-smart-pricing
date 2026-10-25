@@ -1,0 +1,37 @@
+{
+  "room_id": "1307735539650169160",
+  "name_raw": "Cabin in Sukasada - Wanagiri Cabin Taru",
+  "price_raw": "Rp 15,976,478",
+  "rating_raw": "4.97",
+  "review_count_raw": 60,
+  "regency": "Kabupaten Buleleng",
+  "url": "https://www.airbnb.com/rooms/1307735539650169160",
+  "sub_district": "Sukasada",
+  "latitude": -8.20396,
+  "longitude": 115.1224,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berliburlah ke \"Wanagiri Cabin Taru\" kabin yang nyaman dan damai yang terletak di hutan yang rimbun. Tempat peristirahatan menawan ini menawarkan pemandangan menakjubkan, pepohonan hijau yang melimpah, dan hanya berjalan kaki sebentar dari air terjun yang menakjubkan. Sangat cocok untuk pecinta alam yang mencari ketenangan, bersantai di dek yang luas, menikmati udara hutan yang segar, dan bersantai di kabin yang tertata apik ini. Dengan fasilitas modern dan pesona pedesaan. Pesan liburan Anda ha",
+  "scraped_at": "2026-10-04T08:18:14Z"
+}

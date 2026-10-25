@@ -1,0 +1,37 @@
+{
+  "room_id": "1637940733024265127",
+  "name_raw": "Tiny home in Tegalalang - Private Pool Villa in The Rice fields of Ubud",
+  "price_raw": "Rp 5,774,230",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1637940733024265127",
+  "sub_district": "Tegallalang",
+  "latitude": -8.4622,
+  "longitude": 115.2669,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Terletak di pemandangan alam, tempat ini menawarkan pemandangan menakjubkan sawah yang indah dari kolam renang pribadi. Tempat ini dirancang untuk bersantai dengan fasilitas modern, dekorasi yang apik, dan cahaya alami untuk menciptakan suasana yang hangat dan memikat. Baik Anda menikmati pagi yang tenang di tepi kolam renang dengan pemandangan indahnya atau menjelajahi ladang-ladang di sekitarnya, unit yang damai ini menawarkan kenyamanan dan pengalaman yang tak terlupakan dengan koneksi ke ala",
+  "scraped_at": "2026-10-04T08:16:04Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1725368795457629145",
+  "name_raw": "Home in Nusa Penida - Stylish Tropical Private Villa | Walk to the Beach",
+  "price_raw": "Rp 15,903,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1725368795457629145",
+  "sub_district": "Nusa Penida",
+  "latitude": -8.6811,
+  "longitude": 115.5118,
+  "capacity": {
+    "guests": "8",
+    "bedrooms": "4",
+    "beds": "4",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di vila tropis modern kami, tempat peristirahatan yang tenang yang dirancang untuk kenyamanan, gaya, dan relaksasi. Memadukan arsitektur minimalis dengan suasana tropis yang hangat, tempat ini sangat cocok untuk keluarga, pasangan, atau sekelompok teman yang ingin menjelajahi keindahan Nusa Penida.\n\nVilla ini memiliki 4 kamar tidur. Dua kamar tidur berada di lantai dasar, masing-masing dilengkapi kamar mandi pribadi dengan bak mandi santai. Dua kamar tidur lainnya berada di lantai",
+  "scraped_at": "2026-10-04T08:35:57Z"
+}

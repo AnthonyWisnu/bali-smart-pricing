@@ -1,0 +1,37 @@
+{
+  "room_id": "1661618556057421269",
+  "name_raw": "Cottage in Karangasem - 2BR Joglo Homes in Amed | Private Garden Escape",
+  "price_raw": "Rp 6,500,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 3,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1661618556057421269",
+  "sub_district": "Kecamatan Karangasem",
+  "latitude": -8.3483,
+  "longitude": 115.6423,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Terletak di lembah Amed, Traditional Joglo Homes kami hanya 5 hingga 10 menit berkendara dari pantai dan pusat desa Amed. \n\nSangat cocok untuk pasangan atau keluarga kecil yang mencari kenyamanan modern yang dikelilingi alam. Nikmati suasana, bersantai, dan temukan Amed yang sesungguhnya.",
+  "scraped_at": "2026-10-04T08:33:05Z"
+}

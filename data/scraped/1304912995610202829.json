@@ -1,0 +1,37 @@
+{
+  "room_id": "1304912995610202829",
+  "name_raw": "Home in Kecamatan Denpasar Selatan - 1bd house Sanur",
+  "price_raw": "Rp 2,442,377",
+  "rating_raw": "4.81",
+  "review_count_raw": 32,
+  "regency": "Kota Denpasar",
+  "url": "https://www.airbnb.com/rooms/1304912995610202829",
+  "sub_district": "Kecamatan Denpasar Selatan",
+  "latitude": -8.70786,
+  "longitude": 115.23981,
+  "capacity": {
+    "guests": "3",
+    "bedrooms": "1",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di rumah kecil kami yang nyaman, yang terletak hanya 5 menit berkendara sepeda ke pantai Sanur.\n\nRumah menawan ini menawarkan perpaduan yang menyenangkan antara kenyamanan dan kemudahan untuk masa inap Anda. Tempat ini memiliki dapur lengkap di mana Anda bisa menyiapkan makanan favorit Anda, meja untuk menikmati kreasi kuliner Anda, dan tempat tidur ganda untuk tidur malam yang nyenyak.",
+  "scraped_at": "2026-10-04T08:08:25Z"
+}

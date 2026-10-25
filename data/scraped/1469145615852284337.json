@@ -1,0 +1,37 @@
+{
+  "room_id": "1469145615852284337",
+  "name_raw": "Cabin in Tegalalang - New | 1BR jungle view | rolling bed| private pool",
+  "price_raw": "Rp 6,918,386",
+  "rating_raw": "4.88",
+  "review_count_raw": 80,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1469145615852284337",
+  "sub_district": "Tegallalang",
+  "latitude": -8.38511,
+  "longitude": 115.28822,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Tenang saja di tempat liburan yang unik dan tenang ini.",
+  "scraped_at": "2026-10-04T08:13:26Z"
+}

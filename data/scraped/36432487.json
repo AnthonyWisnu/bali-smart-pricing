@@ -1,0 +1,37 @@
+{
+  "room_id": "36432487",
+  "name_raw": "Villa in Seririt - Oceanfront Villa Cahaya 2 Bed/2 Bath, Private Pool",
+  "price_raw": "Rp 18,989,081",
+  "rating_raw": "4.81",
+  "review_count_raw": 43,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/36432487",
+  "sub_district": "Seririt",
+  "latitude": -8.1836,
+  "longitude": 114.9209,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa Cahaya adalah milik Bali Sea Villas dan menawarkan pengalaman menginap yang luar biasa untuk hingga 4 orang, kolam renang pribadi besar, taman tropis, dan berlokasi langsung di pantai dengan tepi pantai 60 meter. Anda memiliki pemandangan indah laut Bali, perahu nelayan, dan nelayan.\n\nStaf domestik sendiri.\nTermasuk semua pajak, perlengkapan tempat tidur dan handuk, kopi, teh, dan air minum.\n\nDatang dan bersantai di utara Bali yang autentik dan indah, 20 menit dari Lovina.",
+  "scraped_at": "2026-10-04T08:29:35Z"
+}

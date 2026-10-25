@@ -1,0 +1,37 @@
+{
+  "room_id": "1467824345896224520",
+  "name_raw": "Home in Kintamani - 2BR Omara Luxury Private Villa - Mountain View",
+  "price_raw": "Rp 40,375,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 21,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1467824345896224520",
+  "sub_district": "Kintamani",
+  "latitude": -8.2564,
+  "longitude": 115.3471,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "25",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berliburlah ke vila pribadi mewah kami di Kintamani! Berlokasi di lanskap UNESCO, nikmati privasi penuh dan pemandangan matahari terbit yang menakjubkan di atas Gunung Batur yang megah.\n\nSorotan ✨ Vila:\n• Pemandangan matahari terbit & pegunungan yang menakjubkan\n• Termasuk sarapan gratis\n• Tersedia layanan koki pribadi & BBQ\n• Akses cepat ke kafe-kafe terbaik di Kintamani\n\nRasakan perpaduan sempurna antara kedamaian, alam, dan kemewahan. Tempat peristirahatan pegunungan Anda yang tak terlupakan ",
+  "scraped_at": "2026-10-04T08:10:33Z"
+}

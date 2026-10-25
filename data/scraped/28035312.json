@@ -1,0 +1,37 @@
+{
+  "room_id": "28035312",
+  "name_raw": "Villa in Kerobokan - 1BR Private Villa Close Seminyak, Quiet & Romantic",
+  "price_raw": "Rp 9,450,000",
+  "rating_raw": "4.91",
+  "review_count_raw": 114,
+  "regency": "Kota Denpasar",
+  "url": "https://www.airbnb.com/rooms/28035312",
+  "sub_district": "Kerobokan",
+  "latitude": -8.6531,
+  "longitude": 115.1764,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berliburlah ke Vila Satu Kamar Tidur bergaya ini di Kerobokan yang damai, hanya beberapa menit dari Seminyak. Sangat cocok untuk pasangan atau keluarga kecil, tempat ini memiliki kolam renang pribadi berukuran 3x3m, kamar tidur yang luas dengan akses kolam renang langsung, kamar mandi en suite, pantry, dan ruang tamu yang nyaman. Memadukan kenyamanan modern dengan pesona Bali, vila ini menawarkan layanan yang hangat dan penuh perhatian. Peralatan bayi tersedia sesuai permintaan (biaya tambahan).",
+  "scraped_at": "2026-10-04T08:07:42Z"
+}

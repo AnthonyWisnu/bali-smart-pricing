@@ -1,0 +1,37 @@
+{
+  "room_id": "1359024631431762961",
+  "name_raw": "Guesthouse in Pekutatan - Medewi Sunrise | Queen Room | 4 min from Surf",
+  "price_raw": "Rp 2,282,354",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1359024631431762961",
+  "sub_district": "Kecamatan Pekutatan",
+  "latitude": -8.41662,
+  "longitude": 114.81632,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Medewi Sunrise unik baik di lokasi maupun desainnya. Kami telah menciptakan tempat yang menggabungkan arsitektur tradisional Bali dengan interior modern. Karena, kami benar - benar percaya bahwa inilah inti dari pulau ini, tempat yang luar biasa di mana Timur bertemu dengan Barat dan mereka ada dalam harmoni.",
+  "scraped_at": "2026-10-04T08:29:36Z"
+}

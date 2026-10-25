@@ -1,0 +1,37 @@
+{
+  "room_id": "1712333309811872266",
+  "name_raw": "Home in Ubud - Brand New 3BR Villa in Ubud | Luxury Private Pool",
+  "price_raw": "Rp 15,756,868",
+  "rating_raw": "5.0",
+  "review_count_raw": 11,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1712333309811872266",
+  "sub_district": "Ubud",
+  "latitude": -8.487,
+  "longitude": 115.2698,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nikmati liburan di vila mewah 3 kamar tidur kami yang baru di Ubud yang tenang, sempurna untuk keluarga dan kelompok kecil. Vila ini memiliki 3 kamar tidur dengan kamar mandi dalam, ruang tamu yang luas, dapur lengkap, dan kolam renang pribadi yang dikelilingi oleh tanaman tropis. Nikmati kenyamanan, privasi, dan suasana santai sambil tetap dekat dengan kafe, restoran, atraksi budaya, dan sawah terkenal di Ubud. Rumah kedua Anda yang sempurna untuk liburan Bali yang tak terlupakan. 🌿✨",
+  "scraped_at": "2026-10-04T08:18:23Z"
+}

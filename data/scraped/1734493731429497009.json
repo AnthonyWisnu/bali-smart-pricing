@@ -1,0 +1,37 @@
+{
+  "room_id": "1734493731429497009",
+  "name_raw": "Villa in Ubud - Private Pool Duplex Villa • ANGIN • Ubud 1",
+  "price_raw": "Rp 8,122,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1734493731429497009",
+  "sub_district": "Ubud",
+  "latitude": -8.5277,
+  "longitude": 115.2687,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Ada tempat-tempat di mana Anda hanya tidur… dan tempat-tempat lain di mana Anda meluangkan waktu untuk menjalani pengalaman yang tak terlupakan…\nSelamat datang di Villa ANGIN (Angin), salah satu dari empat vila pribadi di \"Villas Elemara Ubud\", yang terinspirasi oleh 4 elemen: angin, api, air, dan bumi.\nVilla ANGIN adalah duplex elegan seluas 85 meter persegi yang memiliki 2 kamar tidur, 2 kamar mandi, kolam renang, dan teras yang menghadap ke sawah. Vila ini dirancang untuk menawarkan ketenanga",
+  "scraped_at": "2026-10-04T08:19:17Z"
+}

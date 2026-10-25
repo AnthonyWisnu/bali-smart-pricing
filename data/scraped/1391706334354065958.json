@@ -1,0 +1,37 @@
+{
+  "room_id": "1391706334354065958",
+  "name_raw": "Condo in Pekutatan - Oceanfront Medewi Beach Bungalow",
+  "price_raw": "Rp 3,846,215",
+  "rating_raw": "4.83",
+  "review_count_raw": 6,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1391706334354065958",
+  "sub_district": "Pekutatan",
+  "latitude": -8.4188,
+  "longitude": 114.8054,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "3",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bangunlah dengan suara ombak dan pemandangan laut yang indah di bungalo tepi pantai kami yang super luas namun nyaman di Medewi, Bali. Permata tersembunyi ini menawarkan liburan yang sempurna bagi peselancar dan wisatawan yang mencari relaksasi, petualangan, dan pengalaman pulau sejati tepat di depan titik selancar Medewi. Hander kiri terpanjang di Bali. \n\nBungalo pantai pedesaan yang menawan ini dirancang untuk peselancar dan mereka yang menyukai Laut dan alam.",
+  "scraped_at": "2026-10-04T08:28:01Z"
+}

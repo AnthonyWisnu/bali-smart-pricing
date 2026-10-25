@@ -1,0 +1,37 @@
+{
+  "room_id": "1541976976858086233",
+  "name_raw": "Cabin in Tegalalang - Swargana cabin",
+  "price_raw": "Rp 7,251,605",
+  "rating_raw": "5.0",
+  "review_count_raw": 65,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1541976976858086233",
+  "sub_district": "Tegallalang",
+  "latitude": -8.41197,
+  "longitude": 115.28421,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bersantai di tempat liburan unik dan tenteram ini.",
+  "scraped_at": "2026-10-04T08:10:58Z"
+}

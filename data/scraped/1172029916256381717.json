@@ -1,0 +1,37 @@
+{
+  "room_id": "1172029916256381717",
+  "name_raw": "Home in Manggis - Twins House Hideaway: Your Home Away From Home.",
+  "price_raw": "Rp 2,892,682",
+  "rating_raw": "4.93",
+  "review_count_raw": 15,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1172029916256381717",
+  "sub_district": "Kecamatan Manggis",
+  "latitude": -8.50446,
+  "longitude": 115.56299,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "3",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Halo, saya Kadek! Saya sangat senang menyambut tamu ke rumah saya yang baru direnovasi. Saya memadukan pesona Bali dengan desain Eropa untuk menciptakan ruang yang santai dan unik. Rumah saya sangat cocok untuk keluarga atau pasangan, dengan fasilitas modern seperti AC, Wi - Fi, dan banyak lagi. Baik Anda di sini untuk masa inap singkat atau kunjungan lebih lama, saya dengan senang hati menawarkan rekomendasi lokal dan memastikan Anda mendapatkan pengalaman yang nyaman dan berkesan!  Dengan peng",
+  "scraped_at": "2026-10-04T08:32:44Z"
+}

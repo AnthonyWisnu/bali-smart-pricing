@@ -1,0 +1,37 @@
+{
+  "room_id": "804500531341322206",
+  "name_raw": "Vacation home in Kintamani - Cabin Okana",
+  "price_raw": "Rp 13,823,534",
+  "rating_raw": "4.65",
+  "review_count_raw": 23,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/804500531341322206",
+  "sub_district": "Kecamatan Kintamani",
+  "latitude": -8.2559,
+  "longitude": 115.3365,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Kabin bergaya kastil yang unik ini berada di area kaldera Gunung Batur, dengan pemandangan yang tidak terhalang sehingga Anda bisa melihat 3 gunung di Bali.  Gunung Batur, Gunung Abang dan Gunung Agung dan juga Danau Batu \nJangan lupa menikmati suasana matahari terbit, jika Anda beruntung terkadang kabut hanya menutupi area danau di bawahnya, sehingga kabin terasa Anda berada di atas awan\nAda banyak aktivitas yang dapat Anda ikuti: mendaki Gunung Batur, offroad dengan ATV atau 4WD, memancing dan",
+  "scraped_at": "2026-10-04T08:13:56Z"
+}

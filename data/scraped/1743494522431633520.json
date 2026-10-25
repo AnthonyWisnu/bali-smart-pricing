@@ -1,0 +1,37 @@
+{
+  "room_id": "1743494522431633520",
+  "name_raw": "Home in Nusa Penida - Nestled in the heart of Nusa Penida",
+  "price_raw": "Rp 15,000,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1743494522431633520",
+  "sub_district": "Nusa Penida",
+  "latitude": -8.6822,
+  "longitude": 115.5138,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "3",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Terletak di pusat Nusa Penida, One Villa menawarkan tempat peristirahatan tropis yang damai, di mana kenyamanan, privasi, dan suasana santai menciptakan tempat yang sempurna untuk bersantai.",
+  "scraped_at": "2026-10-04T08:37:39Z"
+}

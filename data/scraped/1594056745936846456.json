@@ -1,0 +1,37 @@
+{
+  "room_id": "1594056745936846456",
+  "name_raw": "Bungalow in Karangasem - Ocean View 2 bedrooms Bungalow with Breakfast",
+  "price_raw": "Rp 5,620,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 4,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1594056745936846456",
+  "sub_district": "Kecamatan Karangasem",
+  "latitude": -8.50439,
+  "longitude": 115.59808,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "5"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berliburlah ke tempat peristirahatan tepi pantai yang tenang di Bali Timur, hanya 5–8 menit dari Pantai Virgin. \n\nBungalo 2KT kami yang luas menawarkan kamar ber-AC, 1,5 kamar mandi, dapur kecil, teras pribadi, dan air minum yang difilter. Nikmati layanan kebersihan harian dan 1x sarapan yang sudah termasuk untuk 2 tamu. \n\nBersantai di tepi kolam renang bersama atau restoran tepi pantai sambil menikmati pesona autentik dan ketenangan Karangasem.",
+  "scraped_at": "2026-10-04T08:33:10Z"
+}

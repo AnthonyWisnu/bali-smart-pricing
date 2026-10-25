@@ -1,0 +1,37 @@
+{
+  "room_id": "771105068572614496",
+  "name_raw": "Cabin in Semarapura - Dreamy Cliffside Bamboo Villa with Pool and View",
+  "price_raw": "Rp 35,778,740",
+  "rating_raw": "4.97",
+  "review_count_raw": 297,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/771105068572614496",
+  "sub_district": "Klungkung",
+  "latitude": -8.4756,
+  "longitude": 115.4083,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Mengalami Avana Curve Bamboo Villa menciptakan kenangan yang bertahan seumur hidup. Menghadap pemandangan terbaik di Bali, The Curve Villa menyambut Anda dengan pemandangan yang memukau. Bertengger di sepanjang tebing tinggi, The Curve Villa menawarkan pemandangan Gunung Agung Volcano di sebelah kiri dan Samudra Hindia di sebelah kanan. Terletak di bawah vila adalah lembah teras padi yang indah dan luas dengan sungai Ayung mengalir melewatinya. Semua bentang alam Bali dirangkum dalam satu pemand",
+  "scraped_at": "2026-10-04T08:33:15Z"
+}

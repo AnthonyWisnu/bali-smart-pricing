@@ -1,0 +1,37 @@
+{
+  "room_id": "1162631294839435986",
+  "name_raw": "Guesthouse in Nusa Penida - Affordable Wooden Cabin with Pool in Nusa Penida",
+  "price_raw": "Rp 2,407,500",
+  "rating_raw": "4.8",
+  "review_count_raw": 253,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1162631294839435986",
+  "sub_district": "Kecamatan Nusa Penida",
+  "latitude": -8.7128,
+  "longitude": 115.5011,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berliburlah ke tempat peristirahatan Gati Cottage yang tenang, yang terletak di pusat Nusa Penida. Guesthouse kami yang nyaman menawarkan perpaduan sempurna antara kenyamanan, kemudahan, dan relaksasi.\nKamar ini dilengkapi dengan kamar mandi pribadi, AC, dan WiFi gratis, memastikan masa inap yang nyaman bagi tamu kami. Area parkir yang luas menyediakan ruang yang cukup untuk kendaraan Anda.\nGati Cottage dirancang untuk membuat Anda merasa seperti di rumah, dengan kehangatan dan keramahtamahan ya",
+  "scraped_at": "2026-10-04T08:37:29Z"
+}

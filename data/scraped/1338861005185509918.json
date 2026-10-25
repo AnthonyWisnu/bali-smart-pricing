@@ -1,0 +1,37 @@
+{
+  "room_id": "1338861005185509918",
+  "name_raw": "Home in Nusa Penida - Lime villa",
+  "price_raw": "Rp 11,577,000",
+  "rating_raw": "4.87",
+  "review_count_raw": 15,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1338861005185509918",
+  "sub_district": "Kecamatan Nusa Penida",
+  "latitude": -8.6763,
+  "longitude": 115.5127,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "1",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Vila 2 kamar tidur yang nyaman di Nusa Penida, menampilkan kolam renang pribadi, dapur lengkap, teras yang luas, dan area lounge santai. Dikelilingi oleh kehijauan yang rindang, vila ini menawarkan tempat peristirahatan yang tenang bagi tamu yang mencari kenyamanan dan ketenangan. Cocok untuk keluarga atau rombongan kecil yang ingin bersantai di lingkungan tropis.",
+  "scraped_at": "2026-10-04T08:38:17Z"
+}

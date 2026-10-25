@@ -1,0 +1,37 @@
+{
+  "room_id": "1704849004723185133",
+  "name_raw": "Home in Selat - Mantra Bamboo Retreat Near Sidemen private pool",
+  "price_raw": "Rp 9,063,296",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1704849004723185133",
+  "sub_district": "Selat",
+  "latitude": -8.4506,
+  "longitude": 115.4834,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rumah Peristirahatan Mantra Bamboo\n\nTerletak di tengah sawah yang rindang di Bali, Mantra Bamboo Retreat menawarkan liburan yang damai dengan pemandangan Gunung Agung yang menakjubkan. Dibangun seluruhnya dari bambu, vila ini memiliki kolam renang pribadi, udara pegunungan yang segar, suara burung, dan pesona pedesaan yang autentik. Saksikan petani lokal memanen padi dan rasakan semangat Bali yang sesungguhnya.",
+  "scraped_at": "2026-10-04T08:35:44Z"
+}

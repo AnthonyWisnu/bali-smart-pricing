@@ -1,0 +1,37 @@
+{
+  "room_id": "1604098738621339212",
+  "name_raw": "Villa in Ubud - Luxe 6BR Jungle Villa | Hot Tub, Cinema & Slide",
+  "price_raw": "Rp 62,498,301",
+  "rating_raw": "4.88",
+  "review_count_raw": 17,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1604098738621339212",
+  "sub_district": "Ubud",
+  "latitude": -8.5392,
+  "longitude": 115.2644,
+  "capacity": {
+    "guests": "12",
+    "bedrooms": "6",
+    "beds": "6",
+    "baths": "6"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 0,
+    "has_view": 1
+  },
+  "description": "Sweet Birds menyambut Anda ke tempat liburan hutan 6 kamar tidur yang dirancang dengan indah di pusat kota Ubud, di mana alam, kenyamanan, dan kesenangan berpadu dalam keseimbangan yang sempurna.\n\nSeluncur ke kolam renang pribadi, bersantai di bak mandi air panas, nikmati malam film di bioskop Anda sendiri, lalu pergilah ke teras atap dengan meja kolam renang untuk malam yang santai.\n\nDirancang untuk keluarga dan rombongan, vila ini dibuat untuk momen bersama, tawa, dan kenangan Bali yang tak te",
+  "scraped_at": "2026-10-04T08:21:09Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "899460385146085542",
+  "name_raw": "Tiny home in Bebandem - Panoramic",
+  "price_raw": "Rp 5,921,381",
+  "rating_raw": "4.88",
+  "review_count_raw": 69,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/899460385146085542",
+  "sub_district": "Karangasem",
+  "latitude": -8.4728,
+  "longitude": 115.59293,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "kami berlokasi di vila terpencil yang terletak jauh di dalam alam, dengan Pemandangan Gunung dan Sawah. Menawarkan liburan yang tenang dari dunia luar. Vila ini dikelilingi oleh kehijauan yang rimbun, pepohonan yang menjulang tinggi, dan suara alam yang menenangkan.   \n\nDirancang untuk mereka yang mencari kedamaian dan privasi, vila ini menyatu dengan lingkungan alaminya, menampilkan ruang terbuka yang mengundang udara segar dan cahaya alami. \n\nSangat cocok untuk pecinta alam, seniman, dan merek",
+  "scraped_at": "2026-10-04T08:30:39Z"
+}

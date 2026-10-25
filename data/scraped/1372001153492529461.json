@@ -1,0 +1,37 @@
+{
+  "room_id": "1372001153492529461",
+  "name_raw": "Villa in kec.Ubud - Romansa villa , stylish jungle pool villa (new)",
+  "price_raw": "Rp 9,924,450",
+  "rating_raw": "5.0",
+  "review_count_raw": 55,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1372001153492529461",
+  "sub_district": "kec.Ubud",
+  "latitude": -8.4921,
+  "longitude": 115.2477,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Terletak di lingkungan yang tenang dan indah, vila Anda dikelilingi oleh hutan hijau subur dan sawah di luar, vila ini menawarkan pelarian yang tenang dari hiruk pikuk kehidupan sehari-hari\nKeluarlah, berjalan-jalanlah melalui sawah, dan temui petani lokal dan aktivitas mereka\nSetiap pagi Anda dapat mendengar kicauan burung dan saat matahari terbit Anda dapat melihat gunung agung dari luar vila Anda\nVila Anda lebih dari sekadar tempat menginap\nPengalaman yang tak terlupakan",
+  "scraped_at": "2026-10-04T08:20:16Z"
+}

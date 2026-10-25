@@ -1,0 +1,37 @@
+{
+  "room_id": "1143199369576261756",
+  "name_raw": "Villa in Melaya - 3BR Villa by the Beach - Renovated Joglo Style",
+  "price_raw": "Rp 23,906,250",
+  "rating_raw": "5.0",
+  "review_count_raw": 3,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1143199369576261756",
+  "sub_district": "Melaya",
+  "latitude": -8.2327,
+  "longitude": 114.4596,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "4",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa kolam renang 3 kamar tidur yang indah ini terletak tepat di tepi pantai, menawarkan tempat liburan yang tenang dengan akses pantai langsung, kolam renang pribadi 15x5m dan taman tropis yang luas. Tim staf khusus tersedia untuk memastikan masa inap yang lancar dan santai.\n\nDirenovasi pada bulan April 2025, vila ini memiliki desain bergaya joglo yang menawan yang memadukan karakter tradisional dengan kenyamanan modern. Nikmati area tamu, ruang makan, dan dapur lengkap, cocok untuk liburan te",
+  "scraped_at": "2026-10-04T08:23:47Z"
+}

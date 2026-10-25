@@ -1,0 +1,37 @@
+{
+  "room_id": "1026526512807568372",
+  "name_raw": "Room in Payangan - 15% OFF | Riverside Forest Escape Sanctuary",
+  "price_raw": "Rp 3,800,396",
+  "rating_raw": "4.82",
+  "review_count_raw": 160,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1026526512807568372",
+  "sub_district": "Kecamatan Payangan",
+  "latitude": -8.41473,
+  "longitude": 115.244,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Sepotong surga tersembunyi menanti di Sacred Beji. Terletak di atas Sungai Giri Kusuma yang suci, berakar kuat dalam budaya Bali, tempat peristirahatan yang damai ini dikelilingi oleh hutan rimbun dan sawah. Empat chalet hutan pribadi di atas tiang pancang menawarkan privasi lengkap dan koneksi sejati dengan alam. Tidur dengan aliran air, kicauan burung, dan irama hutan yang menenangkan, dan bangun dengan perasaan segar dan pulih.",
+  "scraped_at": "2026-10-04T08:11:34Z"
+}

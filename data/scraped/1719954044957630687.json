@@ -1,0 +1,37 @@
+{
+  "room_id": "1719954044957630687",
+  "name_raw": "Villa in Ubud - Villa Abhyanga : 5BR Private Pool, Gym & Billiard",
+  "price_raw": "Rp 29,634,101",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1719954044957630687",
+  "sub_district": "Ubud",
+  "latitude": -8.5069,
+  "longitude": 115.2943,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "5",
+    "beds": "5",
+    "baths": "5"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di Villa Abhyanga di Pejeng, sebuah vila dengan lima kamar tidur terpisah, kolam renang pribadi dengan air mancur, meja biliar, dan gym pribadi yang berlokasi hanya lima belas menit dari pusat Ubud. Pilihan ideal untuk liburan keluarga, berkumpul bersama sahabat, maupun corporate retreat.",
+  "scraped_at": "2026-10-04T08:12:48Z"
+}

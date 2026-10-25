@@ -1,0 +1,37 @@
+{
+  "room_id": "1427255279783183204",
+  "name_raw": "Hotel in Nusa Penida - Serene Ocean View Getaway - Samplangan Resort",
+  "price_raw": "Rp 7,397,540",
+  "rating_raw": "4.9",
+  "review_count_raw": 31,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1427255279783183204",
+  "sub_district": "Nusa Penida",
+  "latitude": -8.69463,
+  "longitude": 115.55102,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Tempat berlindung bintang lima yang mendefinisikan kembali kemewahan selaras dengan alam. Menawarkan pemandangan panorama Samudra biru kehijauan dan perbukitan pulau yang indah, tempat peristirahatan eksklusif ini adalah tempat keanggunan bertemu keindahan yang belum tersentuh.\n\nSetiap kamar pribadi kami adalah tempat yang penuh ketenangan, menampilkan kolam renang infinity, kamar mandi terbuka, dan tradisi rumah kayu buatan tangan dengan kenyamanan kontemporer. Bangun dengan suara alam dan buru",
+  "scraped_at": "2026-10-04T08:36:41Z"
+}

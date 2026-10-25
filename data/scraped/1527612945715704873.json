@@ -1,0 +1,37 @@
+{
+  "room_id": "1527612945715704873",
+  "name_raw": "Cabin in Penebel - Villa Sacre",
+  "price_raw": "Rp 27,405,000",
+  "rating_raw": "4.91",
+  "review_count_raw": 34,
+  "regency": "Kabupaten Tabanan",
+  "url": "https://www.airbnb.com/rooms/1527612945715704873",
+  "sub_district": "Penebel",
+  "latitude": -8.37229,
+  "longitude": 115.14399,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": null,
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa Sacre — tempat peristirahatan arsitektur unik di pusat kota Jatiluwih.\nMenggabungkan bahan tradisional Bali – kayu ulin dan atap alang-alang – dengan desain kontemporer, tempat ini berada di antara teras sawah UNESCO, gunung berapi, dan hutan rimbun. Hanya berjarak 100 m dari air terjun dan jalur trekking. Villa ini memiliki sauna, kolam air panas dan dingin.",
+  "scraped_at": "2026-10-04T08:38:33Z"
+}

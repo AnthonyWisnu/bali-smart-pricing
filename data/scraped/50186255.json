@@ -1,0 +1,37 @@
+{
+  "room_id": "50186255",
+  "name_raw": "Home in Manggis - Villa Candi",
+  "price_raw": "Rp 24,240,096",
+  "rating_raw": "4.9",
+  "review_count_raw": 52,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/50186255",
+  "sub_district": "Kecamatan Manggis",
+  "latitude": -8.5046,
+  "longitude": 115.5542,
+  "capacity": {
+    "guests": "9",
+    "bedrooms": "4",
+    "beds": "4",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa tradisional Bali di Candidasa, hanya 2 menit dari pantai dan restoran. Dengan 4 kamar tidur, 3 kamar mandi, dan sofa bed, dapat menampung 8–9 tamu. Nikmati kolam renang pribadi, taman tropis, gazebo, biliar, tenis meja, dan permainan papan. Dihiasi seni Bali, dengan dapur lengkap dan Wi-Fi (tanpa TV), villa ini sempurna untuk keluarga atau grup yang ingin bersantai dan bersenang-senang bersama.",
+  "scraped_at": "2026-10-04T08:33:54Z"
+}

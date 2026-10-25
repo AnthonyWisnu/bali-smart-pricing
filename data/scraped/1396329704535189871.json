@@ -1,0 +1,37 @@
+{
+  "room_id": "1396329704535189871",
+  "name_raw": "Home in Manggis - Villa 3 rooms pool ocean",
+  "price_raw": "Rp 8,986,769",
+  "rating_raw": "5.0",
+  "review_count_raw": 5,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1396329704535189871",
+  "sub_district": "Manggis",
+  "latitude": -8.51109,
+  "longitude": 115.57793,
+  "capacity": {
+    "guests": "8",
+    "bedrooms": "3",
+    "beds": "4",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Hanya setelah renovasi pada April 2026\n\n3 kamar terpisah dengan kamar mandi pribadi\ndilengkapi dengan kipas angin langit-langit dan AC. \nVila ini bisa menampung hingga 8 orang dengan nyaman, ada tempat tidur bayi berukuran 100x120 cm.\n\nAda ruang tamu yang luas, dapur yang dilengkapi dengan semua yang diperlukan untuk memasak (kompor gas, microwave, pemanggang roti, blender, ketel, kulkas), fasilitas barbeku, kolam renang pribadi, taman, dan gazebo yoga.",
+  "scraped_at": "2026-10-04T08:35:25Z"
+}

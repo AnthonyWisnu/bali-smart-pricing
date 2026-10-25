@@ -1,0 +1,37 @@
+{
+  "room_id": "1387267",
+  "name_raw": "Villa in Ubud - Rumah Capung Ubud Full Resort (3 Villas)",
+  "price_raw": "Rp 17,889,370",
+  "rating_raw": "4.92",
+  "review_count_raw": 157,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1387267",
+  "sub_district": "Ubud",
+  "latitude": -8.49111,
+  "longitude": 115.28262,
+  "capacity": {
+    "guests": "3",
+    "bedrooms": "3",
+    "beds": "6",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Terletak 10 menit ke Ubud, Staf Berbahasa Inggris. Rumah Capung Ubud terdiri dari 3 kamar tidur joglos terpisah dengan jati & marmer, yang telah dirancang ulang untuk kenyamanan dan kejelasan, makan pribadi di dek, kamar mandi taman, kolam air garam dengan nampan sarapan, pijat bale, dan BANYAK LAGI !",
+  "scraped_at": "2026-10-04T08:22:46Z"
+}

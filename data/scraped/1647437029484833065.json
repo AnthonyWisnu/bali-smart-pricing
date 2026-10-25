@@ -1,0 +1,37 @@
+{
+  "room_id": "1647437029484833065",
+  "name_raw": "Villa in Nusa Penida - Bayrin Villa: Private Pool & Majestic Jungle Views",
+  "price_raw": "Rp 10,867,500",
+  "rating_raw": "4.84",
+  "review_count_raw": 44,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1647437029484833065",
+  "sub_district": "Nusa Penida",
+  "latitude": -8.6858,
+  "longitude": 115.4891,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat Datang di Bayrin Private Villa – Tempat Perlindungan Tropis Tersembunyi Anda\n\nBerliburlah ke dunia tempat kemewahan modern berpadu dengan keindahan alam yang alami. Bayrin Private Villa adalah tempat peristirahatan satu kamar tidur yang menakjubkan dan dirancang dengan cermat, menawarkan privasi penuh dan pemandangan hutan rimba Bali yang subur dan meriah yang memukau dan tidak terhalang. Dirancang dengan sempurna untuk pasangan atau wisatawan solo yang mencari ketenangan, vila ini adala",
+  "scraped_at": "2026-10-04T08:36:27Z"
+}

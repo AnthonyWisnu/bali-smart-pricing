@@ -1,0 +1,37 @@
+{
+  "room_id": "629409402436702768",
+  "name_raw": "Villa in Abang - Villa Asri Amed - Villa Padi",
+  "price_raw": "Rp 7,871,325",
+  "rating_raw": "4.86",
+  "review_count_raw": 118,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/629409402436702768",
+  "sub_district": "Kecamatan Abang",
+  "latitude": -8.3777,
+  "longitude": 115.6611,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa Asri Amed - Villa Padi adalah tempat pelarian sempurna Anda. Terletak di perbukitan di atas Amed, Anda akan memiliki waktu yang tepat untuk bersantai dan melepas penat dengan pemandangan teras sawah tanpa gangguan. \n\nMenampilkan vila 2 kamar tidur, 2 kamar mandi yang nyaman menampung empat orang,  ini adalah kesempatan sempurna Anda untuk bersantai di Amed.\n\nBangun mendengar suara Bali yang sesungguhnya. Nikmati hari scuba diving, snorkeling, mengendarai sepeda motor Anda atau menikmati ba",
+  "scraped_at": "2026-10-04T08:31:49Z"
+}

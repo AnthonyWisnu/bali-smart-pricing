@@ -1,0 +1,37 @@
+{
+  "room_id": "1741218157146148602",
+  "name_raw": "Guest suite in Tegalalang - Tranquil 2BR Flat in Central Ubud w Pool & Kitchen",
+  "price_raw": "Rp 9,538,308",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1741218157146148602",
+  "sub_district": "Tegallalang",
+  "latitude": -8.4768,
+  "longitude": 115.2635,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Dragon Stone Apartment di Ubud\n• 2 kamar tidur bergaya dengan AC dan tempat tidur king-size\n• Kamar mandi modern dengan perlengkapan mandi premium, sandal & pengering rambut\n• Dapur pribadi yang lengkap\n• Akses ke kolam renang bersama yang indah\n• Wi-Fi 150 Mbps\n• Pembersihan harian, termasuk handuk & seprai bersih\n• PS5 (tergantung ketersediaan), Netflix, perlengkapan bayi & pemanggang BBQ berdasarkan permintaan\n• Layanan concierge: skuter, transfer, spa & tur",
+  "scraped_at": "2026-10-04T08:22:13Z"
+}

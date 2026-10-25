@@ -1,0 +1,37 @@
+{
+  "room_id": "23454620",
+  "name_raw": "Guesthouse in Negara - Wooden+Bamboo Room -Medewi Surf Homestay-",
+  "price_raw": "Rp 1,312,354",
+  "rating_raw": "4.74",
+  "review_count_raw": 27,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/23454620",
+  "sub_district": "Jembrana",
+  "latitude": -8.41446,
+  "longitude": 114.81157,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bambu+ Kamar kayu dengan kipas angin, satu tempat tidur berukuran king, dan kamar mandi di bagian luar. Kamar ini cocok untuk pasangan atau lajang yang menginginkan masa inap yang mudah. Kamar ini memiliki balkon dan pemandangan taman dan sawah yang indah.\nArea alam santai yang bagus di tengah pemandangan dengan keluarga penuh kasih yang selalu ada.",
+  "scraped_at": "2026-10-04T08:26:29Z"
+}

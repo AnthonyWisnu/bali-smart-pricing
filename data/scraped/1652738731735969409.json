@@ -1,0 +1,37 @@
+{
+  "room_id": "1652738731735969409",
+  "name_raw": "Home in Nusa Penida - Tropical Escape Villa · Pool, Volcano & Ocean View",
+  "price_raw": "Rp 15,698,114",
+  "rating_raw": "5.0",
+  "review_count_raw": 4,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1652738731735969409",
+  "sub_district": "Nusa Penida",
+  "latitude": -8.69421,
+  "longitude": 115.51694,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Vila tropis 2 kamar tidur yang penuh warna di atas bukit, dengan kolam renang pribadi dan pemandangan luas ke arah laut hingga Gunung Agung. \n\nAnda berada 10 menit dari restoran utama dan pusat penyelaman, namun dikelilingi oleh pepohonan hijau, sehingga terasa seperti oasis pribadi kecil Anda sendiri. \n\nRuang tamu dilengkapi AC dan dapur sendiri, kedua kamar tidur memiliki kamar mandi dalam, dan Wi-Fi fiber (100 Mb) berjalan cepat di seluruh area. \n\nKopi, teh, dan air disediakan oleh kami, dan ",
+  "scraped_at": "2026-10-04T08:36:48Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1259291149262463204",
+  "name_raw": "Room in Nusa Penida - Garden View at Nature Hill Penida",
+  "price_raw": "Rp 6,097,500",
+  "rating_raw": "4.94",
+  "review_count_raw": 388,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1259291149262463204",
+  "sub_district": "Nusa Penida",
+  "latitude": -8.6974,
+  "longitude": 115.5032,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berliburlah ke tempat peristirahatan lereng bukit kami yang mempesona di Nusa Penida, menawarkan pemandangan laut yang menakjubkan dan Gunung Agung yang megah.\n\nKabin kami yang nyaman terletak di perbukitan, hanya 15 menit dari pelabuhan dan 35 menit dari Pantai Klingking yang indah.\n\nNikmati kenyamanan tak tertandingi di salah satu rumah unik kami yang baru dibangun, yang dirancang untuk memberikan liburan yang tenang. Nikmati makanan lezat di restoran di lokasi kami, yang berlokasi strategis d",
+  "scraped_at": "2026-10-04T08:35:55Z"
+}

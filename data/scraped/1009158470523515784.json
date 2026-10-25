@@ -1,0 +1,37 @@
+{
+  "room_id": "1009158470523515784",
+  "name_raw": "Home in Negara - Kubu YR",
+  "price_raw": "Rp 1,363,500",
+  "rating_raw": "4.38",
+  "review_count_raw": 8,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1009158470523515784",
+  "sub_district": "Jembrana",
+  "latitude": -8.3533,
+  "longitude": 114.64141,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rumah 3 Kamar Tidur Bergaya Jepang di Jantung Persawahan 🌾\n\nNikmati keindahan kehidupan santai di rumah bergaya Jepang yang damai ini, dikelilingi oleh sawah hijau yang tak berujung dan pemandangan desa yang autentik.\n\nDirancang dengan mempertimbangkan kesederhanaan, elemen alam, dan kenyamanan, rumah 3 kamar tidur ini menawarkan suasana yang tenang dan pribadi—sangat cocok untuk tamu yang ingin bersantai, memulihkan diri, atau menikmati masa inap jangka panjang jauh dari keramaian.",
+  "scraped_at": "2026-10-04T08:23:42Z"
+}

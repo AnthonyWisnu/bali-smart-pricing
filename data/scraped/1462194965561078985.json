@@ -1,0 +1,37 @@
+{
+  "room_id": "1462194965561078985",
+  "name_raw": "Room in Sidemen - Serene priest homestay in Sidemen forest",
+  "price_raw": "Rp 3,293,262",
+  "rating_raw": "4.98",
+  "review_count_raw": 40,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1462194965561078985",
+  "sub_district": "Sidemen",
+  "latitude": -8.4738,
+  "longitude": 115.4428,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di wisma tamu baru yang dikelola oleh keluarga pendeta Bali yang baik. Kami menawarkan pengalaman homestay autentik dengan energi murni dari doa suci.\n\nNikmati masa inap yang tenang dan nyaman di samping hutan kuil. Silakan bergabung dengan doa para imam.\nIni akan menjadi pengalaman yang menghangatkan hati menginap di komplek keluarga tradisional dengan privasi yang dihormati dan rasa aman.\n\nBeristirahatlah di tempat tidur queen-size berkualitas dan nikmati sarapan yang terkenal. ",
+  "scraped_at": "2026-10-04T08:34:29Z"
+}

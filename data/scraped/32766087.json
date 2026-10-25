@@ -1,0 +1,37 @@
+{
+  "room_id": "32766087",
+  "name_raw": "Hotel room in Pekutatan - Medewi Manor: Garden View Apartment",
+  "price_raw": "Rp 3,742,097",
+  "rating_raw": "5.0",
+  "review_count_raw": 6,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/32766087",
+  "sub_district": "Pekutatan",
+  "latitude": -8.41766,
+  "longitude": 114.80605,
+  "capacity": {
+    "guests": "3",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "75 ribu dari AP. Apartemen Pemandangan Taman Medewi Manor adalah salah satu dari 3 apartemen berpendingin udara pribadi di kompleks dua lantai bangunan yang tenang Boutique Hotel. GVA memiliki Proyeksi Bioskop layar besar di kamar tidur, perpustakaan video/DVD besar, Wi Fi cepat tanpa batas, B/T Hi Fi, lantai marmer, kamar mandi marmer lengkap, Anda hanya perlu Dapur kecil/Area Makan, Kulkas/MW.   Termasuk: akses ke area bersama: kolam renang/dek berukuran 12 x 6m, ruang tunggu langit lantai 3 d",
+  "scraped_at": "2026-10-04T08:26:55Z"
+}

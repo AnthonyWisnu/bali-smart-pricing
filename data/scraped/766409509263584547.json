@@ -1,0 +1,37 @@
+{
+  "room_id": "766409509263584547",
+  "name_raw": "Home in Banjar - Villa in Banjar Singaraja IBI Bali",
+  "price_raw": "Rp 6,071,431",
+  "rating_raw": "4.87",
+  "review_count_raw": 63,
+  "regency": "Kabupaten Buleleng",
+  "url": "https://www.airbnb.com/rooms/766409509263584547",
+  "sub_district": "Kecamatan Banjar",
+  "latitude": -8.183,
+  "longitude": 114.9643,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "12",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Penginapan baru di Singaraja. Kami memiliki 5 villa dengan 12 kamar tidur. Bersantailah bersama seluruh keluarga dan rombongan di tempat menginap yang tenang ini. Dekat dengan perkebunan anggur dan pantai. Lingkungan yang bersih, kolam renang, halaman dan parkir yang luas dan kamar yang nyaman.",
+  "scraped_at": "2026-10-04T08:16:47Z"
+}

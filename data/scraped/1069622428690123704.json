@@ -1,0 +1,37 @@
+{
+  "room_id": "1069622428690123704",
+  "name_raw": "Hotel in Pekutatan - Bali Rejuvenate Resort & Restaurant",
+  "price_raw": "Rp 71,745,560",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1069622428690123704",
+  "sub_district": "Kecamatan Pekutatan",
+  "latitude": -8.45752,
+  "longitude": 114.90402,
+  "capacity": {
+    "guests": null,
+    "bedrooms": "8",
+    "beds": "16",
+    "baths": "12"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Destinasi pernikahan yang sempurna di Bali! Atau acara Perusahaan, Atau retret yoga atau retret CrossFit. Kami memiliki restoran, gym, kolam renang, bak mandi air panas, bak mandi air dingin, sauna, dan ruang uap! Semua tersedia di satu tempat. Dan ada pantai tempat Anda bisa berselancar!",
+  "scraped_at": "2026-10-04T08:27:01Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1729800268051839090",
+  "name_raw": "Room in Tembuku - The Grembeng Villa 1 | Peaceful Nature Villa",
+  "price_raw": "Rp 3,164,545",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1729800268051839090",
+  "sub_district": "Tembuku",
+  "latitude": -8.4567,
+  "longitude": 115.395,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rasakan pesona damai Bangli di The Grembeng Villa. Dikelilingi oleh pemandangan tropis yang rindang, vila ini memiliki kamar yang nyaman, kolam renang bersama, dan area makan luar ruangan yang luas dengan pemandangan alam yang indah. Memadukan kenyamanan modern dengan ketenangan pedesaan Bali, properti ini menawarkan suasana santai yang dikelilingi udara segar, pepohonan, dan keindahan autentik Desa Undisan.",
+  "scraped_at": "2026-10-04T08:14:02Z"
+}

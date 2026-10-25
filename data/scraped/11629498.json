@@ -1,0 +1,37 @@
+{
+  "room_id": "11629498",
+  "name_raw": "Villa in Bangli - D' Penglipuran Private Hidden Jungle House 1BR",
+  "price_raw": "Rp 2,773,010",
+  "rating_raw": "4.94",
+  "review_count_raw": 17,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/11629498",
+  "sub_district": "Kecamatan Bangli",
+  "latitude": -8.42717,
+  "longitude": 115.35695,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Beristirahatlah di vila pribadi yang menawan yang terletak di tengah alam yang rimbun di Penglipuran, Bali, yang dikenal sebagai salah satu desa terbersih di dunia. Tempat ini memiliki satu kamar tidur yang nyaman, dapur pribadi, dan kamar mandi luar ruangan yang dikelilingi alam. Tempat ini juga menawarkan masa inap yang damai dengan nuansa pedesaan Bali yang autentik. Bangun dengan udara pegunungan yang segar, pemandangan hutan bambu, dan matahari terbenam yang indah. Tempat ini cocok untuk pa",
+  "scraped_at": "2026-10-04T08:10:44Z"
+}

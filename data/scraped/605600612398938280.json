@@ -1,0 +1,37 @@
+{
+  "room_id": "605600612398938280",
+  "name_raw": "Home in Tembuku - One bedroom villa in nature ~Bangli (waterfall)",
+  "price_raw": "Rp 2,918,955",
+  "rating_raw": "4.85",
+  "review_count_raw": 183,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/605600612398938280",
+  "sub_district": "Tembuku",
+  "latitude": -8.4386,
+  "longitude": 115.3758,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Vila pribadi satu kamar tidur, dapat dicapai dengan berjalan kaki ke 3 air terjun yang sangat bagus (air terjun Goa Raja, air terjun Grudugan, dan air terjun Toyo Bulan) yang terletak di Kabupaten Bangli. Anda bisa menikmati masa inap dengan pemandangan taman pribadi, 10 menit ke Penglipuran, 10 menit ke air terjun Tukad Cepung, 35 menit ke Pura Besakih. Di vila kami, kami memiliki begitu banyak aktivitas alam tradisional setiap hari, area lintas alam, pemandangan sawah, aktivitas petani, dan An",
+  "scraped_at": "2026-10-04T08:11:32Z"
+}

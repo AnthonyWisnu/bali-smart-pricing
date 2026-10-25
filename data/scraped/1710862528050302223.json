@@ -1,0 +1,37 @@
+{
+  "room_id": "1710862528050302223",
+  "name_raw": "Room in Kecamatan Ubud - Serene Ubud Retreat with Pool | Deluxe 3",
+  "price_raw": "Rp 2,070,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1710862528050302223",
+  "sub_district": "Kecamatan Ubud",
+  "latitude": -8.5283,
+  "longitude": 115.2623,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nikmati ketenangan di Nagasari Bloom, tempat peristirahatan tropis yang damai di jantung Ubud. Bersantailah di kamar yang luas dengan balkon pribadi yang menghadap kolam renang dan taman yang rimbun. Nikmati tempat tidur king yang nyaman, kamar mandi modern, Wi-Fi cepat, dan suasana tenang yang sempurna untuk pasangan, pelancong solo, atau pekerja jarak jauh. Rasakan keramahan Bali yang autentik sambil menginap hanya beberapa menit dari atraksi utama Ubud.",
+  "scraped_at": "2026-10-04T08:21:36Z"
+}

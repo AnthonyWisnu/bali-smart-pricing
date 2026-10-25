@@ -1,0 +1,37 @@
+{
+  "room_id": "1725858651753755972",
+  "name_raw": "Villa in Pererenan - ANAKA | Modern 3BR Pool Villa Near Pererenan Beach",
+  "price_raw": "Rp 22,960,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 4,
+  "regency": "Kabupaten Badung",
+  "url": "https://www.airbnb.com/rooms/1725858651753755972",
+  "sub_district": "Pererenan",
+  "latitude": -8.63575,
+  "longitude": 115.13121,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Anggap seperti rumah sendiri di Villa Anaka, vila pribadi 3 kamar tidur yang baru dibangun dan dirancang untuk liburan keluarga yang santai dan liburan grup. \n\nNikmati hari-hari yang cerah bersama di tepi kolam renang pribadi sepanjang 8,4 m, bersantai di lounge yang lebih rendah, dan berkumpul untuk makan bersama keluarga dan menikmati malam film di ruang tamu tertutup penuh dengan AC. Dengan tiga kamar tidur ensuite berukuran king, taman tropis, dan fasilitas penting untuk keluarga yang tersed",
+  "scraped_at": "2026-10-04T08:09:21Z"
+}

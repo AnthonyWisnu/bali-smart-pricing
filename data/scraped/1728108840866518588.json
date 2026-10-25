@@ -1,0 +1,37 @@
+{
+  "room_id": "1728108840866518588",
+  "name_raw": "Home in Ubud - Daya Villa Ubud | 2BR Jungle Villa W/ Private Pool",
+  "price_raw": "Rp 23,117,124",
+  "rating_raw": "5.0",
+  "review_count_raw": 5,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1728108840866518588",
+  "sub_district": "Ubud",
+  "latitude": -8.4977,
+  "longitude": 115.2599,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Informasi Akses Penting: Daya Villa Ubud sengaja terletak di lingkungan hutan yang tenang, menawarkan privasi dan ketenangan penuh. Sekitar 2 km terakhir menuju villa hanya dapat diakses dengan sepeda motor. Tamu bisa menunggu di area yang nyaman, tempat tim kami akan membantu pengangkutan bagasi dengan sepeda motor. Tim kami akan menemui Anda di akses jalan utama ke vila untuk membantu membawa barang bawaan Anda dan menyediakan transportasi sepeda motor gratis untuk kedatangan, keberangkatan, d",
+  "scraped_at": "2026-10-04T08:16:35Z"
+}

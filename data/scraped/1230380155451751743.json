@@ -1,0 +1,37 @@
+{
+  "room_id": "1230380155451751743",
+  "name_raw": "Home in Pesinggahan - Villa Lilly Stopover",
+  "price_raw": "Rp 7,500,000",
+  "rating_raw": "4.98",
+  "review_count_raw": 41,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1230380155451751743",
+  "sub_district": "Pesinggahan",
+  "latitude": -8.5515,
+  "longitude": 115.4666,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rumah bertenaga surya kami Villa Lilly terletak di Desa Pesinggahan, 5 menit berjalan kaki dari Goa  Lawah dan pelanggaran (non - swimmable).   Ini adalah area rendah turis di mana Anda akan disuguhi pemandangan dan suara kehidupan desa Bali (termasuk panggilan ayam jantan pukul 5 pagi - Anda diperingatkan!)  Bagi mereka yang tertarik dengan pengalaman budaya Bali yang autentik, kami dapat mengatur pameran tari pemuda lokal, pelajaran, dan trekking berpemandu.  Termasuk sarapan tradisional Bali ",
+  "scraped_at": "2026-10-04T08:37:44Z"
+}

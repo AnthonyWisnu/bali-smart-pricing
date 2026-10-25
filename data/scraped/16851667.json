@@ -1,0 +1,37 @@
+{
+  "room_id": "16851667",
+  "name_raw": "Home in Seririt - Villa Altamera, Lovina, Seririt",
+  "price_raw": "Rp 12,715,210",
+  "rating_raw": "4.78",
+  "review_count_raw": 89,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/16851667",
+  "sub_district": "Seririt",
+  "latitude": -8.18488,
+  "longitude": 114.91307,
+  "capacity": {
+    "guests": "8",
+    "bedrooms": "4",
+    "beds": "6",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "masa inap minimum 2 malam. Villa ini berada tepat di  pantai dan memiliki pemandangan yang luar biasa. Anda akan menyukai vila ini dikarenakan pemandangan dan suasananya. Tempat yang ideal cocok untuk pasangan, petualang solo, dan pelawat bisnis. Anda akan menyewa secara eksklusif, tidak ada tamu lain.\nHarga standar untuk 2 orang, ada biaya ekstra untuk lebih banyak orang\nkami memiliki kamera cctv luar.\ntidak boleh mengadakan pesta.",
+  "scraped_at": "2026-10-04T08:29:08Z"
+}

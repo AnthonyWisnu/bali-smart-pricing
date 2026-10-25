@@ -1,0 +1,37 @@
+{
+  "room_id": "1517064835135480142",
+  "name_raw": "Home in Seririt - 2BR Villa in Buleleng w/ POOL near Umeanyar Beach",
+  "price_raw": "Rp 10,508,240",
+  "rating_raw": "4.88",
+  "review_count_raw": 8,
+  "regency": "Kabupaten Buleleng",
+  "url": "https://www.airbnb.com/rooms/1517064835135480142",
+  "sub_district": "Seririt",
+  "latitude": -8.19006,
+  "longitude": 114.91217,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa dengan pemandangan laut matahari terbenam dan jacuzzi - 700m dari pantai",
+  "scraped_at": "2026-10-04T08:17:43Z"
+}

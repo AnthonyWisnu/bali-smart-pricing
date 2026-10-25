@@ -1,0 +1,37 @@
+{
+  "room_id": "18215594",
+  "name_raw": "Cabin in Pupuan - Beautiful farmstay in nature/mountain",
+  "price_raw": "Rp 12,713,094",
+  "rating_raw": "4.75",
+  "review_count_raw": 112,
+  "regency": "Kabupaten Tabanan",
+  "url": "https://www.airbnb.com/rooms/18215594",
+  "sub_district": "Pupuan",
+  "latitude": -8.34769,
+  "longitude": 115.02258,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di Temuku Pupuan Farmstay! Beristirahat ke alam di rumah pertanian 3 kamar tidur kami, yang terletak di tengah hutan rimbun, sawah, dan perkebunan kopi di pegunungan Batukaru yang tenang di properti seluas 2,5 hektar. Rasakan peternakan organik unik kami dengan hewan ternak yang ramah, cocok untuk pecinta alam dan keluarga. Sofa dan tenda tidur ekstra tersedia sesuai dengan permintaan. \nHARAP PERHATIKAN: \nThis is a family run farmstay not a luxury resort (please read more at \"The ",
+  "scraped_at": "2026-10-04T08:38:35Z"
+}

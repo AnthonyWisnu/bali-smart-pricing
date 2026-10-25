@@ -1,0 +1,37 @@
+{
+  "room_id": "1175940526968819675",
+  "name_raw": "Apartment in Kecamatan Denpasar Selatan - The Garment Studio Mentari Apartment",
+  "price_raw": "Rp 2,247,595",
+  "rating_raw": "5.0",
+  "review_count_raw": 14,
+  "regency": "Kota Denpasar",
+  "url": "https://www.airbnb.com/rooms/1175940526968819675",
+  "sub_district": "Kecamatan Denpasar Selatan",
+  "latitude": -8.6867,
+  "longitude": 115.24057,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Dapatkan kenyamanan dan nikmati banyak ruang ekstra di tempat yang luas ini.",
+  "scraped_at": "2026-10-04T08:08:19Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1365657593055370575",
+  "name_raw": "Home in Sawan - ViLLa Kansana #3",
+  "price_raw": "Rp 2,282,354",
+  "rating_raw": "4.79",
+  "review_count_raw": 19,
+  "regency": "Kabupaten Buleleng",
+  "url": "https://www.airbnb.com/rooms/1365657593055370575",
+  "sub_district": "Kecamatan Sawan",
+  "latitude": -8.08435,
+  "longitude": 115.11854,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "1",
+    "beds": "3",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rumah bagus yang terletak di dekat Pantai Kerobokan Singaraja, dikelilingi pemandangan sawah, tempat yang tenang, dan dekat dengan beberapa vila kolam renang pribadi. Tempat ini cocok untuk beristirahat, menginap, dan meremajakan energi positif Anda.",
+  "scraped_at": "2026-10-04T08:17:01Z"
+}

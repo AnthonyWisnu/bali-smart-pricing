@@ -1,0 +1,37 @@
+{
+  "room_id": "1723671967040260519",
+  "name_raw": "Villa in Karangasem - Summer House – Steps from the 36 m Infinity Pool",
+  "price_raw": "Rp 19,200,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1723671967040260519",
+  "sub_district": "Karangasem",
+  "latitude": -8.4444,
+  "longitude": 115.67,
+  "capacity": {
+    "guests": "3",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Summer House (65 m², two bedrooms) is our only villa built for more than two, an air-conditioned sea-view veranda, a\nspacious private garden, and sleeping for up to 3 guests, steps from our 36-metre infinity pool.",
+  "scraped_at": "2026-10-04T08:35:14Z"
+}

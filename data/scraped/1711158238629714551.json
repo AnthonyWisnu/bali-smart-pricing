@@ -1,0 +1,37 @@
+{
+  "room_id": "1711158238629714551",
+  "name_raw": "Villa in Sukawati - 1BDR Villa Soma-2 : Designer Villa in Ubud. #2026",
+  "price_raw": "Rp 6,900,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1711158238629714551",
+  "sub_district": "Sukawati",
+  "latitude": -8.53746,
+  "longitude": 115.26093,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "75694",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Terletak di lingkungan rimbun Lodtunduh, Ubud, Villa Soma memadukan jiwa Bali yang autentik dengan desain kontemporer yang apik. Vila desainer ini menawarkan suasana hangat dan nyaman serta tata letak yang sangat fungsional yang dibuat dengan mempertimbangkan kenyamanan. Area lounge terbuka, yang terletak di bawah permukaan kolam renang, menciptakan hubungan yang mulus antara kenyamanan dalam ruangan dan kehidupan tropis di luar ruangan. Kamar tidur berukuran besar berfungsi sebagai tempat peris",
+  "scraped_at": "2026-10-04T08:18:58Z"
+}

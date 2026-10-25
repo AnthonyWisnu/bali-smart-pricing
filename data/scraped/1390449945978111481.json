@@ -1,0 +1,37 @@
+{
+  "room_id": "1390449945978111481",
+  "name_raw": "Guesthouse in Sukawati - One Bed Triangle Bamboo House near Sanur",
+  "price_raw": "Rp 8,250,000",
+  "rating_raw": "4.96",
+  "review_count_raw": 68,
+  "regency": "Kota Denpasar",
+  "url": "https://www.airbnb.com/rooms/1390449945978111481",
+  "sub_district": "Sukawati",
+  "latitude": -8.6412,
+  "longitude": 115.2729,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Terletak di Bamboo Tropical Retreat di Desa Lembeng, Ketewel, Anda berjarak sekitar 10 menit naik skuter ke Pantai Lembeng - pantai pasir hitam dan cocok untuk berselancar, sekitar 10 menit ke pelabuhan Sanur, 20 menit berkendara ke pusat Sanur, waktu yang sama Anda harus pergi ke Pantai Selancar Keramas, dan sekitar waktu yang sama untuk mencapai Bali Safari & Marine Park yang indah. Kota Denpasar berjarak sekitar 30 menit. Jika Anda ingin menjelajahi Ubud, jaraknya sekitar 50 menit dari tempat",
+  "scraped_at": "2026-10-04T08:08:42Z"
+}

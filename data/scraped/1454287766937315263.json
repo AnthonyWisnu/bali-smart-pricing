@@ -1,0 +1,37 @@
+{
+  "room_id": "1454287766937315263",
+  "name_raw": "Home in Mendoyo - Peaceful 2BR with Rice Field View in Jembrana",
+  "price_raw": "Rp 5,306,473",
+  "rating_raw": "5.0",
+  "review_count_raw": 7,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1454287766937315263",
+  "sub_district": "Mendoyo",
+  "latitude": -8.38264,
+  "longitude": 114.68655,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nikmati masa inap Bali yang tenang dan autentik di rumah pribadi 2 kamar tidur ini yang terletak di pusat Bali Barat. Dengan pemandangan sawah yang menakjubkan & matahari terbit di pagi hari, ini adalah tempat liburan yang sempurna bagi tamu yang mencari kedamaian, kenyamanan, dan pesona lokal.\n- Ruang keluarga yang luas & dapur lengkap\n- Pemandangan sawah\n- Suasana matahari terbit yang damai setiap pagi\n- Hanya beberapa menit dari Pantai Delod Brawah\n- satu menit berkendara ke minimarket 24 jam",
+  "scraped_at": "2026-10-04T08:23:15Z"
+}

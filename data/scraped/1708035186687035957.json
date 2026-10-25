@@ -1,0 +1,37 @@
+{
+  "room_id": "1708035186687035957",
+  "name_raw": "Room in Nusa Penida - Penida Ocean Cliff House",
+  "price_raw": "Rp 4,250,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1708035186687035957",
+  "sub_district": "Nusa Penida",
+  "latitude": -8.79603,
+  "longitude": 115.60326,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Penida Ocean Cliff House adalah penginapan dengan pemandangan tebing pesisir dan matahari terbit yang disertai angin laut yang sejuk, suara kicauan burung di pagi hari, dan lingkungan alam.\nTamu bisa menikmati matahari terbit sambil berbaring di hammock dan mendapatkan pengalaman yang lebih menakjubkan selama menginap di properti kami.",
+  "scraped_at": "2026-10-04T08:36:12Z"
+}

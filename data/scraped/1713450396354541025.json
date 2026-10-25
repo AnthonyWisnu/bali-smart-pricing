@@ -1,0 +1,37 @@
+{
+  "room_id": "1713450396354541025",
+  "name_raw": "Villa in Ubud - Bambu Cinta | 2BR Luxury Bamboo Eco Villa",
+  "price_raw": "Rp 22,458,465",
+  "rating_raw": "5.0",
+  "review_count_raw": 6,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1713450396354541025",
+  "sub_district": "Ubud",
+  "latitude": -8.4775,
+  "longitude": 115.2523,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Vila bambu mewah ini bukan untuk semua orang ~ dan itulah yang membuatnya begitu istimewa. Dibangun untuk pecinta alam sejati dan terbuat dari bambu ramah lingkungan, permata arsitektur ini tersembunyi dari semua lalu lintas dan dapat dicapai dengan berjalan kaki sebentar melalui hutan tropis yang rindang.  Di sini, kicauan burung, air yang mengalir, dan gemerisik pohon palem menciptakan privasi, ketenangan, dan koneksi dengan alam yang langka. Parkir hanya berjarak 150 m dari vila. Namun, jika ",
+  "scraped_at": "2026-10-04T08:14:55Z"
+}

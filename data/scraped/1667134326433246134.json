@@ -1,0 +1,37 @@
+{
+  "room_id": "1667134326433246134",
+  "name_raw": "Home in Nusa Penida - Cozy villa with view & pool, walk to beach",
+  "price_raw": "Rp 13,349,000",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1667134326433246134",
+  "sub_district": "Nusa Penida",
+  "latitude": -8.6783,
+  "longitude": 115.53356,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "9",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Vila unik dan pribadi yang menghadap ke laut dan Gunung Agung. Jarak berjalan kaki ke laut, toko, spa, dan restoran.\nArea duduk yang nyaman dan kolam renang di bagian belakang. Area kerja khusus, area sofa yang nyaman, dan kamar tidur dengan pemandangan di lantai bawah.\nDapur ruang terbuka, ruang makan, dan area duduk yang luas di lantai atas dengan mezzanine di atasnya dan tempat tidur untuk 2 orang lagi.  Teras terbuka yang luas dan pemandangan yang menakjubkan. \nAC di setiap kamar.\nWi-Fi cepa",
+  "scraped_at": "2026-10-04T08:37:12Z"
+}

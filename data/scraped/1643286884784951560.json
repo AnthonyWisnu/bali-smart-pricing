@@ -1,0 +1,37 @@
+{
+  "room_id": "1643286884784951560",
+  "name_raw": "Villa in Bumi Kabins Ubud - Private Pool Jungle Villa Ubud | Vast Ravine Views",
+  "price_raw": "Rp 19,200,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 14,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1643286884784951560",
+  "sub_district": "Bumi Kabins Ubud",
+  "latitude": -8.46805,
+  "longitude": 115.303,
+  "capacity": {
+    "guests": "3",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rasakan inspirasi di Wood Kabin kami di Bumi Kabins Ubud, tempat peristirahatan satu kamar tidur kami yang paling akrab, yang terletak di kedalaman lembah di properti kami. Dengan kolam renang infiniti pribadi, bak mandi untuk dua orang, taman pribadi yang luas, dan pemandangan lembah hutan yang terbuka dari lantai hutan, Wood menawarkan pengalaman yang luas namun pribadi di pelukan alam. Dibangun dengan kayu daur ulang dan terinspirasi oleh teori lima elemen Tiongkok, Wood melambangkan pertumbu",
+  "scraped_at": "2026-10-04T08:13:35Z"
+}

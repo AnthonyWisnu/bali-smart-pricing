@@ -1,0 +1,37 @@
+{
+  "room_id": "1053462741958586863",
+  "name_raw": "Treehouse in Tampaksiring - Umatreehouse. ecotreehouse_ bamboo house bali",
+  "price_raw": "Rp 16,929,945",
+  "rating_raw": "4.91",
+  "review_count_raw": 196,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1053462741958586863",
+  "sub_district": "Tampaksiring",
+  "latitude": -8.441,
+  "longitude": 115.3044,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "4",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nikmati suasana indah di tengah hutan di desa tradisional bernama Tampaksiring yang merupakan salah satu tempat terindah di Bali. Kami memilih untuk membangun properti bambu berkualitas tinggi yang indah yang akan memberi tamu kami kesempatan untuk merasakan liburan dengan lingkungan alam yang indah dan pada saat yang sama kemewahan dan kenyamanan.",
+  "scraped_at": "2026-10-04T08:19:03Z"
+}

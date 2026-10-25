@@ -1,0 +1,37 @@
+{
+  "room_id": "1730411541979735186",
+  "name_raw": "Home in Ubud - Alelo Villa 2-BR Private Pool Villa Near Ubud",
+  "price_raw": "Rp 10,508,245",
+  "rating_raw": "5.0",
+  "review_count_raw": 5,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1730411541979735186",
+  "sub_district": "Ubud",
+  "latitude": -8.4977,
+  "longitude": 115.2695,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berlibur ke villa kolam renang pribadi 2 kamar tidur kami yang menawan, berlokasi sempurna di Tirta Tawar Road, hanya beberapa menit dari pusat Ubud. Dirancang untuk wisatawan yang menghargai kenyamanan, privasi, dan suasana yang tenang, vila kami menawarkan keseimbangan sempurna antara akses mudah ke pusat kota dan tempat beristirahat yang santai jauh dari keramaian. Villa ini memiliki dua kamar tidur ber-AC yang luas, masing-masing dilengkapi kamar mandi pribadi dalam, yang memastikan kenyaman",
+  "scraped_at": "2026-10-04T08:14:07Z"
+}

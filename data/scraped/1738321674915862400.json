@@ -1,0 +1,37 @@
+{
+  "room_id": "1738321674915862400",
+  "name_raw": "Home in Denpasar Barat - Brand New Modern Oasis 3BR Near Seminyak",
+  "price_raw": "Rp 12,317,346",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kota Denpasar",
+  "url": "https://www.airbnb.com/rooms/1738321674915862400",
+  "sub_district": "Denpasar Barat",
+  "latitude": -8.66252,
+  "longitude": 115.17658,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa pribadi 3 kamar tidur modern di pusat Kerobokan, hanya beberapa menit dari Seminyak dan Canggu. Nikmati kolam renang pribadi, area tamu terbuka yang luas, tiga kamar tidur ensuite yang nyaman, dapur lengkap, Wi-Fi berkecepatan tinggi, dan tempat parkir pribadi. Terletak ideal di dekat kafe, restoran, kelab pantai, pusat perbelanjaan, dan tempat wisata populer terbaik di Bali, Moonlight Villa adalah pilihan sempurna bagi keluarga atau teman yang mencari liburan pulau yang santai dan nyaman.",
+  "scraped_at": "2026-10-04T08:08:04Z"
+}

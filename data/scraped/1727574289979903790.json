@@ -1,0 +1,37 @@
+{
+  "room_id": "1727574289979903790",
+  "name_raw": "Guesthouse in Kediri - Ladies",
+  "price_raw": "Rp 8,044,040",
+  "rating_raw": "5.0",
+  "review_count_raw": 3,
+  "regency": "Kabupaten Badung",
+  "url": "https://www.airbnb.com/rooms/1727574289979903790",
+  "sub_district": "Kecamatan Kediri",
+  "latitude": -8.59669,
+  "longitude": 115.08684,
+  "capacity": {
+    "guests": "8",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Anda akan senang menginap di tempat nyaman ini.",
+  "scraped_at": "2026-10-04T08:09:33Z"
+}

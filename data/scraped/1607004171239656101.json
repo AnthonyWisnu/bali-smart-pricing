@@ -1,0 +1,37 @@
+{
+  "room_id": "1607004171239656101",
+  "name_raw": "Villa in Tampaksiring - \"NEW\" Parama Villa - 2 BR with Rice Fields View",
+  "price_raw": "Rp 10,000,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 19,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1607004171239656101",
+  "sub_district": "Tampaksiring",
+  "latitude": -8.47436,
+  "longitude": 115.28852,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "\"Parama Villa\" terletak di lingkungan yang tenang di tengah sawah yang rimbun, sekitar 15 menit berkendara dari Ubud Center. \"Parama Villa\" menawarkan liburan yang tenang dengan akses mudah ke pusat budaya, kuliner, dan spiritual pulau ini. “Parama Villa” memiliki dua kamar tidur yang luas, kolam renang pribadi dengan kolam kecil, yang dirancang dengan cermat untuk pasangan, keluarga, atau teman yang mencari ketenangan.",
+  "scraped_at": "2026-10-04T08:22:08Z"
+}

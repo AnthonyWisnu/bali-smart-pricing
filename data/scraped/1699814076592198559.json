@@ -1,0 +1,37 @@
+{
+  "room_id": "1699814076592198559",
+  "name_raw": "Home in Pekutatan - Medewi Breeze House 30",
+  "price_raw": "Rp 7,239,011",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1699814076592198559",
+  "sub_district": "Kecamatan Pekutatan",
+  "latitude": -8.4061,
+  "longitude": 114.81544,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nikmati pengalaman menginap santai di vila dua kamar tidur kami yang luas dan berada di area Medewi yang tenang di Bali. Hanya 5 menit berkendara dari Pantai Medewi yang terkenal, rumah kami sangat cocok untuk peselancar, keluarga, pasangan, dan wisatawan yang mencari liburan tropis yang tenang. Tamu dapat dengan mudah menjelajahi pantai terdekat, restoran lokal, dan keindahan alam Bali Barat. Baik Anda mencari petualangan atau relaksasi, Medewi Breeze House menawarkan tempat awal yang sempurna ",
+  "scraped_at": "2026-10-04T08:25:28Z"
+}

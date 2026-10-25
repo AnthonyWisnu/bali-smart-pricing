@@ -1,0 +1,37 @@
+{
+  "room_id": "1632347799710726991",
+  "name_raw": "Villa in Tampaksiring - Insenja Ubud 4 Bedroom Private  Villa",
+  "price_raw": "Rp 10,000,000",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1632347799710726991",
+  "sub_district": "Tampaksiring",
+  "latitude": -8.4833,
+  "longitude": 115.2849,
+  "capacity": {
+    "guests": "8",
+    "bedrooms": "4",
+    "beds": "4",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di Insenja Villa & Resto, tempat peristirahatan menakjubkan dengan 4 kamar tidur di Ubud Timur, tempat desain kontemporer berpadu dengan pemandangan alam Ubud yang mempesona.",
+  "scraped_at": "2026-10-04T08:15:29Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1567797943708297779",
+  "name_raw": "Villa in Tampaksiring - 11BR Laia & Akari+Padel w/Infinity Pool, Gym & Spa",
+  "price_raw": "Rp 72,206,335",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1567797943708297779",
+  "sub_district": "Tampaksiring",
+  "latitude": -8.4982,
+  "longitude": 115.2902,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "11",
+    "beds": "13",
+    "baths": "11"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di Villa Laia dan Villa Akari+Paddle, vila tropis dengan 11 kamar tidur yang terletak di tengah kehijauan Ubud. Dirancang untuk keluarga, teman, dan acara spesial, dua vila ini menggabungkan kenyamanan modern dengan keindahan alam hutan Bali — hanya beberapa menit dari pusat keramaian Ubud. Baik bersantai di tepi kolam renang maupun makan malam di bawah bintang, Villa Laia dan Villa Akari+Paddle memberikan latar sempurna untuk kebersamaan dan perayaan.",
+  "scraped_at": "2026-10-04T08:20:53Z"
+}

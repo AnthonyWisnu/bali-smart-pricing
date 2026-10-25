@@ -1,0 +1,37 @@
+{
+  "room_id": "1603257892880117301",
+  "name_raw": "Room in Kintamani - Santhi Loka Hidden Lake Escape",
+  "price_raw": "Rp 10,508,245",
+  "rating_raw": "5.0",
+  "review_count_raw": 24,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1603257892880117301",
+  "sub_district": "Kintamani",
+  "latitude": -8.24543,
+  "longitude": 115.40317,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Menginaplah di tempat peristirahatan tepi danau yang tenang di pinggir Danau Batur, tempat alam dan budaya Bali berpadu dengan kenyamanan dan petualangan. Nikmati suasana tenang dengan kolam air hangat, pemandangan danau yang indah, dan pengalaman paddleboarding berdiri dan perahu dayung gratis. Kami juga menawarkan kano, tur perahu, apero atau sarapan di danau, trekking Gunung Batur, dan Tur Jeep Matahari Terbit kami. Karena kami dikelilingi oleh alam dan lahan pertanian, terkadang ada lalat, k",
+  "scraped_at": "2026-10-04T08:11:33Z"
+}

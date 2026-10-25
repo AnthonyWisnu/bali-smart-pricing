@@ -1,0 +1,37 @@
+{
+  "room_id": "1741560537913923182",
+  "name_raw": "Home in Abiansemal - Pulasari Villa with private Pool",
+  "price_raw": "Rp 3,810,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1741560537913923182",
+  "sub_district": "Kecamatan Abiansemal",
+  "latitude": -8.4613,
+  "longitude": 115.2359,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Vila yang seluruhnya terbuat dari kayu dengan kolam renang pribadi, terletak di tengah-tengah sawah hijau dan pedesaan Bali, hanya 25 menit dari pusat Ubud.\nBangun dengan suara alam, udara segar, dan pemandangan sawah yang subur tanpa batas. Nikmati berendam di *kolam renang pribadi* Anda sambil dikelilingi ketenangan. Tempat peristirahatan yang damai ini menawarkan keseimbangan sempurna antara relaksasi dan kehidupan desa yang autentik, sambil tetap dekat dengan kafe, pura, dan budaya Ubud.\n\n",
+  "scraped_at": "2026-10-04T08:15:08Z"
+}

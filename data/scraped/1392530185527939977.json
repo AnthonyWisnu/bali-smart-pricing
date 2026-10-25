@@ -1,0 +1,37 @@
+{
+  "room_id": "1392530185527939977",
+  "name_raw": "Villa in Tegalalang - Brand New! Stunning Modern Villa w/Private Pool",
+  "price_raw": "Rp 13,250,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 6,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1392530185527939977",
+  "sub_district": "Tegallalang",
+  "latitude": -8.37185,
+  "longitude": 115.3069,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Dibuat untuk memikat indra Anda dan dirancang sebagai tempat peristirahatan pribadi, tempat mewah ini memastikan masa inap Anda benar-benar luar biasa. Bayangkan melangkah ke ruang seluas 115 meter persegi yang ditata dengan elegan, dihiasi dengan seni Bali dan dekorasi modern yang membangkitkan nuansa keanggunan abadi.\n\nNikmati tempat persembunyian terpencil terbaik dengan langit malam yang bersih terlihat melalui jendela unik untuk menatap bintang di atas tempat tidur Anda, yang dirancang untu",
+  "scraped_at": "2026-10-04T08:14:12Z"
+}

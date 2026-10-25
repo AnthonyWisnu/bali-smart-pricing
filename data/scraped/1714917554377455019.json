@@ -1,0 +1,37 @@
+{
+  "room_id": "1714917554377455019",
+  "name_raw": "Villa in Ubud - Villa Santai: Tranquil 4BR Ubud | Mini Golf & Pool",
+  "price_raw": "Rp 24,937,418",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1714917554377455019",
+  "sub_district": "Ubud",
+  "latitude": -8.531,
+  "longitude": 115.2625,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "4",
+    "beds": "5",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di Villa Santai, sebuah vila Bali modern yang terinspirasi dari filosofi Indonesia santai—melambat sejenak, bersantai, dan menikmati setiap momen. \n\nBerlokasi di Pengosekan, Ubud, Villa Santai memadukan desain arsitektur modern dengan pemandangan sawah yang membentang luas. Sangat cocok untuk keluarga, rombongan teman, maupun tamu yang ingin menginap lebih lama.",
+  "scraped_at": "2026-10-04T08:18:57Z"
+}

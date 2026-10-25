@@ -1,0 +1,37 @@
+{
+  "room_id": "1738567369500279601",
+  "name_raw": "Home in Ubud - Ubud 1BR Villa | Wooden Resort w/Pool | Sahadewa",
+  "price_raw": "Rp 4,250,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1738567369500279601",
+  "sub_district": "Ubud",
+  "latitude": -8.5356,
+  "longitude": 115.2813,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rasakan pesona arsitektur tradisional Bali di vila kayu 1 kamar tidur yang indah ini, yang terletak di dalam resor butik yang tenang dan dikelilingi taman tropis yang rindang. Sempurna untuk pasangan, wisatawan solo, dan pengembara digital yang mencari liburan yang tenang sambil tetap dekat dengan atraksi Ubud yang semarak.\n\nBangun dengan suara alam dan bersantai di kolam renang bersama berukuran besar di resor, dikelilingi kursi berjemur yang nyaman, tanaman tropis, dan ruang yang luas untuk be",
+  "scraped_at": "2026-10-04T08:18:19Z"
+}

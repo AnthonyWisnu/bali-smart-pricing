@@ -1,0 +1,37 @@
+{
+  "room_id": "912220356653588161",
+  "name_raw": "Room in Pekutatan - Three Palms Medewi - Double Room Mountain View",
+  "price_raw": "Rp 3,756,768",
+  "rating_raw": "4.95",
+  "review_count_raw": 20,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/912220356653588161",
+  "sub_district": "Kecamatan Pekutatan",
+  "latitude": -8.41367,
+  "longitude": 114.80942,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "5",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di rumah saya, Medewi! Rumah kami berada di sawah di Medewi, namun hanya berjarak 3 menit dengan sepeda motor dari Medewi Point. Rumah ini memiliki 5 kamar tidur, dari mana 3 kamar tidur sekarang sudah selesai dan siap untuk disewakan. Bersiaplah untuk pemandangan gunung dan sawah yang damai. Rumah ini adalah tempat liburan yang luar biasa jika Anda menginginkan tempat yang santai setelah berselancar. Semua tamu dipersilakan, dari wisatawan tunggal atau keluarga.",
+  "scraped_at": "2026-10-04T08:27:25Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1715090870977563983",
+  "name_raw": "Apartment in Nusa Penida - Apartment \"Harmony\" @ Karmi Apartments",
+  "price_raw": "Rp 2,450,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1715090870977563983",
+  "sub_district": "Nusa Penida",
+  "latitude": -8.6757,
+  "longitude": 115.5055,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "5",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nikmati kehidupan sederhana di rumah yang tenang dan berlokasi di pusat ini.",
+  "scraped_at": "2026-10-04T08:35:52Z"
+}

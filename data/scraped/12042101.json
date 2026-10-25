@@ -1,0 +1,37 @@
+{
+  "room_id": "12042101",
+  "name_raw": "Room in Sidemen - exsperience beauty sidemen",
+  "price_raw": "Rp 1,531,232",
+  "rating_raw": "4.87",
+  "review_count_raw": 204,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/12042101",
+  "sub_district": "sidemen karangasem",
+  "latitude": -8.526,
+  "longitude": 115.4095,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": null
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Pension lokal Bali pribadi di samping taman di sisi bukit\n\nAnda akan memiliki kamar pribadi yang nyaman dan ditata dengan baik (kamar tidur, dan kamar mandi yang bersih) dan teras pribadi serta akses ke area bersama keluarga, seperti taman, teras, Kami juga menawarkan makanan tradisional Bali dan penyewaan skuter. \nIni adalah pilihan yang sangat baik bagi wisatawan yang mencari pengalaman budaya Bali yang autentik dan unik.",
+  "scraped_at": "2026-10-04T08:35:00Z"
+}

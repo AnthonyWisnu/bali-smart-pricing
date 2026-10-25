@@ -1,0 +1,37 @@
+{
+  "room_id": "1715267417997902885",
+  "name_raw": "Home in Selat - Raka Rai Bamboo Villa with Agung Mountain View",
+  "price_raw": "Rp 12,500,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1715267417997902885",
+  "sub_district": "Kecamatan Selat",
+  "latitude": -8.4501,
+  "longitude": 115.485,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nikmati liburan tenang di sebuah pondok bambu yang dikelilingi keindahan alam Bali.Raka Rai Bamboo Villa – Mountain View menawarkan vila pribadi dengan satu kamar tidur, kolam renang pribadi, dan pemandangan gunung yang menakjubkan.Dibangun dengan arsitektur bambu autentik, tempat ini memadukan pesona tradisional dengan kenyamanan modern. Bangunlah dengan udara pegunungan yang segar, nikmati kopi pagi Anda dengan pemandangan indah, dan bersantai di tepi kolam renang dalam suasana alam yang tenan",
+  "scraped_at": "2026-10-04T08:31:19Z"
+}

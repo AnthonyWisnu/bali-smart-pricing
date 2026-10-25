@@ -1,0 +1,37 @@
+{
+  "room_id": "951775676471091862",
+  "name_raw": "Home in Pemuteran - Kesambi Villa",
+  "price_raw": "Rp 14,542,930",
+  "rating_raw": "4.86",
+  "review_count_raw": 7,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/951775676471091862",
+  "sub_district": "Pemuteran",
+  "latitude": -8.16923,
+  "longitude": 114.65001,
+  "capacity": {
+    "guests": "5",
+    "bedrooms": "2",
+    "beds": "3",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Vila Kesambi terletak di tengah - tengah tempat peristirahatan Bukit Sumberkima dengan matahari terbit  dan pemandangan laut. Villa memiliki teras besar dengan area tempat duduk yang nyaman, meja makan dan dapur. 2 kamar tidur memiliki AC dan  kamar mandi dalam. Kamar tidur yang lebih besar dapat memiliki 3 single atau double dan 1 single di kamar.  Kamar tidur yang lebih kecil bisa digunakan untuk double atau 2 single.  Beri tahu kami. Villa ini tidak memiliki kolam renang pribadi. Kolam infini",
+  "scraped_at": "2026-10-04T08:25:33Z"
+}

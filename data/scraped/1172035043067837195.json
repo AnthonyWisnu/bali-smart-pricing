@@ -1,0 +1,37 @@
+{
+  "room_id": "1172035043067837195",
+  "name_raw": "Villa in Tampaksiring - Breathtaking View, Outdoor Jacuzzi & Infinity Pool",
+  "price_raw": "Rp 58,260,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 76,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1172035043067837195",
+  "sub_district": "Kecamatan Tampaksiring",
+  "latitude": -8.4407,
+  "longitude": 115.31469,
+  "capacity": {
+    "guests": "8",
+    "bedrooms": "4",
+    "beds": "5",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Terletak di atas lahan seluas 28 are, Rumah Subak menawarkan perpaduan harmonis antara arsitektur tradisional Wantilan dan desain modern. Villa 4BR yang indah ini mengundang Anda untuk merasakan kehidupan mewah di tengah keindahan alam Ubud Utara.\n\nYang akan Anda peroleh:\n- Kolam renang infinity yang menyatu dengan cakrawala, memberikan ruang yang tenang untuk bersantai\n- Mini gym bersama dengan sudut baca yang tenang\n- Ruang bioskop tempat Anda bisa menikmati film favorit Anda",
+  "scraped_at": "2026-10-04T08:10:54Z"
+}

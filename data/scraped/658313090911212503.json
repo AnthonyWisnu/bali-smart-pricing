@@ -1,0 +1,37 @@
+{
+  "room_id": "658313090911212503",
+  "name_raw": "Villa in Candidasa - Oceanview 4br Villa,Infinity Pool in East Bali",
+  "price_raw": "Rp 74,867,013",
+  "rating_raw": "4.98",
+  "review_count_raw": 41,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/658313090911212503",
+  "sub_district": "Candidasa",
+  "latitude": -8.5011,
+  "longitude": 115.5405,
+  "capacity": {
+    "guests": "11",
+    "bedrooms": "4",
+    "beds": "4",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa Gumamela | Liburan Mewah Bintang 5 dengan Pemandangan Laut yang Spektakuler di CandidasaSelamat datang di Villa Gumamela, vila mewah terbesar di Candidasa dan tempat peristirahatan bintang 5 sejati yang menawarkan liburan yang aman, tenang, dan mewah di Bali timur. Dengan luas 800 meter persegi di lahan seluas 1300 meter persegi, vila 4 kamar tidur yang menakjubkan ini menawarkan kolam renang infinity 30 meter yang menakjubkan — yang terpanjang di antara vila pribadi di wilayah ini — denga",
+  "scraped_at": "2026-10-04T08:33:52Z"
+}

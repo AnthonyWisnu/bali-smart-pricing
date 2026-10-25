@@ -1,0 +1,37 @@
+{
+  "room_id": "1474587426968790488",
+  "name_raw": "Room in Pekutatan - Room with Scenic Rice Terrace",
+  "price_raw": "Rp 8,640,112",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1474587426968790488",
+  "sub_district": "Pekutatan",
+  "latitude": -8.4025,
+  "longitude": 114.8182,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Menetap di tengah alam, dikelilingi sawah yang rimbun dan terletak di tengah - tengah keindahan alam, tempat kami menawarkan liburan yang damai di mana kehangatan keramahtamahan Bali bertemu kemewahan dan ketenangan.",
+  "scraped_at": "2026-10-04T08:24:11Z"
+}

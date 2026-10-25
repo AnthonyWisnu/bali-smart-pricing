@@ -1,0 +1,37 @@
+{
+  "room_id": "1730847145776099002",
+  "name_raw": "Home in Ubud - Luxury Private Pool Villa | Lush Rice Field Views",
+  "price_raw": "Rp 6,896,133",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1730847145776099002",
+  "sub_district": "Ubud",
+  "latitude": -8.4758,
+  "longitude": 115.2683,
+  "capacity": {
+    "guests": "3",
+    "bedrooms": "1",
+    "beds": "3",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "🌸 Janet Villa: Vila Pribadi dengan Sarapan, Kolam Renang Pribadi & Atap \n\nPesona Bali berpadu dengan kenyamanan modern. Villa ini dirancang untuk siapa saja yang ingin melepaskan diri dari kesibukan sehari-hari, baik Anda merencanakan bulan madu yang romantis atau liburan yang damai",
+  "scraped_at": "2026-10-04T08:14:17Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1335377469296428550",
+  "name_raw": "Guesthouse in Pekutatan - The Inside House Medewi",
+  "price_raw": "Rp 1,914,835",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1335377469296428550",
+  "sub_district": "Pekutatan",
+  "latitude": -8.4148,
+  "longitude": 114.809,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nikmati waktu bersantai Anda setelah berselancar atau perjalanan ke Bali barat. Hanya ada satu kamar tamu dan dikelilingi rumah lokal. Hanya 5 menit berjalan kaki ke pantai Medewi point.",
+  "scraped_at": "2026-10-04T08:29:25Z"
+}

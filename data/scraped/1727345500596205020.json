@@ -1,0 +1,37 @@
+{
+  "room_id": "1727345500596205020",
+  "name_raw": "Villa in Denpasar Timur - Bali Sunrise Escape | 10 min to Sanur beach",
+  "price_raw": "Rp 7,500,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 4,
+  "regency": "Kota Denpasar",
+  "url": "https://www.airbnb.com/rooms/1727345500596205020",
+  "sub_district": "East Denpasar",
+  "latitude": -8.6501,
+  "longitude": 115.2649,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "2",
+    "beds": "4",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berlibur ke suaka tropis Anda sendiri di Kesiman Kertalangu, Bali. \n\nVila pribadi bergaya ini memiliki 2 kamar tidur yang nyaman, kolam renang pribadi yang menyegarkan, dapur lengkap, dan Smart TV 50 inci dengan Netflix \n\nSangat cocok untuk keluarga atau rombongan yang terdiri dari hingga 6 tamu. \n\nTerletak hanya 9 menit berjalan kaki dari Pantai Tangtu, 11 menit dengan sepeda motor ke Pantai Sanur yang terkenal\n\nAnda akan menikmati lingkungan yang tenang sambil tetap dekat dengan garis pantai B",
+  "scraped_at": "2026-10-04T08:06:57Z"
+}

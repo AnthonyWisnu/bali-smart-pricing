@@ -1,0 +1,37 @@
+{
+  "room_id": "13090799",
+  "name_raw": "Villa in Amed - Amed Beachfront Villa • Pool • Ocean & Agung View",
+  "price_raw": "Rp 21,917,128",
+  "rating_raw": "4.84",
+  "review_count_raw": 77,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/13090799",
+  "sub_district": "Amed",
+  "latitude": -8.3307,
+  "longitude": 115.6383,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di Casa Felix Amed, vila tepi pantai Bali yang tenang. Dibangun oleh ayah kami, Christian Felix Malmoux, tempat peristirahatan 3 kamar tidur yang nyaman ini menawarkan pemandangan laut dan matahari terbit yang menakjubkan, kolam renang pribadi, dan akses pantai langsung. \n\nBangun di tengah ombak, bersantai di pasir, nikmati malam berbintang, dan jelajahi tempat snorkeling Amed di dekatnya. Sangat cocok untuk keluarga, pasangan, atau rombongan - kenyamanan, bukan kemewahan. Tenang,",
+  "scraped_at": "2026-10-04T08:33:48Z"
+}

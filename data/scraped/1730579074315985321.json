@@ -1,0 +1,37 @@
+{
+  "room_id": "1730579074315985321",
+  "name_raw": "Cabin in Sukasada - Wanagiri Mountain View Cabin #2 near Buyan Lake",
+  "price_raw": "Rp 1,493,104",
+  "rating_raw": "5.0",
+  "review_count_raw": 3,
+  "regency": "Kabupaten Buleleng",
+  "url": "https://www.airbnb.com/rooms/1730579074315985321",
+  "sub_district": "Kecamatan Sukasada",
+  "latitude": -8.2291,
+  "longitude": 115.1233,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Mesari Homestay Wanagiri, 1 km di utara Danau Buyan, menawarkan kabin yang nyaman dan dekat dengan alam dengan pemandangan lanskap hijau yang subur dan pegunungan. Teras pribadi ini menawarkan pemandangan matahari terbit yang indah. \nAda gazebo terbuka untuk menikmati matahari terbenam.\nTamu bisa berjalan-jalan di taman sederhana di depan kabin. \nSempurna bagi siapa saja yang menginginkan ketenangan, melarikan diri dari hiruk pikuk kota.\n\nGrup yang lebih besar? Properti kami menyediakan tempat t",
+  "scraped_at": "2026-10-04T08:16:52Z"
+}

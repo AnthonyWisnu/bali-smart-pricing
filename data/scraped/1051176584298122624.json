@@ -1,0 +1,37 @@
+{
+  "room_id": "1051176584298122624",
+  "name_raw": "Villa in Seririt - Villa Pondok Ramah Tamah",
+  "price_raw": "Rp 6,420,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 20,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1051176584298122624",
+  "sub_district": "Kecamatan Seririt",
+  "latitude": -8.1834,
+  "longitude": 114.9211,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "3",
+    "beds": "4",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nikmati liburan di surga tepi pantai pribadi Anda di Bali Utara. Villa menakjubkan seluas 1.100 m² dengan atap rumput tradisional dan paviliun tamu ini menawarkan akses langsung ke laut dan suasana tropis yang tenang. Nikmati kemewahan dengan layanan lengkap—makanan disiapkan, vila dibersihkan—sembari Anda bersantai di tepi kolam renang, mengamati lumba-lumba, atau beristirahat di gazebo tepi laut Anda. Sangat cocok untuk masa inap yang tak terlupakan untuk maksimal 4 tamu.",
+  "scraped_at": "2026-10-04T08:25:17Z"
+}

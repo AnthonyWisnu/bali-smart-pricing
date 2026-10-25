@@ -1,0 +1,37 @@
+{
+  "room_id": "1501944755720689624",
+  "name_raw": "Room in Tembuku - Hidden Paradise",
+  "price_raw": "Rp 2,389,659",
+  "rating_raw": "5.0",
+  "review_count_raw": 6,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1501944755720689624",
+  "sub_district": "Kecamatan Tembuku",
+  "latitude": -8.44518,
+  "longitude": 115.38552,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": null,
+    "beds": "7",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Saatnya menyatu dengan alam, suasana sawah yang damai disertai suara burung dan sungai di pedesaan bali yang jauh dari hirukpikuk perkotaan",
+  "scraped_at": "2026-10-04T08:14:15Z"
+}

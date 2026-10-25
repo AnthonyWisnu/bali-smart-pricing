@@ -1,0 +1,37 @@
+{
+  "room_id": "1019281055371282782",
+  "name_raw": "Home in Abang - Private villa with 3 bedrooms",
+  "price_raw": "Rp 12,500,000",
+  "rating_raw": "4.56",
+  "review_count_raw": 39,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1019281055371282782",
+  "sub_district": "Kecamatan Abang",
+  "latitude": -8.3311,
+  "longitude": 115.6331,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "0",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Garvi Villa adalah villa pribadi dengan desain gaya Bali dan Jawa, villa ini memiliki 3 kamar tidur, 3 kamar mandi, 2 kamar mandi dengan bak mandi, kolam renang, dan dapur. \nLokasi Villa berlokasi di Tenang Amed. \n10 menit ke pusat Amed, 15 menit ke tempat snorkeling, 5 menit ke restoran, 5 menit ke pantai.",
+  "scraped_at": "2026-10-04T08:34:46Z"
+}

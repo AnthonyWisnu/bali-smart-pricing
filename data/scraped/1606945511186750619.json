@@ -1,0 +1,37 @@
+{
+  "room_id": "1606945511186750619",
+  "name_raw": "Home in Kubu - W home stay tulamben",
+  "price_raw": "Rp 1,459,480",
+  "rating_raw": "5.0",
+  "review_count_raw": 3,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1606945511186750619",
+  "sub_district": "Kubu",
+  "latitude": -8.28015,
+  "longitude": 115.59051,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "bersantai di tempat kami  terasa rumah sendiri",
+  "scraped_at": "2026-10-04T08:31:58Z"
+}

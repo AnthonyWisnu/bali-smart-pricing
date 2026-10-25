@@ -1,0 +1,37 @@
+{
+  "room_id": "1214015910338164640",
+  "name_raw": "Villa in Abiansemal - Maha Hati at Mahajiva",
+  "price_raw": "Rp 11,500,000",
+  "rating_raw": "4.97",
+  "review_count_raw": 137,
+  "regency": "Kabupaten Tabanan",
+  "url": "https://www.airbnb.com/rooms/1214015910338164640",
+  "sub_district": "Kecamatan Abiansemal",
+  "latitude": -8.5687,
+  "longitude": 115.2142,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Mahajiva adalah tempat peristirahatan bambu yang tenang bagi mereka yang menghargai keindahan kesederhanaan. Dirancang dengan cermat dan dikelilingi oleh alam, tempat ini menawarkan tempat peristirahatan yang tenang dari kebisingan kehidupan modern. Di sini, ketenangan dirasakan dalam-dalam, dan kedamaian bukanlah kemewahan, melainkan cara hidup.",
+  "scraped_at": "2026-10-04T08:38:47Z"
+}

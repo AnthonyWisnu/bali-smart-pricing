@@ -1,0 +1,37 @@
+{
+  "room_id": "1675925217355839892",
+  "name_raw": "Room in Nusa Penida - Deluxe Double Room with Pool & Breakfast",
+  "price_raw": "Rp 2,560,500",
+  "rating_raw": "4.8",
+  "review_count_raw": 25,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1675925217355839892",
+  "sub_district": "Kecamatan Nusa Penida",
+  "latitude": -8.705,
+  "longitude": 115.4899,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nikmati pesona asli Nusa Penida di Kira Cottages.\nTerletak hanya 10 menit dari Pelabuhan Banjar Nyuh, Kamar Double Deluxe kami dilengkapi dengan tempat tidur berukuran queen, teras pribadi, dan fasilitas lengkap termasuk AC dan minibar. Nikmati berendam yang menyegarkan di kolam renang bersama, sarapan setiap hari, dan ambil foto di gerbang khas Bali kami.\nKami juga menawarkan tiket perahu, penyewaan skuter, dan tur snorkeling untuk melengkapi liburan Anda di pulau ini!",
+  "scraped_at": "2026-10-04T08:37:15Z"
+}

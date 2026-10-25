@@ -1,0 +1,37 @@
+{
+  "room_id": "1047388028994312884",
+  "name_raw": "Barn in Negara - medewi good vibes surf&stay",
+  "price_raw": "Rp 1,371,910",
+  "rating_raw": "3.5",
+  "review_count_raw": 4,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1047388028994312884",
+  "sub_district": "Negara",
+  "latitude": -8.4116,
+  "longitude": 114.7987,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Anda akan menikmati waktu di tempat tak terlupakan ini. ada di dekat spot surfing beach break dan 5 menit ke medewi point break. dekat dengan restoran. suasana tenang.kami juga menyediakan sewa papan selancar dan surf lesson",
+  "scraped_at": "2026-10-04T08:28:04Z"
+}

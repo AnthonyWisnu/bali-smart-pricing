@@ -1,0 +1,37 @@
+{
+  "room_id": "1721047309671708570",
+  "name_raw": "Room in Kecamatan Ubud - Wood House 5 Minute to Ubud Center 3",
+  "price_raw": "Rp 1,940,651",
+  "rating_raw": "5.0",
+  "review_count_raw": 4,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1721047309671708570",
+  "sub_district": "Kecamatan Ubud",
+  "latitude": -8.5092,
+  "longitude": 115.2739,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Halo, selamat datang di Ubud dan selamat datang di pondok kayu kami. Di sini kami memiliki 4 pondok kayu dengan kolam renang dan dapur bersama, dan kami juga memiliki taman besar dan ruang parkir yang luas. Semoga Anda menikmati masa menginap Anda. Terima kasih banyak.",
+  "scraped_at": "2026-10-04T08:22:21Z"
+}

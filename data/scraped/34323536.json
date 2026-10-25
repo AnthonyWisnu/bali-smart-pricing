@@ -1,0 +1,37 @@
+{
+  "room_id": "34323536",
+  "name_raw": "Villa in Ubud - 4BR Villa Cinta Ubud Escape with Natural Breeze",
+  "price_raw": "Rp 17,437,500",
+  "rating_raw": "4.72",
+  "review_count_raw": 114,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/34323536",
+  "sub_district": "Ubud",
+  "latitude": -8.4638,
+  "longitude": 115.2735,
+  "capacity": {
+    "guests": "8",
+    "bedrooms": "4",
+    "beds": "4",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa Cinta adalah vila 4 kamar tidur yang menawan yang berlokasi di lingkungan desa yang tenang, dikelilingi teras sawah hijau yang subur. Suasana yang tenang menjadikannya tempat yang sempurna untuk liburan santai di Bali.\nVila ini terletak dengan nyaman di tengah alam, memungkinkan tamu menikmati pengalaman pedesaan Bali yang autentik. Di malam hari, Anda bahkan mungkin cukup beruntung untuk melihat kunang-kunang di sekitar area persawahan. \nberpaduan sempurna untuk menciptakan pengalaman Bal",
+  "scraped_at": "2026-10-04T08:15:48Z"
+}

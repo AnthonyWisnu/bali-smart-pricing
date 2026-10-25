@@ -1,0 +1,37 @@
+{
+  "room_id": "1653304768344472669",
+  "name_raw": "Room in Kecamatan Kuta Utara - Le Bohémien Suites Cabana 3",
+  "price_raw": "Rp 6,678,575",
+  "rating_raw": "4.95",
+  "review_count_raw": 20,
+  "regency": "Kota Denpasar",
+  "url": "https://www.airbnb.com/rooms/1653304768344472669",
+  "sub_district": "Kecamatan Kuta Utara",
+  "latitude": -8.62421,
+  "longitude": 115.15475,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Ada empat unit dengan tipe kamar yang sama; jika kamar yang ditautkan di sini sudah terpesan penuh, silakan klik profil saya untuk menemukan tautan pemesanan untuk unit lain dengan tata letak yang sama.\n\nTempat peristirahatan berinspirasi Maroko yang berani dengan warna alam, arsitektur yang terpahat, dan desain yang menonjol. Tempat ini memiliki empat suite pribadi—masing-masing dengan dapur sendiri—untuk masa inap yang fleksibel dan nyaman. Nikmati kolam renang besar dan bergaya di tengah-teng",
+  "scraped_at": "2026-10-04T08:09:03Z"
+}

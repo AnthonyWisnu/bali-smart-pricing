@@ -1,0 +1,37 @@
+{
+  "room_id": "1498401043251612367",
+  "name_raw": "Home in Gianyar - Villa Ananta | Serene Stay in Ubud Bali",
+  "price_raw": "Rp 30,298,787",
+  "rating_raw": "4.94",
+  "review_count_raw": 18,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1498401043251612367",
+  "sub_district": "Gianyar",
+  "latitude": -8.5208,
+  "longitude": 115.2485,
+  "capacity": {
+    "guests": "10",
+    "bedrooms": "4",
+    "beds": "5",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa yang nyaman dan ramah keluarga di Ubud, ideal untuk hingga 10 tamu.\n\nNikmati masa inap yang bersih dan damai dengan ruang dalam dan luar ruangan yang nyaman untuk bersantai.\n\nHarap perhatikan: dilarang berpesta dan dilarang merokok di dalam ruangan (diperbolehkan merokok di luar ruangan).\n\nBiaya berlaku untuk:\n1. Pelanggaran pesta atau merokok di dalam ruangan (Rp500.000)\n2. Noda berat pada seprai atau sofa (Rp500.000)\n3. Kerusakan properti berdasarkan biaya perbaikan atau penggantian\n\nKam",
+  "scraped_at": "2026-10-04T08:20:32Z"
+}

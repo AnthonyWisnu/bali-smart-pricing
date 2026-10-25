@@ -1,0 +1,37 @@
+{
+  "room_id": "912775267545580165",
+  "name_raw": "Place to stay in Nusa Penida - Lovers Lookout: Private Penida Room w/ Ocean View",
+  "price_raw": "Rp 1,396,188",
+  "rating_raw": "4.73",
+  "review_count_raw": 177,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/912775267545580165",
+  "sub_district": "Kecamatan Nusa Penida",
+  "latitude": -8.70155,
+  "longitude": 115.58234,
+  "capacity": {
+    "guests": "5",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Wake to ocean views and soft morning light from this private room on Nusa Penida. The spacious room has a queen bed, air conditioning, a private bathroom, and a place to work. Take in the coast from your balcony or spend time at the shared pool. This is a more secluded base, about 14.6 km from Toya Pakeh Harbour; island roads and traffic can make trips longer than map estimates. Food and shopping choices nearby are limited, so plan meals, drinking water and a scooter or driver before you arrive.",
+  "scraped_at": "2026-10-04T08:36:55Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1739659030270004368",
+  "name_raw": "Villa in Ubud - Dreamy Riverside Wooden Villa w/ Pool in Ubud",
+  "price_raw": "Rp 9,500,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kota Denpasar",
+  "url": "https://www.airbnb.com/rooms/1739659030270004368",
+  "sub_district": "Ubud",
+  "latitude": -8.52846,
+  "longitude": 115.23654,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bangunlah dengan lagu pengantar tidur lembut dari sungai yang mengalir dan aroma segar embun hutan. Villa Haven by The River menawarkan liburan Bali autentik, tempat arsitektur kayu tradisional bertemu kenyamanan modern. Baik Anda sedang menikmati minuman pagi di teras atau mengapung di kolam renang Anda, tempat peristirahatan ini dibuat untuk kehidupan santai dan relaksasi di Ubud.\n\nSorotan:\n- Gladak: Rumah kayu 2 lantai yang romantis dengan pemandangan hutan\n- Kolam renang: Kolam rendam pribad",
+  "scraped_at": "2026-10-04T08:07:44Z"
+}

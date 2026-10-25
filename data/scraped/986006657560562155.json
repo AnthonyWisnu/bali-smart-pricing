@@ -1,0 +1,37 @@
+{
+  "room_id": "986006657560562155",
+  "name_raw": "Treehouse in Sidemen - Sauca Bamboo Villa: A Tranquil Getaway",
+  "price_raw": "Rp 16,905,890",
+  "rating_raw": "4.96",
+  "review_count_raw": 301,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/986006657560562155",
+  "sub_district": "Kecamatan Sidemen",
+  "latitude": -8.4673,
+  "longitude": 115.4479,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "6824",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Vila Sauca sangat cocok untuk Anda dan orang yang Anda cintai. Anda akan memiliki vila PRIBADI, di mana Anda bisa mengasingkan diri dari orang lain jika Anda mau. Namun, Anda bisa berjalan kaki ke tempat - tempat terdekat di pusat Sidemen.  \n\nTidak hanya itu, Anda akan senang menginap di rumah. Daripada menginap di kamar yang suram di tengah kota, Anda akan bisa menikmati angin kencang yang konstan di sawah yang luas di mana energi yang indah melimpah!",
+  "scraped_at": "2026-10-04T08:32:32Z"
+}

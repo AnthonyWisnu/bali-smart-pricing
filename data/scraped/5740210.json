@@ -1,0 +1,37 @@
+{
+  "room_id": "5740210",
+  "name_raw": "Room in Negara - Dikaloha Surfcamp Medewi",
+  "price_raw": "Rp 1,711,766",
+  "rating_raw": "4.48",
+  "review_count_raw": 79,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/5740210",
+  "sub_district": "Jembrana",
+  "latitude": -8.41179,
+  "longitude": 114.79984,
+  "capacity": {
+    "guests": "3",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "5"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Surfcamp kami berlokasi di Medewi di pesisir barat Bali yang dikelilingi oleh sawah, pegunungan, pohon kelapa dan sisi depan lautan India yang indah.",
+  "scraped_at": "2026-10-04T08:26:42Z"
+}

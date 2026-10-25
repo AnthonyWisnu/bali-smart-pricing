@@ -1,0 +1,37 @@
+{
+  "room_id": "1028233039123324657",
+  "name_raw": "Tiny home in Bebandem - Paradise",
+  "price_raw": "Rp 6,064,497",
+  "rating_raw": "4.88",
+  "review_count_raw": 75,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1028233039123324657",
+  "sub_district": "Bebandem",
+  "latitude": -8.4669,
+  "longitude": 115.5734,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di Paradise, rumah ini berlokasi di Planet Biru Villa. Kami menawarkan liburan yang tenang jauh dari dunia luar. Terletak di lokasi tersembunyi, vila ini dikelilingi oleh kehijauan yang rindang, pepohonan yang menjulang, dan suara alam yang menenangkan.\n\nDirancang untuk mereka yang mencari kedamaian dan privasi, vila ini menyatu sempurna dengan lingkungan alam sekitarnya, menampilkan ruang terbuka yang mengundang udara segar dengan Pemandangan Gunung Lempuyang.\n\nSempurna untuk pec",
+  "scraped_at": "2026-10-04T08:31:43Z"
+}

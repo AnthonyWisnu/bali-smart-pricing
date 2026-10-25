@@ -1,0 +1,37 @@
+{
+  "room_id": "47840087",
+  "name_raw": "Cottage in Pekutatan - Batu Kayu Eco Surf Lodges - Coconut Villa",
+  "price_raw": "Rp 7,675,000",
+  "rating_raw": "4.99",
+  "review_count_raw": 160,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/47840087",
+  "sub_district": "Kecamatan Pekutatan",
+  "latitude": -8.4173,
+  "longitude": 114.8051,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nikmati masa inap Anda di salah satu bungalo depan pantai kami yang nyaman tepat di depan ombak utama di Medewi. \n\nBungalo kami yang dibangun dengan indah hanya beberapa langkah dari tempat selancar utama di Medewi dan tepat di samping desa/pasar nelayan.  \n\nPerahu nelayan yang berwarna - warni diparkir tepat di depan pantai kami dan selalu ada hiruk pikuk dengan nelayan yang pergi ke laut untuk tangkapan harian mereka.\n\nKami juga menyediakan BBQ dan set sarapan dengan biaya tambahan, ini tidak ",
+  "scraped_at": "2026-10-04T08:27:07Z"
+}

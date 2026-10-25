@@ -1,0 +1,37 @@
+{
+  "room_id": "11286074",
+  "name_raw": "Villa in Seririt - Villa Putih at Mayo Resort (2 Beds, Beachfront)",
+  "price_raw": "Rp 14,409,885",
+  "rating_raw": "5.0",
+  "review_count_raw": 4,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/11286074",
+  "sub_district": "Seririt",
+  "latitude": -8.18403,
+  "longitude": 114.90764,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Properti yang menyenangkan dan cukup unik ini terletak tepat di tepi laut dan menikmati pemandangan panorama laut, sawah, dan pegunungan di belakang yang menakjubkan.\nSebagai bagian dari Mayo Resort, tamu dapat menikmati layanan kami yang luar biasa dan restoran kami yang menakjubkan, Bora Bora, atau, jika mereka mau, mereka dapat memanjakan diri dalam privasi taman dan kolam renang pribadi di vila.\n",
+  "scraped_at": "2026-10-04T08:27:49Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "775126775951755662",
+  "name_raw": "Guest suite in Singaraja - Balijana Bungalow Lovina (BJB 2)",
+  "price_raw": "Rp 3,101,270",
+  "rating_raw": "4.9",
+  "review_count_raw": 318,
+  "regency": "Kabupaten Buleleng",
+  "url": "https://www.airbnb.com/rooms/775126775951755662",
+  "sub_district": "Singaraja",
+  "latitude": -8.16595,
+  "longitude": 115.03132,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Kami menyambut Anda di bungalo kami yang nyaman dan terletak dengan tenang di tengah sawah dan dengan pemandangan pegunungan yang fantastis.\n\nAnda menyewa kamar yang terdiri dari dua orang ... bungalo ini terdiri dari dua kamar yang dapat diakses secara terpisah dari teras, masing - masing dilengkapi kamar mandi dalam. Dapur di area luar ruangan tertutup, kolam renang dan taman yang menghadap pegunungan digunakan bersama dengan tamu di ruangan lain.\n\nProperti ini dipagari dengan pemandangan yang",
+  "scraped_at": "2026-10-04T08:17:52Z"
+}

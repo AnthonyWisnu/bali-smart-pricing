@@ -1,0 +1,37 @@
+{
+  "room_id": "1695670301084874731",
+  "name_raw": "Home in Denpasar Timur - 3BR Villa | Projector, Mini Bar & Pool | Sanur",
+  "price_raw": "Rp 12,886,169",
+  "rating_raw": "5.0",
+  "review_count_raw": 10,
+  "regency": "Kabupaten Badung",
+  "url": "https://www.airbnb.com/rooms/1695670301084874731",
+  "sub_district": "East Denpasar",
+  "latitude": -8.6626,
+  "longitude": 115.2496,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di CASA RUMO di Sanur, vila 3 kamar tidur yang dirancang dengan cermat di Sanur. Sempurna untuk keluarga dan teman-teman. Nikmati kolam renang pribadi, lounge bioskop sunken dengan proyektor pintar, dapur lengkap, dan sudut wine/bar untuk bersantai di malam hari. Setiap kamar tidur memiliki kamar mandi dalam sendiri, yang menawarkan kenyamanan dan privasi. Hanya beberapa menit dari Pantai Sanur, kafe, dan restoran. Kamar, Dioptimalkan.",
+  "scraped_at": "2026-10-04T08:09:24Z"
+}

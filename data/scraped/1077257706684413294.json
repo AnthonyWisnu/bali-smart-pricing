@@ -1,0 +1,37 @@
+{
+  "room_id": "1077257706684413294",
+  "name_raw": "Home in Sukawati - 1 BR #Villas7 minutes walk to Rangkan Beach",
+  "price_raw": "Rp 5,349,995",
+  "rating_raw": "4.92",
+  "review_count_raw": 78,
+  "regency": "Kota Denpasar",
+  "url": "https://www.airbnb.com/rooms/1077257706684413294",
+  "sub_district": "Kecamatan Sukawati",
+  "latitude": -8.62238,
+  "longitude": 115.29975,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "04",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Langit Pitu Villas berlokasi di Ketewel, Gianyar Bali\n30 menit ke pusat Ubud, 26 menit ke Sanur dan 40 menit ke Bandara Internasional Ngurah Rai\n\nmenampilkan 1 kamar tidur dan 1 kamar mandi, cocok untuk 2 tamu dengan suasana tenang di area Ketewel dan dilengkapi dengan private pool. Dari unit ini, Anda akan memiliki akses mudah 5 menit ke Pantai Rangkan.",
+  "scraped_at": "2026-10-04T08:09:06Z"
+}

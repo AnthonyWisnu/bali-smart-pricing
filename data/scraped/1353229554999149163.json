@@ -1,0 +1,37 @@
+{
+  "room_id": "1353229554999149163",
+  "name_raw": "Room in Selemadeg Barat - Beutifull 2 bedrooms house in Balian with pool",
+  "price_raw": "Rp 3,502,750",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1353229554999149163",
+  "sub_district": "Selemadeg Barat",
+  "latitude": -8.4148,
+  "longitude": 114.81978,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "4",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Pondok Hari Baik adalah pilihan akomodasi menawan yang berlokasi di Balian, Tabanan, Bali. Terkenal dengan lingkungannya yang tenang dan keramahtamahan tradisional Bali, tempat ini menawarkan tempat peristirahatan yang damai bagi wisatawan yang ingin melarikan diri dari hiruk pikuk kawasan wisata yang lebih ramai.",
+  "scraped_at": "2026-10-04T08:28:14Z"
+}

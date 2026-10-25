@@ -1,0 +1,37 @@
+{
+  "room_id": "945113368125942743",
+  "name_raw": "Home in Bangli - Tropical Serenity private villa- Near waterfall",
+  "price_raw": "Rp 2,627,060",
+  "rating_raw": "4.89",
+  "review_count_raw": 223,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/945113368125942743",
+  "sub_district": "Bangli",
+  "latitude": -8.4339,
+  "longitude": 115.3742,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Lepaskan diri dari keramaian wisatawan dan rasakan Bali yang sesungguhnya 🌿 Villa 1 kamar tidur yang tenang ini dikelilingi alam di desa tradisional Bali. Nikmati bak mandi air panas di luar ruangan, taman pribadi, dapur lengkap, Wi-Fi 100 Mb/s yang cepat, dan area lounge luar ruangan yang nyaman. Dekat dengan air terjun, budaya lokal, dan kehidupan desa yang autentik. Sempurna untuk para nomaden digital, pasangan, dan wisatawan santai yang mencari kedamaian, alam, dan Bali yang sesungguhnya.",
+  "scraped_at": "2026-10-04T08:12:36Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1720818532830027750",
+  "name_raw": "Villa in Ubud - Ubud Jungle Villa with Rooftop & Rice Field Views",
+  "price_raw": "Rp 13,131,885",
+  "rating_raw": "5.0",
+  "review_count_raw": 3,
+  "regency": "Kabupaten Badung",
+  "url": "https://www.airbnb.com/rooms/1720818532830027750",
+  "sub_district": "Ubud",
+  "latitude": -8.52665,
+  "longitude": 115.24775,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nikmati Ubud dari vila pribadi 3 kamar tidur di Singakerta, tempat kenyamanan dalam ruangan berpadu dengan ruang terbuka yang dikelilingi pepohonan dan pemandangan sawah. Villa ini dirancang untuk keluarga dan rombongan, dengan kolam renang pribadi, ruang tamu, dan rooftop dengan bale terbuka — ruang unik untuk kopi pagi, yoga, atau menyaksikan matahari terbenam. Terletak dalam jangkauan kafe dan tempat wisata budaya Ubud, vila ini menawarkan tempat yang nyaman untuk menjelajahi Bali sambil meni",
+  "scraped_at": "2026-10-04T08:10:09Z"
+}

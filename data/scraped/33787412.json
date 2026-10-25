@@ -1,0 +1,37 @@
+{
+  "room_id": "33787412",
+  "name_raw": "Bungalow in Bangli - Food Lover's Jungle Paradise\nPondok 1",
+  "price_raw": "Rp 3,935,662",
+  "rating_raw": "4.88",
+  "review_count_raw": 52,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/33787412",
+  "sub_district": "Bangli",
+  "latitude": -8.49251,
+  "longitude": 115.35153,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "1",
+    "beds": "3",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Halo teman - teman! Saya telah bekerja di industri pariwisata selama lebih dari 20 tahun. Itu selalu menjadi impian saya untuk bisa mengatur pengalaman Bali yang autentik.  Pondok Harmony adalah impian saya yang terwujud. Jika Anda mencari pengalaman tradisional Bali sekali seumur hidup, dipasangkan dengan makanan yang luar biasa, dan keramahtamahan yang luar biasa - di sinilah tempatnya.",
+  "scraped_at": "2026-10-04T08:14:11Z"
+}

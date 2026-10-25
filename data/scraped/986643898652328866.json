@@ -1,0 +1,37 @@
+{
+  "room_id": "986643898652328866",
+  "name_raw": "Villa in Ubud - FREE SPA • 4BR Infinity Pool Jungle View Ubud",
+  "price_raw": "Rp 40,387,500",
+  "rating_raw": "4.9",
+  "review_count_raw": 143,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/986643898652328866",
+  "sub_district": "Ubud",
+  "latitude": -8.4855,
+  "longitude": 115.27,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "4",
+    "beds": "4",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Vila 4 kamar tidur yang menakjubkan ini berjarak 5 menit dari pusat Ubud dengan butik, kafe, restoran, studio yoga, dan banyak tempat wisata lokal yang semarak.\n\nDikelilingi pemandangan indah, vila unik ini menawarkan pemandangan hutan yang menakjubkan yang dapat dinikmati dari semua kamar tidur, ruang tamu, dan area luar ruangan besar dengan kolam renang berbentuk L besar. Vila ini memiliki lahan seluas 1.000 meter persegi dengan pemandangan hutan pribadi seluas 500 meter persegi.",
+  "scraped_at": "2026-10-04T08:14:56Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1536355645285018400",
+  "name_raw": "Guest suite in Ubud - New Cozy 1BR • Jungle View • Pool&Garden • Balcony",
+  "price_raw": "Rp 8,184,853",
+  "rating_raw": "5.0",
+  "review_count_raw": 26,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1536355645285018400",
+  "sub_district": "Ubud",
+  "latitude": -8.4795,
+  "longitude": 115.2707,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Apartemen baru di Ubud:\n• Kamar tidur nyaman dengan tempat tidur king-size serta pemandangan hutan dan sawah dari balkon\n• Kamar mandi modern dengan perlengkapan mandi premium\n• Dapur kecil lengkap dengan meja makan\n• Taman tropis, patio, dan kolam renang bersama\n• Sauna bersama untuk relaksasi\n• Wi-Fi 150 Mbps\n• Pembersihan harian, handuk dan seprai bersih disediakan setiap hari\n• Netflix, PS5, dan perlengkapan bayi tersedia berdasarkan permintaan\n• Layanan concierge: sewa skuter, spa, dan tur",
+  "scraped_at": "2026-10-04T08:20:17Z"
+}

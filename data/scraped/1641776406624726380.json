@@ -1,0 +1,37 @@
+{
+  "room_id": "1641776406624726380",
+  "name_raw": "Treehouse in Banjar - SIGMA Treehouse — Private Sauna & Sunset Views",
+  "price_raw": "Rp 24,535,306",
+  "rating_raw": "5.0",
+  "review_count_raw": 17,
+  "regency": "Kabupaten Buleleng",
+  "url": "https://www.airbnb.com/rooms/1641776406624726380",
+  "sub_district": "Banjar",
+  "latitude": -8.2593,
+  "longitude": 115.0704,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rumah pohon hutan pribadi di Munduk, Bali Utara, dengan pemandangan matahari terbenam di ketinggian awan. Bersantai dengan sauna pribadi, bak mandi untuk dua orang, tempat api unggun luar ruangan, dan malam film yang nyaman dengan proyektor. Hanya 15 menit berjalan kaki ke air terjun terdekat, dan ada banyak lagi air terjun di dekatnya. Dirancang untuk pasangan atau wisatawan solo yang mencari kedamaian, alam, dan privasi.",
+  "scraped_at": "2026-10-04T08:17:34Z"
+}

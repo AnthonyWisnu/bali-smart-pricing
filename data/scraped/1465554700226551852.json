@@ -1,0 +1,37 @@
+{
+  "room_id": "1465554700226551852",
+  "name_raw": "Rooms in Tampaksiring - 2BR Villa | Tranquil Ricefield View & Private Pool",
+  "price_raw": "Rp 7,800,000",
+  "rating_raw": "4.77",
+  "review_count_raw": 26,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1465554700226551852",
+  "sub_district": "Tampaksiring",
+  "latitude": -8.505,
+  "longitude": 115.2856,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di liburan Anda yang indah dan damai! Villa modern yang menawan ini memadukan fasilitas modern dan suasana alam Ubud yang santai.- Layanan pengiriman laundry ekstra murah hanya $1,5/kg - 3 km dari pusat Ubud - Jarak berjalan kaki ke kedai kopi dan restoran - Vila yang indah - Koneksi internet cepat - Staf yang andal dan membantu. Siap merasakan keajaiban Bali? Pesan penginapan Anda hari ini dan ciptakan kenangan tak terlupakan!",
+  "scraped_at": "2026-10-04T08:15:37Z"
+}

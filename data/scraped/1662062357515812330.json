@@ -1,0 +1,37 @@
+{
+  "room_id": "1662062357515812330",
+  "name_raw": "Home in Ubud - Sandewa Villa Ubud 2BR Private Pool Sanctuary",
+  "price_raw": "Rp 8,000,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 5,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1662062357515812330",
+  "sub_district": "Ubud",
+  "latitude": -8.56178,
+  "longitude": 115.26211,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "4",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berlibur ke Sandewa Villa, tempat peristirahatan bintang 5 di Ubud yang memadukan pesona Bali dengan kemewahan modern. Bersantai di vila dua kamar tidur yang luas dengan dapur lengkap dan teras pribadi. Selami kolam renang yang buka sepanjang tahun, berjalan-jalan di taman yang rimbun, dan nikmati kenyamanan tanpa batas dengan Wi-Fi berkecepatan tinggi dan AC. Surga tropis Anda menanti.",
+  "scraped_at": "2026-10-04T08:21:46Z"
+}

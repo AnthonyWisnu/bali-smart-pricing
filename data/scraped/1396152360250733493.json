@@ -1,0 +1,37 @@
+{
+  "room_id": "1396152360250733493",
+  "name_raw": "Home in Ubud - The Jungle Romance by Rice Fields – Ubud Villa",
+  "price_raw": "Rp 16,189,880",
+  "rating_raw": "4.96",
+  "review_count_raw": 75,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1396152360250733493",
+  "sub_district": "Ubud",
+  "latitude": -8.5002,
+  "longitude": 115.2697,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": null,
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Di udara rimba, tempat waktu melambat.\n\nSelamat datang di The Jungle Romance — vila rumah pohon pribadi di sentral Ubud, terletak di antara pohon-pohon kelapa, dengan sawah di satu sisi dan hutan di sekelilingnya.\n\nBangun dengan cahaya lembut yang masuk melalui kaca dari lantai hingga langit-langit. Bersantai di hammock jaring di atas area rumput. Berendam di bak mandi batu luar ruangan di antara pakis. Tidurlah dengan suara kicau burung dan hujan.\n\nTempat ini tenang dan bersih cemerlang, diurus",
+  "scraped_at": "2026-10-04T08:10:43Z"
+}

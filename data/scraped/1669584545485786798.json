@@ -1,0 +1,37 @@
+{
+  "room_id": "1669584545485786798",
+  "name_raw": "Home in Payangan - Sumirta's House Bale Teba",
+  "price_raw": "Rp 1,957,800",
+  "rating_raw": "4.67",
+  "review_count_raw": 3,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1669584545485786798",
+  "sub_district": "Payangan",
+  "latitude": -8.4479,
+  "longitude": 115.2561,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di rumah kami yang nyaman dan damai, rumah liburan Anda yang sempurna. Nikmati kenyamanan, privasi, dan keramahtamahan yang hangat dalam suasana yang santai.\nTerletak strategis di dekat Ubud, rumah kami menawarkan akses mudah ke semua yang Anda butuhkan sembari tetap menyediakan lingkungan yang tenang dan santai.\nKamar kami bersih, nyaman, dan berfasilitas lengkap untuk memastikan masa inap yang menyenangkan dan berkesan.\nNikmati kehidupan lokal autentik bersama tuan rumah ramah y",
+  "scraped_at": "2026-10-04T08:14:40Z"
+}

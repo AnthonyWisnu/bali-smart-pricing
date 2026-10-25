@@ -1,0 +1,37 @@
+{
+  "room_id": "771462846966449273",
+  "name_raw": "Villa in Sukasada - Impressive Villa ASA - 4000m2 with huge pool",
+  "price_raw": "Rp 16,812,483",
+  "rating_raw": "4.87",
+  "review_count_raw": 87,
+  "regency": "Kabupaten Buleleng",
+  "url": "https://www.airbnb.com/rooms/771462846966449273",
+  "sub_district": "Sukasada",
+  "latitude": -8.1698,
+  "longitude": 115.0653,
+  "capacity": {
+    "guests": "8",
+    "bedrooms": "4",
+    "beds": "4",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Vila Desainer Unik di lahan seluas 4000 m2. \n\nDibangun pada tahun 2015 dan baru-baru ini dimodernisasi. \n\nPemandangan hutan dan laut, kolam renang besar dengan 3 tingkat kedalaman yang berbeda, bar, 4 kamar tidur ganda, dapur, toilet tamu, ruang tamu terbuka yang luas dengan TV 75 inci, Internet serat berkecepatan tinggi (600Mbps), skuter tersedia untuk disewa, mesin cuci, 3 dispenser air minum dingin/panas, total 6 AC, area makan dengan kursi, Gazebo, teras dan area BBQ untuk bersantai, sunbed.",
+  "scraped_at": "2026-10-04T08:18:02Z"
+}

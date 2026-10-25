@@ -1,0 +1,37 @@
+{
+  "room_id": "1379374607541351625",
+  "name_raw": "Villa in Kecamatan Ubud - Villa Jepun - Luxury Rice Field Villa in Ubud",
+  "price_raw": "Rp 35,281,008",
+  "rating_raw": "4.71",
+  "review_count_raw": 34,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1379374607541351625",
+  "sub_district": "Kecamatan Ubud",
+  "latitude": -8.47891,
+  "longitude": 115.27124,
+  "capacity": {
+    "guests": "12",
+    "bedrooms": "6",
+    "beds": "6",
+    "baths": "6"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Tempat liburan hutan yang tenang, hanya 10 menit dari pusat Ubud.\nDengan pemandangan sawah panorama dan infinity, layanan tingkat hotel lengkap, dan desain yang damai, vila ini menawarkan masa inap pribadi yang elegan dan sangat memulihkan.\nDari sarapan terapung hingga pijat di vila, setiap momen dirancang dengan cermat.",
+  "scraped_at": "2026-10-04T08:14:45Z"
+}

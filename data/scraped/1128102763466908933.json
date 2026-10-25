@@ -1,0 +1,37 @@
+{
+  "room_id": "1128102763466908933",
+  "name_raw": "Villa in Penebel - Jatiluwih Serenity Villas – Hidden Gem | 2 Bedroom",
+  "price_raw": "Rp 9,035,470",
+  "rating_raw": "5.0",
+  "review_count_raw": 25,
+  "regency": "Kabupaten Tabanan",
+  "url": "https://www.airbnb.com/rooms/1128102763466908933",
+  "sub_district": "Penebel",
+  "latitude": -8.4046,
+  "longitude": 115.1044,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": null,
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Dragonfly Cottage Villa menawarkan pemandangan panorama sawah terasering Jatiluwih yang ikonis dan terdaftar di UNESCO, yang mengalir menuruni lereng pegunungan BATUKARU. Para tamu dapat menikmati keindahan alam pedesaan Bali, dengan hamparan sawah hijau yang membentang di depan mereka dan puncak-puncak gunung yang berkabut di kejauhan.\nDengan berjalan kaki, Anda dapat menemukan warung terdekat dengan pemandangan yang indah. Kopi panas dan pisang goreng adalah teman Anda.",
+  "scraped_at": "2026-10-04T08:38:50Z"
+}

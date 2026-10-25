@@ -1,0 +1,37 @@
+{
+  "room_id": "1713477471825179301",
+  "name_raw": "Home in Kecamatan Ubud - Family Lodge 2BR with private pool",
+  "price_raw": "Rp 8,451,735",
+  "rating_raw": "5.0",
+  "review_count_raw": 5,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1713477471825179301",
+  "sub_district": "Kecamatan Ubud",
+  "latitude": -8.4913,
+  "longitude": 115.2666,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Sampaikan dengan sederhana di tempat yang damai dan berlokasi di pusat ini.\nTinggalkan dunia modern untuk membenamkan diri dalam kemewahan pribadi dan temukan esensi Bali di taman bermain alami yang hidup dengan taman hijau dan rindang. Rasakan kenyamanan dan keamanan menginap di tempat ini karena tempat ini berlokasi di belakang komplek Bali dengan keluarga yang menyenangkan yang tinggal di komplek tersebut. Tuan rumah mengundang Anda untuk melihat dan merasakan realitas kehidupan Bali dengan a",
+  "scraped_at": "2026-10-04T08:13:57Z"
+}

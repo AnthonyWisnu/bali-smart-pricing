@@ -1,0 +1,37 @@
+{
+  "room_id": "1591894302210367372",
+  "name_raw": "Room in Kuta - Deluxe room with double bed",
+  "price_raw": "Rp 1,709,998",
+  "rating_raw": "4.91",
+  "review_count_raw": 109,
+  "regency": "Kota Denpasar",
+  "url": "https://www.airbnb.com/rooms/1591894302210367372",
+  "sub_district": "Kuta",
+  "latitude": -8.7384,
+  "longitude": 115.1656,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Tempat bergaya ini dekat dengan destinasi yang tak boleh dilewatkan.",
+  "scraped_at": "2026-10-04T08:06:57Z"
+}

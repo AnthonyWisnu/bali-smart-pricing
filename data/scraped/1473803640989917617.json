@@ -1,0 +1,37 @@
+{
+  "room_id": "1473803640989917617",
+  "name_raw": "Room in Sidemen - baledaje 2",
+  "price_raw": "Rp 2,862,300",
+  "rating_raw": "4.94",
+  "review_count_raw": 17,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1473803640989917617",
+  "sub_district": "Kecamatan Sidemen",
+  "latitude": -8.46999,
+  "longitude": 115.4446,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "“Selamat datang di rumah tamu baru Anda. Anda akan merasakan tempat bergaya keluarga yang unik dan tradisional serta mangku petani spritual”",
+  "scraped_at": "2026-10-04T08:15:29Z"
+}

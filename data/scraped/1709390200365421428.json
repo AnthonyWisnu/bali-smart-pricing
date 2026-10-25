@@ -1,0 +1,37 @@
+{
+  "room_id": "1709390200365421428",
+  "name_raw": "Room in Penebel - Double Bedroom Gladak House at Jatiluwih",
+  "price_raw": "Rp 4,000,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Buleleng",
+  "url": "https://www.airbnb.com/rooms/1709390200365421428",
+  "sub_district": "Penebel",
+  "latitude": -8.37359,
+  "longitude": 115.1389,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nikmati masa inap yang damai di Joglo House kami, dikelilingi sawah Jatiluwih yang indah. Menggabungkan arsitektur tradisional Indonesia dengan kenyamanan modern, akomodasi unik ini menawarkan tempat beristirahat yang santai di tengah alam dan udara pegunungan yang segar.\n\nUntuk pengalaman eksklusif, properti ini hanya dapat diakses dengan layanan antar-jemput gratis dari Restoran Gong Jatiluwih. Nikmati pemandangan sawah yang menakjubkan, suasana yang tenang, dan liburan pedesaan yang tak terlu",
+  "scraped_at": "2026-10-04T08:18:07Z"
+}

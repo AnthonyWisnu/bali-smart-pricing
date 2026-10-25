@@ -1,0 +1,37 @@
+{
+  "room_id": "1488855344524929240",
+  "name_raw": "Apartment in Kuta Utara - Modern 1-BR Private Apartment in Canggu (1)",
+  "price_raw": "Rp 1,592,500",
+  "rating_raw": "4.95",
+  "review_count_raw": 20,
+  "regency": "Kota Denpasar",
+  "url": "https://www.airbnb.com/rooms/1488855344524929240",
+  "sub_district": "Kuta Utara",
+  "latitude": -8.64658,
+  "longitude": 115.17594,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Temukan kami di @eliteoperates! \n\nBersantai di apartemen 1 kamar tidur modern ini liburan Bali yang sempurna, dikelilingi kafe terbaik dan permata lokal!\n\n•⁠ ⁠Ruang tamu sunken bergaya dengan sofa yang nyaman, Wi-Fi & smart TV\n\n•⁠ Dapur berfasilitas lengkap dengan peralatan modern dan area makan\n\n• 1 kamar tidur dengan AC dan lemari pakaian\n\n• Kamar mandi pribadi dengan shower berjalan\n\n•⁠ ⁠Akses ke area luar ruangan yang menyegarkan\n\n•⁠ ⁠5 menit ke pusat Canggu\n\n• 12 menit ke pantai Petitenget",
+  "scraped_at": "2026-10-04T08:08:25Z"
+}

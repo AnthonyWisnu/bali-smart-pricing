@@ -1,0 +1,37 @@
+{
+  "room_id": "613487521973949440",
+  "name_raw": "Guesthouse in Nusa Penida - Nusa Penida Homestay 16",
+  "price_raw": "Rp 2,250,000",
+  "rating_raw": "4.88",
+  "review_count_raw": 113,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/613487521973949440",
+  "sub_district": "Kecamatan Nusa Penida",
+  "latitude": -8.6767,
+  "longitude": 115.4945,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "jelajahi tebing hijau, bukit dan pantai biru dengan akomodasi yang dekat dengan pusat kota. \nseperti 350 meter dari pelabuhan Banjar Nyuh, 500 meter dari supermarket dan terdapat banyak restoran dan dekat dengan operator Diving . 🏝",
+  "scraped_at": "2026-10-04T08:37:12Z"
+}

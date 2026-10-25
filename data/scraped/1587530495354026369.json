@@ -1,0 +1,37 @@
+{
+  "room_id": "1587530495354026369",
+  "name_raw": "Home in Abang - Villa Nagaïa - Private Pool, Rooftop & Agung Views",
+  "price_raw": "Rp 17,500,000",
+  "rating_raw": "4.92",
+  "review_count_raw": 12,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1587530495354026369",
+  "sub_district": "Abang",
+  "latitude": -8.32715,
+  "longitude": 115.62947,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Terletak di antara laut dan gunung berapi suci, Villa Nagaïa adalah tempat liburan yang damai di pusat Bali Timur.\nBangun dengan pemandangan Gunung Agung, sarapan di tepi kolam renang pribadi Anda, lalu saksikan matahari tenggelam ke laut\ndari atap panorama Anda.\n\nLingkungan yang autentik, desain Bali yang elegan, dan segala yang Anda butuhkan untuk masa inap yang tak terlupakan bersama\nkeluarga, sebagai pasangan, atau bersama teman-teman.",
+  "scraped_at": "2026-10-04T08:35:00Z"
+}

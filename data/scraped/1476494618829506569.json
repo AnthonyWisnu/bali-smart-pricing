@@ -1,0 +1,37 @@
+{
+  "room_id": "1476494618829506569",
+  "name_raw": "Guesthouse in Ubud - Mo Guest House Ubud",
+  "price_raw": "Rp 10,216,350",
+  "rating_raw": "5.0",
+  "review_count_raw": 6,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1476494618829506569",
+  "sub_district": "Ubud",
+  "latitude": -8.5515,
+  "longitude": 115.2749,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Mo_S Domizil Guest House terletak di pusat seni dan budaya, tepatnya di Jalan Rapuan, Mas, Ubud. Terletak di komplek keluarga dengan taman tropis yang indah dan pemandangan kolam renang. Setiap kamar memiliki kamar mandi pribadi dengan air panas, meja kerja, kopi atau teh harian dan air minum yang disiapkan di meja kopi Anda. Kamar - kamarnya unik dengan desain Bali. Kami konsep tempat kami sebagai tempat yang membuat Anda akan merasa seperti berada di rumah yang jauh dari rumah Anda yang sebena",
+  "scraped_at": "2026-10-04T08:23:04Z"
+}

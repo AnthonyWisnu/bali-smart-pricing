@@ -1,0 +1,37 @@
+{
+  "room_id": "1441167573958096506",
+  "name_raw": "Villa in Sidemen - Velonia Iseh",
+  "price_raw": "Rp 11,625,000",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1441167573958096506",
+  "sub_district": "Sidemen",
+  "latitude": -8.44992,
+  "longitude": 115.4695,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "4",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nikmati liburan di Velonia Iseh, vila bambu romantis di Sidemen dengan pemandangan Gunung Agung yang menakjubkan dan sawah yang subur serta sungai yang indah. Nikmati kolam renang pribadi, desain bambu ramah lingkungan, dan alam yang tenang di sekitarnya. Sangat cocok untuk pasangan atau keluarga yang mencari kedamaian, romantisme, dan pesona Bali yang autentik.",
+  "scraped_at": "2026-10-04T08:34:09Z"
+}

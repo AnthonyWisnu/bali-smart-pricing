@@ -1,0 +1,37 @@
+{
+  "room_id": "12096857",
+  "name_raw": "Home in Ubud - BEAUTIFUL HOME - NEW POOL & RICE FIELD VIEWS!",
+  "price_raw": "Rp 10,216,350",
+  "rating_raw": "4.93",
+  "review_count_raw": 378,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/12096857",
+  "sub_district": "Ubud",
+  "latitude": -8.53143,
+  "longitude": 115.26214,
+  "capacity": {
+    "guests": "8",
+    "bedrooms": "4",
+    "beds": "4",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Ketenangan adalah rumah yang indah dengan kamar yang sangat nyaman, dibuat lebih baik oleh kolam renang BARU kami yang terletak di taman tropis kami! Kami berada tepat di depan pintu Ubud, namun tampaknya merupakan dunia yang jauh dari sini, terletak di antara pohon kelapa dan buah - buahan tropis, dengan pemandangan sawah yang ajaib. Kami bisa membantu Anda mengatur apa saja, tur, pijat, aktivitas, dan banyak lagi.",
+  "scraped_at": "2026-10-04T08:22:49Z"
+}

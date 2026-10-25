@@ -1,0 +1,37 @@
+{
+  "room_id": "1649003313901802968",
+  "name_raw": "Room in Tegalalang - Cozy Japanese-Style Room Near Ubud Tegallalang",
+  "price_raw": "Rp 2,044,000",
+  "rating_raw": "4.89",
+  "review_count_raw": 9,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1649003313901802968",
+  "sub_district": "Tegallalang",
+  "latitude": -8.3707,
+  "longitude": 115.3058,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": null
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "kamar lantai 2 yang nyaman di tengah hutan dengan pemandangan ladang yang bagus dan fasilitas yang lengkap",
+  "scraped_at": "2026-10-04T08:10:23Z"
+}

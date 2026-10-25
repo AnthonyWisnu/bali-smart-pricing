@@ -1,0 +1,37 @@
+{
+  "room_id": "1601209600725872834",
+  "name_raw": "Room in Nusa Penida - Walk to Kelingking Beach! Kelingking Terrace Cottages.",
+  "price_raw": "Rp 2,947,500",
+  "rating_raw": "4.78",
+  "review_count_raw": 55,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1601209600725872834",
+  "sub_district": "Nusa Penida",
+  "latitude": -8.7493,
+  "longitude": 115.4767,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rasakan jantung Nusa Penida di Kelingking Terrace Cottage. Terletak hanya 5 menit berjalan kaki dari Pantai Kelingking yang ikonis, rumah tamu kayu kami menawarkan liburan matahari terbenam yang sempurna.\n\nBersantai di kamar pribadi Anda dengan kamar mandi ensuite, dikelilingi taman tropis yang rindang dan pohon kelapa. Baik Anda seorang wisatawan solo maupun pasangan, nikmati suasana pulau yang tenang, sederhana, dan autentik. Liburan tropis impian Anda dimulai di sini!",
+  "scraped_at": "2026-10-04T08:37:06Z"
+}

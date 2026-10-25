@@ -1,0 +1,37 @@
+{
+  "room_id": "1553563814211903167",
+  "name_raw": "Cabin in Sidemen - Jiva Bali - Asha - Villa with volcano view",
+  "price_raw": "Rp 13,860,000",
+  "rating_raw": "4.56",
+  "review_count_raw": 34,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1553563814211903167",
+  "sub_district": "Kecamatan Sidemen",
+  "latitude": -8.45379,
+  "longitude": 115.48432,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di Asha, villa bambu baru kami yang terletak di atas sawah, di mana kolam renang pribadi terbuka ke pemandangan Gunung Agung yang luas. Mengapung di bawah langit, beristirahat di jaring hutan Anda, dan biarkan dunia menghilang.\n\nRumah ini dibangun untuk pecinta — alam, keindahan, satu sama lain. Setiap garis melengkung seperti angin, setiap ruang terbuka ke pemandangan. Tempat tidur terapung. Sudut rahasia untuk minum teh. Matahari terbit yang akan Anda kenang seumur hidup.",
+  "scraped_at": "2026-10-04T08:31:14Z"
+}

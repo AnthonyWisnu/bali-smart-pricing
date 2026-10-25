@@ -1,0 +1,37 @@
+{
+  "room_id": "1219490267465321033",
+  "name_raw": "Tent in Banjar - Luxury Tent with Pool & Sunset View",
+  "price_raw": "Rp 7,487,120",
+  "rating_raw": "4.81",
+  "review_count_raw": 80,
+  "regency": "Kabupaten Buleleng",
+  "url": "https://www.airbnb.com/rooms/1219490267465321033",
+  "sub_district": "Kecamatan Banjar",
+  "latitude": -8.23253,
+  "longitude": 115.0682,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "4",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "nikmati pengalaman tidur di tenda dengan fasilitas yang mewah dengan tetap terhubung dengan suasana alam yang damai dan pemandangan bukit, lembah, hamparan kebun kopi dan pemandangan indahnya laut bali utara",
+  "scraped_at": "2026-10-04T08:17:34Z"
+}

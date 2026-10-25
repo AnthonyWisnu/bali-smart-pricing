@@ -1,0 +1,37 @@
+{
+  "room_id": "1462205574898475318",
+  "name_raw": "Treehouse in Sidemen - Veluvana Mountain - Bull House",
+  "price_raw": "Rp 41,082,372",
+  "rating_raw": "4.58",
+  "review_count_raw": 31,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1462205574898475318",
+  "sub_district": "Sidemen",
+  "latitude": -8.47907,
+  "longitude": 115.43458,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bull House adalah rumah bambu yang dirancang dalam bentuk banteng yang kuat, melambangkan kekuatan dan ketahanan. Dibangun dari bahan ramah lingkungan, tempat ini mengadopsi konsep terbuka tanpa dinding atau pintu. Villa ini menawarkan pemandangan Gunung Agung dan sawah terasering yang menakjubkan. Para tamu bisa bersantai di kolam renang pribadi sambil menikmati alam. Berani, artistik, dan ramah lingkungan. Bull House adalah tempat unik bagi para pencari keindahan dan petualangan.",
+  "scraped_at": "2026-10-04T08:32:35Z"
+}

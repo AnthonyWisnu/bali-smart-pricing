@@ -1,0 +1,37 @@
+{
+  "room_id": "1694888220535156062",
+  "name_raw": "Home in Payangan - Ubud Forest View Villa with Private Pool & Kitchen",
+  "price_raw": "Rp 8,756,870",
+  "rating_raw": "4.75",
+  "review_count_raw": 4,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1694888220535156062",
+  "sub_district": "Payangan",
+  "latitude": -8.437,
+  "longitude": 115.2591,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Mencari tempat peristirahatan yang damai, privat, dan indah? Selamat datang di Lucky Villa Ubud, tempat peristirahatan tersembunyi yang dikelilingi alam Ubud yang indah. Bangun dengan suara burung yang menenangkan, hirup udara hutan yang segar, dan awali pagi Anda dengan sarapan terapung di kolam renang pribadi Anda yang menghadap hutan Ubud yang menakjubkan. Luangkan waktu Anda untuk bersantai, terhubung kembali dengan alam, dan menciptakan momen yang tak terlupakan. Sempurna untuk bulan madu, ",
+  "scraped_at": "2026-10-04T08:16:18Z"
+}

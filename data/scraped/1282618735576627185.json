@@ -1,0 +1,37 @@
+{
+  "room_id": "1282618735576627185",
+  "name_raw": "Home in Kuta Utara - Nirvana Canggu 2BR •Near Berawa•pool",
+  "price_raw": "Rp 14,848,177",
+  "rating_raw": "5.0",
+  "review_count_raw": 16,
+  "regency": "Kabupaten Badung",
+  "url": "https://www.airbnb.com/rooms/1282618735576627185",
+  "sub_district": "Kuta Utara",
+  "latitude": -8.6413,
+  "longitude": 115.15963,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Vila kolam renang pribadi ini berlokasi di Canggu, Bali, dan menawarkan suasana yang tenang dan nyaman. Tempat ini memiliki kolam renang yang menyegarkan dan area tamu yang luas di mana Anda bisa bersantai dengan nyaman. Ada pula meja makan besar yang sangat cocok untuk dinikmati bersama keluarga, pasangan, atau teman. Anda juga bisa bersantai di sofa yang nyaman sambil menonton TV.",
+  "scraped_at": "2026-10-04T08:09:44Z"
+}

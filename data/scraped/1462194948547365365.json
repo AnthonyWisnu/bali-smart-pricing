@@ -1,0 +1,37 @@
+{
+  "room_id": "1462194948547365365",
+  "name_raw": "Treehouse in Sidemen - Veluvana Mountain - Squid House",
+  "price_raw": "Rp 42,794,138",
+  "rating_raw": "4.7",
+  "review_count_raw": 23,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1462194948547365365",
+  "sub_district": "Sidemen",
+  "latitude": -8.48,
+  "longitude": 115.4368,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Squid House di Veluvana Bali adalah vila bambu unik yang berbentuk seperti cumi-cumi raksasa.\nDibangun dengan bahan alami dan ramah lingkungan, tempat ini mengikuti konsep tanpa dinding dan tanpa pintu untuk pengalaman yang benar-benar mengasah alam.\nTamu bisa menikmati pemandangan Gunung Agung dan sawah terasering yang menakjubkan langsung dari tempat tidur.\nVilla ini menampilkan seluncuran bambu yang menyenangkan dan kolam renang pribadi untuk masa inap yang menyenangkan dan santai.\nSangat coc",
+  "scraped_at": "2026-10-04T08:13:04Z"
+}

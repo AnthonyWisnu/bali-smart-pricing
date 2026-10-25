@@ -1,0 +1,37 @@
+{
+  "room_id": "1654914791453465122",
+  "name_raw": "Room in Nusa Penida - Ocean Breeze & Mt. Agung View | Suda Cottage",
+  "price_raw": "Rp 3,325,200",
+  "rating_raw": "5.0",
+  "review_count_raw": 6,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1654914791453465122",
+  "sub_district": "Nusa Penida",
+  "latitude": -8.6774,
+  "longitude": 115.5231,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Suda Cottage:\n\nTingkatkan liburan Anda di Nusa Penida dengan Kamar Deluxe kami yang menakjubkan di lantai atas. Nikmati pemandangan panorama laut biru kehijauan dan Gunung Agung yang megah yang menakjubkan tepat dari balkon pribadi Anda. Tempat peristirahatan yang luas ini memiliki langit-langit kayu tinggi, tempat tidur berukuran king yang empuk, dan kenyamanan modern termasuk AC dan kamar mandi dalam yang hangat.\n\nBeberapa langkah dari pantai dan tempat makan lokal, tempat ini adalah sudut pan",
+  "scraped_at": "2026-10-04T08:36:37Z"
+}

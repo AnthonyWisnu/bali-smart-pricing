@@ -1,0 +1,37 @@
+{
+  "room_id": "1677175985322938916",
+  "name_raw": "Villa in Banjar - Architectural Triangle Villa | Private Pool 2BR",
+  "price_raw": "Rp 8,390,115",
+  "rating_raw": "5.0",
+  "review_count_raw": 10,
+  "regency": "Kabupaten Buleleng",
+  "url": "https://www.airbnb.com/rooms/1677175985322938916",
+  "sub_district": "Banjar",
+  "latitude": -8.17815,
+  "longitude": 115.01207,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berliburlah ke vila berbentuk segitiga kami yang unik dengan kolam renang pribadi Anda sendiri. Dirancang untuk kenyamanan, privasi, dan nuansa media sosial yang serius. Sangat cocok untuk keluarga, teman, atau pasangan.\nArsitektur segitiga vila yang unik + kolam renang pribadi membuat masa inap Anda tak terlupakan.\n\nkamar tidur dengan tempat tidur king size berukuran 200 x 200 cm  \ndan tempat tidur sofa untuk tamu tambahan  \nRuang tamu/area yang terbuka ke kolam renang pribadi\nKamar mandi priba",
+  "scraped_at": "2026-10-04T08:17:03Z"
+}

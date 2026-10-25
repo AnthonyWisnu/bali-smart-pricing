@@ -1,0 +1,37 @@
+{
+  "room_id": "43872700",
+  "name_raw": "Private room in Pekutatan - Jungle House - Budget Twin Room",
+  "price_raw": "Rp 1,100,000",
+  "rating_raw": "4.88",
+  "review_count_raw": 8,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/43872700",
+  "sub_district": "Kecamatan Pekutatan",
+  "latitude": -8.40518,
+  "longitude": 114.80557,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "2",
+    "baths": "5"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Surfer's House menawarkan pemandangan alam yang indah 20 meter dari pemandangan sungai, kebun dan sawah yang akan memanjakan mata pemirsa, penginapan yang nyaman dan tenang seperti rumah. Surfer's House juga menawarkan sekolah selancar bagi wisatawan yang ingin belajar berselancar dengan pemandu berpengalaman dan menyediakan penyewaan papan selancar. Fasilitas lain yang ditawarkan adalah layanan antar jemput bandara dan hotel dengan tambahan biaya dan penyewaan sepeda motor.",
+  "scraped_at": "2026-10-04T08:25:37Z"
+}

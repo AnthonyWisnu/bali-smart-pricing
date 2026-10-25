@@ -1,0 +1,37 @@
+{
+  "room_id": "1232179597819514440",
+  "name_raw": "Villa in Tembuku - Bali Alam Villa : Alam Asri (1BR)",
+  "price_raw": "Rp 2,375,000",
+  "rating_raw": "4.9",
+  "review_count_raw": 50,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1232179597819514440",
+  "sub_district": "Kecamatan Tembuku",
+  "latitude": -8.4275,
+  "longitude": 115.3988,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "🌾 Bulan Oktober biasanya hangat dan cerah di Bali, dengan hujan sesekali. Kawasan di sekitarnya saat ini ditanami sawah, sehingga menawarkan suasana desa Bali yang alami.\n\n⚠️ Harap pesan hanya jika Anda merasa nyaman menginap di desa pedesaan Bali dan menikmati pesona pedesaan yang autentik serta keindahan alamnya. Ini akan membantu menghindari kesalahpahaman bagi tamu dan tim keluarga kami.\n\n♻️ Kami menyediakan air hangat dan mendorong penggunaan air dan listrik secara bertanggung jawab.",
+  "scraped_at": "2026-10-04T08:30:19Z"
+}

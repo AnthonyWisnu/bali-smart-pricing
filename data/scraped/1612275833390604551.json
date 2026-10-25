@@ -1,0 +1,37 @@
+{
+  "room_id": "1612275833390604551",
+  "name_raw": "Treehouse in Ubud - Special Offer | 1BR Private Pool Bamboo",
+  "price_raw": "Rp 11,982,359",
+  "rating_raw": "4.95",
+  "review_count_raw": 38,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1612275833390604551",
+  "sub_district": "Ubud",
+  "latitude": -8.57139,
+  "longitude": 115.25426,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Terletak di lingkungan yang rimbun di Singapadu dekat Ubud, Dumi Kaje adalah vila bambu terpencil yang dirancang untuk pasangan yang mencari ketenangan, privasi, dan kenyamanan tertinggi. Dikelilingi oleh alam tropis dan suasana yang tenang, tempat persembunyian romantis ini memiliki kolam renang pribadi bergaya Mediterania, interior yang dirancang dengan cermat, dan ruang tamu yang nyaman. Menawarkan liburan ideal untuk bersantai, terhubung kembali, dan menikmati ritme Bali yang tenang.",
+  "scraped_at": "2026-10-04T08:21:29Z"
+}

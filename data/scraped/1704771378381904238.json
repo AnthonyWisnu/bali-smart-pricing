@@ -1,0 +1,37 @@
+{
+  "room_id": "1704771378381904238",
+  "name_raw": "Tiny home in Rendang - MountAgungVilla Karangasem SunRice View Room no. 8",
+  "price_raw": "Rp 3,434,943",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1704771378381904238",
+  "sub_district": "Rendang",
+  "latitude": -8.4154,
+  "longitude": 115.4248,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nikmati pengalaman menginap yang tenang dan berkesan di villa eksklusif yang berada di kawasan sejuk kaki Gunung Agung. Dikelilingi panorama alam yang memukau, hamparan sawah hijau, udara pegunungan yang segar, serta pemandangan megah Gunung Agung yang dapat dinikmati langsung dari area villa.",
+  "scraped_at": "2026-10-04T08:11:28Z"
+}

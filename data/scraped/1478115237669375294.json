@@ -1,0 +1,37 @@
+{
+  "room_id": "1478115237669375294",
+  "name_raw": "Home in Kintamani - Mount Batur Family Room",
+  "price_raw": "Rp 4,664,494",
+  "rating_raw": "4.78",
+  "review_count_raw": 50,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1478115237669375294",
+  "sub_district": "Kintamani",
+  "latitude": -8.22182,
+  "longitude": 115.40093,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "3",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Mount Batur Family Room sebuah penginapan yang terletak di lereng gunung berapi dan berada di area pertanian yang memiliki pemandangan Gunung yang sangat indah diantaranya:\n1. Gunung Batur\n2. Gunung Abang\n3. Gunung Agung\nPenginapan yang juga dekat dengan Danau Batur, air panas alami, Mount Batur Family Room ini  penginapan yang jauh dari keramaian cocok untuk keluarga yang mencintai alam dan berinteraksi dengan masyarakat lokal. Kami juga bisa mangatur aktivitas tamu seperti Pendakian,Jeep tour,",
+  "scraped_at": "2026-10-04T08:31:29Z"
+}

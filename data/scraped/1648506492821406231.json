@@ -1,0 +1,37 @@
+{
+  "room_id": "1648506492821406231",
+  "name_raw": "Home in Tembuku - 2 bedroom private villa~near 3 waterfalls & nature",
+  "price_raw": "Rp 4,125,000",
+  "rating_raw": "4.95",
+  "review_count_raw": 22,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1648506492821406231",
+  "sub_district": "Tembuku",
+  "latitude": -8.4344,
+  "longitude": 115.37501,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di vila pribadi 2 kamar tidur kami yang indah, yang terletak di lingkungan pedesaan yang tenang dan jauh dari keramaian. Dikelilingi oleh kehijauan yang rindang, udara segar, dan suara alam yang menenangkan, ini adalah tempat yang sempurna untuk bersantai, memulihkan tenaga, dan berkumpul kembali.\nSalah satu fitur paling istimewa dari vila ini adalah lokasinya—tiga air terjun tersembunyi hanya berjarak berjalan kaki singkat, menawarkan pengalaman ajaib bagi pecinta alam dan petual",
+  "scraped_at": "2026-10-04T08:11:08Z"
+}

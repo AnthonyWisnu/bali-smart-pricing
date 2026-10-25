@@ -1,0 +1,37 @@
+{
+  "room_id": "1549115758006018550",
+  "name_raw": "Guesthouse in Selemadeg - Bamboo Lodge Two Bedrooms with Private Pool - RO",
+  "price_raw": "Rp 8,750,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 10,
+  "regency": "Kabupaten Tabanan",
+  "url": "https://www.airbnb.com/rooms/1549115758006018550",
+  "sub_district": "Selemadeg",
+  "latitude": -8.47618,
+  "longitude": 115.03263,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Green Oasis Retreat Bali di Selemadeg menawarkan kamar yang luas dengan AC, kamar mandi pribadi, dan balkon. Setiap kamar dilengkapi pembuat teh dan kopi, pengering rambut, dan pemandangan sungai.\n\nTamu bisa bersantai di taman, di teras, atau di tepi kolam renang luar ruangan. Properti ini memiliki area makan, meja makan, dan balkon untuk bersantap di luar ruangan.\n\nBed and breakfast ini menyediakan layanan antar-jemput bandara berbayar dan penyewaan mobil. Tersedia tempat parkir pribadi di loka",
+  "scraped_at": "2026-10-04T08:38:32Z"
+}

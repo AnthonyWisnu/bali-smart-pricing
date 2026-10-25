@@ -1,0 +1,37 @@
+{
+  "room_id": "874186269357927240",
+  "name_raw": "Rooms in Melaya - Cozy Room at Bingsari Homestay, Pool & Villa",
+  "price_raw": "Rp 3,431,519",
+  "rating_raw": "4.94",
+  "review_count_raw": 48,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/874186269357927240",
+  "sub_district": "Kecamatan Melaya",
+  "latitude": -8.23842,
+  "longitude": 114.51663,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "5",
+    "beds": "2",
+    "baths": "5"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Homestay Unik dan Terpencil untuk Mengalami Keindahan Alam dan Budaya di Bali Barat.\nBagi mereka yang mencari tempat yang sempurna untuk mengisi ulang dan terhubung kembali dengan diri mereka sendiri, tidak terlihat lagi dari homestay retret terpencil ini yang terletak di jantung hutan rimbun Taman Nasional Bali Barat, Desa Warisan Blimbingsari adalah komunitas bagi Kristen Bali dengan gereja tertua di Bali. Asimilasi unik dengan kaum Hindu Bali terus menarik pengunjung dari seluruh dunia.",
+  "scraped_at": "2026-10-04T08:23:21Z"
+}

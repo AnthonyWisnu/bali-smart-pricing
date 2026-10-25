@@ -1,0 +1,37 @@
+{
+  "room_id": "1744977797265087730",
+  "name_raw": "Home in Ubud - Private Pool Villa Near Ubud",
+  "price_raw": "Rp 4,050,072",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1744977797265087730",
+  "sub_district": "Ubud",
+  "latitude": -8.48594,
+  "longitude": 115.27168,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Beristirahatlah dan bersantai sejenak di oasis damai ini.",
+  "scraped_at": "2026-10-04T08:10:42Z"
+}

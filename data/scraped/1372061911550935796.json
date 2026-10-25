@@ -1,0 +1,37 @@
+{
+  "room_id": "1372061911550935796",
+  "name_raw": "Guesthouse in Nusa Penida - 9 Minutes Driving to Crystal Bay Beach",
+  "price_raw": "Rp 1,835,000",
+  "rating_raw": "4.88",
+  "review_count_raw": 25,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1372061911550935796",
+  "sub_district": "Nusa Penida",
+  "latitude": -8.71812,
+  "longitude": 115.47844,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nusa Dewata Cottage at Jalan Selumbung, Nusa Penida. \nHanya 9 menit berkendara dari Crystal Bay Beach yang menakjubkan, kamar tamu kami yang menawan menawarkan masa inap pribadi, bersih, dan nyaman dengan kamar mandi dalam dan pancuran air panas. Keluarlah dari pintu Anda ke kolam renang 24 jam - sempurna untuk berendam menyegarkan setelah seharian berpetualang di pulau.",
+  "scraped_at": "2026-10-04T08:37:30Z"
+}

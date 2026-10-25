@@ -1,0 +1,37 @@
+{
+  "room_id": "1473652525438168667",
+  "name_raw": "Cabin in Kintamani - Moon Bali Cabin",
+  "price_raw": "Rp 3,266,665",
+  "rating_raw": "4.93",
+  "review_count_raw": 84,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1473652525438168667",
+  "sub_district": "Kintamani",
+  "latitude": -8.22363,
+  "longitude": 115.3986,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bersantailah di tempat yang damai dan bergaya ini. Jauh dari perkotaan dan terletak di pedesaan, sangat direkomendasikan untuk melakukan aktivitas gunung berapi",
+  "scraped_at": "2026-10-04T08:16:04Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1482534664734151026",
+  "name_raw": "Villa in Banjar - Villa L'espoir III - Lovina hillside ocean view",
+  "price_raw": "Rp 26,891,079",
+  "rating_raw": "4.95",
+  "review_count_raw": 39,
+  "regency": "Kabupaten Buleleng",
+  "url": "https://www.airbnb.com/rooms/1482534664734151026",
+  "sub_district": "Banjar",
+  "latitude": -8.18137,
+  "longitude": 115.02089,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "086",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "silakan lihat vila kami yang lain di Bali Utara:\nairbnb.com/h/lespoir\n\nPemandangan menakjubkan ke laut dan perbukitan.  Semua kamar menghadap ke laut, kolam renang pribadi sepanjang 14m dan area luar ruangan yang luas. Interior yang bergaya dan nyaman.  Kami menyediakan layanan memasak dan kebersihan gratis tanpa biaya tambahan, Petugas keamanan bekerja mulai pukul 18.00 hingga 06.00.  Semua ini untuk memastikan Anda akan menikmati liburan yang luar biasa di L'espoir III.",
+  "scraped_at": "2026-10-04T08:17:51Z"
+}

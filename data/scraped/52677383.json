@@ -1,0 +1,37 @@
+{
+  "room_id": "52677383",
+  "name_raw": "Villa in Sukawati - 2BR Private Villa W/Pool in Ubud",
+  "price_raw": "Rp 5,500,000",
+  "rating_raw": "4.85",
+  "review_count_raw": 118,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/52677383",
+  "sub_district": "Kecamatan Sukawati",
+  "latitude": -8.52251,
+  "longitude": 115.28255,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Hindari kesibukan dan rasakan pengalaman liburan yang luar biasa di pedesaan yang damai di Ubud Selatan. Dekat dengan tempat wisata populer seperti Goa Gajah, Air Terjun Tegenungan, dan Pura Tirta Empul, vila 2 kamar tidur kami merupakan perpaduan sempurna antara gaya, kenyamanan, dan kemudahan.\n\nBaik Anda menginap untuk liburan romantis atau liburan yang menyegarkan, Lavilla 7 menawarkan suasana yang hangat dan nyaman—dengan sentuhan yang penuh perhatian dan keramahtamahan yang tulus untuk menj",
+  "scraped_at": "2026-10-04T08:14:22Z"
+}

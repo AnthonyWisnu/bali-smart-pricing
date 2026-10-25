@@ -1,0 +1,37 @@
+{
+  "room_id": "1489869214478625346",
+  "name_raw": "Guesthouse in Denpasar Barat - Devillas Denpasar",
+  "price_raw": "Rp 2,663,398",
+  "rating_raw": "4.86",
+  "review_count_raw": 36,
+  "regency": "Kota Denpasar",
+  "url": "https://www.airbnb.com/rooms/1489869214478625346",
+  "sub_district": "Denpasar Barat",
+  "latitude": -8.6725,
+  "longitude": 115.1937,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Guest House di Tengah Kota\nTenang di tengah hiruk-pikuk.\nPrivate pool | Taman hijau | Ruang modern nyaman\nDekat mall, restoran, & pusat hiburan.\nKe bandara (30 Menit), Ke Kuta (28 Menit), Ke seminyak (25menit), Cangggu (21 Menit)\nCocok untuk staycation, liburan keluarga, atau acara privat.",
+  "scraped_at": "2026-10-04T08:08:08Z"
+}

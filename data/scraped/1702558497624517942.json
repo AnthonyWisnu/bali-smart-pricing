@@ -1,0 +1,37 @@
+{
+  "room_id": "1702558497624517942",
+  "name_raw": "Home in Ubud - Mandala Bali Penestanan Villa",
+  "price_raw": "Rp 4,403,300",
+  "rating_raw": "5.0",
+  "review_count_raw": 6,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1702558497624517942",
+  "sub_district": "Ubud",
+  "latitude": -8.5055,
+  "longitude": 115.2477,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Menginaplah di Mandala Bali Penestanan Villa, vila pribadi 2 kamar tidur yang tenang di pusat Ubud. Terletak di dalam kompleks Bali yang hanya 2 menit dari jalan utama, nikmati WiFi cepat, dapur yang dilengkapi dengan segala kebutuhan, seprai berkualitas, dan desain artistik yang menginspirasi. Sangat cocok untuk nomaden digital, keluarga, wisatawan spiritual, dan masa inap jangka panjang di dekat Alchemy, Zest, Café Vespa, dan Monkey Forest.",
+  "scraped_at": "2026-10-04T08:21:14Z"
+}

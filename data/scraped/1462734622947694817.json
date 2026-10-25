@@ -1,0 +1,37 @@
+{
+  "room_id": "1462734622947694817",
+  "name_raw": "Home in Abang - Julim Aura • Best Agung View",
+  "price_raw": "Rp 18,585,000",
+  "rating_raw": "4.94",
+  "review_count_raw": 16,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1462734622947694817",
+  "sub_district": "Abang",
+  "latitude": -8.32115,
+  "longitude": 115.623,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa modern bergaya dengan pemandangan Gunung Agung, privasi lengkap, dan kolam renang bebas bahan kimia. Dua kamar tidur yang luas dengan kamar mandi pribadi dan internet 200 Mbps yang cepat. Tempat yang sempurna untuk bersantai dan menghindari kebisingan — hanya 10 menit dari pusat kota dan hanya 2 menit dari pantai berpasir yang tenang.",
+  "scraped_at": "2026-10-04T08:31:45Z"
+}

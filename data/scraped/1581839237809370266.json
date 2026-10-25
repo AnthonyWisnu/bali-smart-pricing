@@ -1,0 +1,37 @@
+{
+  "room_id": "1581839237809370266",
+  "name_raw": "Cabin in Kintamani - Inap Retreat Boutique Cabin Kintamani",
+  "price_raw": "Rp 9,807,695",
+  "rating_raw": "5.0",
+  "review_count_raw": 7,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1581839237809370266",
+  "sub_district": "Kintamani",
+  "latitude": -8.26247,
+  "longitude": 115.38613,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Akomodasi Luas: Inap Retreat Boutique Cabin Kintamani di Kubupenlokan menawarkan tenda mewah yang luas dengan taman, teras, dan kolam renang luar ruangan sepanjang tahun. Wi - Fi gratis tersedia di seluruh properti.\n\nFasilitas Nyaman: Tamu menikmati AC, kamar mandi pribadi dengan perlengkapan mandi gratis, balkon dengan pemandangan danau dan pegunungan, dan area duduk. Fasilitas tambahan termasuk pembuat teh dan kopi, pengering rambut, ketel listrik, dan TV.",
+  "scraped_at": "2026-10-04T08:10:37Z"
+}

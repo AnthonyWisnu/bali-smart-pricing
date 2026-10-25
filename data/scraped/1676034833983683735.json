@@ -1,0 +1,37 @@
+{
+  "room_id": "1676034833983683735",
+  "name_raw": "Home in Tegalalang - New Villa! 2 BR Jungle Villa with Private Pool",
+  "price_raw": "Rp 6,209,355",
+  "rating_raw": "5.0",
+  "review_count_raw": 10,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1676034833983683735",
+  "sub_district": "Tegallalang",
+  "latitude": -8.3733,
+  "longitude": 115.3075,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berlibur ke vila 2 kamar tidur yang damai dan dikelilingi oleh kehijauan yang rindang. Dirancang untuk kenyamanan dan privasi, vila ini memiliki kolam renang pribadi, ruang tamu terbuka, dan dapur lengkap, sangat cocok untuk masa inap yang santai bersama teman atau keluarga.\nLingkungan alam menciptakan suasana tenang tempat Anda bisa bersantai, menikmati udara segar, dan merasa terlindung dari area yang ramai.",
+  "scraped_at": "2026-10-04T08:10:49Z"
+}

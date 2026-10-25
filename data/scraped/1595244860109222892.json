@@ -1,0 +1,37 @@
+{
+  "room_id": "1595244860109222892",
+  "name_raw": "Bungalow in Karangasem - Bugbug Beach Resort : 3BR/1.5bath Garden view",
+  "price_raw": "Rp 4,400,000",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1595244860109222892",
+  "sub_district": "Kecamatan Karangasem",
+  "latitude": -8.50629,
+  "longitude": 115.59898,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "5"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "\n\n Bersantai di tempat peristirahatan tepi pantai kami yang menawan, berlokasi sempurna hanya beberapa langkah dari laut. Nikmati pemandangan taman yang menakjubkan dari teras pribadi Anda, tempat Anda bisa bersantai dengan nyaman di kursi dan meja kami yang nyaman.\n\n- Teras pribadi dengan kursi dan meja yang nyaman, cocok untuk menikmati pemandangan taman yang indah\n- Bersantai dan bersantai di lingkungan kami yang tenang, hanya berjalan kaki sebentar dari pantai\n- Layanan kebersihan harian",
+  "scraped_at": "2026-10-04T08:32:02Z"
+}

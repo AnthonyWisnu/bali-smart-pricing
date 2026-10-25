@@ -1,0 +1,37 @@
+{
+  "room_id": "1745485065466584000",
+  "name_raw": "Guesthouse in Karangasem - Ocean View Deluxe | Shared Pool in Seraya",
+  "price_raw": "Rp 3,750,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1745485065466584000",
+  "sub_district": "Karangasem",
+  "latitude": -8.4408,
+  "longitude": 115.6557,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bangun dengan pemandangan laut yang indah dan nikmati liburan yang tenang di Atta Resident di Seraya. Bersantai di tepi kolam renang bersama yang menghadap ke laut dan pepohonan tropis di sekitarnya. Kamar deluxe pribadi Anda menawarkan masa inap yang nyaman dengan AC, TV, dan kamar mandi pribadi. Sempurna untuk pasangan atau wisatawan solo yang mencari tempat peristirahatan yang tenang jauh dari keramaian sambil menikmati keindahan alam Bali Timur.",
+  "scraped_at": "2026-10-04T08:32:31Z"
+}

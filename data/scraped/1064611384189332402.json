@@ -1,0 +1,37 @@
+{
+  "room_id": "1064611384189332402",
+  "name_raw": "Hotel in Nusa Penida - Penida Paradiso- 2 kamar pribadi with sunrise view",
+  "price_raw": "Rp 6,400,000",
+  "rating_raw": "4.7",
+  "review_count_raw": 71,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1064611384189332402",
+  "sub_district": "Kecamatan Nusa Penida",
+  "latitude": -8.7059,
+  "longitude": 115.5849,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "1",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "pemandangan matahari terbit langsung dari balkon Anda sendiri",
+  "scraped_at": "2026-10-04T08:37:57Z"
+}

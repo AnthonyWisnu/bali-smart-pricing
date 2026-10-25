@@ -1,0 +1,37 @@
+{
+  "room_id": "11769977",
+  "name_raw": "Villa in Seririt - Luxury 5B Beachfront Villa near Lovina",
+  "price_raw": "Rp 18,959,103",
+  "rating_raw": "5.0",
+  "review_count_raw": 41,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/11769977",
+  "sub_district": "Kecamatan Seririt, Kabupaten Buleleng",
+  "latitude": -8.1831,
+  "longitude": 114.9202,
+  "capacity": {
+    "guests": "10",
+    "bedrooms": "5",
+    "beds": "6",
+    "baths": "5"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "beach villa Loka Residence adalah vila sepuluh orang mewah yang indah dan lengkap di utara Bali.\nLoka Residence berlokasi langsung di pantai Loka Paksa.",
+  "scraped_at": "2026-10-04T08:29:20Z"
+}

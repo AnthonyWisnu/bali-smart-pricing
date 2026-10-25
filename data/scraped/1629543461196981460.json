@@ -1,0 +1,37 @@
+{
+  "room_id": "1629543461196981460",
+  "name_raw": "Villa in Tampaksiring - Panoramic 5B Villa Infinity Pool over Rice Fields",
+  "price_raw": "Rp 28,021,980",
+  "rating_raw": "5.0",
+  "review_count_raw": 5,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1629543461196981460",
+  "sub_district": "Tampaksiring",
+  "latitude": -8.4953,
+  "longitude": 115.2976,
+  "capacity": {
+    "guests": "10",
+    "bedrooms": "5",
+    "beds": "2",
+    "baths": "5"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa Damai Cagaan – 5BR Liburan di Sawah dengan Kolam Renang Infiniti\n\nBangunlah dengan pemandangan 180° yang menakjubkan dari sawah dan gunung berapi di vila 5 kamar tidur ini yang hanya berjarak 15 menit dari Ubud. Privasi penuh, tidak ada ruang bersama. Bersantai di tepi kolam renang infinity 14 m. Ruang tamu terbuka yang cerah, dapur lengkap. Ruang tamu dan semua kamar tidur memiliki AC dan kamar mandi en-suite; kamar tidur utama memiliki bak mandi. Termasuk kebersihan harian dan tempat par",
+  "scraped_at": "2026-10-04T08:14:32Z"
+}

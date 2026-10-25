@@ -1,0 +1,37 @@
+{
+  "room_id": "1435327922797517529",
+  "name_raw": "Home in Ubud - Tobula Private Villa Ubud",
+  "price_raw": "Rp 11,490,909",
+  "rating_raw": "5.0",
+  "review_count_raw": 31,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1435327922797517529",
+  "sub_district": "Ubud",
+  "latitude": -8.4692,
+  "longitude": 115.2713,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Temukan ketenangan di pedesaan Ubud dengan vila kolam renang pribadi dua kamar tidur yang dikelilingi oleh sawah yang rimbun. Terletak di dataran tinggi Bali yang tenang, vila ini memadukan kenyamanan, privasi, dan keindahan alam, sangat cocok untuk pasangan, teman, dan sangat ramah keluarga.",
+  "scraped_at": "2026-10-04T08:19:46Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1743293165840506850",
+  "name_raw": "Home in Kecamatan Ubud - Jungle villa Ubud",
+  "price_raw": "Rp 3,012,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1743293165840506850",
+  "sub_district": "Kecamatan Ubud",
+  "latitude": -8.484,
+  "longitude": 115.2721,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "0",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bersantai di tempat liburan unik dan tenteram ini. Villa pribadi dengan kolam renang baru dan pemandangan hutan yang terletak di utara Ubud, 3 km dari pusat Ubud atau 10 menit berkendara dari pusat Ubud ",
+  "scraped_at": "2026-10-04T08:22:29Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1625869446451129445",
+  "name_raw": "Villa in Ceningan Island - Villa Odeon - 3BR ocean view villa - Nusa Ceningan",
+  "price_raw": "Rp 32,956,170",
+  "rating_raw": "5.0",
+  "review_count_raw": 5,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1625869446451129445",
+  "sub_district": "Nusa Ceningan",
+  "latitude": -8.6996,
+  "longitude": 115.4523,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berlibur ke keindahan Nusa Ceningan yang tenang dengan Villa Odeon, villa 3 kamar tidur mewah. \nVila cantik ini dirancang untuk memberikan pengalaman peristirahatan terbaik, menampilkan kolam renang infinity pribadi dan sentuhan akhir kelas atas. \nVila ini ditata dengan cermat, dengan dua kamar tidur yang luas di lantai dasar dan kamar tidur ketiga yang terletak di lantai dua, menawarkan privasi dan pemandangan yang menakjubkan.\nBersantailah dan bersantailah di tempat yang tenang dan bergaya ini",
+  "scraped_at": "2026-10-04T08:36:53Z"
+}

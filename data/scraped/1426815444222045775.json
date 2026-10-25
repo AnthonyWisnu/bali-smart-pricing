@@ -1,0 +1,37 @@
+{
+  "room_id": "1426815444222045775",
+  "name_raw": "Guesthouse in Tegalalang - Art & Nature _ Ganesha Guesthouse - Room 8.",
+  "price_raw": "Rp 3,566,178",
+  "rating_raw": "5.0",
+  "review_count_raw": 33,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1426815444222045775",
+  "sub_district": "Tegallalang",
+  "latitude": -8.41328,
+  "longitude": 115.28474,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Kamar yang didekorasi dengan indah dan penuh cahaya alami, serta jendela besar yang terbuka menghadap pemandangan hutan yang menakjubkan tepat di depan kamar.\nSetiap kamar dilengkapi dengan dapur kecil dan balkon sendiri sehingga Anda bisa memasak makanan Anda sendiri dan menikmati waktu Anda sendiri atau bersama orang yang Anda cintai, atau Anda bisa bergabung dengan tamu lain di lobi untuk menjalin koneksi baru yang bermakna dengan sarapan gratis.\nIni adalah tempat yang sempurna untuk melupaka",
+  "scraped_at": "2026-10-04T08:13:18Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "680609811622239908",
+  "name_raw": "Villa in Abang - Villa Shalimar beach front in Amed",
+  "price_raw": "Rp 31,235,019",
+  "rating_raw": "4.98",
+  "review_count_raw": 172,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/680609811622239908",
+  "sub_district": "Kecamatan Abang",
+  "latitude": -8.33053,
+  "longitude": 115.63688,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa Shalimar terletak tepat di pantai pasir hitam dengan akses langsung ke laut. Terletak di antara pemandangan luar biasa di atas cakrawala yang tak berujung dan gunung berapi yang perkasa Mt.Agung.\nAmed dengan pantai pasir vulkaniknya yang indah adalah salah satu tempat menyelam terbaik di Bali dengan dunia bawah laut yang spektakuler.\nSaksikan matahari terbit di Gazebo atau balkon Teras untuk memahami mengapa Bali disebut Morning of the World. Dalam 1 km berjalan kaki di pantai, Anda berada",
+  "scraped_at": "2026-10-04T08:35:01Z"
+}

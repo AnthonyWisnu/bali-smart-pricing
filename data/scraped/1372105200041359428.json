@@ -1,0 +1,37 @@
+{
+  "room_id": "1372105200041359428",
+  "name_raw": "Cabin in Tampaksiring - Sanding Bamboo Villa - An Idyllic Jungle Retreat",
+  "price_raw": "Rp 13,344,765",
+  "rating_raw": "4.96",
+  "review_count_raw": 105,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1372105200041359428",
+  "sub_district": "Tampaksiring",
+  "latitude": -8.46217,
+  "longitude": 115.29402,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "61138",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berliburlah ke Sanding Bamboo Villa, tempat persembunyian bambu yang menakjubkan yang dikelilingi hutan rimbun dan kehidupan desa Bali yang autentik. Hanya 20 menit dari jantung Ubud yang semarak, tempat persembunyian yang tenang ini memungkinkan Anda merasakan Bali yang sesungguhnya - jauh dari pariwisata massal dan lalu lintas, namun cukup dekat untuk menjelajahi pusat budaya pulau ini.",
+  "scraped_at": "2026-10-04T08:13:05Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1464803451413441308",
+  "name_raw": "Home in Nusa Penida - Casa Luna Penida",
+  "price_raw": "Rp 33,518,507",
+  "rating_raw": "4.91",
+  "review_count_raw": 32,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1464803451413441308",
+  "sub_district": "Nusa Penida",
+  "latitude": -8.705,
+  "longitude": 115.5823,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Casa Luna Penida adalah vila bergaya Mediterania 2 kamar tidur yang indah yang terletak di puncak bukit yang tenang di Nusa Penida. Dengan pemandangan laut yang luas, lengkungan yang elegan, dan fitur mewah, tempat ini sangat cocok untuk pasangan atau teman yang mencari ketenangan— Layanan antar jemput gratis ke dan dari Cactus Beach Club (4 menit) disertakan.",
+  "scraped_at": "2026-10-04T08:36:13Z"
+}

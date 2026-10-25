@@ -1,0 +1,37 @@
+{
+  "room_id": "1482560688897476136",
+  "name_raw": "Home in Ubud - 3Br Villa Java Ubud By Samaa",
+  "price_raw": "Rp 11,500,000",
+  "rating_raw": "4.97",
+  "review_count_raw": 29,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1482560688897476136",
+  "sub_district": "Ubud",
+  "latitude": -8.5222,
+  "longitude": 115.2791,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "5",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa Java di Gianyar menawarkan vila tiga kamar tidur dengan dua kamar mandi. Tamu menikmati kolam renang pribadi, teras, dan taman, dilengkapi dengan WiFi gratis.\nTenang saja di tempat liburan yang unik dan tenang ini.\nProperti ini dilengkapi AC, dapur lengkap, dan meja kerja. Fasilitas tambahan meliputi hair dryer, kulkas, TV, dan pintu masuk pribadi.",
+  "scraped_at": "2026-10-04T08:20:04Z"
+}

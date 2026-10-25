@@ -1,0 +1,37 @@
+{
+  "room_id": "1504839944565013752",
+  "name_raw": "Villa in Bebandem - The Payung House | Romantic Riverside Retreat",
+  "price_raw": "Rp 7,172,500",
+  "rating_raw": "5.0",
+  "review_count_raw": 18,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1504839944565013752",
+  "sub_district": "Bebandem",
+  "latitude": -8.4308,
+  "longitude": 115.5175,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berlibur ke tempat perlindungan tersembunyi di tepi sungai dekat Sidemen, dikelilingi hutan rimbun, sawah, udara pegunungan yang segar, dan suara sungai. Payung House adalah tempat peristirahatan romantis bagi pasangan yang mencari privasi dan pengalaman Bali Timur yang autentik.\n\nBersantai di kolam renang pribadi Anda yang dialiri mata air, bangun dengan suara kicau burung, dan temukan kehidupan desa di antara perkebunan salak Bali. Tenangkan diri, terhubung kembali dengan alam, dan ciptakan ke",
+  "scraped_at": "2026-10-04T08:31:27Z"
+}

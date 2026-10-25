@@ -1,0 +1,37 @@
+{
+  "room_id": "1080143567907451970",
+  "name_raw": "Villa in Seririt - The Pondhouse",
+  "price_raw": "Rp 27,486,000",
+  "rating_raw": "4.97",
+  "review_count_raw": 32,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1080143567907451970",
+  "sub_district": "Seririt",
+  "latitude": -8.2025,
+  "longitude": 114.9065,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "The Pondhouse adalah villa modern dengan 3 kamar tidur dan 4 kamar mandi, kolam renang 17m dan kolam spa, dikelilingi oleh tiga kolam terhubung yang tertanam di taman semitropis. Semua kebutuhan dasar tersedia untuk kenikmatan eksklusif tamu (pemesan vila) termasuk sarapan. \nNikmati ketenangan dan keindahan tempat ini. \nmasa inap minimum: 2 malam. Untuk 1 malam hubungi tuan rumah (harga +35%)",
+  "scraped_at": "2026-10-04T08:26:40Z"
+}

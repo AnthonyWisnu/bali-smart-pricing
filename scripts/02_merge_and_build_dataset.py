@@ -168,18 +168,14 @@ def clean_rating(val):
 
 def infer_property_type(title):
     tl = str(title).lower()
-    if tl.startswith('shared room') or 'bunk bed' in tl or 'hostel' in tl:
-        return 'Shared Room/Hostel'
-    elif tl.startswith('room in') or tl.startswith('private room') or any(k in tl for k in ['homestay', 'guesthouse', 'guest house']):
+    if tl.startswith('shared room') or 'bunk bed' in tl or 'hostel' in tl or tl.startswith('room in') or tl.startswith('private room') or any(k in tl for k in ['homestay', 'guesthouse', 'guest house']):
         return 'Private Room/Homestay'
+    elif any(k in tl for k in ['hut', 'cottage', 'bungalow', 'cabin', 'treehouse', 'glamping', 'bamboo', 'joglo', 'tiny home']):
+        return 'Cottage/Bungalow'
+    elif any(k in tl for k in ['house', 'home', 'rumah', 'townhouse', 'apartment', 'apartemen', 'condo', 'loft', 'studio']):
+        return 'Entire House'
     elif 'villa' in tl or 'vila' in tl:
         return 'Villa'
-    elif any(k in tl for k in ['hut', 'cottage', 'bungalow', 'cabin', 'treehouse', 'glamping', 'bamboo', 'joglo']):
-        return 'Cottage/Bungalow'
-    elif any(k in tl for k in ['apartment', 'apartemen', 'condo', 'loft', 'studio']):
-        return 'Apartment'
-    elif any(k in tl for k in ['house', 'home', 'rumah', 'townhouse']):
-        return 'Entire House'
     return 'Villa'
 
 

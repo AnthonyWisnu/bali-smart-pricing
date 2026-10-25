@@ -1,0 +1,37 @@
+{
+  "room_id": "15708959",
+  "name_raw": "Hut in Tampaksiring - Magical Bamboo Hideaway",
+  "price_raw": "Rp 18,247,155",
+  "rating_raw": "4.87",
+  "review_count_raw": 90,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/15708959",
+  "sub_district": "Kecamatan Tampaksiring",
+  "latitude": -8.39684,
+  "longitude": 115.33012,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": null,
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Magical Bamboo hideaway adalah Rumah Bambu Ramah Lingkungan yang unik di Bali, yang terletak di desa Tampakasing yang berjarak 30 menit dari pusat kota Ubud dan 1 jam 30 menit dari Bandara. Rumah pribadi di tengah alam yang cocok untuk pecinta alam, yoga, musik, dan wisatawan yang ingin melarikan diri dari kota yang ramai. Bangunlah dengan suara alam,  saksikan matahari terbit dan nikmati pemandangan luar biasa yang menghadap perbukitan hutan yang tenang dari tempat tidur Anda. Pondok bambu kami",
+  "scraped_at": "2026-10-04T08:11:39Z"
+}

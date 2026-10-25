@@ -1,0 +1,37 @@
+{
+  "room_id": "33079737",
+  "name_raw": "Cabin in Selat - Camaya Bali - Lotus Bamboo House",
+  "price_raw": "Rp 32,445,235",
+  "rating_raw": "4.9",
+  "review_count_raw": 343,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/33079737",
+  "sub_district": "Selat",
+  "latitude": -8.427,
+  "longitude": 115.4602,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Lotus Bamboo House menawarkan tempat peristirahatan yang tak tertandingi bagi mereka yang mencari ketenangan dan privasi. Terletak di sepanjang tepi lembah sawah, rumah ini menawarkan pemandangan terbuka dari keindahan alam di sekitarnya. Dengan perpaduan antara petualangan dan kenyamanan, Lotus House sangat cocok untuk pasangan yang ingin terhubung kembali dengan alam di lingkungan yang tenang dan terpencil. Berliburlah ke dunia yang tenang, tempat Anda bisa bersantai dan melepas penat.",
+  "scraped_at": "2026-10-04T08:33:10Z"
+}

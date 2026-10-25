@@ -1,0 +1,37 @@
+{
+  "room_id": "1594566275941126104",
+  "name_raw": "Villa in Ubud - Bedugul Luxury Villa",
+  "price_raw": "Rp 16,261,772",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1594566275941126104",
+  "sub_district": "Ubud",
+  "latitude": -8.5587,
+  "longitude": 115.2746,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Temukan vila istimewa kami, tempat desain canggih dan fasilitas kelas atas berpadu sempurna dengan keindahan alam yang tenang. Nikmati lanskap yang rimbun dan pemandangan sawah yang indah, menciptakan tempat perlindungan yang tak tertandingi untuk kenyamanan mewah dan koneksi ke lingkungan.",
+  "scraped_at": "2026-10-04T08:19:12Z"
+}

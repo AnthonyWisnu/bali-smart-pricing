@@ -1,0 +1,37 @@
+{
+  "room_id": "1369235628901673242",
+  "name_raw": "Tiny home in Kecamatan Kuta Utara - Comfortable Seminyak",
+  "price_raw": "Rp 7,000,000",
+  "rating_raw": "4.96",
+  "review_count_raw": 372,
+  "regency": "Kota Denpasar",
+  "url": "https://www.airbnb.com/rooms/1369235628901673242",
+  "sub_district": "Kecamatan Kuta Utara",
+  "latitude": -8.678,
+  "longitude": 115.1634,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Cómoda, Tempat Beristirahat Anda di Seminyak\nBerada beberapa langkah dari jalan utama Seminyak yang semarak, Cómoda menawarkan tempat liburan yang tenang yang memadukan kenyamanan dan kesederhanaan. Bersantai di teras yang hangat dan kolam renang pribadi Anda, cocok untuk pasangan, kelompok teman, atau hanya Anda untuk liburan yang damai.\n\nRasakan ketenangan dan aksesibilitas ke Atraksi terbaik Seminyak.\n\nPenginapan khusus dewasa",
+  "scraped_at": "2026-10-04T08:08:36Z"
+}

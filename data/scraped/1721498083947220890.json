@@ -1,0 +1,37 @@
+{
+  "room_id": "1721498083947220890",
+  "name_raw": "Rooms in Kecamatan Denpasar Timur - Family Three Bedroom",
+  "price_raw": "Rp 7,580,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kota Denpasar",
+  "url": "https://www.airbnb.com/rooms/1721498083947220890",
+  "sub_district": "Kecamatan Denpasar Timur",
+  "latitude": -8.6411,
+  "longitude": 115.2564,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nikmati Villa elegan dengan kenyamanan premium. Kamar dilengkapi tempat tidur King Size, pemanas air pribadi, serta pilihan kopi dan teh gratis. Kamar mandi modern menyediakan fasilitas air panas dan dingin. Tersedia juga kolam renang pribadi yang jernih untuk bersantai. Makin istimewa dengan pemandangan hamparan sawah hijau yang memukau dan damai, menghadirkan keindahan alam Bali yang autentik.",
+  "scraped_at": "2026-10-04T08:08:44Z"
+}

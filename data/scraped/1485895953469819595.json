@@ -1,0 +1,37 @@
+{
+  "room_id": "1485895953469819595",
+  "name_raw": "Villa in Sukawati - Villa Kemboja: 5BR w/ Gym, Pool & Rice Field Views",
+  "price_raw": "Rp 33,974,489",
+  "rating_raw": "4.88",
+  "review_count_raw": 16,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1485895953469819595",
+  "sub_district": "Sukawati",
+  "latitude": -8.5449,
+  "longitude": 115.2383,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "5",
+    "beds": "5",
+    "baths": "5"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di Villa Kemboja di Singapadu, sebuah tempat perlindungan 5 kamar tidur yang menawarkan pemandangan sawah hanya beberapa menit dari pusat Ubud yang semarak. Surga ramah keluarga ini menggabungkan kenyamanan modern dengan pesona Bali yang autentik, menciptakan pelarian yang sempurna untuk keluarga dan kelompok teman.",
+  "scraped_at": "2026-10-04T08:20:53Z"
+}

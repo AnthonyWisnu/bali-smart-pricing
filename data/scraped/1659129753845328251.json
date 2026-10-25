@@ -1,0 +1,37 @@
+{
+  "room_id": "1659129753845328251",
+  "name_raw": "Cabin in Pupuan - A-Frame Cabin with Rice Field View (Cabin 1)",
+  "price_raw": "Rp 5,837,915",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Tabanan",
+  "url": "https://www.airbnb.com/rooms/1659129753845328251",
+  "sub_district": "Pupuan",
+  "latitude": -8.38466,
+  "longitude": 115.04821,
+  "capacity": {
+    "guests": "3",
+    "bedrooms": "1",
+    "beds": "4",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di The Lookout Cabin 1, tempat peristirahatan Anda yang tenang dan ramah lingkungan di pusat keindahan alam Bali yang masih alami. Terletak di atas bukit di bawah Gunung Batukaru yang menginspirasi, kabin A-frame buatan tangan kami adalah karya cinta, dibuat dari kayu daur ulang, dan dirancang untuk menawarkan Anda liburan yang tak terlupakan. \n\nNikmati Jalan-jalan Pagi di Persawahan, awal hari yang damai di tengah alam. Saksikan pembuatan gula aren tradisional, wawasan budaya yan",
+  "scraped_at": "2026-10-04T08:38:49Z"
+}

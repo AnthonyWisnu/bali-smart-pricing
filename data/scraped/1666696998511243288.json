@@ -1,0 +1,37 @@
+{
+  "room_id": "1666696998511243288",
+  "name_raw": "Villa in Tampaksiring - Peaceful 3BR Villa w/ Pool Near Ubud Nature",
+  "price_raw": "Rp 9,662,422",
+  "rating_raw": "4.91",
+  "review_count_raw": 22,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1666696998511243288",
+  "sub_district": "Tampaksiring",
+  "latitude": -8.5042,
+  "longitude": 115.3007,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Vila 3 kamar tidur yang tenang di Tampaksiring dekat Ubud, dekat dengan Pura Tirta Empul & Tegalalang Rice Terrace. Nikmati kolam renang pribadi, lingkungan yang rindang, koki, dan pijat atas permintaan. Semua kamar memiliki Wi-Fi & ruang kerja; kamar utama memiliki tempat tidur bayi. Termasuk dapur, mesin cuci, dan tempat parkir besar. Berjalan kaki ke toko & tempat makan.\n\nDirancang untuk bersantai dan menjalin koneksi, lokasinya tidak jauh dari pusat budaya Ubud—sangat cocok untuk keluarga, p",
+  "scraped_at": "2026-10-04T08:19:59Z"
+}

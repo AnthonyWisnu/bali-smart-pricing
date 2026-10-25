@@ -1,0 +1,37 @@
+{
+  "room_id": "1396144744855872443",
+  "name_raw": "Home in Ubud - The Last Paradise – Lost in the Jungle Villa",
+  "price_raw": "Rp 16,449,455",
+  "rating_raw": "4.79",
+  "review_count_raw": 87,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1396144744855872443",
+  "sub_district": "Ubud",
+  "latitude": -8.5002,
+  "longitude": 115.2697,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Hutan masih hidup. Ini akan berbicara kepada Anda jika Anda mendengarkan .\" \nTinggi di atas sungai yang berkelok - kelok, terbuai oleh pelukan hutan, Durian Cabin, dekat dari Center, menawarkan tempat peristirahatan ke keindahan alam yang belum terjamah. Bertengger di lereng gunung di bawah kanopi pohon durian suci - dihormati secara lokal sebagai \"pohon para dewa\" dan diawetkan dengan hati - hati - kabin ini mengundang Anda untuk tidur dalam harmoni .\nJendela lebarnya terbuka untuk lukisan hidu",
+  "scraped_at": "2026-10-04T08:12:22Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1536828260898377827",
+  "name_raw": "Room in Tampaksiring - Wooden Villa with Infinity Pool and Jungle View #2",
+  "price_raw": "Rp 9,487,500",
+  "rating_raw": "5.0",
+  "review_count_raw": 21,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1536828260898377827",
+  "sub_district": "Tampaksiring",
+  "latitude": -8.3929,
+  "longitude": 115.3312,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Hutan Terang Bulan\nVilla di Hutan dengan Kolam Renang Pribadi di Tampaksiring dekat Ubud.\n\nBangunlah untuk menikmati pemandangan kolam renang infinity dan hutan rimba yang menakjubkan di Moonlit Jungle, tempat pagi Anda dimulai dengan energi yang baru. Hanya 20+ menit dari Ubud, tersembunyi di lanskap yang tenang dan menakjubkan, vila ini menawarkan tempat peristirahatan yang damai dari hiruk pikuk lalu lintas.",
+  "scraped_at": "2026-10-04T08:12:42Z"
+}

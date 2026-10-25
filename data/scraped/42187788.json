@@ -1,0 +1,37 @@
+{
+  "room_id": "42187788",
+  "name_raw": "Room in Gerokgak - Mango Tree Inn wooden Deluxe room",
+  "price_raw": "Rp 2,738,825",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/42187788",
+  "sub_district": "Gerokgak",
+  "latitude": -8.1615,
+  "longitude": 114.7257,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Penginapan kami yang tenang berjarak 3 menit dari pantai Pemuteran Biorock. Dengarkan ombak laut lembut dari taman tropis, nikmati AC dingin kamar Anda dan kamar mandi terbuka Anda, pergi snorkeling atau menyelam di Pulau Menjangan. Restoran & pasar mini dapat ditempuh dengan berjalan kaki.",
+  "scraped_at": "2026-10-04T08:26:23Z"
+}

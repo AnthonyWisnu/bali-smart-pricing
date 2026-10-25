@@ -1,0 +1,37 @@
+{
+  "room_id": "1037111226253330863",
+  "name_raw": "Cabin in Penebel - Secluded Rainforest Cabin for nature lovers",
+  "price_raw": "Rp 14,191,816",
+  "rating_raw": "4.96",
+  "review_count_raw": 26,
+  "regency": "Kabupaten Tabanan",
+  "url": "https://www.airbnb.com/rooms/1037111226253330863",
+  "sub_district": "Penebel",
+  "latitude": -8.38543,
+  "longitude": 115.08204,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "1",
+    "beds": "3",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Alam Emerson yang Damai dan Pribadi\n\nKabin cantik berisi 2 tingkat yang terletak di samping Hutan Hujan Batukaru.\nKabin ini memiliki pemandangan menakjubkan ke Hutan Hujan dengan jendela-jendela indah di seluruh ruangan untuk menghadirkan cahaya & menikmati pemandangan!\nIdeal untuk 1 - 2 orang\nBersantailah di liburan unik dan tenang ini atau bekerja dari jarak jauh dengan wifi di seluruh properti. Mengamati burung yang luar biasa, dengan hutan hujan berjarak 3 menit berjalan kaki.",
+  "scraped_at": "2026-10-04T08:38:26Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "628000012299447302",
+  "name_raw": "Place to stay in Pekutatan - Wooden House Seaview/Bungalow",
+  "price_raw": "Rp 4,279,414",
+  "rating_raw": "5.0",
+  "review_count_raw": 8,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/628000012299447302",
+  "sub_district": "Pekutatan",
+  "latitude": -8.41551,
+  "longitude": 114.80372,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": null,
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Anda akan suka perhatian terhadap detail di tempat bergaya ini.",
+  "scraped_at": "2026-10-04T08:26:04Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1730250884572138893",
+  "name_raw": "Home in Ubud - New! 2BR Luxury Villa l Inc Balinese breakfast",
+  "price_raw": "Rp 15,000,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kota Denpasar",
+  "url": "https://www.airbnb.com/rooms/1730250884572138893",
+  "sub_district": "Ubud",
+  "latitude": -8.57517,
+  "longitude": 115.25642,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Luma Villa adalah tempat persembunyian hutan yang tenang dikelilingi alam, menawarkan sentuhan petualangan dengan aktivitas menarik di dekatnya. Villa ini memiliki 2 kamar tidur yang nyaman, 2 kamar mandi, toilet terpisah, dan dapur lengkap untuk masa inap yang lancar. Nikmati kolam renang infinity, pijat pribadi di vila, Sarapan Bali termasuk, atau Menu Sarapan Tetap opsional yang tersedia dengan biaya tambahan, yang disiapkan oleh koki tamu.",
+  "scraped_at": "2026-10-04T08:09:00Z"
+}

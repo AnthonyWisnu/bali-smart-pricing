@@ -1,0 +1,37 @@
+{
+  "room_id": "752735058086794643",
+  "name_raw": "Hotel in Tegallalang - Peaceful 1-Bedroom Villa with Lush Jungle View",
+  "price_raw": "Rp 25,000,000",
+  "rating_raw": "4.88",
+  "review_count_raw": 251,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/752735058086794643",
+  "sub_district": "Kecamatan Tegallalang",
+  "latitude": -8.462,
+  "longitude": 115.2783,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "2",
+    "baths": "0"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "tempat menginap yang menawan dan menggemaskan. Mandana Ubud adalah vila kayu klasik yang menampilkan kolam renang pribadi. Terletak di tengah - tengah sawah dan menghadap pemandangan hutan yang rimbun. Kami menyambut wisatawan yang menghargai hidup di alam dan mencari pengalaman unik di Bali. Benar - benar terpencil dari kesibukan Ubud Center, namun hanya 20 menit berkendara dari Ubud tengah. Tempat yang sempurna untuk bulan madu serta bagi Anda untuk melepas penat, bersantai, dan menikmati kete",
+  "scraped_at": "2026-10-04T08:15:39Z"
+}

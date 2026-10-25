@@ -1,0 +1,37 @@
+{
+  "room_id": "1671683605027876950",
+  "name_raw": "Villa in Abang - 2BR Villa with Stunning Pool | Moon Heritage Amed",
+  "price_raw": "Rp 12,500,000",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1671683605027876950",
+  "sub_district": "Abang",
+  "latitude": -8.3478,
+  "longitude": 115.6423,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "2",
+    "beds": "306",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Our Moon Heritage Villa is crafted with reclaimed timber from a Javanese home. You’ll find beautiful hand-carved details throughout the Joglo, from its timber columns to the original 1875 gebyok doors.\n\nSet on a private 500 sqm compound, the villa blends this old-world character with modern comforts. You’ll have a tropical garden, private pool and generous indoor-outdoor spaces all to yourselves, with plenty of space to share meals, relax by the pool and enjoy slow days together.",
+  "scraped_at": "2026-10-04T08:33:16Z"
+}

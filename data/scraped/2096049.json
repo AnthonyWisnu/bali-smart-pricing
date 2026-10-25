@@ -1,0 +1,37 @@
+{
+  "room_id": "2096049",
+  "name_raw": "Bungalow in Seririt - Beachvilla with pool and staff, spectacular view.",
+  "price_raw": "Rp 27,850,345",
+  "rating_raw": "4.85",
+  "review_count_raw": 40,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/2096049",
+  "sub_district": "Seririt ",
+  "latitude": -8.1825,
+  "longitude": 114.923,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "4",
+    "beds": "5",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Vila mewah di pantai di Bali Utara. Suhu  sepanjang tahun ca.30gr. Kolam renang pribadi besar dan staf untuk bersih-bersih, mencuci pakaian, berbelanja, dan memasak. Dia adalah koki yang luar biasa, dan bisa membuat hampir semua hal😊. Villa ini memiliki 4 kamar tidur untuk 2 orang, masing-masing dengan kamar mandi pribadi dan AC. Juga tempat bersantai yang luar biasa di pantai untuk pijat yang menyenangkan dari Ami Spa. Tersedia pula guesthouse, cocok untuk 4 tamu lagi. Tersedia mobil dengan sop",
+  "scraped_at": "2026-10-04T08:27:42Z"
+}

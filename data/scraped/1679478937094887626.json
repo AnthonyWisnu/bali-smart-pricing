@@ -1,0 +1,37 @@
+{
+  "room_id": "1679478937094887626",
+  "name_raw": "Home in Sukawati - Hidden Gem in Singapadu 1BR Villa and Private Pool",
+  "price_raw": "Rp 3,591,000",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kota Denpasar",
+  "url": "https://www.airbnb.com/rooms/1679478937094887626",
+  "sub_district": "Sukawati",
+  "latitude": -8.6015,
+  "longitude": 115.252,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Vila di Singapadu ini memberikan Anda pengalaman baru menginap di sini,\nDirancang sesuai kebutuhan tamu, bangunan minimalis ini dikelilingi tanaman tropis, kolam renang terbuka, dan kursi berjemur yang menambah kesan nyaman.\nAwali pagi Anda dengan berenang menyegarkan di kolam renang pribadi Anda atau bersantai di tepi kolam renang sambil menikmati secangkir kopi. Vila ini menawarkan suasana desa yang tenang, namun tetap mudah diakses ke pusat Ubud, Pasar Seni Sukawati, dan destinasi populer lai",
+  "scraped_at": "2026-10-04T08:08:57Z"
+}

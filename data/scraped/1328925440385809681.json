@@ -1,0 +1,37 @@
+{
+  "room_id": "1328925440385809681",
+  "name_raw": "Rooms in Nusa Penida - Oasis Lumbung Villa",
+  "price_raw": "Rp 7,006,039",
+  "rating_raw": "4.89",
+  "review_count_raw": 53,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1328925440385809681",
+  "sub_district": "Kecamatan Nusa Penida",
+  "latitude": -8.6791,
+  "longitude": 115.5141,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "043",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nikmati suara alam saat menginap di tempat unik ini. Berada dilokasi yang nyaman dan tenang. Dekat dengan Pantai. Tempat ini dimiliki oleh orang lokal Bali asli. 10 menit mengemudi Dari pelabuhan, 5 menit berjalan Kaki ke restaurant dengan pemandangan Pantai, toko-toko, mini market. 45 menit mengemudi ke Pantai kelingking. 25 menit mengemudi ke Pantai Chrystal bay.",
+  "scraped_at": "2026-10-04T08:38:14Z"
+}

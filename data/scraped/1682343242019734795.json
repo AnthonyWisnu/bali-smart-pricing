@@ -1,0 +1,37 @@
+{
+  "room_id": "1682343242019734795",
+  "name_raw": "Home in Baturiti - Dermaga Lakeview",
+  "price_raw": "Rp 17,737,311",
+  "rating_raw": "5.0",
+  "review_count_raw": 13,
+  "regency": "Kabupaten Buleleng",
+  "url": "https://www.airbnb.com/rooms/1682343242019734795",
+  "sub_district": "Baturiti",
+  "latitude": -8.2792,
+  "longitude": 115.1641,
+  "capacity": {
+    "guests": "9",
+    "bedrooms": "4",
+    "beds": "4",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Terletak di dataran tinggi Bali Tengah yang rimbun, tempat peristirahatan tiga kamar tidur + kamar loteng ini menawarkan tempat liburan yang langka untuk menghindari panas tropis. Di sini, udaranya segar dan menyegarkan, dengan suhu siang hari berkisar antara 18°C dan 25°C yang sempurna—ideal bagi mereka yang mendambakan sisi kehidupan pulau yang sejuk.",
+  "scraped_at": "2026-10-04T08:17:04Z"
+}

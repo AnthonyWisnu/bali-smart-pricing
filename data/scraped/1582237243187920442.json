@@ -1,0 +1,37 @@
+{
+  "room_id": "1582237243187920442",
+  "name_raw": "Home in Banjar - Hidden Sauna Retreat",
+  "price_raw": "Rp 12,150,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 22,
+  "regency": "Kabupaten Buleleng",
+  "url": "https://www.airbnb.com/rooms/1582237243187920442",
+  "sub_district": "Banjar",
+  "latitude": -8.2276,
+  "longitude": 115.0823,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rumah pribadi yang indah dengan sauna dan kolam renang memadukan pesona modern dan kuno dan terletak di sebidang tanah yang luas di taman dengan keanekaragaman yang kaya, lanskap pegunungan yang indah, udara segar dan air segar.\n\nTerletak jauh dari ruang-ruang Bali yang ramai, di antara perkebunan kopi, jeruk, dan hidrangea, cuaca di sini jauh lebih sejuk daripada di selatan, terutama di malam hari. \n\nSauna luar ruangan pribadi dengan kolam renang pribadi adalah fitur yang sempurna untuk meremaj",
+  "scraped_at": "2026-10-04T08:17:23Z"
+}

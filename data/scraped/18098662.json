@@ -1,0 +1,37 @@
+{
+  "room_id": "18098662",
+  "name_raw": "Guesthouse in Nusa Penida - Steps from Harbor · Helpful Hosts · Ari La Casa",
+  "price_raw": "Rp 2,230,400",
+  "rating_raw": "4.81",
+  "review_count_raw": 472,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/18098662",
+  "sub_district": "Nusapenida",
+  "latitude": -8.6808,
+  "longitude": 115.4895,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Menginap hanya 5–10 menit berjalan kaki dari Pelabuhan Banjar Nyuh – tidak perlu taksi!\n\nNikmati kamar bersih dengan AC yang kuat, air panas, serta kopi/teh gratis sepanjang hari.\n\nTuan rumah kami yang sangat membantu membantu segalanya: tiket perahu, penyewaan skuter, perjalanan snorkeling – semuanya diatur di tempat.\n\nKeuntungan ekstra:\n+ antar jemput pelabuhan gratis dengan skuter,\n+ penyimpanan barang, dan \n+ Isi ulang air minum gratis. \n\nSuasana lokal alami – penyumbat telinga tersedia jika",
+  "scraped_at": "2026-10-04T08:38:08Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1568509155059875133",
+  "name_raw": "Guesthouse in Gianyar - Gallery House at Semadi Living",
+  "price_raw": "Rp 3,094,214",
+  "rating_raw": "5.0",
+  "review_count_raw": 3,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1568509155059875133",
+  "sub_district": "gianyar",
+  "latitude": -8.60181,
+  "longitude": 115.26357,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Jadikan liburan keluarga Anda satu untuk diingat dengan menginap di dua kamar pribadi kami yang bergaya dan luas yang menampilkan desain semi - modern yang unik. Setelah mengubah bangunan galeri bersejarah menjadi rumah tamu yang nyaman, akomodasi ini menawarkan suasana yang sempurna untuk liburan yang menyenangkan dan santai. Terletak di Desa Celuk Sukawati Gianyar, yang merupakan pusat pengerjaan perak di Bali.",
+  "scraped_at": "2026-10-04T08:20:37Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1659046225605895743",
+  "name_raw": "Cabin in Sukasada - The Bataran Cabin",
+  "price_raw": "Rp 13,573,145",
+  "rating_raw": "5.0",
+  "review_count_raw": 4,
+  "regency": "Kabupaten Buleleng",
+  "url": "https://www.airbnb.com/rooms/1659046225605895743",
+  "sub_district": "Kecamatan Sukasada",
+  "latitude": -8.20697,
+  "longitude": 115.121,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bersantailah di tempat peristirahatan yang dirancang dengan indah yang memadukan interior yang nyaman dan ruang tamu yang luas. Kabin: Menawarkan kamar tidur yang tenang, area tamu yang nyaman, dan dapur lengkap. Kemewahan Luar Ruangan: Bersantai di teras besar, berendam di kolam renang pribadi Anda, atau berkumpul di sekitar perapian luar ruangan di bawah bintang-bintang.",
+  "scraped_at": "2026-10-04T08:17:13Z"
+}

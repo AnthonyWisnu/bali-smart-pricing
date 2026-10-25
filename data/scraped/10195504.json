@@ -1,0 +1,37 @@
+{
+  "room_id": "10195504",
+  "name_raw": "Cabin in Abiansemal - Zen Hideaway 2: Open-Air Teak Villa, Jungle Swing",
+  "price_raw": "Rp 16,060,899",
+  "rating_raw": "4.82",
+  "review_count_raw": 730,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/10195504",
+  "sub_district": "Abiansemal Badung Regency",
+  "latitude": -8.4971,
+  "longitude": 115.2353,
+  "capacity": {
+    "guests": "5",
+    "bedrooms": "1",
+    "beds": "3",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa kayu jati terbuka yang dirancang untuk berbagi hari: tiga ruang tidur, ruang tamu yang berangin, dan ayunan hutan asli yang berjarak beberapa langkah untuk foto-foto besar dan menyenangkan. Mulai dengan matahari terbit di dek, berkumpul untuk makan, lalu menjelajahi Ubud. Cocok untuk dua pasangan atau keluarga kecil yang menginginkan pemandangan, waktu bersama, dan pengalaman khas.",
+  "scraped_at": "2026-10-04T08:11:39Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "36879777",
+  "name_raw": "Villa in Amed - AMAZING PRIVATE VILLA WITH 3 BEDROOMS AND POOL",
+  "price_raw": "Rp 16,726,205",
+  "rating_raw": "4.97",
+  "review_count_raw": 132,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/36879777",
+  "sub_district": "Amed",
+  "latitude": -8.34191,
+  "longitude": 115.64212,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Kompleks vila pribadi mewah ini terletak di lingkungan yang indah dan hanya berjalan kaki sebentar dari pantai Amed, menampilkan taman tropis dengan kolam renang besar. \nRumah kami yang luar biasa memiliki 2 bungalo yang memiliki AC dan kamar mandi terpisah dan bangunan utama 2 lantai dengan dapur besar, area makan, lounge yang luas, dan toilet. Kamar tidur terbuka di lantai atas adalah ruang unik di mana Anda bisa merasakan satu dengan alam yang menghadap ke taman yang indah.",
+  "scraped_at": "2026-10-04T08:32:03Z"
+}

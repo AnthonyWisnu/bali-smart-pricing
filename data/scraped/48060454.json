@@ -1,0 +1,37 @@
+{
+  "room_id": "48060454",
+  "name_raw": "Hut in Selat - A Soulful Zen Retreat in the Heart of the Valley#3",
+  "price_raw": "Rp 11,384,322",
+  "rating_raw": "4.86",
+  "review_count_raw": 365,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/48060454",
+  "sub_district": "Selat",
+  "latitude": -8.42795,
+  "longitude": 115.44911,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "5",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Masuki oasis tropis di mana batas antara alam dan arsitektur kabur dalam desain ruang tamu terbuka.  Tiga pondok kayu lokal berusia 150 tahun dirancang ulang dengan estetika wabi - sabi Jepang.  Kami menawarkan pemandangan indah Lembah Sungai Telagawaja, sawah, Mt. Agung dan hutan sejauh mata Anda bisa melihat!   Ditambah ayunan Bali yang terkenal hanya untuk Anda!",
+  "scraped_at": "2026-10-04T08:11:43Z"
+}

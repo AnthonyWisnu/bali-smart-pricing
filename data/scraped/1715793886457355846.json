@@ -1,0 +1,37 @@
+{
+  "room_id": "1715793886457355846",
+  "name_raw": "Apartment in Nusa Lembongan - Beachfront 2BR Bungalow-Private Pool & Ocean Views",
+  "price_raw": "Rp 20,675,140",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1715793886457355846",
+  "sub_district": "Nusa Lembongan",
+  "latitude": -8.6649,
+  "longitude": 115.4612,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nikmati surga Anda sendiri di Django Bungalows, tempat peristirahatan tepi pantai baru di pasir putih Jungutbatu, Nusa Lembongan. \nBungalo 2 kamar tidur dan 1 kamar mandi yang bergaya ini dapat mengakomodasi hingga 4 tamu dengan nyaman dan memiliki kolam renang pribadi dengan pemandangan laut. \nBangun dengan suara ombak, langsung melangkah ke pantai, dan nikmati suasana yang tenang hanya 5 menit naik skuter dari kafe, restoran, klub pantai, dan pelabuhan.",
+  "scraped_at": "2026-10-04T08:37:11Z"
+}

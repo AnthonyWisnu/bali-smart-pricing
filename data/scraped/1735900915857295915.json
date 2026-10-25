@@ -1,0 +1,37 @@
+{
+  "room_id": "1735900915857295915",
+  "name_raw": "Home in Kintamani - Cabin in Kintamani Volcano View - Santai Cabin NEW",
+  "price_raw": "Rp 29,500,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1735900915857295915",
+  "sub_district": "Kintamani",
+  "latitude": -8.2529,
+  "longitude": 115.3371,
+  "capacity": {
+    "guests": "3",
+    "bedrooms": "1",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Santai Cabin adalah tempat peristirahatan terbaru dan paling eksklusif kami, yang menawarkan ruang tamu pribadi dalam dan luar ruangan seluas lebih dari 200 m². Dirancang untuk hingga 3 tamu, tempat ini memiliki kolam renang infinity pribadi, sauna Finlandia, bak mandi dalam ruangan, perapian luar ruangan, dan pemandangan Gunung Batur dan ladang lava di sekitarnya yang menakjubkan. Tempat peristirahatan yang damai, tempat kemewahan kontemporer berpadu dengan keindahan alam Kintamani.",
+  "scraped_at": "2026-10-04T08:10:34Z"
+}

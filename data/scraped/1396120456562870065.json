@@ -1,0 +1,37 @@
+{
+  "room_id": "1396120456562870065",
+  "name_raw": "Home in Ubud - 'Newly Opened' Cliffside Canopy Villa",
+  "price_raw": "Rp 23,345,628",
+  "rating_raw": "4.95",
+  "review_count_raw": 87,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1396120456562870065",
+  "sub_district": "Ubud",
+  "latitude": -8.5002,
+  "longitude": 115.2697,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Jalan paling jelas menuju Alam Semesta adalah melalui hutan belantara.” — John Muir.  \nCliffside Canopy adalah surga terpencil tempat alam dan kemewahan entwine. Terletak tinggi di atas lantai hutan, tempat ini menawarkan pemandangan yang menakjubkan, tempat yang tenang, dan dunia yang terpisah - namun hanya beberapa saat dari kehidupan yang semarak di luar pepohonan. Bangunlah dengan cahaya keemasan yang menyaring daun zamrud. \nBersantai di bawah langit, hirup keindahan, dan rasakan irama bumi ",
+  "scraped_at": "2026-10-04T08:12:56Z"
+}

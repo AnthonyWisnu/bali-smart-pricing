@@ -1,0 +1,37 @@
+{
+  "room_id": "684606150983325694",
+  "name_raw": "Villa in Gerokgak - Beachfront dream villa (4BR) direct at the beach!",
+  "price_raw": "Rp 25,042,903",
+  "rating_raw": "4.89",
+  "review_count_raw": 28,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/684606150983325694",
+  "sub_district": "Kecamatan Gerokgak",
+  "latitude": -8.19699,
+  "longitude": 114.86765,
+  "capacity": {
+    "guests": "8",
+    "bedrooms": "4",
+    "beds": "4",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Beachvilla ini adalah tempat terindah yang pernah Anda tiduri! Rumah ini memiliki 4 kamar tidur dengan kamar mandi pribadi (luar ruangan), kolam renang yang indah dengan rumah tradisional Bali dan taman yang indah. Tempat ini seperti melangkah ke dalam mimpi dan tidak terbangun. Agar lebih baik lagi, Anda memiliki staf sendiri! Staf memastikan setiap hari kamarnya terlihat rapi, tapi yang lebih bagus adalah mereka juga memasak untuk Anda.",
+  "scraped_at": "2026-10-04T08:26:50Z"
+}

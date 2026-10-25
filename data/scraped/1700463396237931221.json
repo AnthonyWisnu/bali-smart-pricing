@@ -1,0 +1,37 @@
+{
+  "room_id": "1700463396237931221",
+  "name_raw": "Villa in Tampaksiring - Casa Maya by Brüme\n rooftop hot jaccuzzi   Ubud",
+  "price_raw": "Rp 16,946,478",
+  "rating_raw": "5.0",
+  "review_count_raw": 6,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1700463396237931221",
+  "sub_district": "Tampaksiring",
+  "latitude": -8.5121,
+  "longitude": 115.3031,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "52467",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Temukan vila bergaya Mediterania yang elegan dan baru ini (dibangun pada tahun 2026) di Pejeng, lingkungan tinggal Bali autentik yang hanya berjarak 10 menit dari Ubud. Dikelilingi oleh vegetasi tropis yang rindang, tempat ini menawarkan pemandangan hutan yang menakjubkan. Tempat yang benar-benar damai untuk pasangan, tempat ini memiliki jacuzzi di atap dengan pemandangan panorama lanskap tropis yang menakjubkan, serta kolam renang infinity yang menghadap hutan. Desiran lembut sungai suci di baw",
+  "scraped_at": "2026-10-04T08:22:24Z"
+}

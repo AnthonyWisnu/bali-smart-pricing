@@ -1,0 +1,37 @@
+{
+  "room_id": "1684537152999899556",
+  "name_raw": "Villa in Ubud - Stunning 4BR Ubud Villa w/ Spa & Rice Field Views",
+  "price_raw": "Rp 35,778,740",
+  "rating_raw": "5.0",
+  "review_count_raw": 9,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1684537152999899556",
+  "sub_district": "Ubud",
+  "latitude": -8.537,
+  "longitude": 115.2832,
+  "capacity": {
+    "guests": "8",
+    "bedrooms": "4",
+    "beds": "4",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berlibur ke Villa Wellness Bisous, tempat peristirahatan yang damai di pusat Ubud, dikelilingi pemandangan panorama persawahan dan taman tropis yang rindang.\n\nBersantai di tepi kolam renang pribadi yang luas, nikmati perawatan spa yang meremajakan, atau nikmati saja ketenangan Bali. Dilengkapi dengan cermat, staf yang penuh perhatian, dan segala yang Anda butuhkan untuk masa inap yang mulus.\n\nIdeal untuk keluarga dan teman, ini adalah tempat yang sempurna untuk bersantai, berkumpul kembali, dan ",
+  "scraped_at": "2026-10-04T08:18:38Z"
+}

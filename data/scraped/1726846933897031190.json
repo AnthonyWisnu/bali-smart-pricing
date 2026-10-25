@@ -1,0 +1,37 @@
+{
+  "room_id": "1726846933897031190",
+  "name_raw": "Home in Ubud - Brand new Luxury 4-Bedrooms Private Villa in Ubud",
+  "price_raw": "Rp 19,970,598",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1726846933897031190",
+  "sub_district": "Ubud",
+  "latitude": -8.4925,
+  "longitude": 115.2701,
+  "capacity": {
+    "guests": "8",
+    "bedrooms": "4",
+    "beds": "4",
+    "baths": "5"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berlibur ke RITAKALA, vila pribadi mewah 4 kamar tidur yang terletak di pusat Ubud yang damai. Dirancang dengan keanggunan tropis modern, RITAKALA adalah tempat perlindungan di mana arsitektur canggih, nuansa alami yang hangat, dan kenyamanan premium berpadu untuk menciptakan pengalaman Bali yang tak terlupakan.\n\nTerinspirasi oleh makna namanya—“irama waktu”—RITAKALA mengajak Anda untuk melambat, terhubung kembali dengan alam, dan menikmati momen-momen paling berarti dalam hidup.\n",
+  "scraped_at": "2026-10-04T08:21:06Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "3712588",
+  "name_raw": "Resort in Melaya - Melaya Beach Resort & Resto Twin bed",
+  "price_raw": "Rp 2,835,815",
+  "rating_raw": "4.96",
+  "review_count_raw": 24,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/3712588",
+  "sub_district": "Melaya",
+  "latitude": -8.2598,
+  "longitude": 114.4772,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Hotel butik depan pantai baru kami sangat ideal bagi mereka yang ingin menjelajahi taman nasional, menyelam skuba di Pulau Menjangan atau sebagai tempat singgah di antara Bali & Jawa. Semua kamar melihat langsung ke atas kolam renang dan keluar menuju Indian Ocean Paradise.",
+  "scraped_at": "2026-10-04T08:23:37Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1699027104395487029",
+  "name_raw": "Home in Tegallalang - Yura house, cozy house with private pool",
+  "price_raw": "Rp 5,705,885",
+  "rating_raw": "5.0",
+  "review_count_raw": 3,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1699027104395487029",
+  "sub_district": "Kecamatan Tegallalang",
+  "latitude": -8.42137,
+  "longitude": 115.27809,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Tempat menginap bergaya ini cocok untuk pasangan",
+  "scraped_at": "2026-10-04T08:13:30Z"
+}

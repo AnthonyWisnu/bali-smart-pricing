@@ -1,0 +1,37 @@
+{
+  "room_id": "34522485",
+  "name_raw": "Bungalow in Nusa Penida - Tropical Glamping🌴 Open Air Romantic Bungalow♥️",
+  "price_raw": "Rp 25,814,361",
+  "rating_raw": "4.89",
+  "review_count_raw": 539,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/34522485",
+  "sub_district": "Nusapenida",
+  "latitude": -8.78213,
+  "longitude": 115.61051,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Salty Palm Nusa Penida menawarkan pemandangan laut yang dikelilingi oleh pohon - pohon palem yang rimbun, memberikan pengalaman yang tenang, akrab, dan eksklusif. Ini adalah favorit tepercaya bagi kreator konten, pencinta alam, dan pasangan.\n\nFitur populer antara lain:\n\nPemandangan laut dari kamar tidur \nKamar mandi luar ruangan dan pancuran untuk pengalaman yang direndam alam\nSarapan gratis\nLayanan kamar\nTempat tidur gantung di bawah pohon palem\nTempat tidur siang dan layar proyektor film\nPondo",
+  "scraped_at": "2026-10-04T08:37:27Z"
+}

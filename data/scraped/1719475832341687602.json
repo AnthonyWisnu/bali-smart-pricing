@@ -1,0 +1,37 @@
+{
+  "room_id": "1719475832341687602",
+  "name_raw": "Home in Abang - Kokonut Amed Villa Satu",
+  "price_raw": "Rp 3,357,950",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1719475832341687602",
+  "sub_district": "Abang",
+  "latitude": -8.3364,
+  "longitude": 115.6285,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Buat kenangan di tempat unik dan ramah keluarga ini.\nCabana kami menawarkan akomodasi liburan yang menyenangkan di Amed dengan pemandangan Gunung Agung yang indah.",
+  "scraped_at": "2026-10-04T08:32:40Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "52747480",
+  "name_raw": "Vacation home in Ubud - Ubud Zen River House",
+  "price_raw": "Rp 31,205,536",
+  "rating_raw": "4.64",
+  "review_count_raw": 182,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/52747480",
+  "sub_district": " Ubud",
+  "latitude": -8.52357,
+  "longitude": 115.25574,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": null,
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di Ubud Zen River House, permata tersembunyi yang terletak di jantung hutan tropis. Rumah Gaya Loteng Airbnb yang menakjubkan ini menawarkan dek yoga dan pemandangan indah Hutan Ubud yang mempesona. - Benamkan diri Anda dalam ketenangan tempat peristirahatan ini, tempat kehidupan modern menyatu dengan pelukan alam. - Meskipun lokasinya terpencil, oasis kami menawarkan kenyamanan lokasi pusat. - Berjalanlah menyusuri lingkungan yang rimbun dan temukan kafe dan restoran terbaik.",
+  "scraped_at": "2026-10-04T08:18:44Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "25819534",
+  "name_raw": "Home in Ubud - Experience Your Stay with Local Balinese Family",
+  "price_raw": "Rp 5,254,120",
+  "rating_raw": "4.94",
+  "review_count_raw": 253,
+  "regency": "Kabupaten Badung",
+  "url": "https://www.airbnb.com/rooms/25819534",
+  "sub_district": "Ubud",
+  "latitude": -8.50092,
+  "longitude": 115.24888,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rasakan kehidupan Bali autentik di desa Penestanan yang damai, hanya 20 menit berjalan kaki  ke pusat Ubud. Menginap di rumah tradisional yang luas dengan dua kamar pribadi, masing - masing dilengkapi tempat tidur queen dan kamar mandi pribadi. Nikmati suasana yang rimbun dengan dapur modern, WiFi, dan suasana keluarga yang ramah. Bergabunglah dengan kami untuk upacara desa (jika ada), nikmati sarapan buatan sendiri, dan jelajahi sawah dan alam terdekat.",
+  "scraped_at": "2026-10-04T08:09:53Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1732228747152954887",
+  "name_raw": "Home in Kecamatan Kuta Utara - New 3BR Umalas Villa By Famous Interior Designer",
+  "price_raw": "Rp 16,974,029",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Badung",
+  "url": "https://www.airbnb.com/rooms/1732228747152954887",
+  "sub_district": "Kecamatan Kuta Utara",
+  "latitude": -8.6636,
+  "longitude": 115.1523,
+  "capacity": {
+    "guests": "7",
+    "bedrooms": "2",
+    "beds": "4",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Dirancang oleh World Famous Bali Interiors, vila keluarga tiga kamar tidur baru ini berada di Umalas, Bali, tempat yang tenang dekat Canggu, restoran, dan pantai. Kompleks pribadi yang aman, lahan seluas 199 m2, bangunan seluas 168 m2. Lantai dasar: kamar tidur ensuite di dekat kolam renang, ruang tamu dengan langit-langit tinggi, ruang makan terbuka, dapur modern, kolam renang pribadi, dan taman. Lantai atas: suite utama dengan lemari pakaian dan balkon, serta kamar tidur kedua dengan balkon. M",
+  "scraped_at": "2026-10-04T08:09:16Z"
+}

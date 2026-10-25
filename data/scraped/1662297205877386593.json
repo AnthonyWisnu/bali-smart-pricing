@@ -1,0 +1,37 @@
+{
+  "room_id": "1662297205877386593",
+  "name_raw": "Home in Ubud - Tropical 2BR in Serene Ubud w Pool & Huge Garden",
+  "price_raw": "Rp 17,121,742",
+  "rating_raw": "5.0",
+  "review_count_raw": 6,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1662297205877386593",
+  "sub_district": "Ubud",
+  "latitude": -8.4935,
+  "longitude": 115.2712,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Hijau Villa by EVDEkimi — villa tropis 2BR di Ubud yang hijau\n• Kamar tidur stylish ber-AC dengan pemandangan taman\n• Kamar mandi en-suite dengan fasilitas premium & pengering rambut\n• Dapur lengkap\n• Kolam renang pribadi besar dengan kursi santai dan area tepi kolam\n• Area lounge patio yang luas\n• Wi-Fi berkecepatan tinggi\n• PS5, Netflix, fasilitas bayi & BBQ atas permintaan\n• Pembersihan harian dengan handuk dan linen segar\n• Layanan concierge: transfer, tur, spa & lainnya",
+  "scraped_at": "2026-10-04T08:22:22Z"
+}

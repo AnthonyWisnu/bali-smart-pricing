@@ -1,0 +1,37 @@
+{
+  "room_id": "944075892486136555",
+  "name_raw": "Room in Pekutatan - Jungle House - Bungalow Double Room",
+  "price_raw": "Rp 1,250,000",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/944075892486136555",
+  "sub_district": "Pekutatan",
+  "latitude": -8.40465,
+  "longitude": 114.80617,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "5"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Terhubung kembali dengan alam di tempat damai tak terlupakan ini dan tempat yang nyaman jauh dari kebisingan teletak di dalam hutan dan 5 menit ke pantai dengan sepeda motor",
+  "scraped_at": "2026-10-04T08:24:48Z"
+}

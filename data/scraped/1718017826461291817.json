@@ -1,0 +1,37 @@
+{
+  "room_id": "1718017826461291817",
+  "name_raw": "Guesthouse in Sidemen - Sunrise hill sidemen\npanoramic room",
+  "price_raw": "Rp 5,940,950",
+  "rating_raw": "5.0",
+  "review_count_raw": 7,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1718017826461291817",
+  "sub_district": "Kecamatan Sidemen",
+  "latitude": -8.4947,
+  "longitude": 115.4163,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rasakan Magisnya Bali Timur dari Villa Privat AndaTemukan surga tersembunyi. Villa kami memadukan kenyamanan fasilitas, Cocok untuk pasangan yang mencari suasana romantis maupun keluarga yang ingin menikmati liburan yang tenang dan intim. Setiap sudut villa dirancang estetik. Dekat Aktivitas Lokal: Akses mudah untuk trekking sawah, rafting, dan tur budaya. Nikmati kesegaran udara perbukitan Karangasem tanpa polusi. Privasi Maksimal, Layanan personal yang siap menjaga kenyamanan menginap Anda.",
+  "scraped_at": "2026-10-04T08:31:02Z"
+}

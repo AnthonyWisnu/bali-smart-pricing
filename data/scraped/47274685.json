@@ -1,0 +1,37 @@
+{
+  "room_id": "47274685",
+  "name_raw": "Villa in Seririt - Beach Front 4BR Private Pool Villa @Lovina Area",
+  "price_raw": "Rp 15,405,890",
+  "rating_raw": "4.77",
+  "review_count_raw": 30,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/47274685",
+  "sub_district": "Seririt",
+  "latitude": -8.1914,
+  "longitude": 114.8858,
+  "capacity": {
+    "guests": "8",
+    "bedrooms": "4",
+    "beds": "4",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Premium Four Bedrooms Villa di tepi pantai dekat dengan area Lovina, hanya 20 Menit ke pantai Lovina, dan hanya 30 Menit ke area Pemuteran, villa kami dilengkapi dengan dapur pribadi, ruang tamu pribadi, pantai pribadi dan kolam renang pribadi dengan akses langsung ke pantai. Semua kamar memiliki kamar mandi sendiri. Juga restoran kami buka untuk sarapan, makan siang, dan makan malam Anda",
+  "scraped_at": "2026-10-04T08:28:40Z"
+}

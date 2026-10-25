@@ -1,0 +1,37 @@
+{
+  "room_id": "1735218673223548567",
+  "name_raw": "Villa in Abang - Bnaya Bliss villa | Mt. Lempuyang View | Amed",
+  "price_raw": "Rp 7,875,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1735218673223548567",
+  "sub_district": "Abang",
+  "latitude": -8.3502,
+  "longitude": 115.6692,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bnaya Bliss Villa atau nama unit Jepun Villa, adalah vila terbesar dan paling pribadi di kompleks vila butik kami. Terletak di lahan yang paling luas, vila ini menawarkan taman yang lebih besar, ruang tamu dalam ruangan yang lebih lapang, dan privasi yang lebih baik dibandingkan vila kami yang lain. Dirancang dengan cermat untuk tamu yang menghargai ruang, kenyamanan, dan suasana pribadi, vila ini terasa hangat, nyaman, dan terpencil, namun tetap menikmati pemandangan indah ke arah Gunung. Lempu",
+  "scraped_at": "2026-10-04T08:31:37Z"
+}

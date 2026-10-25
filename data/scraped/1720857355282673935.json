@@ -1,0 +1,37 @@
+{
+  "room_id": "1720857355282673935",
+  "name_raw": "Place to stay in Banjar - Cozy Munduk cabin",
+  "price_raw": "Rp 2,000,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 5,
+  "regency": "Kabupaten Buleleng",
+  "url": "https://www.airbnb.com/rooms/1720857355282673935",
+  "sub_district": "Kecamatan Banjar",
+  "latitude": -8.26654,
+  "longitude": 115.05497,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Beristirahatlah dan bersantai sejenak di oasis damai ini.",
+  "scraped_at": "2026-10-04T08:17:15Z"
+}

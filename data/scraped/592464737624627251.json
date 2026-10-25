@@ -1,0 +1,37 @@
+{
+  "room_id": "592464737624627251",
+  "name_raw": "Villa in Pekutatan - Sanctuary Pekutatan: 3BR Private Pool Villa",
+  "price_raw": "Rp 14,000,000",
+  "rating_raw": "4.82",
+  "review_count_raw": 28,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/592464737624627251",
+  "sub_district": "Pekutatan",
+  "latitude": -8.43486,
+  "longitude": 114.84135,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "5"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nikmati sisi Bali yang tenang di vila kami yang dirancang dengan indah dan dikelola keluarga—dibuat dengan perhatian bagi mereka yang menghargai kedamaian, kenyamanan, dan alam.\n\nDikelilingi oleh pohon kelapa dan hanya 2 menit berjalan kaki ke pantai yang terpencil, ini adalah tempat yang sempurna untuk bersantai dan melepas penat.\n\nVila ini menawarkan:\n3 kamar tidur yang luas\n2,5 kamar mandi\nSuasana yang damai untuk keluarga atau pasangan\nTerkadang, tokek yang ramah berkunjung—sekadar mengingat",
+  "scraped_at": "2026-10-04T08:23:26Z"
+}

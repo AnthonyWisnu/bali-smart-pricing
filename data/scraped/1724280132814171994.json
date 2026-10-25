@@ -1,0 +1,37 @@
+{
+  "room_id": "1724280132814171994",
+  "name_raw": "Room in Abang - Seaview 1BR Villa | Pool | 650m to Bunutan Beach",
+  "price_raw": "Rp 5,546,015",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1724280132814171994",
+  "sub_district": "Abang",
+  "latitude": -8.3454,
+  "longitude": 115.6758,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Temukan pesona Bali Timur di Sukha Amed, guesthouse butik dengan pemandangan garis pantai yang indah dan suasana tenang jauh dari keramaian.\n\nBangunlah untuk menyaksikan matahari terbit yang menakjubkan, nikmati angin laut yang segar, dan rasakan Bali yang autentik dan lebih santai. Baik Anda merencanakan petualangan menyelam, perjalanan snorkeling, atau sekadar ingin bersantai, Sukha Amed adalah tempat menginap yang sempurna.",
+  "scraped_at": "2026-10-04T08:33:43Z"
+}

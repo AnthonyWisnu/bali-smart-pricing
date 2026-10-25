@@ -1,0 +1,37 @@
+{
+  "room_id": "1740588322677505586",
+  "name_raw": "Home in Tampaksiring - Ubud Raka Villa",
+  "price_raw": "Rp 9,199,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1740588322677505586",
+  "sub_district": "Tampaksiring",
+  "latitude": -8.5101,
+  "longitude": 115.2872,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "1",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di Ubud Raka Villa, tempat peristirahatan yang damai di pusat Ubud, Bali. Nikmati kamar yang nyaman, fasilitas modern, Wi-Fi gratis, AC, dan suasana santai. Lokasi yang nyaman dekat dengan Monkey Forest, Ubud Palace, Tegalalang Rice Terrace, restoran, dan pasar seni lokal, cocok untuk pasangan, keluarga, dan teman yang mencari pengalaman menginap khas Bali.",
+  "scraped_at": "2026-10-04T08:21:40Z"
+}

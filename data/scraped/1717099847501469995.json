@@ -1,0 +1,37 @@
+{
+  "room_id": "1717099847501469995",
+  "name_raw": "Villa in Tegalalang - Tropical Bamboo Villa luxury Aliapard II",
+  "price_raw": "Rp 11,257,860",
+  "rating_raw": "5.0",
+  "review_count_raw": 4,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1717099847501469995",
+  "sub_district": "Tegallalang",
+  "latitude": -8.4733,
+  "longitude": 115.2576,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Liburan romantis di pusat persawahan di utara Ubud. Vila yang dirancang unik dengan kolam renang pribadi yang menghadap pemandangan luar biasa, hammock, dan teras dengan bak mandi luar ruangan di lantai 2. Cahaya alami, ketenangan mutlak, dan peresapan total dalam alam Bali. Tempat yang akrab dan elegan untuk beristirahat dan merasakan Bali dengan cara yang berbeda.",
+  "scraped_at": "2026-10-04T08:19:13Z"
+}

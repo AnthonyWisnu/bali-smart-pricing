@@ -1,0 +1,37 @@
+{
+  "room_id": "33780483",
+  "name_raw": "Home in Gianyar - Artist Villa 4BR Dandan Bukit Tranquil View",
+  "price_raw": "Rp 15,500,000",
+  "rating_raw": "4.98",
+  "review_count_raw": 40,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/33780483",
+  "sub_district": "Kecamatan Gianyar",
+  "latitude": -8.5253,
+  "longitude": 115.3393,
+  "capacity": {
+    "guests": "12",
+    "bedrooms": "4",
+    "beds": "7",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Dirancang oleh Seniman Patung Jepang, Villa Dandan Bukit Gaya unik dengan Bahan Alami dan didekorasi dengan indah.\n\nRumah nyaman dengan kolam renang, ruang tamu terbuka dengan sawah dan pemandangan Gunung Agung.\nVila ini menawarkan kenyamanan di desa lingkungan alami dan tenang di Bukit Jati Gianyar.  \n\nKolam renang infinity sepanjang 15 meter apakah Anda bersantai, menikmati minuman yang menyegarkan sambil menikmati pemandangan yang menakjubkan, Villa Dandan Bukit menjanjikan pengalaman yang ha",
+  "scraped_at": "2026-10-04T08:22:41Z"
+}

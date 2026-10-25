@@ -1,0 +1,37 @@
+{
+  "room_id": "1599699403906659686",
+  "name_raw": "Home in Ubud - Celia Villa | 3BR With Pool & Rice Field View Ubud",
+  "price_raw": "Rp 13,719,057",
+  "rating_raw": "4.75",
+  "review_count_raw": 24,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1599699403906659686",
+  "sub_district": "Ubud",
+  "latitude": -8.518,
+  "longitude": 115.2427,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa Celia kontemporer yang elegan dengan pemandangan sawah & kolam renang pribadi! Selamat datang di Celia Villa, tempat peristirahatan tropis 3BR modern Anda di Ubud - Bali. Villa kontemporer baru ini berpadu sempurna dengan lingkungan alami di sekitarnya, menawarkan pemandangan sawah yang tenang, kolam renang pribadi, dan tata letak terbuka yang bergaya. Dirancang untuk kenyamanan dan keanggunan, Celia Villa sangat cocok untuk liburan romantis, liburan keluarga, atau pengembara digital yang ",
+  "scraped_at": "2026-10-04T08:19:03Z"
+}

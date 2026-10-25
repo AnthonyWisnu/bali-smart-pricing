@@ -1,0 +1,37 @@
+{
+  "room_id": "1639315974908308812",
+  "name_raw": "Villa in Tampaksiring - Luxe Jungle 4BR in the Heart of Ubud w Pool, Patio",
+  "price_raw": "Rp 25,612,717",
+  "rating_raw": "5.0",
+  "review_count_raw": 11,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1639315974908308812",
+  "sub_district": "Kecamatan Tampaksiring",
+  "latitude": -8.4904,
+  "longitude": 115.2765,
+  "capacity": {
+    "guests": "7",
+    "bedrooms": "4",
+    "beds": "4",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Velora Villa — Liburan Ubud Kontemporer\n• 4 kamar tidur stylish ber-AC dengan pemandangan taman, kolam, dan sawah\n• 3 kamar mandi modern, salah satunya dengan bathtub\n• Ruang tamu open-plan yang terang dan dapur lengkap\n• Kolam renang, taman tropis, lounge\n• Teras lantai atas dengan pemandangan terbuka yang tenang\n• Wi-Fi 150 Mbps\n• Pembersihan harian dengan handuk dan seprai bersih\n• PS5, Netflix, perlengkapan bayi dan BBQ grill atas permintaan\n• Layanan concierge: penyewaan skuter, spa, dll",
+  "scraped_at": "2026-10-04T08:15:35Z"
+}

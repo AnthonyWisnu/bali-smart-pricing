@@ -1,0 +1,37 @@
+{
+  "room_id": "1083652995179213714",
+  "name_raw": "Cabin in Pekutatan - Medewi Drop Villa \nprivate swimming pool",
+  "price_raw": "Rp 7,005,495",
+  "rating_raw": "4.64",
+  "review_count_raw": 22,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1083652995179213714",
+  "sub_district": "Pekutatan",
+  "latitude": -8.3961,
+  "longitude": 114.7804,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "4",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Akomodasi Medewi Drop Villa unik dengan 3 bungalo bergaya Joglo yang berdiri sendiri, masing - masing dengan tempat tidur double besar dan masing - masing dengan pancuran pribadi dan WC dan area dek tertutup. Tempat ini memiliki dapur dan area makan yang didesain dengan baik serta area parkir tertutup dan aman untuk 1 mobil. Tempat ini menawarkan kolam renang yang indah dengan dek dan kursi berjemur  di dalam taman yang  matang. Properti ini terletak 40 mts di jalur pribadi tanpa lalu lintas yan",
+  "scraped_at": "2026-10-04T08:23:53Z"
+}

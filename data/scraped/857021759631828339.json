@@ -1,0 +1,37 @@
+{
+  "room_id": "857021759631828339",
+  "name_raw": "Place to stay in Pekutatan - Uma Asri Pulukan - Guest house",
+  "price_raw": "Rp 3,291,154",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/857021759631828339",
+  "sub_district": "Kecamatan Pekutatan",
+  "latitude": -8.4136,
+  "longitude": 114.8166,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Akomodasi damai di desa Pulukan, dekat Pantai Medewi, Bali Barat. Berlokasi tepi sawah hijau—pelarian sempurna untuk pecinta alam & desa autentik.\n\nKamar luas untuk kenyamanan maksimal + dapur besar dengan pemandangan sawah—ideal masak sambil nikmati panorama hijau memukau!\n\nMalam hari: langit bintang jernih dari balkon pribadi. Siang: jalan kaki sebentar ke spot surf Medewi atau jelajahi sungai kecil & alam sekitar.\n\nAyo alami keajaiban Bali Barat, ciptakan kenangan abadi!",
+  "scraped_at": "2026-10-04T08:29:45Z"
+}

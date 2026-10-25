@@ -1,0 +1,37 @@
+{
+  "room_id": "916395447629400270",
+  "name_raw": "Villa in Nusa Lembongan - Stella Maris Oceanfront Retreat",
+  "price_raw": "Rp 95,750,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 23,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/916395447629400270",
+  "sub_district": "Nusa Lembongan",
+  "latitude": -8.6836,
+  "longitude": 115.4277,
+  "capacity": {
+    "guests": "11",
+    "bedrooms": "5",
+    "beds": "7",
+    "baths": "6"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Terletak di tempat lautan luas menyentuh cakrawala, Villa Stella Maris menawarkan tempat peristirahatan terpencil di Nusa Lembongan. Mulailah hari Anda dengan pemandangan pantai yang luas, amati penyu laut yang berenang di perairan jernih, dan saksikan lumba-lumba yang muncul ke permukaan di lepas tebing. Setiap detail—dari pagi hari yang tenang hingga matahari terbenam yang menakjubkan—dirancang untuk masa inap yang tak terlupakan.",
+  "scraped_at": "2026-10-04T08:36:48Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1691159945956171036",
+  "name_raw": "Home in Nusa Penida - Spacious 2BR Stay with Sea & Mt. Agung Views",
+  "price_raw": "Rp 18,000,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 7,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1691159945956171036",
+  "sub_district": "Nusa Penida",
+  "latitude": -8.6864,
+  "longitude": 115.4915,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bersantailah di Le Fief Villa, tempat peristirahatan semi-pribadi yang menakjubkan di Nusa Penida. Properti yang luas ini memiliki kolam renang lap panjang, ruang tamu besar, dan dapur lengkap. Properti ini menawarkan 2 kamar tidur, masing-masing dilengkapi kamar mandi pribadi dalam. Bangunlah untuk menikmati pemandangan laut dan Gunung Agung yang menakjubkan dari balkon. Lokasinya nyaman hanya 8 menit berkendara dari pelabuhan. Catatan: Tuan rumah tinggal di lokasi di area terpisah, memastikan ",
+  "scraped_at": "2026-10-04T08:36:33Z"
+}

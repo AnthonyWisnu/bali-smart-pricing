@@ -1,0 +1,37 @@
+{
+  "room_id": "1737821708599912585",
+  "name_raw": "Home in Nusa Penida - 2BR • Private Pool • Prime Location • Tropikarma",
+  "price_raw": "Rp 9,486,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1737821708599912585",
+  "sub_district": "Nusa Penida",
+  "latitude": -8.6787,
+  "longitude": 115.5146,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "3",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Baru, modern, dibangun untuk hari-hari santai dan energi yang baik.\nDua kamar tidur. Kolam renang pribadi. Tikar yoga, perlengkapan gym, meja biliar kecil, sudut yang dibuat untuk bersantai.\n\nVilla Tropikarma terletak di kawasan prima Nusa Penida. \nSepuluh menit dari pelabuhan Banjar Nyuh. Penida Pantry (supermarket) sangat dekat. Restoran yang bagus seperti Penida Colada dan M Bistro berada di dekatnya. Pusat selam berada di dekatnya.\n\nPanduan tamu lengkap disediakan oleh Penida Society. Semua ",
+  "scraped_at": "2026-10-04T08:35:47Z"
+}

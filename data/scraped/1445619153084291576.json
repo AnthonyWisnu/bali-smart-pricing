@@ -1,0 +1,37 @@
+{
+  "room_id": "1445619153084291576",
+  "name_raw": "Home in Ubud - Tranquil Ubud Villa w/ Pool Near Monkey Forest",
+  "price_raw": "Rp 11,973,028",
+  "rating_raw": "4.93",
+  "review_count_raw": 83,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1445619153084291576",
+  "sub_district": "Ubud",
+  "latitude": -8.5368,
+  "longitude": 115.2617,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "5"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bersantailah di tempat yang tenang dan bergaya ini. Selamat datang di tempat liburan Anda yang tenang di pusat Ubud! Vila pribadi 3 kamar tidur ini menawarkan keseimbangan sempurna antara relaksasi dan petualangan. Hanya beberapa menit dari Hutan Monyet, Istana Kerajaan, dan arung jeram air jernih, namun terselip di lingkungan yang tenang dan damai tanpa kebisingan konstruksi—ideal untuk keluarga, kelompok kecil, dan penjelajah.",
+  "scraped_at": "2026-10-04T08:20:32Z"
+}

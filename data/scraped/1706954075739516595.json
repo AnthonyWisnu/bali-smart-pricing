@@ -1,0 +1,37 @@
+{
+  "room_id": "1706954075739516595",
+  "name_raw": "Room in Ubud - Enchanting 1BR Villa w/ Jungle View",
+  "price_raw": "Rp 15,000,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 3,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1706954075739516595",
+  "sub_district": "Ubud",
+  "latitude": -8.4832,
+  "longitude": 115.2749,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berlibur ke pondok nyaman yang tersembunyi di sisi utara Ubud, hanya 20 menit berkendara dari Pusat Kota Ubud. Elitya Ubud Cottage kami menawarkan pengalaman menginap yang dikelilingi alam dan dekat dengan budaya lokal Bali. Tempat persembunyian ini adalah tempat yang sempurna untuk bersantai, terhubung kembali, dan merasakan pesona Bali yang autentik. Terletak di desa tradisional yang terkenal dengan warisan ukiran kayunya. Cocok untuk pasangan, teman, dan anggota keluarga.",
+  "scraped_at": "2026-10-04T08:20:02Z"
+}

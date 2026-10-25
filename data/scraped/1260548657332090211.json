@@ -1,0 +1,37 @@
+{
+  "room_id": "1260548657332090211",
+  "name_raw": "Home in Rendang - Secluded mountain house with campfire & hiking",
+  "price_raw": "Rp 5,359,678",
+  "rating_raw": "4.95",
+  "review_count_raw": 62,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1260548657332090211",
+  "sub_district": "Rendang",
+  "latitude": -8.32891,
+  "longitude": 115.44182,
+  "capacity": {
+    "guests": "5",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rumah gunung kayu terpencil di lereng Gunung Agung, jauh dari keramaian dan berada di tengah alam.\n\nMemasak, mendaki, menyalakan api unggun, dan menikmati waktu. Ini Bali pada saatnya yang paling tenang.\n\nHabiskan hari Anda menjelajahi hutan di sekitarnya dan menghirup udara pegunungan.\n\nPada malam hari, suhu turun, bintang-bintang muncul, dan suasana benar-benar hening.",
+  "scraped_at": "2026-10-04T08:10:20Z"
+}

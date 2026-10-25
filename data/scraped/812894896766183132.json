@@ -1,0 +1,37 @@
+{
+  "room_id": "812894896766183132",
+  "name_raw": "Home in Banjar - Home villa\n2bedroom",
+  "price_raw": "Rp 3,064,905",
+  "rating_raw": "4.85",
+  "review_count_raw": 53,
+  "regency": "Kabupaten Buleleng",
+  "url": "https://www.airbnb.com/rooms/812894896766183132",
+  "sub_district": "Kecamatan Banjar",
+  "latitude": -8.17178,
+  "longitude": 115.02785,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bersantai bersama seluruh keluarga di tempat menginap yang damai ini.",
+  "scraped_at": "2026-10-04T08:16:58Z"
+}

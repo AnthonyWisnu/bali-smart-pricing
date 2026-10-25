@@ -1,0 +1,37 @@
+{
+  "room_id": "1705794892217683262",
+  "name_raw": "Villa in Selat - Raka Rai Bamboo Villa",
+  "price_raw": "Rp 12,150,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 4,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1705794892217683262",
+  "sub_district": "Selat",
+  "latitude": -8.451,
+  "longitude": 115.4806,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nikmati masa inap unik di vila bambu eksklusif yang memadukan arsitektur alami dengan kenyamanan modern di pusat Bali tropis. Menampilkan kolam renang pribadi, pengalaman sarapan terapung yang menyenangkan, dan suasana yang tenang yang dikelilingi oleh kehijauan yang rindang, vila ini adalah tempat peristirahatan yang sempurna untuk bersantai. Desain bambunya yang artistik, area bersantai yang nyaman, dan suasana pedesaan yang hangat menciptakan liburan yang autentik, romantis, dan tak terlupaka",
+  "scraped_at": "2026-10-04T08:31:40Z"
+}

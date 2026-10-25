@@ -1,0 +1,37 @@
+{
+  "room_id": "1212825176807705237",
+  "name_raw": "Villa in Selat - Danaswari Bali (Bamboo House)",
+  "price_raw": "Rp 15,879,118",
+  "rating_raw": "4.9",
+  "review_count_raw": 10,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1212825176807705237",
+  "sub_district": "Kecamatan Selat",
+  "latitude": -8.45001,
+  "longitude": 115.47151,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Danaswari Brand New Bamboo House baru saja selesai, Jika rumah Bambu lainnya dibangun oleh Perusahaan yang terkenal, Kami dengan bangga mempersembahkan karya kreativitas keluarga kami. Meskipun Kami bukan yang pertama, Kami mencoba menawarkan yang terbaik dari yang lainnya, Kami berharap bahwa rumah yang Kami bangun dengan semangat kerja sama dapat menyediakan semua yang Anda harapkan dari rumah bambu yang unik.\npemesanan dengan Perusahaan dukungan Perusahaan untuk tumbuh, memesan dengan kami ak",
+  "scraped_at": "2026-10-04T08:34:57Z"
+}

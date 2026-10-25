@@ -1,0 +1,37 @@
+{
+  "room_id": "1733850626283692860",
+  "name_raw": "Room in Ubud - Gresh House: Royal Balinese Suite in Sayan Ubud",
+  "price_raw": "Rp 2,583,760",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1733850626283692860",
+  "sub_district": "Ubud",
+  "latitude": -8.5017,
+  "longitude": 115.2457,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nikmati akses mudah ke toko dan restoran populer dari tempat menginap menawan ini.",
+  "scraped_at": "2026-10-04T08:18:38Z"
+}

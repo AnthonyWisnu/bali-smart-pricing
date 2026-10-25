@@ -1,0 +1,37 @@
+{
+  "room_id": "25463566",
+  "name_raw": "Villa in Seririt - Luxury villa - 180 Ocean view+ 20m pool",
+  "price_raw": "Rp 28,322,229",
+  "rating_raw": "4.97",
+  "review_count_raw": 263,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/25463566",
+  "sub_district": "Seririt",
+  "latitude": -8.18564,
+  "longitude": 114.90628,
+  "capacity": {
+    "guests": "8",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "silakan periksa vila depan pantai baru kami: https://www.airbnb.com/rooms/1484419954615053526?guests=1&adults=1&s=67&unique_share_id=da7e2d8c-4da3-46b8-b4e9-6c288e885888\nPemandangan laut 180 derajat dengan kolam renang pribadi 20x5 m2.  \nLokasinya di mana kebun anggur hijau dan sawah bertemu lautan.  Kami menyebutnya L'espoir karena membawa impian dan harapan kami.  Anda akan memiliki liburan impian di sini dan Villa L'espoir bisa memenuhi semua ekspektasi Anda dan lebih...    Selamat menikmati ",
+  "scraped_at": "2026-10-04T08:23:34Z"
+}

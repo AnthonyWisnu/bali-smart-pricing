@@ -1,0 +1,37 @@
+{
+  "room_id": "20984304",
+  "name_raw": "Place to stay in Melaya - Luvi Resort",
+  "price_raw": "Rp 3,423,531",
+  "rating_raw": "4.59",
+  "review_count_raw": 27,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/20984304",
+  "sub_district": "Melaya",
+  "latitude": -8.26625,
+  "longitude": 114.49135,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "01689",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Luvi Resort membanggakan perpaduan arsitektur Bali dengan budaya lokal daerah ini.  Keluarga akan merasakan kenyamanan Luvi Resort melalui layanan rumah dan berbagai fasilitas seperti kolam renang, restoran, dan wi - fi gratis. \n\nLuvi Resort berlokasi ideal bagi mereka yang ingin menjelajahi Taman Nasional Bali Barat, menyelam scuba di Pulau Menjangan atau mengunjungi Gereja Palasari yang megah.",
+  "scraped_at": "2026-10-04T08:26:25Z"
+}

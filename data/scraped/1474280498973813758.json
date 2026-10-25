@@ -1,0 +1,37 @@
+{
+  "room_id": "1474280498973813758",
+  "name_raw": "Home in Selat - Balikayanas | Saputra House",
+  "price_raw": "Rp 23,351,650",
+  "rating_raw": "5.0",
+  "review_count_raw": 24,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1474280498973813758",
+  "sub_district": "Selat",
+  "latitude": -8.42457,
+  "longitude": 115.45846,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nikmati ketenangan dan kemewahan berkelanjutan dari vila bambu dua kamar tidur yang dibuat dengan cermat di lanskap Selat, Karangasem yang menakjubkan. Sebagai spesialis dalam arsitektur bambu unik, kami menawarkan pengalaman hidup yang dibuat khusus yang menyatu dengan keindahan alam dan warisan budaya Bali yang kaya.",
+  "scraped_at": "2026-10-04T08:30:15Z"
+}

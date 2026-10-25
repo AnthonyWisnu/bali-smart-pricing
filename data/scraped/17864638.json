@@ -1,0 +1,37 @@
+{
+  "room_id": "17864638",
+  "name_raw": "Villa in Abang - Villa Agung beach front in Amed",
+  "price_raw": "Rp 22,905,547",
+  "rating_raw": "4.97",
+  "review_count_raw": 231,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/17864638",
+  "sub_district": "Abang",
+  "latitude": -8.3301,
+  "longitude": 115.6371,
+  "capacity": {
+    "guests": "5",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa Agung terletak tepat di pantai berpasir hitam dengan akses langsung ke laut. Terletak di antara pemandangan indah di atas cakrawala yang tak berujung dan Gunung vulcano yang luar biasa. Agung.\nAmed dengan pantai berpasir gunung berapi yang indah adalah salah satu tempat menyelam terbaik di Bali dengan dunia bawah air yang spektakuler.\nSaksikan matahari terbit di Gazebo atau balkon Teras untuk memahami mengapa Bali disebut Morning of the World. Dalam 1 km berjalan kaki di pantai, Anda berad",
+  "scraped_at": "2026-10-04T08:33:35Z"
+}

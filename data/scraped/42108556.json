@@ -1,0 +1,37 @@
+{
+  "room_id": "42108556",
+  "name_raw": "Hut in Ubud - Cozy Hut with Scenic Rice Field Views, Ubud",
+  "price_raw": "Rp 3,579,291",
+  "rating_raw": "4.5",
+  "review_count_raw": 199,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/42108556",
+  "sub_district": "Ubud",
+  "latitude": -8.52616,
+  "longitude": 115.27815,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": null,
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di tempat liburan damai Anda di Ubud! Pondok kayu yang nyaman ini dikelilingi sawah yang rimbun, menawarkan tempat yang tenang untuk menikmati pemandangan matahari terbit dan pagi yang tenang. Di dalam, Anda akan menemukan kamar tidur yang nyaman dan area duduk kecil, cocok untuk bersantai setelah seharian menjelajah.\n\nMelangkah keluar untuk merasakan keindahan alam, mendengarkan kicauan burung, dan menghirup udara segar. Baik Anda di sini untuk liburan singkat atau masa inap yang",
+  "scraped_at": "2026-10-04T08:18:53Z"
+}

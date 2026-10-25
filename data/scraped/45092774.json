@@ -1,0 +1,37 @@
+{
+  "room_id": "45092774",
+  "name_raw": "Treehouse in Tegalalang - Enchanted Hobbit Treehouse Nestled in the Jungle",
+  "price_raw": "Rp 16,050,655",
+  "rating_raw": "4.92",
+  "review_count_raw": 301,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/45092774",
+  "sub_district": "Tegallalang",
+  "latitude": -8.411,
+  "longitude": 115.299,
+  "capacity": {
+    "guests": "3",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rasakan mimpi masa kecil Anda menginap di rumah pohon, lebih baik lagi karena rumah pohon ini terinspirasi oleh film Hobbit, dengan pintu bulat untuk masuk dan mengakses dek.  Bayangkan petualangan tiba di rumah pohon Hobbit Anda dengan menyeberangi jembatan gantung setinggi 15 meter. \n\nBangunlah untuk menikmati simfoni nyanyian burung dan pemandangan monyet sesekali.  Pesan layanan kamar dari restoran kami dan nikmati di dek atau teras atap.   Kemudian, lakukan perjalanan berpemandu ke air terj",
+  "scraped_at": "2026-10-04T08:19:47Z"
+}

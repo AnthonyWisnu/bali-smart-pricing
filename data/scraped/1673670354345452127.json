@@ -1,0 +1,37 @@
+{
+  "room_id": "1673670354345452127",
+  "name_raw": "Villa in Blahbatuh - Modern Wooden Villa Near Keramas Beach | Spacious",
+  "price_raw": "Rp 5,152,106",
+  "rating_raw": "5.0",
+  "review_count_raw": 4,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1673670354345452127",
+  "sub_district": "Blahbatuh",
+  "latitude": -8.59715,
+  "longitude": 115.33344,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Menginap di vila kayu unik yang berjarak hanya 100 m dari Pantai Keramas. Vila yang baru dibangun ini memiliki 2 kamar tidur, 3 kamar mandi dengan pancuran, dan mezanin yang luas. Nikmati kamar tidur AC yang nyaman, area tamu yang cerah, dan dapur pribadi. Langit-langit tinggi dan jendela besar menciptakan nuansa lapang. Berlokasi di daerah yang tenang, sempurna untuk bersantai, berselancar, dan menikmati pagi yang damai di pantai. Sangat cocok untuk pasangan, teman, atau rombongan kecil.",
+  "scraped_at": "2026-10-04T08:18:47Z"
+}

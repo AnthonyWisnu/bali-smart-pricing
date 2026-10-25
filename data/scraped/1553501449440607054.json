@@ -1,0 +1,37 @@
+{
+  "room_id": "1553501449440607054",
+  "name_raw": "Room in Denpasar Utara - Non Smoking Room Joglo Homestay Bali",
+  "price_raw": "Rp 1,073,360",
+  "rating_raw": "4.88",
+  "review_count_raw": 24,
+  "regency": "Kota Denpasar",
+  "url": "https://www.airbnb.com/rooms/1553501449440607054",
+  "sub_district": "Denpasar Utara",
+  "latitude": -8.6376,
+  "longitude": 115.2258,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Kamar tidur ini terletak di area samping, 200 meter dari area utama. Kamar pribadi dan kamar mandi di dalam. Kamar ini  salah satu dari 7 kamar terbesar di area samping & berjarak 5 menit jalan kaki ke area utama (lobi, kolam renang & restoran kecil kami). Tidak ada ketel air, setrika, pengering rambut, TV & alat makan di dalam kamar. Kamar tidak termasuk biaya kebersihan, jika tamu ingin membersihkan kamar, mengganti seprai, selimut & handuk selama menginap, maka harus membayar. Terima kasih.",
+  "scraped_at": "2026-10-04T08:06:50Z"
+}

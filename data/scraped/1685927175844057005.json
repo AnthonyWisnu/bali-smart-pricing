@@ -1,0 +1,37 @@
+{
+  "room_id": "1685927175844057005",
+  "name_raw": "Home in Sidemen - The Kubu 2 (rice field & hill view, hidden gem)",
+  "price_raw": "Rp 6,461,169",
+  "rating_raw": "5.0",
+  "review_count_raw": 8,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1685927175844057005",
+  "sub_district": "Sidemen",
+  "latitude": -8.4899,
+  "longitude": 115.4189,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "tenang, di tengah-tengah sawah dengan pemandangan perbukitan, sejuk dan tenang",
+  "scraped_at": "2026-10-04T08:14:26Z"
+}

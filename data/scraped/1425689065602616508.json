@@ -1,0 +1,37 @@
+{
+  "room_id": "1425689065602616508",
+  "name_raw": "Villa in Ubud - Villa Zenitude: 6BDR with Jacuzzi and Massage Ubud",
+  "price_raw": "Rp 48,930,470",
+  "rating_raw": "4.86",
+  "review_count_raw": 14,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1425689065602616508",
+  "sub_district": "Ubud",
+  "latitude": -8.5294,
+  "longitude": 115.2625,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "6",
+    "beds": "9",
+    "baths": "6"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 0,
+    "has_view": 1
+  },
+  "description": "Selamat datang di Villa Zenitude, vila bertingkat indah dengan 6 kamar tidur, tersembunyi di tengah taman tropis Ubud. Sempurna untuk keluarga besar atau grup, villa ini menghadirkan pengalaman tenang dan luas yang menyatu dengan alam.",
+  "scraped_at": "2026-10-04T08:20:58Z"
+}

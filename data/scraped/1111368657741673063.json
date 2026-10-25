@@ -1,0 +1,37 @@
+{
+  "room_id": "1111368657741673063",
+  "name_raw": "Home in Seririt - Beach Villa Villa Cerah, North Bali",
+  "price_raw": "Rp 23,383,581",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1111368657741673063",
+  "sub_district": "Kecamatan Seririt",
+  "latitude": -8.18436,
+  "longitude": 114.92097,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "4",
+    "beds": "5",
+    "baths": "6"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Langsung di pantai dan laut di utara Bali yang autentik, dengan pemandangan indah di atas kolam renang dan laut dari teras dan dasar matahari. Di depan sawah dan pegunungan Gods Island Bali.",
+  "scraped_at": "2026-10-04T08:29:13Z"
+}

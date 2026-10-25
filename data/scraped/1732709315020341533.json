@@ -1,0 +1,37 @@
+{
+  "room_id": "1732709315020341533",
+  "name_raw": "Villa in Ubud - Cozy 3BR Villa in Lush Ubud w Pool, Patio & Garden",
+  "price_raw": "Rp 20,282,202",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1732709315020341533",
+  "sub_district": "Ubud",
+  "latitude": -8.4769,
+  "longitude": 115.2636,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "5"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Dragon Stone – vila mewah dengan pemandangan persawahan di Tegallalang\n• 3 kamar tidur dengan AC, tempat tidur king-size & pemandangan tropis\n• 2,5 kamar mandi dengan perlengkapan mandi premium, sandal & pengering rambut\n• Dapur lengkap\n• Paviliun makan outdoor beratap yang luas\n• Kolam renang pribadi, taman & teras berjemur\n• Wi-Fi 150 Mbps\n• Pembersihan harian dengan handuk & seprai bersih\n• PS5, Netflix, perlengkapan bayi berdasarkan permintaan\n• Layanan concierge: skuter, transfer, spa & tur",
+  "scraped_at": "2026-10-04T08:16:23Z"
+}

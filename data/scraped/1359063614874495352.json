@@ -1,0 +1,37 @@
+{
+  "room_id": "1359063614874495352",
+  "name_raw": "Treehouse in Sidemen - Wooden Sustainable Recycle House",
+  "price_raw": "Rp 11,164,000",
+  "rating_raw": "4.51",
+  "review_count_raw": 59,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1359063614874495352",
+  "sub_district": "Kecamatan Sidemen",
+  "latitude": -8.49195,
+  "longitude": 115.41496,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Kami tidak cocok untuk semua orang. Kami tidak membuat 'sesuatu untuk semua orang. Kami membuat segalanya untuk seseorang yang memahami keberlanjutan yang sesungguhnya.\n\nLihat tempat persembunyian ramah lingkungan kami tepat di tengah hutan Sidemen di Karangasem, Bali Timur. Terbuat dari hampir 90% bahan daur ulang, tempat ini menyatu sempurna dengan alam di sekitarnya.",
+  "scraped_at": "2026-10-04T08:31:12Z"
+}

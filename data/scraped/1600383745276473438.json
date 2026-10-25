@@ -1,0 +1,37 @@
+{
+  "room_id": "1600383745276473438",
+  "name_raw": "Home in Ubud - Villa Atik, Spacious Jungle Villa",
+  "price_raw": "Rp 10,442,417",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1600383745276473438",
+  "sub_district": "Ubud",
+  "latitude": -8.4626,
+  "longitude": 115.2423,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa yang luas dengan pemandangan hutan yang menghadap lembah sungai Ayung. Tempat ini memiliki kolam renang besar, kolam renang berukuran 12 meter kali 3 meter. Tempat ini terdiri dari dua bangunan.   Satu bangunan untuk dua kamar tidur, satu bangunan untuk dapur/ruang makan dan ruang tamu. Dapur tertutup memiliki kompor modern, kulkas, lemari dapur kayu jati, peralatan lengkap. Ruang tamu memiliki sofa berkualitas terbaik, 50 inch, TV AC dan kipas angin. 2 kamar tidur, masing-masing dengan AC",
+  "scraped_at": "2026-10-04T08:21:33Z"
+}

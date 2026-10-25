@@ -1,0 +1,37 @@
+{
+  "room_id": "1636227694610312225",
+  "name_raw": "Treehouse in Sidemen - Wake up above the clouds with Mount Agung sunrise",
+  "price_raw": "Rp 13,262,179",
+  "rating_raw": "5.0",
+  "review_count_raw": 23,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1636227694610312225",
+  "sub_district": "Sidemen",
+  "latitude": -8.48967,
+  "longitude": 115.42786,
+  "capacity": {
+    "guests": "3",
+    "bedrooms": "1",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Pitak Hill Cabin adalah tempat peristirahatan ideal untuk Anda dan orang yang Anda cintai. Anda akan memiliki kabin pribadi Anda sendiri, yang menawarkan pengasingan lengkap jika Anda menginginkannya.\n\nAnda akan senang menghabiskan waktu di sini; alih - alih terbatas pada ruang kota yang sempit, Anda akan menikmati angin segar yang dikelilingi sawah yang luas dan pemandangan Gunung Agung yang menakjubkan tepat dari balkon Anda - tempat di mana energi positif benar - benar berlimpah!",
+  "scraped_at": "2026-10-04T08:13:52Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1537353464537393998",
+  "name_raw": "Villa in Ubud - Bellis 68 Villa 3BR Rice field Views – Ubud",
+  "price_raw": "Rp 18,938,630",
+  "rating_raw": "5.0",
+  "review_count_raw": 3,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1537353464537393998",
+  "sub_district": "Ubud",
+  "latitude": -8.56241,
+  "longitude": 115.27347,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Temukan tempat peristirahatan 3 kamar tidur yang menawan yang tersembunyi di Ubud. Nikmati kolam renang pribadi Anda, taman tropis, dan pemandangan sawah yang menakjubkan. Dengan perpaduan sempurna antara gaya Bali dan kenyamanan modern, vila ini menawarkan tempat perlindungan yang damai untuk bersantai dan bertualang.",
+  "scraped_at": "2026-10-04T08:19:28Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1549677384542411037",
+  "name_raw": "Villa in Abang - Bnaya Panoramic Villa | Mt. Lempuyang View | Amed",
+  "price_raw": "Rp 7,025,028",
+  "rating_raw": "5.0",
+  "review_count_raw": 7,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1549677384542411037",
+  "sub_district": "Abang",
+  "latitude": -8.35042,
+  "longitude": 115.66863,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bnaya Panoramic villa, nama unitnya Cempaka Villa, adalah satu-satunya vila yang menawarkan pemandangan panorama 270° yang spektakuler dari ruang makan dan ruang tamu, sementara dapur menikmati pemandangan laut yang indah dan pemandangan Gunung yang menakjubkan. Lempuyang dan perbukitan di sekitarnya. Dirancang untuk kenyamanan dan masa inap yang lebih lama, vila ini mencakup dapur lengkap, area makan dan tamu yang nyaman, dan kamar tidur yang luas dengan kamar mandi ensuite semi terbuka, yang m",
+  "scraped_at": "2026-10-04T08:35:20Z"
+}

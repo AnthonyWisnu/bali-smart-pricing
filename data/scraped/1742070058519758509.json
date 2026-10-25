@@ -1,0 +1,37 @@
+{
+  "room_id": "1742070058519758509",
+  "name_raw": "Villa in Tampaksiring - *NEWLY BUILT* Tranquil 3BR Villa near Ubud w/Pool",
+  "price_raw": "Rp 10,039,500",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1742070058519758509",
+  "sub_district": "Tampaksiring",
+  "latitude": -8.5042,
+  "longitude": 115.3006,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di villa pribadi yang dirancang dengan indah dan baru dibangun di lingkungan Pejeng yang damai. Dibuat untuk beristirahat, kenyamanan, dan kehidupan tropis yang santai, tempat peristirahatan tiga kamar tidur yang luas ini sangat ideal untuk keluarga, pasangan, teman, nomaden digital, dan tamu jangka panjang yang mencari alam yang tenang dan liburan kesehatan.\n\nDilengkapi tempat tidur king size dan mesin cuci untuk menambah kenyamanan masa inap jangka panjang.\n\nUbud Palace, Monkey ",
+  "scraped_at": "2026-10-04T08:22:15Z"
+}

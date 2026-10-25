@@ -1,0 +1,37 @@
+{
+  "room_id": "1723119677250096542",
+  "name_raw": "Home in Kabupaten Buleleng - Mountain Retreat Amidst the Clouds & Valley Views",
+  "price_raw": "Rp 15,120,595",
+  "rating_raw": "5.0",
+  "review_count_raw": 4,
+  "regency": "Kabupaten Buleleng",
+  "url": "https://www.airbnb.com/rooms/1723119677250096542",
+  "sub_district": "Buleleng Regency",
+  "latitude": -8.2446,
+  "longitude": 115.069,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rasakan keindahan bangun di pagi hari di One Bedroom Luxury Villa yang luas di puncak bukit hijau dengan teras pribadi dan kolam renang infinity yang dirancang untuk privasi, dan nikmati ketenangan lembah hutan yang rindang, sempurna untuk liburan romantis atau liburan yang menyegarkan jiwa di bawah langit terbuka Bali.\n",
+  "scraped_at": "2026-10-04T08:17:06Z"
+}

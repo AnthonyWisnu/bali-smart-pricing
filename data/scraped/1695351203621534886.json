@@ -1,0 +1,37 @@
+{
+  "room_id": "1695351203621534886",
+  "name_raw": "Home in Tampaksiring - Luxury Jungle Villa | 3BR, Private Pool Bar, Ubud",
+  "price_raw": "Rp 16,749,917",
+  "rating_raw": "5.0",
+  "review_count_raw": 6,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1695351203621534886",
+  "sub_district": "Tampaksiring",
+  "latitude": -8.50683,
+  "longitude": 115.29293,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berliburlah ke oasis tropis di dekat Ubud. Villa Nymphéas adalah vila elegan dengan 3 kamar tidur yang dikelilingi vegetasi rimbun dan suasana hutan yang menenangkan. Nikmati kolam renang pribadi yang menakjubkan dengan bar kolam renang, ruang terang yang terbuka ke alam, kolam ikan dengan ikan koi, serta area yoga dan meditasi untuk pengalaman yang santai dan berkesan di pusat Bali.",
+  "scraped_at": "2026-10-04T08:12:37Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1680107012418627085",
+  "name_raw": "Villa in Sidakarya - Poolside Dining! Master Residance Villa Renon 4BR",
+  "price_raw": "Rp 11,987,500",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kota Denpasar",
+  "url": "https://www.airbnb.com/rooms/1680107012418627085",
+  "sub_district": "Sidakarya ",
+  "latitude": -8.6946,
+  "longitude": 115.2347,
+  "capacity": {
+    "guests": "3",
+    "bedrooms": "4",
+    "beds": "4",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Kunjungi Hobbs Gym dalam 60 detik atau mainkan berbagai permainan di Augi Sport Centre dalam 3 menit sebelum mandi dan berenang di kolam renang halaman belakang Anda yang tersembunyi. Rumah 4 kamar tidur yang sederhana ini sangat cocok untuk rombongan yang aktif dan keluarga yang menginginkan ketenangan pikiran dan Wi-Fi super cepat.\n\n🌿 Tempat: Tempat peristirahatan dengan 4 kamar tidur dan halaman yang diterangi sinar matahari (Ruang Keluarga Terbuka yang Lapang)\n🏊 Fitur: Kolam renang pribadi d",
+  "scraped_at": "2026-10-04T08:08:47Z"
+}

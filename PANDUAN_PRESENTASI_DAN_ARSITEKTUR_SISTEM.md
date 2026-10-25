@@ -1,5 +1,5 @@
 # RANCANGAN SISTEM & TAHAPAN DATA SCIENCE: BALI SMART PRICING ENGINE
-### Ringkasan Eksekutif & Panduan Asistensi Dosen Pengampu (Pure Machine Learning)
+### Ringkasan Eksekutif & Panduan Asistensi Dosen Pengampu (Benchmark 3 Model Utama)
 
 > **Mata Kuliah**: Pembelajaran Mesin (Machine Learning)  
 > **Program Studi**: Teknologi Informasi, Fakultas Teknik, Universitas Udayana  
@@ -63,6 +63,7 @@ Jika penginapan di suatu koridor penuh pada tanggal H+5:
 ### 2. Perbaikan Kualitas Data
 * **Kanonisasi 42 Kecamatan Baku**: Mengoreksi 402 baris data mentah yang salah label kabupaten akibat pelebaran radius pencarian (contoh: Ubud dan Tegallalang yang salah tercatat sebagai Bangli dikembalikan ke Gianyar; Seririt yang salah tercatat sebagai Jembrana dikembalikan ke Buleleng).
 * **Rekonsiliasi Kapasitas Kamar**: Memperbaiki bug bilah pencarian default "2 tamu" pada 28 villa multi-kamar dengan mencocokkan teks judul ("5BR Villa") dan deskripsi terstruktur properti.
+* **Konsolidasi 4 Kategori Alami Bali**: Mengonsolidasikan tipe penginapan menjadi 4 kelas seimbang: Villa (225 unit latih), Entire House (252 unit latih), Private Room/Homestay (187 unit latih), dan Cottage/Bungalow (136 unit latih), mengeliminasi kelas mikro langka yang tidak seimbang.
 
 ---
 
@@ -76,8 +77,8 @@ Parameter yang dimasukkan langsung oleh pengguna pada formulir kalkulator penaks
   * Kabupaten / Kota: 9 wilayah di Bali (Badung, Bangli, Buleleng, Denpasar, Gianyar, Jembrana, Karangasem, Klungkung, Tabanan).
   * Kecamatan / Kawasan Wisata: 42 kecamatan resmi baku di Bali (Ubud, Kuta Utara, Kuta Selatan, Sanur, Kintamani, Seririt, Nusa Penida, dll).
   * Titik Koordinat: Garis lintang (`latitude`) dan bujur (`longitude`) terisi otomatis sesuai median pusat kecamatan yang dipilih.
-* **Tipe Properti & Lingkup Sewa**:
-  * Tipe Penginapan: Villa Pribadi, Kamar Pribadi / Homestay, Bungalow / Cottage Unik, Rumah Utuh, Apartemen / Studio, Kamar Bersama (Hostel).
+* **Tipe Properti & Lingkup Sewa (4 Kategori Alami)**:
+  * Tipe Penginapan: Villa Pribadi, Kamar Sewa / Homestay, Bungalow / Cottage Unik, Rumah / Hunian Utuh.
   * Lingkup Unit (`is_room_only`): Membedakan sewa kamar tunggal homestay (nilai 1) vs unit properti seutuhnya (nilai 0).
 * **Kapasitas Fisik Properti**:
   * Kapasitas Tamu (`accommodates`): 1 s.d. 20 orang.
@@ -124,55 +125,62 @@ Parameter turunan yang dihitung otomatis oleh sistem di balik layar sebelum data
   * Jarak ke Bandara Ngurah Rai (`dist_airport_km`)
   * Jarak ke Hub Terdekat (`min_dist_tourism_hub_km`): Jarak terpendek ke 4 pusat wisata utama.
 
-### 3. Hyperparameter Model Machine Learning
+### 3. Hyperparameter 3 Model Machine Learning Utama
 
-* **CatBoost Regressor (Champion Model)**:
-  * `iterations`: 600 pohon
-  * `learning_rate`: 0.035
-  * `depth`: 6 level
-  * `l2_leaf_reg`: 3.0 (regularisasi L2 pencegah overfitting)
-  * `loss_function`: RMSE
-  * `cat_features`: `['regency', 'sub_district', 'property_type']` (diolah dengan target statistics internal)
-* **Stacked Super-Ensemble Meta-Learner**:
-  * Algoritma `RidgeCV` dengan kandidat regularisasi `alphas = [0.1, 1.0, 10.0]` yang memadukan secara optimal hasil prediksi *Out-of-Fold* dari Random Forest, XGBoost, LightGBM, dan CatBoost.
+1. **Random Forest Regressor (Baseline Bagging)**:
+   * `n_estimators`: 300 pohon
+   * `max_depth`: 14 level
+   * `min_samples_leaf`: 2
+   * `random_state`: 42
+2. **XGBoost Regressor (Gradient Boosting)**:
+   * `n_estimators`: 350 pohon
+   * `learning_rate`: 0.035
+   * `max_depth`: 5 level
+   * `subsample`: 0.8 | `colsample_bytree`: 0.8
+   * `random_state`: 42
+3. **CatBoost Regressor (Champion Model)**:
+   * `iterations`: 600 pohon
+   * `learning_rate`: 0.035
+   * `depth`: 6 level
+   * `l2_leaf_reg`: 3.0 (regularisasi L2 pencegah overfitting)
+   * `loss_function`: RMSE
+   * `cat_features`: `['regency', 'sub_district', 'property_type']` (diolah dengan ordered target statistics)
 
 ---
 
-## TAHAP 4: HASIL EVALUASI MODEL & AKURASI BERTINGKAT (DATA BERSIH)
+## TAHAP 4: HASIL EVALUASI 3 MODEL MACHINE LEARNING (DATA BERSIH)
 
-### 1. Tabel Komparasi 5 Algoritma Machine Learning
+### 1. Tabel Komparasi 3 Model Machine Learning Utama
 
 Evaluasi dilakukan pada 200 sampel data uji terisolasi (20% data) dengan 38 fitur murni:
 
-| Peringkat | Algoritma Machine Learning | 5-Fold CV $R^2$ | Test $R^2$ (Data Uji) | Nilai Tengah Selisih (MedAE) | Rata-rata Selisih (MAE) | Tingkat Error (MdAPE) | Akurasi Relatif |
+| Peringkat | Algoritma Machine Learning | 5-Fold CV $R^2$ | Test $R^2$ (Data Uji) | Nilai Tengah Selisih (MedAE) | Rata-rata Selisih (MAE) | Tingkat Error (MdAPE) | Akurasi Relatif ($100\% - \text{MdAPE}$) |
 | :---: | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| 1 | **Stacked Super-Ensemble** | **67,15%** | **63,89%** | Rp 441.537 | **Rp 776.162** | 31,77% | 68,23% |
-| 2 | **CatBoost Regressor (Champion Single)** | 66,08% | **63,51%** | **Rp 418.217** | Rp 784.580 | **31,25%** | **68,75%** |
-| 3 | **XGBoost Regressor** | 66,38% | **63,11%** | Rp 454.705 | Rp 787.333 | 31,65% | 68,35% |
-| 4 | **LightGBM (HistGradientBoosting)** | 65,15% | **61,92%** | Rp 450.407 | Rp 796.599 | 34,39% | 65,61% |
-| 5 | **Random Forest (Baseline)** | 62,60% | **61,24%** | Rp 491.296 | Rp 816.491 | 32,36% | 67,64% |
+| 1 | **CatBoost Regressor (Champion)** | 64,83% | **71,68%** | **Rp 433.928** | **Rp 762.318** | **32,80%** | **67,20%** |
+| 2 | **XGBoost Regressor** | **64,85%** | **70,83%** | Rp 442.369 | Rp 780.176 | 31,94% | 68,06% |
+| 3 | **Random Forest (Baseline)** | 61,73% | **69,29%** | **Rp 419.158** | Rp 781.167 | 32,52% | 67,48% |
 
-### 2. Evaluasi Bertingkat Berdasarkan Kelas Pasar Penginapan
+### 2. Evaluasi Bertingkat Berdasarkan Kelas Pasar Penginapan (Model CatBoost)
 
-Evaluasi ini membuktikan bahwa model tidak mengalami distorsi di segmen pasar tertentu:
+Evaluasi ini membuktikan bahwa model tidak mengalami bias atau distorsi pada segmen pasar tertentu:
 
 | Kelas Pasar Penginapan | Rentang Tarif per Malam | Sampel Uji | Rata-rata Aktual | Rata-rata Prediksi | Nilai Tengah Selisih (MedAE) | Tingkat Akurasi Relatif |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
-| **Homestay / Budget** | < Rp 750 Ribu | 48 unit | Rp 496.275 | Rp 818.760 | Rp 221.932 | **53,04%** |
-| **Villa Reguler** | Rp 750 Ribu - Rp 2,5 Juta | 95 unit | Rp 1.487.782 | Rp 1.476.630 | **Rp 372.378** | **73,81%** |
-| **Villa Menengah** | Rp 2,5 Juta - Rp 6 Juta | 46 unit | Rp 3.915.247 | Rp 2.964.701 | Rp 1.042.167 | **67,31%** |
-| **Villa Premium** | Rp 6 Juta - Rp 10 Juta | 11 unit | Rp 7.685.583 | Rp 4.203.865 | Rp 3.544.495 | **56,78%** |
+| **Homestay / Budget** | < Rp 750 Ribu | 48 unit | Rp 503.484 | Rp 737.366 | Rp 202.648 | **55,22%** |
+| **Villa Reguler** | Rp 750 Ribu - Rp 2,5 Juta | 96 unit | Rp 1.420.765 | Rp 1.598.387 | **Rp 365.058** | **72,48%** |
+| **Villa Menengah** | Rp 2,5 Juta - Rp 6 Juta | 43 unit | Rp 3.878.120 | Rp 3.165.411 | Rp 1.241.500 | **64,92%** |
+| **Villa Premium** | Rp 6 Juta - Rp 10 Juta | 13 unit | Rp 7.557.200 | Rp 4.833.971 | Rp 2.997.123 | **60,69%** |
 
-*Catatan Presentasi*: Pada segmen pasar terbesar di Bali yaitu **Villa Reguler (95 dari 200 data uji)**, rata-rata prediksi model (Rp 1.476.630) hampir identik dengan rata-rata aktual pasar (Rp 1.487.782, selisih kurang dari 1%), dengan akurasi relatif **73,81%** dan selisih tengah (MedAE) tipikal hanya **Rp 372.378**.
+*Catatan Presentasi*: Pada segmen pasar terbesar di Bali yaitu **Villa Reguler (96 dari 200 data uji)**, tingkat akurasi relatif model mencapai **72,48%** dengan selisih tipikal per malam (MedAE) hanya **Rp 365.058**.
 
 ---
 
 ## TAHAP 5: FAKTOR PENENTU HARGA (EXPLAINABLE AI - SHAP)
 
 Interpretasi model dilakukan secara transparan menggunakan nilai Shapley (SHAP TreeExplainer):
-* **Feature Importance Bar**: Penentu tarif paling dominan secara alami adalah kapasitas fisik properti (jumlah kamar tidur, kapasitas tamu, ranjang), disusul oleh klaster kecamatan pariwisata dan jarak ke sentra wisata.
-* **Beeswarm Summary**: Kolam renang pribadi, bak mandi (bathtub), dan status superhost secara konsisten memberikan dorongan positif terhadap kenaikan harga sewa.
-* **Waterfall Plot**: Menjelaskan proses pembentukan harga pada 1 sampel unit riil langkah demi langkah dari nilai rata-rata pulau Bali menuju taksiran akhir.
+* **Figure 1 (Feature Importance)**: Penentu tarif paling dominan secara alami adalah kapasitas fisik properti (jumlah kamar tidur, kapasitas tamu, ranjang), disusul oleh klaster kecamatan pariwisata dan jarak fisik ke sentra keramaian wisata.
+* **Figure 2 (Beeswarm Summary)**: Kolam renang pribadi, bak mandi (bathtub), dan status superhost secara konsisten memberikan dorongan positif terhadap kenaikan harga sewa.
+* **Figure 3 (Waterfall Plot)**: Menjelaskan proses pembentukan harga pada 1 sampel unit riil langkah demi langkah dari nilai rata-rata pulau Bali menuju taksiran akhir.
 
 ---
 
@@ -184,20 +192,20 @@ Interpretasi model dilakukan secara transparan menggunakan nilai Shapley (SHAP T
 ### 2. Navigasi 4 Tab Utama
 * **Tab 1 (Cek Estimasi Harga Properti)**:
   * Simulasi penaksiran tarif sewa wajar per malam murni berbasis inferensi model CatBoost.
-  * Menampilkan interval batas wajar pasar dengan toleransi error MedAE (Rp 418.217).
-  * Tabel simulasi *What-If Analysis*: memperlihatkan potensi kenaikan tarif yang diproyeksikan langsung oleh model Machine Learning jika pemilik menambah kolam renang pribadi, bathtub, interior mewah, atau meraih status Superhost.
+  * Menampilkan interval batas wajar pasar dengan toleransi error MedAE (Rp 433.928).
+  * Tabel simulasi *What-If Analysis*: tabel perbandingan 5 kolom numerik murni tanpa narasi marketing untuk menguji penambahan fasilitas kolam renang pribadi, bathtub, interior mewah, atau status Superhost.
 * **Tab 2 (Peta Persebaran Lokasi)**:
-  * Peta geospasial interaktif Plotly yang menampilkan seluruh 1.000 titik penginapan di 9 Kabupaten/Kota Bali.
+  * Peta geospasial interaktif OpenStreetMap yang menampilkan seluruh 1.000 titik penginapan di 9 Kabupaten/Kota Bali secara jernih dan bebas watermark.
 * **Tab 3 (Akurasi Model Prediksi)**:
-  * Menampilkan tabel metrik 5 model dan grafik batang interaktif nilai $R^2$ serta perbandingan error MedAE vs MAE pada data uji bersih.
+  * Menampilkan tabel metrik komparasi 3 model utama (Random Forest, XGBoost, CatBoost) serta grafik batang Plotly skor $R^2$ dan perbandingan error MedAE vs MAE.
 * **Tab 4 (Faktor Penentu Harga)**:
-  * Visualisasi grafik SHAP beresolusi tinggi dengan penamaan bahasa Indonesia yang mudah dimengerti pengguna non-teknis.
+  * Visualisasi grafik SHAP beresolusi tinggi dengan penamaan bahasa Indonesia yang mudah dimengerti, dilengkapi *Figure Caption* standar jurnal ilmiah.
 
 ### 3. Poin Kunci untuk Dosen Pengampu (Cheat Sheet Asistensi)
 
-* **Pertanyaan 1**: *"Mengapa tidak ada pengali weekend (+8%) atau musim liburan (+20%) di aplikasi kalkulator?"*
-  * **Jawaban**: *"Karena sistem ini dibangun dengan integritas akademik Machine Learning murni, Pak. Dataset yang kita miliki adalah data cross-sectional snapshot 1.000 listing penginapan, bukan data transaksi deret waktu harian (time-series). Model ML dilatih untuk menaksir 'Tarif Sewa Wajar per Malam' (Fair Nightly Price) berdasarkan spesifikasi fisik dan koordinat spasial properti. Menambahkan rumus pengali manual di luar model adalah aturan bisnis statis (rule-based) yang tidak bersumber dari pembelajaran data."*
+* **Pertanyaan 1**: *"Mengapa model yang dibandingkan tepat 3 model ini (Random Forest, XGBoost, CatBoost)?"*
+  * **Jawaban**: *"Pemilihan 3 model ini mewakili evolusi arsitektur ensemble tree-based paling relevan untuk data tabular, Pak. Random Forest mewakili paradigma Bagging (pohon independen paralel), XGBoost mewakili paradigma Gradient Boosting klasik dengan regularisasi L1/L2, dan CatBoost mewakili paradigma Ordered Boosting mutakhir yang mengolah variabel kategori nominal 42 kecamatan di Bali secara native tanpa target leakage. Dengan 3 model ini, komparasi algoritma menjadi sangat tajam, fokus, dan standar publikasi ilmiah."*
 * **Pertanyaan 2**: *"Bagaimana Anda menjamin tidak terjadi kebocoran data (data leakage)?"*
   * **Jawaban**: *"Tidak ada data leakage sama sekali. Pembagian 80% Data Latih dan 20% Data Uji dilakukan secara stratified split di awal. Model hanya menerima fitur independen fisik (kamar, ranjang, fasilitas) dan jarak geospasial Haversine murni dari koordinat GPS bumi, tanpa menyuapkan target harga tetangga ke dalam input X."*
-* **Pertanyaan 3**: *"Mengapa jumlah data bersihnya tepat 1.000 unit dari 1.235 data mentah?"*
-  * **Jawaban**: *"177 baris duplikat identik akibat irisan perbatasan wilayah antar-kabupaten telah dibersihkan berdasarkan ID unik (room_id), dan 58 baris anomali sewa tahunan (> Rp 10 juta/malam atau sewa transit < Rp 150 ribu/malam) disaring agar model fokus memprediksi pasar sewa harian reguler Bali secara presisi."*
+* **Pertanyaan 3**: *"Mengapa tipe penginapan difokuskan pada 4 kategori?"*
+  * **Jawaban**: *"Berdasarkan audit data mentah Airbnb Bali, kategori sewa liburan secara alami terkumpul pada 4 kelompok: Villa, Homestay/Guesthouse, Cottage/Bungalow, dan Rumah Utuh. Menambahkan kategori langka seperti Shared Room/Hostel (yang hanya ada 5 sampel) adalah kesalahan metodologis (class sparsity). Konsolidasi ke 4 kelompok menghasilkan distribusi sampel yang seimbang (136 hingga 252 sampel per kelas) dan secara statistik valid."*

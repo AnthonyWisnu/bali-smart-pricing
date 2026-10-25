@@ -1,0 +1,37 @@
+{
+  "room_id": "1109003083299773361",
+  "name_raw": "Villa in Seririt - The Sinaba Orchard's Pondhouse",
+  "price_raw": "Rp 26,092,000",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1109003083299773361",
+  "sub_district": "Seririt",
+  "latitude": -8.2025,
+  "longitude": 114.9065,
+  "capacity": {
+    "guests": "8",
+    "bedrooms": "3",
+    "beds": null,
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "The Pondhouse adalah villa modern dengan 3 kamar tidur, 4 kamar mandi dan 2 kolam renang dan guest house Lantana Villa dengan satu kamar tidur, 2 kamar mandi dan kolam renang tambahan. Kedua vila dikelilingi oleh tiga kolam penghubung yang tertanam di taman semitropis. Semua perlengkapan dasar tersedia untuk kenikmatan eksklusif tamu vila termasuk sarapan harian. \nmasa inap minimum: 2 malam. Untuk 1 malam hubungi tuan rumah (harga +35%)",
+  "scraped_at": "2026-10-04T08:28:32Z"
+}

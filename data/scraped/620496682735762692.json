@@ -1,0 +1,37 @@
+{
+  "room_id": "620496682735762692",
+  "name_raw": "Room in Negara - Jembrana Bali Homestay Twin Bed Room",
+  "price_raw": "Rp 2,389,813",
+  "rating_raw": "4.33",
+  "review_count_raw": 3,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/620496682735762692",
+  "sub_district": "Kecamatan Negara",
+  "latitude": -8.3984,
+  "longitude": 114.65927,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Homestay tepi pantai di Bali yang 'sesungguhnya'! \nDi bagian barat Bali. Menginap bersama keluarga dengan Budaya Indonesia.",
+  "scraped_at": "2026-10-04T08:27:24Z"
+}

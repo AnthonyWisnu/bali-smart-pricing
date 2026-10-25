@@ -1,0 +1,37 @@
+{
+  "room_id": "1725973361120380853",
+  "name_raw": "Villa in Tampaksiring - Spacious 3BR Villa with Pool & Garden near Ubud",
+  "price_raw": "Rp 12,179,601",
+  "rating_raw": "4.83",
+  "review_count_raw": 6,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1725973361120380853",
+  "sub_district": "Tampaksiring",
+  "latitude": -8.5041,
+  "longitude": 115.3007,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Temukan Bali Autentik dari Jantung Pejeng!\n\nHindari keramaian saat menginap hanya beberapa menit dari tempat wisata paling ikonis di Ubud. Terletak di Pejeng yang tenang, nikmati kekayaan budaya Bali, alam yang menakjubkan, dan petualangan yang tak terlupakan.\n\nDikelilingi oleh pemandangan tropis yang rindang, vila ini menawarkan keseimbangan sempurna antara ketenangan dan kenyamanan. Bangun dengan suara kicau burung, habiskan hari Anda menjelajahi tempat-tempat terkenal di Bali, dan pulanglah u",
+  "scraped_at": "2026-10-04T08:19:06Z"
+}

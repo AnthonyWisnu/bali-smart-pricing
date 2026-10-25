@@ -1,0 +1,37 @@
+{
+  "room_id": "658924934495398695",
+  "name_raw": "Nature lodge in Nusa Penida - Tide 2 – Penida Tides Cottage | Ocean View Room",
+  "price_raw": "Rp 3,721,150",
+  "rating_raw": "4.83",
+  "review_count_raw": 309,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/658924934495398695",
+  "sub_district": "Nusa Penida",
+  "latitude": -8.6773,
+  "longitude": 115.5244,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Penida Tides adalah Cottage lokal dan menawan yang terletak di Pulau Nusa Penida, Indonesia. Hubungi kami dengan keindahan dan keajaiban pulau kami dan nikmati masa inap Anda di bungalo kayu pribadi yang nyaman dengan pemandangan laut dan Gunung Agung yang menakjubkan. Untuk bersantai dan bersenang - senang ada berbagai pilihan restoran atau aktivitas pulau di dekatnya.",
+  "scraped_at": "2026-10-04T08:37:59Z"
+}

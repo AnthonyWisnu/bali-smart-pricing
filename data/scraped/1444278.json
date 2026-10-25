@@ -1,0 +1,37 @@
+{
+  "room_id": "1444278",
+  "name_raw": "Villa in Seririt - 5* Beachhouse Ayu: private chef and private pool",
+  "price_raw": "Rp 25,131,130",
+  "rating_raw": "4.75",
+  "review_count_raw": 141,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1444278",
+  "sub_district": "Seririt",
+  "latitude": -8.18668,
+  "longitude": 114.90497,
+  "capacity": {
+    "guests": "8",
+    "bedrooms": "4",
+    "beds": "6",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "40% lebih murah. LAST MINUTE medio feb. \nVila pantai 8 orang kami 'Ayu' berlokasi di pantai utara Bali yang autentik. Dengan koki pribadi, pembantu rumah tangga, kolam renang pribadi, dan internet berkecepatan tinggi. Anda bisa berjalan lurus ke pantai dari taman tropis yang berwarna - warni.\nVilla Ayu adalah tempat untuk bersantai bagi dua orang, bersama keluarga atau sekelompok teman Anda. Bali Utara menawarkan segalanya: olahraga, budaya, alam, agama dan kuliner.",
+  "scraped_at": "2026-10-04T08:25:07Z"
+}

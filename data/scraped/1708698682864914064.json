@@ -1,0 +1,37 @@
+{
+  "room_id": "1708698682864914064",
+  "name_raw": "Casa particular in Banjar - Black Sands Villas \"Sea to Sky\"",
+  "price_raw": "Rp 10,867,795",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Buleleng",
+  "url": "https://www.airbnb.com/rooms/1708698682864914064",
+  "sub_district": "Banjar",
+  "latitude": -8.19664,
+  "longitude": 115.00067,
+  "capacity": {
+    "guests": "7",
+    "bedrooms": "3",
+    "beds": "4",
+    "baths": "5"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nikmati vila Bali yang benar-benar khas, tempat warisan bertemu kenyamanan yang elegan. Dibangun dari rumah jati tradisional Jawa, setiap balok yang diukir menceritakan kisah, dipadukan secara mulus dengan kemewahan modern. Dekorasi yang dipilih dengan cermat, tekstur yang kaya, dan detail desain yang unik menciptakan tempat yang berbeda—menyenangkan, elegan, dan tak terlupakan sejak Anda tiba.",
+  "scraped_at": "2026-10-04T08:17:21Z"
+}

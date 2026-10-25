@@ -1,0 +1,37 @@
+{
+  "room_id": "1602031674461386917",
+  "name_raw": "Cabin in Selat - Makerti Bali • Sanctuary bamboo house",
+  "price_raw": "Rp 21,311,480",
+  "rating_raw": "5.0",
+  "review_count_raw": 10,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1602031674461386917",
+  "sub_district": "Selat",
+  "latitude": -8.4234,
+  "longitude": 115.4587,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rumah perlindungan Makerti adalah vila bambu dua tingkat yang unik dikelilingi hutan rimbun dengan pemandangan hutan dan Gunung Agung yang indah. Rumah ini memiliki dua tempat tidur king size (lantai atas & lantai bawah), kolam renang pribadi, bak mandi batu luar ruangan, dan perapian yang nyaman. Dirancang untuk privasi dan ketenangan, sangat cocok untuk pasangan atau keluarga kecil yang mencari penginapan yang damai dan terinspirasi alam di Bali.",
+  "scraped_at": "2026-10-04T08:33:01Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "610486864656300557",
+  "name_raw": "Treehouse in Sidemen - Laputa #2 • Bamboo Villa w/ Plunge Pool & WOW view",
+  "price_raw": "Rp 26,384,322",
+  "rating_raw": "4.77",
+  "review_count_raw": 290,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/610486864656300557",
+  "sub_district": "Kecamatan Sidemen",
+  "latitude": -8.4756,
+  "longitude": 115.4326,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bamboo Villa memiliki salah satu pemandangan paling spektakuler di dunia.\nInstagram @laputa_villa_bali.\n\nBamboo Villa \"Laputa\" menghadap 360 derajat dari Gunung Agung ke Nusa Penida dan bandara internasional di ketinggian 400 m di desa timur Sidemen.Tempat ini dirancang oleh pemilik Jepang sebagai penghormatan kepada Hayao Miyazaki karena keinginannya yang kuat untuk menciptakan struktur unik yang unik.Sejak dibuka pada Februari 2021, Esquire Magazine telah menarik perhatian komunitas arsitektur",
+  "scraped_at": "2026-10-04T08:35:37Z"
+}

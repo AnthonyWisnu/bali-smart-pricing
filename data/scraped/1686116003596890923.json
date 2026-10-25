@@ -1,0 +1,37 @@
+{
+  "room_id": "1686116003596890923",
+  "name_raw": "Home in Kecamatan Ubud - Tropical 3BR Ubud private pool",
+  "price_raw": "Rp 7,417,651",
+  "rating_raw": "5.0",
+  "review_count_raw": 4,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1686116003596890923",
+  "sub_district": "Kecamatan Ubud",
+  "latitude": -8.57097,
+  "longitude": 115.2598,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Vila 3 kamar tidur kami yang luas terletak di selatan Ubud. Dirancang dengan arsitektur Bali yang dipadukan dengan gaya mewah, memberikan Anda pengalaman menginap yang autentik di Ubud. Dengan dapur tertutup yang luas dan ruang tamu, Anda akan mendapatkan kenyamanan ekstra saat menginap di sini bersama pasangan dan keluarga Anda.\n\n4 kamar tidur yang besar dan luas, tamu bisa memilih 3 kamar mana saja. Setiap kamar memiliki kamar mandi pribadi dengan shower air panas dan dingin, tetapi tidak semu",
+  "scraped_at": "2026-10-04T08:19:41Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1744923266213520162",
+  "name_raw": "Place to stay in Ubud - Umah Angga House",
+  "price_raw": "Rp 2,300,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1744923266213520162",
+  "sub_district": "Ubud",
+  "latitude": -8.5221,
+  "longitude": 115.2757,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bersantai bersama seluruh keluarga di tempat menginap yang damai ini.",
+  "scraped_at": "2026-10-04T08:12:27Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1170762166384116047",
+  "name_raw": "Villa in Kecamatan Ubud - Hidden 2BR Villa, Your own Pool & Peaceful Privacy",
+  "price_raw": "Rp 12,705,495",
+  "rating_raw": "4.99",
+  "review_count_raw": 68,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1170762166384116047",
+  "sub_district": "Kecamatan Ubud",
+  "latitude": -8.4783,
+  "longitude": 115.2695,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di The Jangu Villa, villa pribadi mewah seluas 145 meter persegi dengan 2 kamar tidur dan 3 kamar mandi serta kolam renang pribadi sendiri, yang terletak di antara sawah dan pohon kelapa di Junjungan yang tenang, 3 km dari pusat Ubud. Vila ini sangat pribadi, aman, dan milik Anda secara eksklusif selama Anda menginap, tanpa ruang bersama. Vila ini tertutup sepenuhnya dan seluruh ruangannya ber-AC untuk kenyamanan Anda. Harap perhatikan bahwa uang jaminan yang bisa dikembalikan dip",
+  "scraped_at": "2026-10-04T08:22:10Z"
+}

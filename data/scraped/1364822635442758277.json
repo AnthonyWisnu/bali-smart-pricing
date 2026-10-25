@@ -1,0 +1,37 @@
+{
+  "room_id": "1364822635442758277",
+  "name_raw": "Villa in Ubud - La Pepite: 6BR Ubud Villa with Pool & Spa",
+  "price_raw": "Rp 40,631,092",
+  "rating_raw": "5.0",
+  "review_count_raw": 20,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1364822635442758277",
+  "sub_district": "Sukawati-Ubud Indonesia",
+  "latitude": -8.5458,
+  "longitude": 115.241,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "6",
+    "beds": "7",
+    "baths": "6"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Terletak di desa tenang Singakerta, Villa La Pépite adalah tempat pelarian yang menenangkan, di mana keindahan alam dan kenyamanan modern berpadu dengan sempurna. Dikelilingi oleh hamparan sawah yang luas, vila 6 kamar tidur ini dirancang untuk menciptakan suasana santai dan kebersamaan, menjadikannya retret ideal bagi keluarga dan kelompok.",
+  "scraped_at": "2026-10-04T08:21:03Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1425047979214889924",
+  "name_raw": "Room in Selemadeg - Eco Jungle Cabin | Disconnect & Reconnect in Bali",
+  "price_raw": "Rp 3,750,000",
+  "rating_raw": "4.91",
+  "review_count_raw": 22,
+  "regency": "Kabupaten Tabanan",
+  "url": "https://www.airbnb.com/rooms/1425047979214889924",
+  "sub_district": "Selemadeg Timur",
+  "latitude": -8.48243,
+  "longitude": 115.0614,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bali Secret Jungle adalah tempat peristirahatan kabin tersembunyi di pusat Tabanan, dikelilingi hutan rimbun, sawah, dan tepi sungai yang damai. Dari titik drop - off, berjalan kaki 5 -8 menit yang indah melalui alam Bali yang tak tersentuh. Penginapan Anda menyertakan sarapan setiap hari. Sangat cocok untuk pecinta alam yang mencari sisi Bali yang sesungguhnya dan tenang. Tim kami yang ramah selalu siap membantu untuk memastikan kenyamanan dan keamanan Anda.",
+  "scraped_at": "2026-10-04T08:38:45Z"
+}

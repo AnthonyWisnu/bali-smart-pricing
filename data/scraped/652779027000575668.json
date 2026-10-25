@@ -1,0 +1,37 @@
+{
+  "room_id": "652779027000575668",
+  "name_raw": "Treehouse in Manggis - A Frame House Deluxe",
+  "price_raw": "Rp 4,996,500",
+  "rating_raw": "4.75",
+  "review_count_raw": 122,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/652779027000575668",
+  "sub_district": "Manggis",
+  "latitude": -8.4674,
+  "longitude": 115.5734,
+  "capacity": {
+    "guests": "3",
+    "bedrooms": "1",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Planet Biru adalah vila terpencil yang terletak jauh di dalam alam, menawarkan pelarian yang tenang dari dunia luar. Terletak di lokasi tersembunyi, vila ini dikelilingi oleh kehijauan yang rindang, pepohonan yang menjulang tinggi, dengan Pemandangan Gunung Lempuyang dan Sawah Tenganan\n\nDirancang untuk mereka yang mencari kedamaian, vila ini menyatu dengan lingkungan alami di sekitarnya, menampilkan ruang terbuka yang mengundang udara segar dan cahaya alami. \n\nSangat cocok untuk pecinta alam, se",
+  "scraped_at": "2026-10-04T08:32:17Z"
+}

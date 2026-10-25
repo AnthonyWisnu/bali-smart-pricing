@@ -1,0 +1,37 @@
+{
+  "room_id": "1742548440441676230",
+  "name_raw": "Home in Kintamani - The Gita Kintamani Mountain View Villa",
+  "price_raw": "Rp 5,000,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1742548440441676230",
+  "sub_district": "Kintamani",
+  "latitude": -8.2221,
+  "longitude": 115.3976,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Lebih dari sekadar tempat menginap, Batur Cloud Escape adalah tempat dimulainya pengalaman pegunungan yang tak terlupakan. Bangunlah dengan angin Kintamani yang sejuk, pemandangan menakjubkan, dan momen-momen damai di atas awan. Jelajahi Gunung Batur, bersantai di sumber air panas alami, temukan kopi lokal, atau sekadar bersantai dan menikmati keindahan alam. Setelah seharian berpetualang, kembalilah ke tempat peristirahatan yang hangat dan nyaman, tempat keramahtamahan Bali membuat setiap masa ",
+  "scraped_at": "2026-10-04T08:34:45Z"
+}

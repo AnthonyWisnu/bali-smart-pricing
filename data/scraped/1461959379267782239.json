@@ -1,0 +1,37 @@
+{
+  "room_id": "1461959379267782239",
+  "name_raw": "Villa in Ubud - Villa Orenda Ubud : 6BR Yoga Shala & GYM in Ubud",
+  "price_raw": "Rp 58,528,522",
+  "rating_raw": "4.94",
+  "review_count_raw": 18,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1461959379267782239",
+  "sub_district": "Ubud",
+  "latitude": -8.5086,
+  "longitude": 115.2889,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "6",
+    "beds": "8",
+    "baths": "6"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di Villa Orenda di Pejeng, sebuah tempat peristirahatan yang luas dan bergaya dengan 6 kamar tidur yang dirancang untuk kelompok yang ingin menikmati keindahan alam Bali tanpa mengorbankan kenyamanan modern. Baik Anda merayakan acara khusus atau merencanakan liburan santai bersama teman-teman, villa Ubud ini memadukan lingkungan tropis dengan desain yang halus.",
+  "scraped_at": "2026-10-04T08:20:58Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "2765385",
+  "name_raw": "Boutique hotel in Seririt - Family Suite with Ocean View, 2 Bedrooms",
+  "price_raw": "Rp 10,644,175",
+  "rating_raw": "4.57",
+  "review_count_raw": 7,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/2765385",
+  "sub_district": "Seririt",
+  "latitude": -8.18714,
+  "longitude": 114.9126,
+  "capacity": {
+    "guests": "5",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Ini adalah akomodasi yang ideal untuk liburan keluarga. Tempat ini menawarkan 2 kamar tidur double dengan perlengkapan tidur untuk total 5 orang, kamar mandi besar yang terhubung dengan kedua kamar, area tamu pribadi, dan teras besar yang mengarah ke halaman dan area kolam renang. Anda memiliki pemandangan laut panorama, dan akses langsung ke pantai",
+  "scraped_at": "2026-10-04T08:29:19Z"
+}

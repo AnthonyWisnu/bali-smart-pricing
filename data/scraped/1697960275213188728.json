@@ -1,0 +1,37 @@
+{
+  "room_id": "1697960275213188728",
+  "name_raw": "Home in Denpasar Timur - Villa Trinity",
+  "price_raw": "Rp 10,096,718",
+  "rating_raw": "5.0",
+  "review_count_raw": 5,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1697960275213188728",
+  "sub_district": "East Denpasar",
+  "latitude": -8.64019,
+  "longitude": 115.24347,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "2",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Vila mewah 3BR di Sekar Ayung Residence eksklusif yang bergerbang. Bangunlah untuk menikmati pemandangan sawah yang menakjubkan dari balkon pribadi Anda, lalu bersantai di kolam renang pribadi Anda yang dikelilingi taman tropis. Muatan 6 orang di 3 kamar tidur (2 tempat tidur queen, 2 tempat tidur twin). Interior desainer, dapur lengkap, taman joglo tradisional Bali, dan ukiran batu autentik. Keamanan 24 jam. 20 menit ke pantai Sanur, 30 menit ke bandara.",
+  "scraped_at": "2026-10-04T08:22:55Z"
+}

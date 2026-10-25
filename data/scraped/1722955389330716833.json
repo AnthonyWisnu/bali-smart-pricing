@@ -1,0 +1,37 @@
+{
+  "room_id": "1722955389330716833",
+  "name_raw": "Room in Abang - La Paloma Amed | Pool • Breakfast • Near Beach",
+  "price_raw": "Rp 4,950,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 3,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1722955389330716833",
+  "sub_district": "Abang",
+  "latitude": -8.3348,
+  "longitude": 115.6416,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rasakan kenyamanan dan relaksasi di La Paloma Amed. Guesthouse mewah kami menawarkan kamar bergaya, kolam renang yang menyegarkan, dan suasana yang tenang di pusat Amed. Berlokasi strategis di dekat pantai, restoran, dan tempat wisata populer untuk masa inap yang berkesan",
+  "scraped_at": "2026-10-04T08:31:08Z"
+}

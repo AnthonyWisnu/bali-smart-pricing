@@ -1,0 +1,37 @@
+{
+  "room_id": "1741213383455137055",
+  "name_raw": "Villa in Ubud - Luxe 5BR in Ubud's Ricefields w Bathtubs & Pool",
+  "price_raw": "Rp 35,996,062",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1741213383455137055",
+  "sub_district": "Ubud",
+  "latitude": -8.4767,
+  "longitude": 115.2635,
+  "capacity": {
+    "guests": "10",
+    "bedrooms": "5",
+    "beds": "5",
+    "baths": "5"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Dragon Stone – vila mewah luar biasa di antara persawahan Tegallalang:\n• 5 kamar tidur luas dengan AC dan tempat tidur king-size\n• 5,5 kamar mandi (4 bathtub) - perlengkapan mandi premium, sandal & pengering rambut\n• Dapur lengkap\n• Kolam renang pribadi, taman, patio & balkon\n• Wi-Fi 150 Mbps\n• Pembersihan harian, termasuk handuk & seprai bersih\n• PS5 (tergantung ketersediaan), Netflix, perlengkapan bayi & pemanggang BBQ berdasarkan permintaan\n• Layanan concierge: skuter, transfer, spa & tur",
+  "scraped_at": "2026-10-04T08:15:03Z"
+}

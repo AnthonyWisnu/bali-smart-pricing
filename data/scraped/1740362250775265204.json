@@ -1,0 +1,37 @@
+{
+  "room_id": "1740362250775265204",
+  "name_raw": "Villa in Gianyar - Hutan Sawah - 5BR Jungle Villa with Pool in Ubud",
+  "price_raw": "Rp 23,613,970",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1740362250775265204",
+  "sub_district": "Gianyar",
+  "latitude": -8.4977,
+  "longitude": 115.3136,
+  "capacity": {
+    "guests": "7",
+    "bedrooms": "5",
+    "beds": "5",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Hutan Sawah adalah vila lima kamar tidur seluas 281 meter persegi di lahan hutan seluas 3.835 meter persegi di luar Ubud. Kolam renang pribadi terletak di bawah paviliun beratap, hutan tepat di samping dek. Tanaman hijau langsung menempel di tepi kolam renang, tanpa taman yang terbuka di antaranya. Sayuri Healing Food berjarak delapan belas menit, Istana Ubud dan Pasar berjarak dua puluh menit. Tiga kamar tidur memiliki kamar mandi dalam; dua kamar tidur berbagi kamar mandi. \n\nWi-Fi 300 Mbps, du",
+  "scraped_at": "2026-10-04T08:20:13Z"
+}

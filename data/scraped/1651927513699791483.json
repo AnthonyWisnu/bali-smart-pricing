@@ -1,0 +1,37 @@
+{
+  "room_id": "1651927513699791483",
+  "name_raw": "Villa in Ubud - Stylish 4BR Private Pool Villa Groups Stay Ubud",
+  "price_raw": "Rp 14,016,720",
+  "rating_raw": "4.94",
+  "review_count_raw": 18,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1651927513699791483",
+  "sub_district": "Ubud",
+  "latitude": -8.5295,
+  "longitude": 115.2628,
+  "capacity": {
+    "guests": "8",
+    "bedrooms": "4",
+    "beds": "4",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di vila tropis pribadi Anda di Ubud, sangat cocok untuk keluarga dan rombongan. Tempat 4 kamar tidur ini memadukan desain modern dengan kayu alami dan jendela besar untuk suasana yang cerah dan santai. Nikmati kolam renang pribadi, dapur lengkap, area tamu terbuka, dan bak mandi batu yang unik. Damai namun dekat dengan kafe dan tempat wisata, ini adalah tempat yang sempurna untuk bersantai dan menikmati Bali.",
+  "scraped_at": "2026-10-04T08:19:29Z"
+}

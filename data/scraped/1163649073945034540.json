@@ -1,0 +1,37 @@
+{
+  "room_id": "1163649073945034540",
+  "name_raw": "Room in Kintamani - Moon Hill Cobin Bali",
+  "price_raw": "Rp 1,967,831",
+  "rating_raw": "4.85",
+  "review_count_raw": 55,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1163649073945034540",
+  "sub_district": "Kecamatan Kintamani",
+  "latitude": -8.22381,
+  "longitude": 115.39918,
+  "capacity": {
+    "guests": "3",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Moon Hill Cabin Bali terletak di Areal perbukitan yang menyuguhkan pemandangan danau dan gunung yang indah. Sangat nyaman dan berkesan unik dan nyaman yang sangat cocok untuk pasangan!\n\nMoon Hill also provide some outdoor activities such as :\n\n1. Mount batur sunrise hike\n2. Sunrise jeep tour\n3. Scooter rental\n4. Batur Natural Hot Spring\n5. Atv Quad Bike\n6. Coffee Luak Plantation\n\nPlease text us for more details information!\n\nBest regards Wayan ☺️",
+  "scraped_at": "2026-10-04T08:34:39Z"
+}

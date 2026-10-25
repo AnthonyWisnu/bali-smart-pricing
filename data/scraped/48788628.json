@@ -1,0 +1,37 @@
+{
+  "room_id": "48788628",
+  "name_raw": "Villa in Gerokgak - Villa Sungai Raja, traditional, modern Style",
+  "price_raw": "Rp 19,631,045",
+  "rating_raw": "5.0",
+  "review_count_raw": 18,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/48788628",
+  "sub_district": "Gerokgak",
+  "latitude": -8.19631,
+  "longitude": 114.86998,
+  "capacity": {
+    "guests": "8",
+    "bedrooms": "4",
+    "beds": "4",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa pantai mewah (Sungai Raja) / kolam renang besar, tepat di tepi laut. (Luas lahan 1950 m2) Sejak Januari 2021 kami menyewakan villa (termasuk staf), mereka memasak dan membersihkan untuk Anda, (termasuk dalam harga).\n\nVila ini dilengkapi dengan nyaman dengan gaya rencana terbuka, sehingga di dalam dan di luar mengalir mulus satu sama lain di iklim tropis ini di mana kehidupan terutama berlangsung di luar.\n\nTaman vila berbatasan langsung dengan pantai Bali, tempat untuk bersantai dikelilingi",
+  "scraped_at": "2026-10-04T08:26:11Z"
+}

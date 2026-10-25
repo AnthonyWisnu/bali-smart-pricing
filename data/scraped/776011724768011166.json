@@ -1,0 +1,37 @@
+{
+  "room_id": "776011724768011166",
+  "name_raw": "Guesthouse in Pekutatan - Rice Field Studio - Medewi Sunset Terrace",
+  "price_raw": "Rp 1,680,001",
+  "rating_raw": "4.81",
+  "review_count_raw": 47,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/776011724768011166",
+  "sub_district": "Pekutatan",
+  "latitude": -8.4107,
+  "longitude": 114.8111,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Studio lantai atas yang luas ini dilengkapi dengan tempat tidur double, kamar mandi pribadi, dan teras pribadi dengan pemandangan indah sawah di sekitarnya dan laut di kejauhan. Studio ini mencakup dapur pribadi, AC, Wi-Fi cepat, dan area kerja, sehingga sangat cocok untuk pasangan, peselancar, atau para nomaden digital yang menginap lebih lama di Medewi. Pantai Medewi dan tempat berselancarnya yang terkenal berjarak hanya 5 menit dengan skuter.",
+  "scraped_at": "2026-10-04T08:23:48Z"
+}

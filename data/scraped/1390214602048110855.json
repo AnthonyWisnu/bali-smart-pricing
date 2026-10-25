@@ -1,0 +1,37 @@
+{
+  "room_id": "1390214602048110855",
+  "name_raw": "Tiny home in Kerambitan - private villa mountain-rice field full view.",
+  "price_raw": "Rp 3,968,000",
+  "rating_raw": "4.98",
+  "review_count_raw": 57,
+  "regency": "Kabupaten Tabanan",
+  "url": "https://www.airbnb.com/rooms/1390214602048110855",
+  "sub_district": "Kecamatan Kerambitan",
+  "latitude": -8.50672,
+  "longitude": 115.09909,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nikmati suasana indah tempat romantis di alam ini.\n\"Berliburlah ke rumah kecil yang mempesona ini, yang terletak di alam dengan pemandangan teras sawah yang rimbun dan pegunungan yang megah. Nikmati kolam renang pribadi di mana Anda bisa bersantai di bawah langit terbuka, dikelilingi oleh lanskap yang tenang. Tempat peristirahatan romantis ini menawarkan perpaduan sempurna antara kenyamanan dan pengasingan, menjadikannya liburan yang indah untuk relaksasi dan koneksi dengan alam .\"",
+  "scraped_at": "2026-10-04T08:38:28Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1624505285435277410",
+  "name_raw": "Rooms in Nusa Penida - Hotel Garuda Dive Nusa Penida",
+  "price_raw": "Rp 3,220,000",
+  "rating_raw": "4.86",
+  "review_count_raw": 14,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1624505285435277410",
+  "sub_district": "Nusa Penida",
+  "latitude": -8.67974,
+  "longitude": 115.49003,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di Garuda Hotel Nusa Penida! Terletak hanya 2 menit dari Pelabuhan Toyapakeh, kami menawarkan akses mudah ke supermarket, bar, restoran, pusat menyelam, dan pantai terdekat - sempurna untuk masa inap singkat untuk menjelajahi pulau dan kehidupan laut kami.\n\nAkomodasi kami berkisar dari kamar Joglo yang nyaman hingga tempat tidur hostel yang ramah anggaran, dan apartemen Joglo yang luas untuk hingga 8 orang. Nikmati diving center kami dengan instruktur profesional, kolam renang yan",
+  "scraped_at": "2026-10-04T08:38:01Z"
+}

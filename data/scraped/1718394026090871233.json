@@ -1,0 +1,37 @@
+{
+  "room_id": "1718394026090871233",
+  "name_raw": "Home in Tampaksiring - Brand New Anjani 2BR Villa with Rice Field View",
+  "price_raw": "Rp 10,665,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 3,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1718394026090871233",
+  "sub_district": "Tampaksiring",
+  "latitude": -8.4971,
+  "longitude": 115.3044,
+  "capacity": {
+    "guests": "5",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berlibur ke vila pribadi 2 kamar tidur yang bergaya ini yang menawarkan kolam renang berkilau, taman tropis, dan pemandangan persawahan yang damai. Nikmati ruang tamu terbuka yang cerah, dua kamar tidur yang nyaman dengan kamar mandi pribadi, WiFi cepat, dan dapur lengkap. Cocok untuk pasangan, keluarga, atau teman yang mencari liburan santai di Bali.",
+  "scraped_at": "2026-10-04T08:18:48Z"
+}

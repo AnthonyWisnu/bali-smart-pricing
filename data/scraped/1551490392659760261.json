@@ -1,0 +1,37 @@
+{
+  "room_id": "1551490392659760261",
+  "name_raw": "Home in Tampaksiring - UBUD Mansion | Sauna, Lap Pool & Rooftop Views",
+  "price_raw": "Rp 21,585,940",
+  "rating_raw": "4.84",
+  "review_count_raw": 32,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1551490392659760261",
+  "sub_district": "Tampaksiring",
+  "latitude": -8.47198,
+  "longitude": 115.29021,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Terletak di dalam perumahan eksklusif 8 vila, Prana Mansion menghadap ke lembah rimba yang langka dan tidak terganggu. Bebas dari konstruksi dan kebisingan di sekitarnya, tiga tingkat baru ini, 3 tempat tidur 3 kamar mandi dilengkapi langit-langit 4m, dinding kaca yang dapat ditarik, lounge tenggelam dengan TV 85 inci, kolam renang 10m, dan ruang tamu dalam ruangan luar ruangan yang mulus. Lantai kesehatan di atap mencakup sauna dan pancuran air dingin untuk terapi kontras, mendukung sirkulasi, ",
+  "scraped_at": "2026-10-04T08:19:11Z"
+}

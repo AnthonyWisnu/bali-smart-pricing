@@ -1,0 +1,37 @@
+{
+  "room_id": "22340532",
+  "name_raw": "Hut in Manggis - Beach Front Cabina",
+  "price_raw": "Rp 3,625,345",
+  "rating_raw": "4.91",
+  "review_count_raw": 33,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/22340532",
+  "sub_district": "Manggis",
+  "latitude": -8.4988,
+  "longitude": 115.6117,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rumah depan Pantai yang cukup dan tenang dengan Halaman lebar yang menghadap ke laut matahari terbit",
+  "scraped_at": "2026-10-04T08:37:31Z"
+}

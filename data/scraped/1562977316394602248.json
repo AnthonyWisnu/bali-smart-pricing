@@ -1,0 +1,37 @@
+{
+  "room_id": "1562977316394602248",
+  "name_raw": "Home in Nusa Penida - Private Retreat Villa with Sunset View",
+  "price_raw": "Rp 12,203,280",
+  "rating_raw": "4.96",
+  "review_count_raw": 24,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1562977316394602248",
+  "sub_district": "Nusa Penida",
+  "latitude": -8.781,
+  "longitude": 115.5622,
+  "capacity": {
+    "guests": "8",
+    "bedrooms": "4",
+    "beds": "4",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Dulu Hill Village – Retret Puncak Bukit yang Menakjubkan di Nusa Penida\n\nTerletak tinggi di perbukitan Nusa Penida, Dulu Hill Village menawarkan liburan yang damai dengan pemandangan lembah hijau, laut biru, dan matahari terbenam yang menakjubkan.\n\n✔ Kolam renang dengan pemandangan panorama\n✔ Dapur berfasilitas lengkap\n✔ Kamar tidur ber-AC dengan kamar mandi pribadi\n\nIdeal untuk tempat peristirahatan yang tenang – tenang, terpencil, dan sempurna untuk terhubung kembali dengan alam.",
+  "scraped_at": "2026-10-04T08:36:29Z"
+}

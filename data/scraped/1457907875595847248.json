@@ -1,0 +1,37 @@
+{
+  "room_id": "1457907875595847248",
+  "name_raw": "Guesthouse in Nusa Penida - Wooden Retreat with Pool & Jungle Views",
+  "price_raw": "Rp 3,023,280",
+  "rating_raw": "4.93",
+  "review_count_raw": 163,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1457907875595847248",
+  "sub_district": "Nusa Penida",
+  "latitude": -8.7054,
+  "longitude": 115.4905,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Belangga Cottage – Retreat Kayu dengan Kolam Renang & Pemandangan Hutan\n\nMenginap di cottage kayu buatan tangan kami, yang menampilkan:\n\n✔ 10 menit berkendara ke pantai Crystal Bay\nTempat ✔ tidur queen dengan AC & seprai premium\nKamar mandi✔ dengan pancuran pribadi\n✔ Kolam renang infiniti bersama (pemandangan taman hijau)\n✔ Wi-Fi kuat + tempat parkir skuter\n\nMengapa menginap? Pesona tropis bertemu kenyamanan—berendam di kolam renang, menjelajahi pantai rahasia, lalu bersantai di dek pribadi Anda",
+  "scraped_at": "2026-10-04T08:36:04Z"
+}

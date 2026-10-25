@@ -1,0 +1,37 @@
+{
+  "room_id": "799803768217445489",
+  "name_raw": "Villa in Tegalalang - 2Bedrooms with rice fields view + pool attached",
+  "price_raw": "Rp 8,244,225",
+  "rating_raw": "4.85",
+  "review_count_raw": 149,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/799803768217445489",
+  "sub_district": "Tegallalang",
+  "latitude": -8.398,
+  "longitude": 115.2954,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bangunan kayu ini dibuat oleh seniman kayu yang baik di area ini, memiliki desain yang unik, terutama di kamar mandi yang memberikan kesan alami.\nterletak agak jauh dari kota, memberikan kesan bahwa Anda berada di pedesaan di mana bangunan berada di samping sawah dan jauh dari jalan utama jauh dari kebisingan. Tempat ini cocok untuk Anda yang ingin menginap di daerah yang tenang dan pedesaan.\nSaya tinggal di dekat properti ini, sehingga tamu bisa menghubungi saya bila mereka membutuhkan sesuatu",
+  "scraped_at": "2026-10-04T08:13:18Z"
+}

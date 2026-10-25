@@ -1,0 +1,37 @@
+{
+  "room_id": "1714477838916153099",
+  "name_raw": "Room in Sidemen - sunrise hill sidemen\nfamily room",
+  "price_raw": "Rp 6,894,200",
+  "rating_raw": "5.0",
+  "review_count_raw": 4,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1714477838916153099",
+  "sub_district": "Sidemen",
+  "latitude": -8.4824,
+  "longitude": 115.4205,
+  "capacity": {
+    "guests": "3",
+    "bedrooms": "1",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Di penginapan kami satu-satunya suara yang akan membangunkan Anda adalah kicauan burung dan matahari terbit di pagi hari.Terletak strategis dekat Sidemen, Karangasem, kami menawarkan kemewahan di tengah alam yang masih perawan. memberi Anda ruang untuk bernapas dan kembali terhubung dengan alam. Kamar langsung menghadap bukit dan sawah berundak, Jauh dari kemacetan, polusi, dan keramaian turis.Kolam Renang Pribadi: Berenang santai dengan pemandangan lembah hijau yang asri.",
+  "scraped_at": "2026-10-04T08:30:22Z"
+}

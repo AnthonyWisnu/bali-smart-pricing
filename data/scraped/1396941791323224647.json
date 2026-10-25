@@ -1,0 +1,37 @@
+{
+  "room_id": "1396941791323224647",
+  "name_raw": "Room in Nusa Penida - Comfort Tent Near Kelingking Beach",
+  "price_raw": "Rp 3,383,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 11,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1396941791323224647",
+  "sub_district": "Nusa Penida",
+  "latitude": -8.7458,
+  "longitude": 115.4694,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Kelingking Garden Villa adalah tempat liburan yang tenang yang terletak hanya 300 meter dari pantai dan hanya 9 menit dari sorotan pulau terdekat. Villa menawan ini menawarkan kamar - kamar ber - AC yang nyaman dengan pemandangan taman, kolam renang infinity di atap, dan restoran di lokasi yang nyaman. Ini adalah basis ideal untuk menjelajahi Nusa Penida, dengan Pantai Kelingking hanya 20 menit berjalan kaki atau 5 menit naik sepeda motor. Sangat cocok untuk wisatawan yang mencari kenyamanan, al",
+  "scraped_at": "2026-10-04T08:36:23Z"
+}

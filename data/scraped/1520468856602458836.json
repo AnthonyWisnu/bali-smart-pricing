@@ -1,0 +1,37 @@
+{
+  "room_id": "1520468856602458836",
+  "name_raw": "Home in Negara - Ar cozzy home 3 LC",
+  "price_raw": "Rp 6,199,890",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1520468856602458836",
+  "sub_district": "Jembrana",
+  "latitude": -8.36497,
+  "longitude": 114.63363,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Keluarga Anda akan dekat dengan semua hal saat menginap di tempat yang berlokasi di pusat ini.",
+  "scraped_at": "2026-10-04T08:26:17Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1609047046825521343",
+  "name_raw": "Villa in Tampaksiring - \"NEW\" Sunrise Terrace-2BR with Rice Field View",
+  "price_raw": "Rp 12,000,000",
+  "rating_raw": "4.79",
+  "review_count_raw": 14,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1609047046825521343",
+  "sub_district": "Tampaksiring",
+  "latitude": -8.4741,
+  "longitude": 115.2895,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "\"Sunrise Terrace Villa Ubud\" terletak di lingkungan yang tenang di tengah sawah yang rimbun, sekitar 15 menit berkendara dari Ubud Center. “Sunrise Terrace Villa Ubud” menawarkan tempat liburan yang tenang dengan akses mudah ke pusat budaya, kuliner, dan spiritual pulau ini. Vila ini memiliki dua kamar tidur yang luas, kolam renang pribadi, dan Kolam Plunge, yang dirancang dengan cermat untuk pasangan, keluarga, atau teman yang mencari ketenangan. Anda akan sangat menyukai dekorasi bergaya dari ",
+  "scraped_at": "2026-10-04T08:20:07Z"
+}

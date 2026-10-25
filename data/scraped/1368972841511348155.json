@@ -1,0 +1,37 @@
+{
+  "room_id": "1368972841511348155",
+  "name_raw": "Home in Bebandem - Villa Palmeras - Deep Bali",
+  "price_raw": "Rp 1,241,829",
+  "rating_raw": "4.67",
+  "review_count_raw": 9,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1368972841511348155",
+  "sub_district": "Kecamatan Bebandem",
+  "latitude": -8.44752,
+  "longitude": 115.54337,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nikmati pengalaman mendalam di desa Bali autentik di samping rumah keluarga lokal. Villa Palmeras en la Nieve lahir dari ide mengenal Bali yang dalam, terletak di tengah hutan, sawah dan kuil. \n\nJauh dari hiruk - pikuk kawasan wisata, Villa ini terletak di lingkungan yang santai di mana Anda bisa menghirup kedamaian. Villa Palmeras en la Nieve independen dengan kamar mandi pribadi. Dengan opsi memesan makanan dan pijat.",
+  "scraped_at": "2026-10-04T08:33:53Z"
+}

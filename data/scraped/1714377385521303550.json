@@ -1,0 +1,37 @@
+{
+  "room_id": "1714377385521303550",
+  "name_raw": "Villa in Sukawati - Ocean View Villa near Sanur |Live Sports",
+  "price_raw": "Rp 25,418,275",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1714377385521303550",
+  "sub_district": "Sukawati",
+  "latitude": -8.6233,
+  "longitude": 115.3018,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Menginap di vila pribadi yang tenang di dekat Sanur, dengan akses mudah ke destinasi terindah di Bali. Sopir pribadi di rumah bisa disediakan.\n\nAtlantiz Villa Bali terletak dengan nyaman di dekat Pelabuhan Sanur dan Padang Bai, ideal untuk perjalanan ke Lombok dan Kepulauan Gili.  Ubud juga mudah dijangkau. \n\nBersantailah dengan suara deburan ombak laut, beristirahatlah di tempat tidur siang pribadi Anda, dan nikmati kolam renang dan taman tropis.  Sempurna untuk keluarga dan teman-teman yang me",
+  "scraped_at": "2026-10-04T08:21:34Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1150889062010433199",
+  "name_raw": "Home in Selat - Punduk Villa - The Manta",
+  "price_raw": "Rp 31,752,000",
+  "rating_raw": "4.88",
+  "review_count_raw": 8,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1150889062010433199",
+  "sub_district": "Kecamatan Selat",
+  "latitude": -8.4501,
+  "longitude": 115.485,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Terletak tinggi di atas area Duda dekat Sidemen, The Manta memiliki pemandangan indah sawah Bali dengan pemandangan gunung berapi yang lebih indah, Mt. Agung. Anda bisa menikmati pemandangan ini dari mana saja di dalam vila bambu, apakah Anda lebih suka duduk di kolam renang, di sofa, atau bahkan di tempat tidur Anda. Saat Anda bersantai, pastikan Anda menghubungi layanan kamar untuk mencoba masakan Bali terbaik.",
+  "scraped_at": "2026-10-04T08:31:41Z"
+}

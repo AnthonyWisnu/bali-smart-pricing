@@ -1,0 +1,37 @@
+{
+  "room_id": "1690964765685878113",
+  "name_raw": "Home in Kabupaten Tabanan - 1BR Private Ocean Sunset Villa · Real Bali · Pool",
+  "price_raw": "Rp 9,750,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 7,
+  "regency": "Kabupaten Tabanan",
+  "url": "https://www.airbnb.com/rooms/1690964765685878113",
+  "sub_district": "Tabanan Regency",
+  "latitude": -8.49361,
+  "longitude": 114.95432,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bali yang sesungguhnya masih ada.\n\nMatahari terbenam di laut, pohon palem, dan sawah tepat di depan Anda. Vila pribadi untuk pagi yang santai dan malam yang tenang, hanya 3 menit dari pantai pasir hitam yang sepi.\n\n• 1 menit menuju Supersenang\n• 4 menit dengan sepeda ke kota Balian\n• Tips lokal & pijat di vila\n\nCatatan kecil untuk transparansi penuh: Ada konstruksi yang sedang berlangsung di properti tetangga, di luar kendali kami. Kami berupaya sebaik mungkin untuk meminimalkan kebisingan atau ",
+  "scraped_at": "2026-10-04T08:38:40Z"
+}

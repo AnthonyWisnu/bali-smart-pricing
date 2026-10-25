@@ -1,0 +1,37 @@
+{
+  "room_id": "1715110866056156779",
+  "name_raw": "Home in Kediri - 2BR Private Pool Villa with Ricefield View Kedungu",
+  "price_raw": "Rp 11,520,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 3,
+  "regency": "Kabupaten Badung",
+  "url": "https://www.airbnb.com/rooms/1715110866056156779",
+  "sub_district": "Kediri",
+  "latitude": -8.601,
+  "longitude": 115.0997,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Sahabat Bumi adalah vila kolam renang 2 kamar tidur yang luas dengan pemandangan sawah yang indah di Beraban-Kedungu, Bali. Sangat cocok untuk keluarga, pasangan, atau teman. Bangun dengan pemandangan sawah hijau dan bersantai di tepi kolam renang pribadi besar Anda dengan day bed lounger yang nyaman. Hanya beberapa menit dari Pantai Kedungu dan dikelilingi oleh kafe dan tempat-tempat lokal, vila ini memiliki ruang tamu yang terang dan terbuka, ideal untuk hari-hari yang santai dan santai. Nikma",
+  "scraped_at": "2026-10-04T08:10:00Z"
+}

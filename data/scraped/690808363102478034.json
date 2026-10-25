@@ -1,0 +1,37 @@
+{
+  "room_id": "690808363102478034",
+  "name_raw": "Villa in Manggis - Private Pool 4 Bedroom Villa-Candidasa Beach View",
+  "price_raw": "Rp 15,000,000",
+  "rating_raw": "4.74",
+  "review_count_raw": 152,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/690808363102478034",
+  "sub_district": "Kecamatan Manggis",
+  "latitude": -8.50159,
+  "longitude": 115.54205,
+  "capacity": {
+    "guests": "8",
+    "bedrooms": "4",
+    "beds": "5",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa 2 lantai yang indah dan terpencil dengan pemandangan laut yang menghadap pelabuhan di dekat Candidasa.  Anda memiliki akses ke taman yang rindang, dapur, beberapa patio, dan kolam renang besar dengan pancuran luar ruangan. Restoran dan desa Candidasa berjarak 5 menit dengan mobil atau skuter. Jika Anda membutuhkan koki pribadi, spa, atau tur, tim kami bisa mengaturnya.\nAda seekor anjing yang sangat ramah, Happy, di properti. Jika ini menyangkut Anda atau siapa pun di grup Anda. Beri tahu k",
+  "scraped_at": "2026-10-04T08:32:03Z"
+}

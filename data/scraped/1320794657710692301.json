@@ -1,0 +1,37 @@
+{
+  "room_id": "1320794657710692301",
+  "name_raw": "Home in Sidemen - Bed and Breakfast, Authentic Rural Experience",
+  "price_raw": "Rp 3,138,237",
+  "rating_raw": "4.99",
+  "review_count_raw": 92,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1320794657710692301",
+  "sub_district": "Sidemen",
+  "latitude": -8.4603,
+  "longitude": 115.437,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "\"Benamkan diri Anda dalam keindahan pedesaan di kamar unik kami. Dengan pemandangan sawah hijau yang rimbun dan perbukitan, kamar ini menawarkan masa inap yang autentik dan tak terlupakan. Nikmati suasana yang damai dan tenteram, dan rasakan keindahan alam yang mengelilingi Anda. Kamar ini adalah tempat yang sempurna untuk beristirahat, memulihkan energi, dan menikmati pedesaan .\"",
+  "scraped_at": "2026-10-04T08:15:11Z"
+}

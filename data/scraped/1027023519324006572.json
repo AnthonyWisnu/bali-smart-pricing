@@ -1,0 +1,37 @@
+{
+  "room_id": "1027023519324006572",
+  "name_raw": "Earthen home in Rendang - AUREA•where dreams have no end•",
+  "price_raw": "Rp 32,500,000",
+  "rating_raw": "4.97",
+  "review_count_raw": 117,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1027023519324006572",
+  "sub_district": "Rendang",
+  "latitude": -8.47026,
+  "longitude": 115.41004,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Aurea adalah vila impian akrab yang tersembunyi di antara sawah dan hutan, dirancang untuk pasangan yang mencari keindahan, ketenangan, dan koneksi yang mendalam dengan alam.\n\nNikmati kolam renang infiniti pribadi yang dipanaskan menghadap ke sawah, bak mandi batu di bawah lampu peri, malam film hutan, dan ruang tamu terbuka di mana alam menjadi bagian dari pengalaman.\n\nIni bukan penginapan hotel — ini adalah liburan yang menyenangkan di mana waktu melambat, indra terbangun, dan dunia luar memud",
+  "scraped_at": "2026-10-04T08:11:48Z"
+}

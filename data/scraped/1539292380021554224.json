@@ -1,0 +1,37 @@
+{
+  "room_id": "1539292380021554224",
+  "name_raw": "Villa in Ubud - Tropical 4BR Oasis w Huge Pool+Gazebo, Ubud's Best",
+  "price_raw": "Rp 18,940,289",
+  "rating_raw": "4.88",
+  "review_count_raw": 16,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1539292380021554224",
+  "sub_district": "Ubud",
+  "latitude": -8.4687,
+  "longitude": 115.2725,
+  "capacity": {
+    "guests": "8",
+    "bedrooms": "4",
+    "beds": "5",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Vila Baru di Ubud yang Asri:\n• 4 Kamar tidur ber-AC dengan pemandangan tropis\n• 3 kamar mandi terbuka, satu dengan bathtub\n• Ruang tamu luas dengan langit-langit tinggi, furnitur rotan & pintu kaca besar\n• Kolam renang besar, kolam ikan koi & gazebo nyaman di taman tropis\n• Dapur lengkap\n• Wi-Fi cepat 200 Mbps\n• Pembersihan harian dengan handuk & linen bersih\n• Tempat tidur bayi & kursi makan bayi atas permintaan\n• PS5 & Netflix atas permintaan\n• Layanan concierge untuk sewa skuter, spa & tur",
+  "scraped_at": "2026-10-04T08:15:34Z"
+}

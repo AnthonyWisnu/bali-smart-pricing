@@ -1,0 +1,37 @@
+{
+  "room_id": "1735886097774323747",
+  "name_raw": "Villa in Ubud - Luxury 5BR Ubud Villa | Large Pool, Tropical Views",
+  "price_raw": "Rp 45,761,006",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Badung",
+  "url": "https://www.airbnb.com/rooms/1735886097774323747",
+  "sub_district": "Ubud",
+  "latitude": -8.5347,
+  "longitude": 115.2428,
+  "capacity": {
+    "guests": "10",
+    "bedrooms": "5",
+    "beds": "5",
+    "baths": "5"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berlibur ke Rumah Gemuruh Villa, tempat peristirahatan mewah 5 kamar tidur yang terletak di antara sawah Ubud yang rindang dan pohon-pohon kelapa yang melambai-lambai. \nDirancang untuk keluarga, rombongan, dan liburan kesehatan, vila ini memiliki kolam renang pribadi, pergola yoga luar ruangan, lounge yang lebih rendah, ruang bioskop, dan area tamu semi-terbuka yang luas. \nBangunlah untuk menikmati pemandangan tropis yang menakjubkan dan rasakan perpaduan sempurna antara kemewahan, kenyamanan, d",
+  "scraped_at": "2026-10-04T08:10:13Z"
+}

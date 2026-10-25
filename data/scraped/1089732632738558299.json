@@ -1,0 +1,37 @@
+{
+  "room_id": "1089732632738558299",
+  "name_raw": "Cabin in Sidemen - Ravelyn House",
+  "price_raw": "Rp 8,201,330",
+  "rating_raw": "4.83",
+  "review_count_raw": 77,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1089732632738558299",
+  "sub_district": "Kecamatan Sidemen",
+  "latitude": -8.48877,
+  "longitude": 115.42006,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bukan kehidupan mewah biasa Anda. \nRavelyn House adalah tempat perlindungan, rumah murni yang dirancang untuk mereka yang mencari lebih dari sekadar kenyamanan dan keanggunan. Di sini, setiap sudut mengajak Anda untuk bersantai, bernapas lebih dalam, dan kembali terhubung dengan hal-hal yang benar-benar penting.\n\nDikelilingi keindahan alam yang tenang, tempat kesederhanaan bertemu makna. Ini bukan tentang kelebihan, tetapi tentang esensi, ruang yang memelihara jiwa Anda, menyeimbangkan pikiran A",
+  "scraped_at": "2026-10-04T08:35:42Z"
+}

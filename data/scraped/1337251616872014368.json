@@ -1,0 +1,37 @@
+{
+  "room_id": "1337251616872014368",
+  "name_raw": "Shared hotel room in Nusa Penida - The Penida Project - 10 Bed Mixed Dormitory",
+  "price_raw": "Rp 925,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 6,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1337251616872014368",
+  "sub_district": "Kecamatan Nusa Penida",
+  "latitude": -8.69448,
+  "longitude": 115.5197,
+  "capacity": {
+    "guests": "10",
+    "bedrooms": "1",
+    "beds": "10",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Proyek Penida adalah pengalaman hostel Nusa Penida terbaik. \nOasis hutan yang menekankan komunitas - dengan segala yang Anda butuhkan untuk masa inap yang tak terlupakan. \nNikmati berenang di kolam renang, memotret beberapa lingkaran, atau bergabung dalam acara dan aktivitas sehari - hari kami. Dengan bar dan restoran layanan lengkap, asrama yang nyaman, dan nuansa keluarga yang luar biasa, tempat ini sempurna untuk bersantai, bertemu teman baru, dan menciptakan kenangan seumur hidup.",
+  "scraped_at": "2026-10-04T08:37:07Z"
+}

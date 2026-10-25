@@ -1,0 +1,37 @@
+{
+  "room_id": "1676570300869044713",
+  "name_raw": "Room in Abang - Melaka Hill #2",
+  "price_raw": "Rp 2,525,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 3,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1676570300869044713",
+  "sub_district": "Abang",
+  "latitude": -8.37787,
+  "longitude": 115.64972,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rumah ini menawarkan suasana peristirahatan yang tenang dan asri, khas hunian di lereng perbukitan dengan latar belakang panorama Bukit Lempuyang yang ikonik di Karangasem, Bali. \n\nLansekap dan Taman ditata dengan sangat apik untuk mendukung suasana relaksasi. Halaman luas tertutup rumput jepang yang terawat, dilengkapi dengan jalan setapak dari batu alam yang menuntun tamu menuju Kamar",
+  "scraped_at": "2026-10-04T08:31:09Z"
+}

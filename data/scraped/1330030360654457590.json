@@ -1,0 +1,37 @@
+{
+  "room_id": "1330030360654457590",
+  "name_raw": "Guesthouse in Melaya - Family Room \nThe Cokelat Bali Guest House",
+  "price_raw": "Rp 4,962,225",
+  "rating_raw": "4.67",
+  "review_count_raw": 6,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1330030360654457590",
+  "sub_district": "Kecamatan Melaya",
+  "latitude": -8.2647,
+  "longitude": 114.5307,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": null,
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rasakan pesona pedesaan dengan sentuhan modern di The Cokelat Bali Guest House. Nikmati suasana pedesaan yang autentik sambil tetap dimanjakan fasilitas modern. Jelajahi keindahan alam sekitar, atau bersantai di teras sambil menikmati secangkir kopi. Pengalaman menginap yang tak terlupakan menanti Anda.\"",
+  "scraped_at": "2026-10-04T08:25:13Z"
+}

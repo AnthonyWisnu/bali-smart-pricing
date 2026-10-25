@@ -1,0 +1,37 @@
+{
+  "room_id": "23384402",
+  "name_raw": "Room in Pekutatan - Private Wooden Bungalow -Medewi Surf Homestay-",
+  "price_raw": "Rp 1,141,177",
+  "rating_raw": "4.45",
+  "review_count_raw": 11,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/23384402",
+  "sub_district": "Pekutatan",
+  "latitude": -8.41402,
+  "longitude": 114.80934,
+  "capacity": {
+    "guests": "3",
+    "bedrooms": "1",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bungalow Kayu Pribadi dengan Kipas angin.\nSatu tempat tidur berukuran king, satu tempat tidur single, dan kamar mandi alami luar ruangan pribadi. \nKamar ini cocok untuk keluarga atau grup. \nKawasan alam yang asri dan bersantai di tengah sawah bersama keluarga tercinta yang selalu ada di sekitarnya.",
+  "scraped_at": "2026-10-04T08:25:30Z"
+}

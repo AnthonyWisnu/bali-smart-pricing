@@ -1,0 +1,37 @@
+{
+  "room_id": "1415995526278121889",
+  "name_raw": "Bungalow in Abang - Hilltop Boutique Homestay Bungalow 3 - Seaview",
+  "price_raw": "Rp 9,757,063",
+  "rating_raw": "5.0",
+  "review_count_raw": 35,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1415995526278121889",
+  "sub_district": "Kecamatan Abang",
+  "latitude": -8.34037,
+  "longitude": 115.66587,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Pemandangan laut 180° yang tak terkalahkan + matahari terbit. Ini adalah yang terbesar dari 3 bungalo berperabot kami, yang dirancang untuk wisatawan modern & pengembara digital.  1 tempat tidur king (lantai bawah) + 2 kasur single (lantai atas) di ruang bergaya loteng yang sama. Catatan! Area lantai atas (2 kasur single) sedikit lebih hangat di malam hari dan tidak cocok untuk mereka yang sensitif terhadap panas.\n\nAmed berjarak 7 menit dengan skuter. Terumbu snorkeling berjarak 5 menit berjalan",
+  "scraped_at": "2026-10-04T08:33:16Z"
+}

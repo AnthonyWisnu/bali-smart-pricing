@@ -1,0 +1,37 @@
+{
+  "room_id": "756011381316054927",
+  "name_raw": "Room in Pekutatan - Garden Surf Studio - Medewi Sunset Terrace",
+  "price_raw": "Rp 1,067,000",
+  "rating_raw": "4.75",
+  "review_count_raw": 4,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/756011381316054927",
+  "sub_district": "Pekutatan",
+  "latitude": -8.4107,
+  "longitude": 114.8111,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Studio di lantai dasar ini menawarkan tempat tidur ganda yang nyaman, kamar mandi pribadi, dan akses langsung ke area taman tropis. Kamar ini mencakup AC, Wi-Fi cepat, dan area kerja. Tamu bisa bersantai di taman dengan beanbag setelah sesi berselancar. Pantai Medewi dan tempat berselancar terkenal hanya berjarak 5 menit dengan skuter atau sekitar 20 menit berjalan kaki.",
+  "scraped_at": "2026-10-04T08:25:44Z"
+}

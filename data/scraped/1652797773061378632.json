@@ -1,0 +1,37 @@
+{
+  "room_id": "1652797773061378632",
+  "name_raw": "Room in Ubud - Anada House 1",
+  "price_raw": "Rp 3,000,000",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1652797773061378632",
+  "sub_district": "Ubud",
+  "latitude": -8.55042,
+  "longitude": 115.27441,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Anada House menghadirkan hunian nyaman di tengah pemukiman sawah yang asri dan tenang. Dilengkapi sharing pool untuk relaksasi dan kitchen bersama yang fungsional, tempat ini cocok untuk menikmati waktu berkualitas. Desain modern berpadu nuansa alami menciptakan suasana hangat dan damai, menjadikan setiap momen menginap terasa lebih istimewa dan berkesan.",
+  "scraped_at": "2026-10-04T08:21:47Z"
+}

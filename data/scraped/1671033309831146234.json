@@ -1,0 +1,37 @@
+{
+  "room_id": "1671033309831146234",
+  "name_raw": "Home in Tegalalang - Ayutha House • 2 | Private pool with Valley view",
+  "price_raw": "Rp 6,847,062",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1671033309831146234",
+  "sub_district": "Tegallalang",
+  "latitude": -8.4228,
+  "longitude": 115.2792,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Ayutha House 2 adalah rumah kayu kecil dengan kolam batu dan desain alami, dikelilingi pepohonan hijau di area yang dekat dengan lembah. Kolam dengan bentuk organik mengikuti lanskap dan berpadu dengan elemen alam di sekitarnya. Perpaduan kayu dan batu membentuk nuansa tropis yang kuat. Cocok untuk tamu yang ingin merasakan pengalaman berbeda dan unik. Tempat unik ini memiliki gaya tersendiri.",
+  "scraped_at": "2026-10-04T08:16:17Z"
+}

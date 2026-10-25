@@ -1,0 +1,37 @@
+{
+  "room_id": "36376530",
+  "name_raw": "Villa in Seririt - Oceanfront Villa Bidadari 3 Bed/Bath, Private Pool",
+  "price_raw": "Rp 20,166,942",
+  "rating_raw": "4.97",
+  "review_count_raw": 34,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/36376530",
+  "sub_district": "Seririt",
+  "latitude": -8.1836,
+  "longitude": 114.9206,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa Bidadari adalah villa terbesar di Bali Sea Villas dan menawarkan pengalaman menginap yang luar biasa untuk hingga 6 orang, kolam renang pribadi yang besar, taman tropis dan terletak langsung di pantai dengan tepi pantai sepanjang 60 meter. Anda memiliki pemandangan indah laut Bali, perahu nelayan, dan nelayan.\n\nMemiliki staf domestik dan tukang kebun.\nTermasuk semua pajak, perlengkapan tempat tidur dan handuk, kopi, teh, dan air minum.\n\nDatang dan bersantai di utara Bali yang autentik dan ",
+  "scraped_at": "2026-10-04T08:27:31Z"
+}

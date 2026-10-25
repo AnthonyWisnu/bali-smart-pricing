@@ -1,0 +1,37 @@
+{
+  "room_id": "1737637493107509802",
+  "name_raw": "Home in Nusa Lembongan - Villa Surga |New 3 bedroom villa in nusa lembongan",
+  "price_raw": "Rp 35,778,740",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1737637493107509802",
+  "sub_district": "Nusa Lembongan",
+  "latitude": -8.6736,
+  "longitude": 115.4506,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa Surga | Villa 3 Kamar Tidur Baru dengan Kolam Renang Pribadi •Jungut Batu. 300 m dari Pantai.",
+  "scraped_at": "2026-10-04T08:37:22Z"
+}

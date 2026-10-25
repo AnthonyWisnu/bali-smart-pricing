@@ -1,0 +1,37 @@
+{
+  "room_id": "22310467",
+  "name_raw": "Cabin in Abiansemal - Zen Hideaway 3: Valley-View Teak Pavilion",
+  "price_raw": "Rp 15,742,289",
+  "rating_raw": "4.8",
+  "review_count_raw": 552,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/22310467",
+  "sub_district": "Abiansemal",
+  "latitude": -8.4915,
+  "longitude": 115.2399,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Pondok terbuka buatan tangan di atas lembah Sungai Ayung. Bangun dengan matahari terbit di hutan emas, minum kopi di dek, lalu melayang di ayunan Bali asli. Zen Hideaway 3 bisa menampung hingga lima orang di dua kamar tidur sederhana dengan satu kamar mandi — penginapan kembali ke alam di dekat Ubud untuk pasangan, teman, dan kreatif yang menginginkan privasi, pemandangan, dan perasaan hanya di Bali.",
+  "scraped_at": "2026-10-04T08:12:13Z"
+}

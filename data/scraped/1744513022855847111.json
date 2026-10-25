@@ -1,0 +1,37 @@
+{
+  "room_id": "1744513022855847111",
+  "name_raw": "Guesthouse in Sidemen - Sarala sidemen guest house great mountain views",
+  "price_raw": "Rp 3,000,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1744513022855847111",
+  "sub_district": "Kecamatan Sidemen",
+  "latitude": -8.468,
+  "longitude": 115.445,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Tempat ini berada di pusat Sidemen, menawarkan kamar yang luas dengan pemandangan pegunungan yang indah, dan dekat dengan banyak tempat populer seperti Besakih, Ubud, Amed, dan Padang Bai\nKami menyediakan berbagai pilihan sarapan, seperti omelet, telur orak-arik, dan panekuk, beserta minuman seperti jus, kopi, dan teh, semuanya termasuk dalam harga kamar Anda",
+  "scraped_at": "2026-10-04T08:35:15Z"
+}

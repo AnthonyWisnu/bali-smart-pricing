@@ -1,0 +1,37 @@
+{
+  "room_id": "3688324",
+  "name_raw": "Villa in Abang - Saka Villa  - Private 2 Bedrooms Villas with Pool",
+  "price_raw": "Rp 7,500,000",
+  "rating_raw": "4.98",
+  "review_count_raw": 133,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/3688324",
+  "sub_district": "Kecamatan Abang",
+  "latitude": -8.34777,
+  "longitude": 115.67034,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Saka Villa , Terletak di Amed - Bunutan, menyediakan akomodasi dengan kolam renang luar ruangan, WiFi gratis, meja depan 24 jam, dan dapur bersama. Vila mandiri ini memiliki kolam renang pribadi, taman, dan tempat parkir pribadi gratis. Villa ini memiliki 2 kamar tidur, 2 kamar mandi, seprai, handuk, TV layar datar dengan Netflix gratis, saluran satelit, area makan, dapur lengkap, dan patio dengan pemandangan kolam renang. Ada lounge bersama di properti ini dan tamu bisa pergi hiking di dekatnya",
+  "scraped_at": "2026-10-04T08:32:26Z"
+}

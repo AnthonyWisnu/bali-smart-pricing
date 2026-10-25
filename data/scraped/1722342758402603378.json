@@ -1,0 +1,37 @@
+{
+  "room_id": "1722342758402603378",
+  "name_raw": "Home in Tegalalang - Ubud Tropical House with Private Kitchen & Garden",
+  "price_raw": "Rp 2,800,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 4,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1722342758402603378",
+  "sub_district": "Tegallalang",
+  "latitude": -8.4449,
+  "longitude": 115.2549,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rumah bergaya Tropical Modern ini berlokasi hanya 20 menit dari pusat Ubud dan masih dekat dengan berbagai destinasi wisata Ubud. Mengusung desain modern, hunian ini menghadirkan suasana hangat, bersih, dan nyaman. Ruang yang luas dan tertata rapi dengan pencahayaan lembut menciptakan atmosfer tenang untuk beristirahat setelah menjelajahi Ubud. Pilihan ideal bagi Anda yang mencari ketenangan tanpa jauh dari pusat aktivitas dan keindahan alam Ubud Bali",
+  "scraped_at": "2026-10-04T08:18:19Z"
+}

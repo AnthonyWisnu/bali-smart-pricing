@@ -1,0 +1,37 @@
+{
+  "room_id": "1492329155254605813",
+  "name_raw": "Home in Tampaksiring - Pulagan House | Serenity 1BDR Nature Villa",
+  "price_raw": "Rp 8,750,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 56,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1492329155254605813",
+  "sub_district": "Tampaksiring",
+  "latitude": -8.4306,
+  "longitude": 115.3123,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Vila menawan yang dikelilingi sawah yang subur, menawarkan tempat peristirahatan yang damai dan tenang dengan pemandangan yang menakjubkan. Dirancang untuk kenyamanan, tempat ini memiliki 1 kamar tidur yang nyaman, 1 kamar mandi modern, dan area makan di mana Anda bisa bersantai dan menikmati suasana yang tenang.",
+  "scraped_at": "2026-10-04T08:11:48Z"
+}

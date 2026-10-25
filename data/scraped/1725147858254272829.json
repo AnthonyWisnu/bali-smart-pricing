@@ -1,0 +1,37 @@
+{
+  "room_id": "1725147858254272829",
+  "name_raw": "Home in Ubud - jungle valley 3Bedroom  ubud",
+  "price_raw": "Rp 16,455,059",
+  "rating_raw": "5.0",
+  "review_count_raw": 5,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1725147858254272829",
+  "sub_district": "Ubud",
+  "latitude": -8.4986,
+  "longitude": 115.2753,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "80",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa 3kamar tidur yang terletak di lokasi menakjubkan yang dikelilingi oleh pepohonan hijau serta lembah sungai  yang indah,dan pemandangan gunung di pagi hari memberikan pengalaman mendalam di ubud  Bali. Suasana tenang kami menawarkan liburan yang sempurna bagi mereka yang mencari ketenangan dan koneksi dengan alam. tempat ini hanya berjarak  8 menit ke pusat kota ubud serta  dekat dengan supermarket  ",
+  "scraped_at": "2026-10-04T08:12:08Z"
+}

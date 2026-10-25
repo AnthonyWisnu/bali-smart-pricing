@@ -1,0 +1,37 @@
+{
+  "room_id": "36786271",
+  "name_raw": "Room in Pekutatan - Jungle House - Budget Double Room",
+  "price_raw": "Rp 1,250,000",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/36786271",
+  "sub_district": "Pekutatan",
+  "latitude": -8.40321,
+  "longitude": 114.80567,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "7",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rumah kami berlokasi 5 menit berkendara dari pantai Medewi.",
+  "scraped_at": "2026-10-04T08:27:13Z"
+}

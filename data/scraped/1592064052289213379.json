@@ -1,0 +1,37 @@
+{
+  "room_id": "1592064052289213379",
+  "name_raw": "Home in Negara - Green House Jembrana Bali",
+  "price_raw": "Rp 3,356,430",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1592064052289213379",
+  "sub_district": "Kecamatan Negara",
+  "latitude": -8.36447,
+  "longitude": 114.65774,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Tempat menginap bergaya ini sangat cocok untuk perjalanan berkelompok. Dengan pemandangan pegunungan dan sawah. 5 menit dari pusat kota.\n\ndengan 2 kamar tidur dengan kamar mandi pribadi dan 1 kamar tidur tanpa kamar mandi pribadi.",
+  "scraped_at": "2026-10-04T08:25:06Z"
+}

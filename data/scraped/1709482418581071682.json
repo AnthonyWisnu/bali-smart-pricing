@@ -1,0 +1,37 @@
+{
+  "room_id": "1709482418581071682",
+  "name_raw": "Villa in Tegalalang - MAZO Villa - 3BR Premium Luxury Villa near Ubud",
+  "price_raw": "Rp 27,625,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1709482418581071682",
+  "sub_district": "Tegallalang",
+  "latitude": -8.3682,
+  "longitude": 115.3003,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Mazo Villa adalah tempat menginap yang tenang dan indah di Ubud, dikelilingi alam. Anda bisa bersantai dengan mewah sambil menikmati udara segar dan keindahan alam Ubud.\n\nVila tiga kamar tidur kami dirancang untuk memberikan pengalaman dekat dengan alam tanpa mengorbankan kenyamanan dan keanggunan. Anda dapat berenang di kolam renang Anda sendiri, dikelilingi oleh tanaman hijau yang rimbun.\n\nSetiap detail telah dipilih dengan cermat untuk menciptakan suasana yang benar-benar mewah.",
+  "scraped_at": "2026-10-04T08:16:08Z"
+}

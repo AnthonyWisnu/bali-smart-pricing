@@ -1,0 +1,37 @@
+{
+  "room_id": "1315654122650222734",
+  "name_raw": "Villa in Kecamatan Ubud - Minimalist 3BR in Jungle Ubud with Big Pool&Office",
+  "price_raw": "Rp 23,090,608",
+  "rating_raw": "4.9",
+  "review_count_raw": 50,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1315654122650222734",
+  "sub_district": "Kecamatan Ubud",
+  "latitude": -8.47874,
+  "longitude": 115.2676,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "4",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa baru di lokasi terbaik di Ubud:\n• 3 kamar tidur ber-AC dengan pemandangan hutan tropis\n• Kamar mandi dalam dengan perlengkapan mandi, sandal & pengering rambut (satu dengan bathtub)\n• Meja kerja, brankas, setrika\n• Kolam renang besar & taman rindang, cocok untuk BBQ\n• Wi-Fi 300 Mbps\n• Pembersihan harian, handuk & seprai segar\n• Ranjang bayi & kursi tinggi atas permintaan\n• Dapur lengkap\n• PS5 & Netflix atas permintaan\n• Layanan concierge: dari sewa skuter hingga spa",
+  "scraped_at": "2026-10-04T08:23:02Z"
+}

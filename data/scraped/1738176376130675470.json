@@ -1,0 +1,37 @@
+{
+  "room_id": "1738176376130675470",
+  "name_raw": "Home in Ubud - A Jungle Treehouse, Steps from Ubud",
+  "price_raw": "Rp 21,754,906",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1738176376130675470",
+  "sub_district": "Ubud",
+  "latitude": -8.5057,
+  "longitude": 115.2698,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Tidak semua orang menginginkan empat dinding dan AC. Sunali di Villa Madu adalah untuk mereka yang bermimpi tidur di rumah pohon, terbangun dengan kicau burung, dan hidup bersama hutan. Hanya 8 menit berjalan kaki dari pusat Ubud, dua rumah dihubungkan oleh jembatan di atas kolam koi. Ruang tamu terbuka, kolam renang yang menghadap ke jurang yang rimbun, angin tropis yang sejuk, dan pondok tamu dua lantai bergaya pedesaan menciptakan liburan ajaib yang terasa seperti berada di dunia lain. Nikmat",
+  "scraped_at": "2026-10-04T08:21:58Z"
+}

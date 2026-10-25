@@ -1,0 +1,37 @@
+{
+  "room_id": "1233122195219537728",
+  "name_raw": "Home in Kecamatan Ubud - BeBalihouse, a cool jungle house",
+  "price_raw": "Rp 9,530,000",
+  "rating_raw": "4.98",
+  "review_count_raw": 126,
+  "regency": "Kabupaten Badung",
+  "url": "https://www.airbnb.com/rooms/1233122195219537728",
+  "sub_district": "Kecamatan Ubud",
+  "latitude": -8.4638,
+  "longitude": 115.2429,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rumah ini memiliki suasana pedesaan dan industri. Dindingnya terlihat seperti semen. Pintu dan jendela kaca besi untuk memastikan pemandangan hutan terlihat dari sebagian besar rumah. Elemen pencahayaan yang sejuk dan bernuansa pedesaan terpasang dengan baik.    Furnitur ini sebagian besar terbuat  dari kayu jati daur ulang. \n\nRuang terbuka yang luas untuk dapur, ruang makan, dan ruang tamu. Sarapan harian sudah termasuk. \nKolam renang infinity berukuran bagus yang menghadap pemandangan hutan ya",
+  "scraped_at": "2026-10-04T08:09:55Z"
+}

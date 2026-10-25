@@ -1,0 +1,37 @@
+{
+  "room_id": "1545557169259260910",
+  "name_raw": "Treehouse in Sidemen - Kalpa House Sidemen with Breakfast",
+  "price_raw": "Rp 14,000,000",
+  "rating_raw": "4.56",
+  "review_count_raw": 16,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1545557169259260910",
+  "sub_district": "Sidemen",
+  "latitude": -8.48527,
+  "longitude": 115.42095,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Kami tidak cocok untuk semua orang. Kami tidak membuat 'sesuatu untuk semua orang. Kami membuat segalanya untuk seseorang yang memahami keberlanjutan yang sesungguhnya.\n\nKalpa House dirancang sebagai tempat peristirahatan ramah lingkungan terbuka, yang memungkinkan tamu untuk sepenuhnya terhubung dengan alam. Harap perhatikan bahwa rumah ini tidak memiliki pintu tertutup, sehingga Anda mungkin mengalami suara alami seperti serangga, dan kehidupan desa, semua bagian dari pengalaman Sidemen yang a",
+  "scraped_at": "2026-10-04T08:35:10Z"
+}

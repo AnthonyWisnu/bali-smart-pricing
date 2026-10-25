@@ -1,0 +1,37 @@
+{
+  "room_id": "1501943318603093810",
+  "name_raw": "Room in Pekutatan - Twin Surf Studio - Medewi Sunset Terrace",
+  "price_raw": "Rp 1,474,648",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1501943318603093810",
+  "sub_district": "Pekutatan",
+  "latitude": -8.41015,
+  "longitude": 114.80996,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Studio di lantai atas ini menawarkan dua tempat tidur single, kamar mandi pribadi, dan balkon dengan pemandangan sawah di sekitarnya dan laut di kejauhan. Kamar ini dilengkapi AC, Wi-Fi cepat, dan dapur kecil dengan kulkas dan peralatan dapur dasar. Cocok untuk teman-teman yang bepergian bersama atau peselancar yang berbagi kamar. Pantai Medewi dan area selancar berjarak hanya 5 menit dengan skuter.",
+  "scraped_at": "2026-10-04T08:24:18Z"
+}

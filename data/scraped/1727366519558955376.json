@@ -1,0 +1,37 @@
+{
+  "room_id": "1727366519558955376",
+  "name_raw": "Home in Ubud - Countryside 2BR• Rice Fields View• Shared Pool",
+  "price_raw": "Rp 5,358,698",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1727366519558955376",
+  "sub_district": "Ubud",
+  "latitude": -8.4985,
+  "longitude": 115.2485,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Terhubung kembali dengan orang - orang terkasih di tempat yang ramah keluarga ini.",
+  "scraped_at": "2026-10-04T08:14:17Z"
+}

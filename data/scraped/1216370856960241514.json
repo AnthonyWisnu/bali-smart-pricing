@@ -1,0 +1,37 @@
+{
+  "room_id": "1216370856960241514",
+  "name_raw": "Home in Nusa Lembongan - Oceanfront Villa | Pool | Breakfast | 6 Staff",
+  "price_raw": "Rp 104,945,980",
+  "rating_raw": "5.0",
+  "review_count_raw": 32,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1216370856960241514",
+  "sub_district": "Nusa Lembongan",
+  "latitude": -8.68983,
+  "longitude": 115.43069,
+  "capacity": {
+    "guests": "12",
+    "bedrooms": "5",
+    "beds": "8",
+    "baths": "5"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Terletak di atas lautan di sisi barat Nusa Lembongan yang damai.\n\nNusa del Rey adalah tempat angin laut menemui Anda saat sarapan dan matahari menyatu dengan cakrawala dari lubang api pribadi Anda. \n\nLima kamar tidur, enam staf, dan tidak ada agenda apa pun selain apa pun yang Anda inginkan.",
+  "scraped_at": "2026-10-04T08:36:50Z"
+}

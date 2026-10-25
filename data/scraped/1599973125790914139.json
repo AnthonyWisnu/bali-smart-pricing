@@ -1,0 +1,37 @@
+{
+  "room_id": "1599973125790914139",
+  "name_raw": "Villa in Melaya - Luxury 3BR Pool Villa in Melaya | Villa Mandari",
+  "price_raw": "Rp 9,900,000",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1599973125790914139",
+  "sub_district": "Melaya",
+  "latitude": -8.2587,
+  "longitude": 114.4775,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "5",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Temukan Bali Barat yang masih alami di Villa Mandari. Vila pribadi modern untuk 6 orang ini memiliki kolam renang besar seluas 60 m², area lounge yang lebih rendah, dan 3 kamar tidur dengan kamar mandi dalam. Terletak 70 m dari pantai di Melaya yang tenang, tempat ini merupakan basis ideal untuk menyelam di terumbu karang Pulau Menjangan dan bersantai dengan tenang. Termasuk WiFi cepat, layanan kebersihan harian, dan parkir berpagar. Tersedia layanan transportasi bandara, sopir pribadi, dan koki",
+  "scraped_at": "2026-10-04T08:24:39Z"
+}

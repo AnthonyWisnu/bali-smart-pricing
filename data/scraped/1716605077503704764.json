@@ -1,0 +1,37 @@
+{
+  "room_id": "1716605077503704764",
+  "name_raw": "Home in South Kuta - Casa Semara  -  Escape to Luxury in Bali",
+  "price_raw": "Rp 12,053,605",
+  "rating_raw": "5.0",
+  "review_count_raw": 3,
+  "regency": "Kabupaten Badung",
+  "url": "https://www.airbnb.com/rooms/1716605077503704764",
+  "sub_district": "Kecamatan Kuta Selatan",
+  "latitude": -8.8339,
+  "longitude": 115.1523,
+  "capacity": {
+    "guests": "3",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Temukan liburan tropis sempurna Anda di pusat Uluwatu. Villa yang chic dan modern ini dirancang dengan cermat untuk menawarkan kenyamanan, gaya, dan privasi, menjadikannya tempat peristirahatan yang ideal bagi pasangan atau wisatawan solo.\nVilla ini menyediakan tempat peristirahatan yang santai jauh dari keramaian, namun tetap dekat dengan beberapa destinasi paling ikonis di Bali. Habiskan hari Anda menjelajahi pantai berpasir putih Uluwatu yang menakjubkan dan hiburan kelas dunia di Savaya Bali",
+  "scraped_at": "2026-10-04T08:09:29Z"
+}

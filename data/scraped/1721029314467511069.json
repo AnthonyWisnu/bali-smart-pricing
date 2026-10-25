@@ -1,0 +1,37 @@
+{
+  "room_id": "1721029314467511069",
+  "name_raw": "Guesthouse in Kecamatan Ubud - Harmoni House | 4BR Cozy Homestay with Local Host",
+  "price_raw": "Rp 8,406,595",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1721029314467511069",
+  "sub_district": "Kecamatan Ubud",
+  "latitude": -8.4862,
+  "longitude": 115.2512,
+  "capacity": {
+    "guests": "8",
+    "bedrooms": "4",
+    "beds": "4",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di Harmony House, rumah tamu yang nyaman tempat Anda dapat merasakan keramahtamahan Bali yang sesungguhnya. Nikmati kamar pribadi yang nyaman di rumah yang tenang yang dibagi dengan tuan rumah lokal Anda. Terletak di area wisata populer, Anda akan dekat dengan pantai, kafe, restoran, dan tempat wisata lokal. Kami akan dengan senang hati membantu Anda terkait transportasi bandara, penyewaan skuter, dan rekomendasi lokal agar masa menginap Anda santai, nyaman, dan berkesan.\n",
+  "scraped_at": "2026-10-04T08:13:46Z"
+}

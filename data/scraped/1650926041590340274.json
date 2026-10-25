@@ -1,0 +1,37 @@
+{
+  "room_id": "1650926041590340274",
+  "name_raw": "Room in Kintamani - The Dream Hill Bali, Mediterranean room type 2",
+  "price_raw": "Rp 4,165,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 3,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1650926041590340274",
+  "sub_district": "Kintamani",
+  "latitude": -8.22106,
+  "longitude": 115.40684,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Tempat liburan Mediterania trendi dengan pemandangan menakjubkan.\nKemewahan Pribadi: Dilengkapi dengan kolam renang pribadi dan bak air panas di dekat kolam renang \nPanorama Tanpa Halangan: Pemandangan langsung ke dua gunung, perbukitan bergelombang, dan danau yang tenang.\nMatahari Terbit Keemasan: Bangunlah untuk menikmati pemandangan pagi yang spektakuler langsung dari tempat tidur atau kolam renang Anda",
+  "scraped_at": "2026-10-04T08:35:25Z"
+}

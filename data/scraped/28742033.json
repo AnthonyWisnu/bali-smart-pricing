@@ -1,0 +1,37 @@
+{
+  "room_id": "28742033",
+  "name_raw": "Villa in Karangasem - Rumah Kelapa Villa Senang\nJasri Karangasem",
+  "price_raw": "Rp 3,555,000",
+  "rating_raw": "4.93",
+  "review_count_raw": 139,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/28742033",
+  "sub_district": "Kecamatan Karangasem",
+  "latitude": -8.4752,
+  "longitude": 115.6191,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa Senang (Happy) Salah satu dari tiga kamar tidur villa di Rumah Kelapa yang indah, Jasri. Dikelilingi oleh Coconut Plantations, 400 meter ke Samudra,lima menit ke Jasri Surf Beach dan sepuluh menit ke Virgin Beach pasir putih yang menakjubkan.\nNikmati keajaiban Bali lama.",
+  "scraped_at": "2026-10-04T08:31:22Z"
+}

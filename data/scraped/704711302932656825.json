@@ -1,0 +1,37 @@
+{
+  "room_id": "704711302932656825",
+  "name_raw": "Bed and breakfast in Pekutatan - Bombora Medewi• The Residence • Ocean Front Luxury",
+  "price_raw": "Rp 41,580,000",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/704711302932656825",
+  "sub_district": "Kecamatan Pekutatan",
+  "latitude": -8.4194,
+  "longitude": 114.8053,
+  "capacity": {
+    "guests": "5",
+    "bedrooms": "1",
+    "beds": "3",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Benar-benar di depan pantai! Berenang di kolam renang atap pribadi Anda yang menghadap ke tempat berselancar Medewi Point yang terkenal di dunia!Nikmati akomodasi lantai atas pribadi seluas 250 meter persegi dengan ruang tamu terpisah, kamar tidur utama mewah dengan kamar mandi & bak mandi, kamar tidur tamu yang luas, serta kolam renang pribadi dan balkon. Bagian dari hotel butik 'Bombora Medewi', dengan dapur dan bar di lantai bawah dari 'The Residence'. Nikmati layanan kamar kami dari privasi ",
+  "scraped_at": "2026-10-04T08:29:14Z"
+}

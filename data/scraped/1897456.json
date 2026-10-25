@@ -1,0 +1,37 @@
+{
+  "room_id": "1897456",
+  "name_raw": "Villa in Tegallengah-Lovina - Private villa at sea with swimming pool & staff.",
+  "price_raw": "Rp 32,170,513",
+  "rating_raw": "4.95",
+  "review_count_raw": 21,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1897456",
+  "sub_district": "Tegallengah-Lovina",
+  "latitude": -8.1954,
+  "longitude": 114.8773,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "2",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berliburlah ke surga pribadi Anda Villa Nujum; vila tepi pantai bergaya dengan kolam renang pribadi dan jacuzzi, tepat di pantai dengan pemandangan laut.  Manjakan diri Anda oleh tim khusus kami. 2 wanita menyiapkan makanan segar, layanan kebersihan harian, pijat di vila, dan sopir dan manajer untuk mengatur segalanya mulai dari transfer, wisata hingga makan malam romantis. Villa Nujum adalah tempat di mana satu - satunya pekerjaan Anda adalah bersantai dan menikmati sepenuhnya matahari, laut, d",
+  "scraped_at": "2026-10-04T08:29:49Z"
+}

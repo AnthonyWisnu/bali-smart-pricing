@@ -1,0 +1,37 @@
+{
+  "room_id": "1481922782867507478",
+  "name_raw": "Cabin in Tegalalang - Rustic Cabin | Private Pool & Nature View",
+  "price_raw": "Rp 6,847,062",
+  "rating_raw": "4.82",
+  "review_count_raw": 55,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1481922782867507478",
+  "sub_district": "Tegallalang",
+  "latitude": -8.4127,
+  "longitude": 115.2834,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rustic Kabin adalah rumah kecil bergaya kabin dengan sentuhan kayu dan bebatuan alami. Desainnya menyatu dengan lingkungan sekitar, menghadirkan suasana yang unik dan natural, berada di area yang dekat dengan hutan yang masih alami. Area luar menampilkan kolam bernuansa alami yang menghadap lembah serta detail batu dan elemen organik di berbagai sudut. Seluruh area kabin bersifat pribadi, cocok bagi tamu yang ingin merasakan pengalaman menginap dengan karakter yang berbeda.",
+  "scraped_at": "2026-10-04T08:15:27Z"
+}

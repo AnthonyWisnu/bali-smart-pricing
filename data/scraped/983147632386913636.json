@@ -1,0 +1,37 @@
+{
+  "room_id": "983147632386913636",
+  "name_raw": "Cabin in Penebel - Cabin w/Hot Tub, 8 min drive Unesco Rice terraces",
+  "price_raw": "Rp 20,773,650",
+  "rating_raw": "4.97",
+  "review_count_raw": 107,
+  "regency": "Kabupaten Badung",
+  "url": "https://www.airbnb.com/rooms/983147632386913636",
+  "sub_district": "Penebel",
+  "latitude": -8.3636,
+  "longitude": 115.1129,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selami ketenangan dengan kabin bergaya rumah pohon yang mewah di pedesaan Bali. Dengan desain yang memadukan modernitas dan alam, nikmati panorama menakjubkan langsung dari tempat tidur Anda. Bangun dengan pemandangan yang tenang, bersantai di teras yang luas, dan memasak di dapur terbuka. Tempat yang ideal untuk liburan romantis atau tempat peristirahatan yang tenang. Pesanlah permata ini dan wujudkan impian kabin terbaik di Bali!",
+  "scraped_at": "2026-10-04T08:09:38Z"
+}

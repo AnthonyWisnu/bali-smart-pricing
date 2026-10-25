@@ -1,0 +1,37 @@
+{
+  "room_id": "1685216526107971000",
+  "name_raw": "Room in Kintamani - Skylake Suite - Lakefront Hot Spring & Lake View",
+  "price_raw": "Rp 8,500,000",
+  "rating_raw": "4.82",
+  "review_count_raw": 11,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1685216526107971000",
+  "sub_district": "Kintamani",
+  "latitude": -8.2359,
+  "longitude": 115.4098,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nikmati tempat peristirahatan unik di tepi danau yang menampilkan desain atap kayu yang khas dan suasana alami yang hangat. Terletak di tepi danau dengan pemandangan perbukitan dan perairan berkilauan yang mempesona, tempat liburan yang damai ini menawarkan liburan yang sempurna di alam. Bersantai di kolam renang kecil pribadi yang diisi dengan air panas pegunungan alami, dikelilingi udara segar dan pemandangan tenang, menciptakan masa inap yang menenangkan dan ideal untuk beristirahat, berroman",
+  "scraped_at": "2026-10-04T08:11:48Z"
+}

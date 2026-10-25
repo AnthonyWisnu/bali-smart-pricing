@@ -1,0 +1,37 @@
+{
+  "room_id": "40264003",
+  "name_raw": "Villa in Amed - Rose Valley Villa",
+  "price_raw": "Rp 10,270,593",
+  "rating_raw": "4.94",
+  "review_count_raw": 48,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/40264003",
+  "sub_district": "Amed",
+  "latitude": -8.3317,
+  "longitude": 115.63,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "5",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Vila tiga kamar tidur cantik yang terletak di lingkungan yang tenang, berjalan kaki sebentar dari pantai. Tempat ini memiliki kolam renang pribadi dengan area anak - anak yang dibatasi.\nVila ini menawarkan ruang tamu besar dan area makan, dapur modern lengkap, Internet berkecepatan tinggi, TV Android, air panas, dan AC.\nTempat peristirahatan yang damai untuk keluarga dan teman - teman, liburan sempurna yang tersembunyi dalam suara alam.",
+  "scraped_at": "2026-10-04T08:30:57Z"
+}

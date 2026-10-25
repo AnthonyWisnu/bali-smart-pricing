@@ -1,0 +1,37 @@
+{
+  "room_id": "1696736368465258424",
+  "name_raw": "Home in Tegalalang - Lovers' Hideaway | Jungle Tub & Pool",
+  "price_raw": "Rp 9,509,805",
+  "rating_raw": "5.0",
+  "review_count_raw": 10,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1696736368465258424",
+  "sub_district": "Tegallalang",
+  "latitude": -8.4734,
+  "longitude": 115.2608,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Jika Anda mencari tempat yang tenang untuk bersantai, Anda telah menemukannya. Dikelilingi pemandangan hutan yang rimbun, vila ini memiliki kolam renang pribadi, bak mandi luar ruangan unik di taman, dan banyak sudut nyaman untuk bersantai. Baik Anda merayakan sesuatu yang istimewa atau sekadar melepaskan diri dari kehidupan sehari-hari, tempat ini diciptakan untuk momen-momen yang berkesan.",
+  "scraped_at": "2026-10-04T08:14:31Z"
+}

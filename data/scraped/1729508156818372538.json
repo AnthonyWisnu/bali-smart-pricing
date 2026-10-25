@@ -1,0 +1,37 @@
+{
+  "room_id": "1729508156818372538",
+  "name_raw": "Home in Banjar - Villa Kupu-Kupu 2B, Lovina",
+  "price_raw": "Rp 8,000,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 3,
+  "regency": "Kabupaten Buleleng",
+  "url": "https://www.airbnb.com/rooms/1729508156818372538",
+  "sub_district": "Banjar",
+  "latitude": -8.1774,
+  "longitude": 115.016,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di Villa Kupu-Kupu 2B, villa tropis pribadi yang luas di Lovina yang tenang. Nikmati kolam renang pribadi dengan infinity edge yang indah, dikelilingi taman tropis yang hijau dan pohon kelapa. Bersantai di pool deck, menikmati hidangan bersama di teras beratap, atau bersantai di ruang tamu yang nyaman. Dengan dua kamar tidur dan ruang yang luas, villa ini ideal untuk keluarga, dua pasangan, atau teman yang bepergian bersama.",
+  "scraped_at": "2026-10-04T08:17:00Z"
+}

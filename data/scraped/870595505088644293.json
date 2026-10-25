@@ -1,0 +1,37 @@
+{
+  "room_id": "870595505088644293",
+  "name_raw": "Rooms in Pekutatan - Twin Room 2 Bedroom In Medewi",
+  "price_raw": "Rp 8,027,500",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/870595505088644293",
+  "sub_district": "Pekutatan",
+  "latitude": -8.4107,
+  "longitude": 114.8113,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Menawarkan kolam renang luar ruangan dan pusat spa, Medewi Surf Villa berlokasi di Pulukan, 23 mil dari Lovina.\n\nPemandangan laut, pegunungan, atau kolam renang ditampilkan di kamar - kamar tertentu. Kamar dilengkapi dengan kamar mandi pribadi atau bersama. Sebuah TV layar datar disediakan.\n\nAda dapur bersama di properti.\n\nGuest house ini juga menawarkan penggunaan sepeda dan penyewaan sepeda gratis. Pemuteran berjarak 22 mil dari Medewi Surf Villa, sedangkan Canggu berjarak 27 mil dari properti",
+  "scraped_at": "2026-10-04T08:28:50Z"
+}

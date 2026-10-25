@@ -1,0 +1,37 @@
+{
+  "room_id": "1675416146935976450",
+  "name_raw": "Home in Kediri - 3BR Huge Rice Field View & Private Pool Canggu",
+  "price_raw": "Rp 16,640,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 7,
+  "regency": "Kabupaten Badung",
+  "url": "https://www.airbnb.com/rooms/1675416146935976450",
+  "sub_district": "Kediri",
+  "latitude": -8.5864,
+  "longitude": 115.1291,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "5",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di tempat liburan tropis pribadi Anda — vila 3 kamar tidur yang dirancang dengan indah di daerah yang tenang dan dikelilingi sawah rimbun, hanya dengan berkendara sebentar dari Canggu dan Nuanu Creative City. \n\nNikmati pengalaman hidup dalam dan luar ruangan yang mulus dengan kolam renang pribadi, dek matahari, dan area tamu terbuka yang dikelilingi kehijauan tropis. \n\nSetiap kamar tidur memiliki pintu kaca besar dengan cahaya alami dan pemandangan langsung ke kolam renang dan tam",
+  "scraped_at": "2026-10-04T08:09:45Z"
+}

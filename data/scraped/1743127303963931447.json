@@ -1,0 +1,37 @@
+{
+  "room_id": "1743127303963931447",
+  "name_raw": "Guesthouse in Rendang - Villa with vew agung mountain and rice terrace",
+  "price_raw": "Rp 40,028,758",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1743127303963931447",
+  "sub_district": "Kecamatan Rendang",
+  "latitude": -8.4201,
+  "longitude": 115.4253,
+  "capacity": {
+    "guests": "15",
+    "bedrooms": "10",
+    "beds": "18",
+    "baths": null
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Anda akan senang menginap di tempat nyaman ini.",
+  "scraped_at": "2026-10-04T08:34:55Z"
+}

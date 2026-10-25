@@ -1,0 +1,37 @@
+{
+  "room_id": "860026435900714152",
+  "name_raw": "Villa in Manggis - Private Villa Kayu in Padangbai!",
+  "price_raw": "Rp 10,841,182",
+  "rating_raw": "4.86",
+  "review_count_raw": 64,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/860026435900714152",
+  "sub_district": "Kecamatan Manggis",
+  "latitude": -8.54037,
+  "longitude": 115.50217,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nikmati ketenangan dan lingkungan sekitar yang indah di Villa Kayu!\nVila pribadi kami dikelilingi oleh tanaman hijau alam dan hanya berjarak 100 meter dari pantai. Pelabuhan Padangbai, dari mana feri berangkat setiap hari hanya berjarak 1,5 kilometer dan beberapa pantai eksotis berjarak kurang dari 2 kilometer.\nVilla ini memiliki apartemen satu kamar yang luas di lantai pertama dengan kamar mandi dalam, dapur, dan teras hidup besar. Di lantai bawah terdapat 2 kamar tepi kolam renang dengan kamar",
+  "scraped_at": "2026-10-04T08:37:33Z"
+}

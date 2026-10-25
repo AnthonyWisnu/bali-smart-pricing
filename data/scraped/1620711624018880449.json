@@ -1,0 +1,37 @@
+{
+  "room_id": "1620711624018880449",
+  "name_raw": "Cabin in Baturiti - Wabi-sabi Lodge",
+  "price_raw": "Rp 9,400,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 22,
+  "regency": "Kabupaten Badung",
+  "url": "https://www.airbnb.com/rooms/1620711624018880449",
+  "sub_district": "Baturiti",
+  "latitude": -8.33639,
+  "longitude": 115.147,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Ruang tamu terang dan dapur lengkap dengan pemandangan indah. Dua kamar tidur dan satu kamar mandi. Dibangun dari kayu, bambu, batu, dan bata. Terletak di lereng Gunung Adeng, dekat desa kecil di tepi hutan. Udara sejuk, suasana tenang. Jika berkenan, orang tua kami dapat memasakkan hidangan Bali autentik untuk Anda.",
+  "scraped_at": "2026-10-04T08:09:42Z"
+}

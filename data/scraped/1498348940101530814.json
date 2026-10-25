@@ -1,0 +1,37 @@
+{
+  "room_id": "1498348940101530814",
+  "name_raw": "Treehouse in Sidemen - NEW! Green Earth Bali | Cocoa Villa",
+  "price_raw": "Rp 30,357,145",
+  "rating_raw": "4.79",
+  "review_count_raw": 43,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1498348940101530814",
+  "sub_district": "Sidemen",
+  "latitude": -8.4712,
+  "longitude": 115.4345,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rasakan relaksasi terbaik di pusat Bali di vila bambu mewah eksklusif di Sidemen.\nBangunlah dengan pemandangan Gunung Agung yang menakjubkan tepat dari tempat tidur Anda, dan bersantai di kolam air panas Jacuzzi pribadi yang dikelilingi oleh alam yang rimbun.\nNikmati sarapan gratis setiap pagi, dan nikmati makanan lezat di restoran kami yang disiapkan dengan hasil bumi organik segar dari peternakan kami sendiri.\nSeorang pelayan pribadi selalu siap sedia untuk menjadikan masa menginap Anda lancar",
+  "scraped_at": "2026-10-04T08:35:10Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1560037996600970497",
+  "name_raw": "Villa in Gerokgak - Sungairaja Oceanfront Beach Villa, Buleleng, Bali",
+  "price_raw": "Rp 26,000,000",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1560037996600970497",
+  "sub_district": "Gerokgak",
+  "latitude": -8.1962,
+  "longitude": 114.8686,
+  "capacity": {
+    "guests": "8",
+    "bedrooms": "4",
+    "beds": "4",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nikmati vila tepi laut yang luas di Bali dengan pemandangan menakjubkan dan ruang yang luas untuk bersantai. Dikelilingi taman tropis, vila ini menawarkan liburan yang damai dengan kolam renang pribadi dan ruang tamu terbuka. Staf kami yang membantu akan mengurus kebersihan harian dan membantu segala yang Anda butuhkan, memastikan masa inap yang nyaman dan bebas stres. Sangat cocok untuk keluarga, teman, atau pasangan yang mencari liburan santai di tepi laut.",
+  "scraped_at": "2026-10-04T08:26:10Z"
+}

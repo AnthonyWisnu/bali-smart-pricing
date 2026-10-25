@@ -1,0 +1,37 @@
+{
+  "room_id": "20041888",
+  "name_raw": "Home in Abang - Amed  beachfront paradise villa",
+  "price_raw": "Rp 4,564,708",
+  "rating_raw": "4.92",
+  "review_count_raw": 289,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/20041888",
+  "sub_district": "Abang",
+  "latitude": -8.33636,
+  "longitude": 115.64919,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "3",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Sangat cocok untuk keluarga, penyelam, dan wisatawan yang ingin bersantai di tepi perairan dengan pemandangan indah Gunung Agung dan Teluk Jemeluk. Pondok baru yang nyaman untuk empat orang yang memiliki wifi, AC, kelambu dan air panas. Anda akan menerima sambutan hangat.",
+  "scraped_at": "2026-10-04T08:34:04Z"
+}

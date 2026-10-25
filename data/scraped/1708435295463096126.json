@@ -1,0 +1,37 @@
+{
+  "room_id": "1708435295463096126",
+  "name_raw": "Villa in Ubud - Authentic 3BR Villa Damara E-18 Retreat w/ Pool",
+  "price_raw": "Rp 12,950,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 6,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1708435295463096126",
+  "sub_district": "Ubud",
+  "latitude": -8.4763,
+  "longitude": 115.2504,
+  "capacity": {
+    "guests": "5",
+    "bedrooms": "3",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "✨Dapatkan HARGA TERBAIK Anda di sini sekarang!✨\n\nTemukan keanggunan arsitektur butik di Villa Damara E-18 di Ubud yang kaya budaya. Dirancang untuk menampung hingga 5 tamu, hunian pribadi 3 kamar tidur ini memiliki dinding beraksen bata merah, kolam renang pribadi, dapur berdesain kayu ek beralur dengan meja makan berbentuk pulau dari beton, dan pancuran hujan. Berjarak 10 menit dari Museum Blanco dan 15 menit dari Ubud Yoga House. Pesan sekarang.",
+  "scraped_at": "2026-10-04T08:14:34Z"
+}

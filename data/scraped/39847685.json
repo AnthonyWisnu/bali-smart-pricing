@@ -1,0 +1,37 @@
+{
+  "room_id": "39847685",
+  "name_raw": "Room in Pekutatan - Bombora Ocean Deluxe · Bombora Ocean Deluxe",
+  "price_raw": "Rp 17,820,000",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/39847685",
+  "sub_district": "Pekutatan",
+  "latitude": -8.4194,
+  "longitude": 114.8053,
+  "capacity": {
+    "guests": "3",
+    "bedrooms": "1",
+    "beds": "4",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nikmati kenyamanan kamar lantai satu seluas 44 meter persegi dengan pemandangan yang dengan senang hati Anda akan menyia - nyiakan jam menonton, luas, mewah, dan dibangun dengan cermat untuk memastikan Anda hampir selalu bisa melihat, mencium, dan mendengar lautan serta menghilangkan stres.",
+  "scraped_at": "2026-10-04T08:27:43Z"
+}

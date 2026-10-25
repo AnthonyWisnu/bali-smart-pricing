@@ -1,0 +1,37 @@
+{
+  "room_id": "1660741653676127955",
+  "name_raw": "Cabin in Tegalalang - Green Cabin | Private Pool with Jungle View",
+  "price_raw": "Rp 8,558,828",
+  "rating_raw": "4.89",
+  "review_count_raw": 19,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1660741653676127955",
+  "sub_district": "Tegallalang",
+  "latitude": -8.4093,
+  "longitude": 115.2843,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Green Cabin adalah rumah kecil berbentuk kabin kayu di tepi lembah yang dikelilingi pemandangan hutan tropis. Akomodasi ini dilengkapi kolam renang pribadi yang menghadap langsung ke alam terbuka, memberikan pengalaman menginap dengan suasana alami. Akses menuju kabin melalui beberapa anak tangga. Jalan menuju lokasi tidak sepenuhnya mulus, namun masih dapat dilalui kendaraan. Cocok bagi Anda yang ingin menikmati pengalaman menginap di tengah suasana alam Bali.",
+  "scraped_at": "2026-10-04T08:22:34Z"
+}

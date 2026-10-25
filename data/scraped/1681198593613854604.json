@@ -1,0 +1,37 @@
+{
+  "room_id": "1681198593613854604",
+  "name_raw": "Home in Ubud - Luxury 2 Bedrooms villa In Ubud,",
+  "price_raw": "Rp 7,000,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 12,
+  "regency": "Kabupaten Badung",
+  "url": "https://www.airbnb.com/rooms/1681198593613854604",
+  "sub_district": "Ubud",
+  "latitude": -8.5262,
+  "longitude": 115.2487,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "3",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di Bali, dan selamat datang di Ubud, sebuah kota yang kaya akan budaya Bali dan kearifan lokal, penuh dengan keramahtamahan yang hangat dan rasa kepedulian yang kuat terhadap sesama.\nKami dengan bangga menawarkan dua kamar tidur berdesain modern yang memberikan kenyamanan, keamanan, dan suasana santai bagi keluarga atau teman yang ingin menghabiskan liburan mereka di Ubud.\nTim kami berdedikasi untuk memberikan layanan terbaik selama Anda menginap di vila kami, memastikan Anda mend",
+  "scraped_at": "2026-10-04T08:09:25Z"
+}

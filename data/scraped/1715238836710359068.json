@@ -1,0 +1,37 @@
+{
+  "room_id": "1715238836710359068",
+  "name_raw": "Home in Tampaksiring - Luxury Villa Ubud With Jacuzzi Near Monkey Forest",
+  "price_raw": "Rp 30,632,430",
+  "rating_raw": "5.0",
+  "review_count_raw": 3,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1715238836710359068",
+  "sub_district": "Tampaksiring",
+  "latitude": -8.4953,
+  "longitude": 115.2839,
+  "capacity": {
+    "guests": "8",
+    "bedrooms": "4",
+    "beds": "5",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Vila hutan Sunset Forest di Ubud, hanya 5 menit dari pusat, dirancang untuk keluarga dan rombongan hingga 8 tamu. Nikmati kolam renang pribadi yang panjang, jacuzzi luar ruangan, taman tropis, 4 kamar tidur ber-AC, WiFi cepat, parkir gratis, akses smart lock, dan pembersihan harian. Dekat dengan Hutan Monyet, Istana Ubud, Pasar Seni Ubud, Campuhan Ridge Walk, Sawah Terasering Tegallalang, dan Air Terjun Kanto Lampo, dengan suasana Bali yang tenang setelah setiap hari menjelajah dan bersantai di ",
+  "scraped_at": "2026-10-04T08:15:01Z"
+}

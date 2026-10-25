@@ -1,0 +1,37 @@
+{
+  "room_id": "1415899311700298901",
+  "name_raw": "Home in Tegalalang - New! private pool with hammock",
+  "price_raw": "Rp 6,750,000",
+  "rating_raw": "4.98",
+  "review_count_raw": 63,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1415899311700298901",
+  "sub_district": "Tegallalang",
+  "latitude": -8.3819,
+  "longitude": 115.3047,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Timbul Highland Villa adalah tempat peristirahatan yang tenang yang sempurna untuk pasangan atau wisatawan solo yang mencari ketenangan dan pemandangan menakjubkan di daerah pedesaan. Terletak di perbukitan yang rimbun, tempat ini menawarkan pemandangan yang menakjubkan dan kenyamanan modern. Nikmati interior yang nyaman, balkon pribadi, dan akses mudah ke lintas alam dan desa budaya yang indah. Rasakan perpaduan sempurna antara alam dan kemewahan di Timbul Highland Villa. Pesan sekarang untuk l",
+  "scraped_at": "2026-10-04T08:13:34Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "9653474",
+  "name_raw": "Rooms in Pekutatan - Beach Front Villa Kharisma Medewi",
+  "price_raw": "Rp 5,205,804",
+  "rating_raw": "4.38",
+  "review_count_raw": 13,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/9653474",
+  "sub_district": "Pekutatan",
+  "latitude": -8.436,
+  "longitude": 114.84104,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Tempat menakjubkan untuk menghindarkan diri dari keramaian, Vila di depan pantai dengan warna hijau dan teduh di tepi kebun sawit kecil, terletak di antara vila lokal bali, Vila 2 kamar tidur dengan kolam renang, kami bisa menyediakan atau mengatur segala yang Anda butuhkan, yang perlu Anda lakukan untuk meminta",
+  "scraped_at": "2026-10-04T08:26:20Z"
+}

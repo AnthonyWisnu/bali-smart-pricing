@@ -1,0 +1,37 @@
+{
+  "room_id": "1649833635450006400",
+  "name_raw": "Room in Kubu - Oceanfront Boutique Resort with Fishing Spot",
+  "price_raw": "Rp 10,163,700",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1649833635450006400",
+  "sub_district": "Kubu",
+  "latitude": -8.1819,
+  "longitude": 115.4828,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rasakan kesegaran saat Anda bangun dengan suara laut di Vela Tianyar Boutique Resort, tempat liburan tepi pantai yang damai di pesisir utara Bali yang masih alami. Nikmati penginapan unik yang memadukan kenyamanan dan alam dengan pemandangan matahari terbit yang menakjubkan.\n\n• Lokasi tepi pantai\n• Tenda mewah dengan AC & kamar mandi pribadi\n• Kolam renang dengan pemandangan laut\n• Suasana yang tenang dan terpencil\n• Sempurna untuk pasangan & pencari tempat peristirahatan di tempat istimewa berg",
+  "scraped_at": "2026-10-04T08:33:40Z"
+}

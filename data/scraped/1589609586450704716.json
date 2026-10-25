@@ -1,0 +1,37 @@
+{
+  "room_id": "1589609586450704716",
+  "name_raw": "Villa in Tampaksiring - Shanti Sawah 5BR Nature View Near Ubud Center",
+  "price_raw": "Rp 40,666,293",
+  "rating_raw": "4.78",
+  "review_count_raw": 97,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1589609586450704716",
+  "sub_district": "Tampaksiring",
+  "latitude": -8.495,
+  "longitude": 115.284,
+  "capacity": {
+    "guests": "5",
+    "bedrooms": "3",
+    "beds": "81",
+    "baths": "5"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di Villa Shanti Sawah di Pejeng, retret 5 kamar yang memadukan desain modern dengan lanskap alami Ubud yang memikat.",
+  "scraped_at": "2026-10-04T08:14:51Z"
+}

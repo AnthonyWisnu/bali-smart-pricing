@@ -1,0 +1,37 @@
+{
+  "room_id": "1731125468545728812",
+  "name_raw": "Room in Kintamani - 1 Bedroom Private Pool &Natural Hot Spring Jacuzzi",
+  "price_raw": "Rp 4,300,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1731125468545728812",
+  "sub_district": "Kintamani",
+  "latitude": -8.24,
+  "longitude": 115.399,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berliburlah ke villa satu kamar tidur yang tenang di Kintamani dengan pemandangan Gunung Batur, Danau Batur, dan hutan di sekitarnya yang mempesona. Bersantai di kolam renang pribadi Anda dan bersantai di jacuzzi sumber air panas alami pribadi sambil menikmati udara pegunungan yang sejuk. Sempurna untuk pasangan yang mencari romansa, privasi, dan masa inap yang tak terlupakan dikelilingi alam.",
+  "scraped_at": "2026-10-04T08:15:32Z"
+}

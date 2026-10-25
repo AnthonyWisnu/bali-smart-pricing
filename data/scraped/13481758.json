@@ -1,0 +1,37 @@
+{
+  "room_id": "13481758",
+  "name_raw": "Villa in Manggis - Luxurious Ocean-front Villa Gita in Candidasa",
+  "price_raw": "Rp 34,358,324",
+  "rating_raw": "4.95",
+  "review_count_raw": 78,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/13481758",
+  "sub_district": "Manggis",
+  "latitude": -8.50637,
+  "longitude": 115.56323,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "6",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa Gita adalah vila yang sangat indah beberapa langkah dari laut dan snorkeling yang luar biasa. Tempat ini menggabungkan arsitektur Bali klasik dengan desain rencana terbuka kontemporer modern yang ringan, lapang, dan santai. Tempat ini dekat dengan berbagai restoran, tempat wisata lokal, area trekking... Anda akan sangat menyukai tempat saya karena suasananya, orang - orang yang luar biasa, dan terutama bisa menjauh dari semuanya dan menemukan surga ketenangan. Tempat saya cocok untuk pasan",
+  "scraped_at": "2026-10-04T08:34:41Z"
+}

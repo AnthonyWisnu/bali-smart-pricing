@@ -1,0 +1,37 @@
+{
+  "room_id": "39779057",
+  "name_raw": "Villa in Seririt - Oceanfront Villa w/ Pool & Direct Beach Access",
+  "price_raw": "Rp 24,748,138",
+  "rating_raw": "5.0",
+  "review_count_raw": 17,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/39779057",
+  "sub_district": "Seririt",
+  "latitude": -8.19547,
+  "longitude": 114.88039,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "1",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Liburan tepi laut pribadi di pantai utara Bali yang tenang. \n\nNikmati 3 kamar tidur dengan kamar mandi dalam, kolam renang infinity, taman tropis (3.000 meter persegi), dan akses pantai langsung. Layanan staf harian termasuk: perawatan rumah, memasak, tukang kebun & keamanan malam. \n\nMakan malam & sarapan gratis, ditambah moped untuk masa inap Anda. \n\nBersantai di gazebo tepi pantai, jelajahi Lovina di dekatnya, atau snorkeling langsung dari pantai. Kedamaian & kemewahan murni menanti!",
+  "scraped_at": "2026-10-04T08:26:55Z"
+}

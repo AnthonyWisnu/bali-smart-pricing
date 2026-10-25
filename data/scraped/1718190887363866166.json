@@ -1,0 +1,37 @@
+{
+  "room_id": "1718190887363866166",
+  "name_raw": "Home in Ubud - 2 BR Villa - Private Pool - Ubud",
+  "price_raw": "Rp 14,156,868",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1718190887363866166",
+  "sub_district": "Ubud",
+  "latitude": -8.4839,
+  "longitude": 115.2711,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "GEMUHOUSE - Rumah 2 lantai dengan perpaduan yang unik, rumah klasik dengan gaya modern ini punya semuanya terdiri dari 2 kamar tidur, kolam renang pribadi dan dapur dengan fasilitas lengkap.\n\nLokasi strategis hanya 10 menit ke pusat kota UBUD, ada banyak cafe dan restaurant disekitar villa.\n\nSempurna untuk pasangan atau keluarga kecil yang mau liburan santai tanpa kehilangan sentuhan suasana BALI.",
+  "scraped_at": "2026-10-04T08:21:12Z"
+}

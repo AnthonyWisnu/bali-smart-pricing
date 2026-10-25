@@ -1,0 +1,37 @@
+{
+  "room_id": "1730140731867674649",
+  "name_raw": "Tiny home in Payangan - DC Ubud | Floating Bed & Cinema above the Jungle",
+  "price_raw": "Rp 11,710,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1730140731867674649",
+  "sub_district": "Payangan",
+  "latitude": -8.43279,
+  "longitude": 115.27365,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Tidur di ranjang terapung yang melayang di atas kanopi hutan, bangun dengan pemandangan gunung berapi yang menakjubkan, dan bersantai dengan bioskop proyektor pribadi di bawah bintang-bintang. Bersantai di jaring gantung ikonik yang tergantung di atas hutan, berendam di bak mandi luar ruangan Anda yang dikelilingi alam, dan nikmati keindahan Ubud yang damai. Dirancang dengan cermat untuk romansa, kenyamanan, dan momen tak terlupakan, A-Frame yang unik ini adalah tempat liburan yang sempurna untu",
+  "scraped_at": "2026-10-04T08:10:19Z"
+}

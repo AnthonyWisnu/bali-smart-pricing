@@ -1,0 +1,37 @@
+{
+  "room_id": "53695589",
+  "name_raw": "Guesthouse in Nusa Penida - Cute Little Gem 10 minutes to Crystal Bay Beach",
+  "price_raw": "Rp 4,165,000",
+  "rating_raw": "4.72",
+  "review_count_raw": 839,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/53695589",
+  "sub_district": "Nusapenida",
+  "latitude": -8.7052,
+  "longitude": 115.476,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Hanya 10 menit dari pantai Crystal bay yang terkenal, tempat kami yang indah menyediakan kamar tidur pribadi dan bersih dengan kamar mandi dalam + pancuran air panas. Kolam renang tepat di depan kamar dan dapat diakses 24 jam. Ini baik bagi Anda untuk menyegarkan diri setelah seharian menjelajahi pulau ini. Terletak di antara pepohonan tropis akan membuat Anda lebih santai dan menikmati kehidupan pulau. \nKami memiliki restoran yang buka untuk tamu kami mendapatkan sarapan, makan siang, dan makan",
+  "scraped_at": "2026-10-04T08:37:52Z"
+}

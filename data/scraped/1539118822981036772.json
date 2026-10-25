@@ -1,0 +1,37 @@
+{
+  "room_id": "1539118822981036772",
+  "name_raw": "Cabin in Gerokgak - National Park Joglo & Jacuzzi",
+  "price_raw": "Rp 3,500,000",
+  "rating_raw": "4.9",
+  "review_count_raw": 21,
+  "regency": "Kabupaten Buleleng",
+  "url": "https://www.airbnb.com/rooms/1539118822981036772",
+  "sub_district": "Gerokgak",
+  "latitude": -8.15077,
+  "longitude": 114.66251,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berliburlah ke vila yang tenang untuk dua orang di Pemuteran, Singaraja, yang terletak di tengah pepohonan hijau yang rimbun dengan pemandangan Gunung yang menakjubkan. Hanya 10 menit berjalan kaki mengarah ke Coral Garden dan Kuil Bawah Air, sempurna untuk snorkeling di antara kehidupan laut yang semarak. Pulau Menjangan dan Taman Nasional Bali Barat hanya berjarak 15 menit berkendara, ideal untuk menyelam dan petualangan hutan. Pusat desa yang tenang berjarak 5 menit dengan mobil, menawarkan w",
+  "scraped_at": "2026-10-04T08:17:46Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1509390036703184236",
+  "name_raw": "Room in Mendoyo - Traditional Joglo with Garden & Pool in Jembrana",
+  "price_raw": "Rp 3,228,680",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1509390036703184236",
+  "sub_district": "Mendoyo",
+  "latitude": -8.37441,
+  "longitude": 114.70398,
+  "capacity": {
+    "guests": "10",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Temukan pesona kehidupan tradisional Bali di tempat peristirahatan joglo kami yang damai, yang terletak di desa Bilukpoh, Jembrana yang tenang.\nProperti ini menampilkan lima rumah joglo yang dibuat dengan indah, menampung hingga 10 tamu, cocok untuk pasangan, keluarga, atau rombongan yang mencari tempat liburan yang menenangkan.\n\nSetiap joglo menawarkan:\n\t•\tKamar mandi pribadi\n\t-\tAC\n\t•\tWastafel dan lemari pakaian\n\nFasilitas bersama meliputi:\n\t•\tKolam renang\n\t•\tRestoran di lokasi.\n\t•\ttaman\n\t• \tMe",
+  "scraped_at": "2026-10-04T08:24:44Z"
+}

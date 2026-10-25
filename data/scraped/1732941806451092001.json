@@ -1,0 +1,37 @@
+{
+  "room_id": "1732941806451092001",
+  "name_raw": "Home in Sukawati - Gold Rise Villa | 2 BR Tropical Paradise Near Ubud",
+  "price_raw": "Rp 16,584,458",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Badung",
+  "url": "https://www.airbnb.com/rooms/1732941806451092001",
+  "sub_district": "Sukawati",
+  "latitude": -8.5519,
+  "longitude": 115.2489,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di Gold Rise Villa, tempat peristirahatan pribadi 2 kamar tidur yang bergaya dan dikelilingi lanskap tropis Bali yang rindang. Dirancang dengan gaya tropis modern, tempat ini memiliki kolam renang pribadi, area tamu yang luas, dan suasana tenang yang cocok untuk pasangan, keluarga, atau teman. Terletak tepat di luar Ubud, Anda akan menikmati akses mudah ke kuil, air terjun, kafe, dan atraksi budaya sembari kembali ke oasis tenang Anda sendiri untuk bersantai, bekerja dari jarak ja",
+  "scraped_at": "2026-10-04T08:09:18Z"
+}

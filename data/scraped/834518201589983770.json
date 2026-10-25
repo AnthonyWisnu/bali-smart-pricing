@@ -1,0 +1,37 @@
+{
+  "room_id": "834518201589983770",
+  "name_raw": "Nature lodge in Selat - Makerti Bali • Bamboo House",
+  "price_raw": "Rp 21,111,775",
+  "rating_raw": "4.88",
+  "review_count_raw": 80,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/834518201589983770",
+  "sub_district": "Kecamatan Selat",
+  "latitude": -8.4233,
+  "longitude": 115.4585,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "selamat datang di Makerti Bali, rumah bambu yang unik di tengah hutan tropis di Bali adalah pengalaman menginap yang benar - benar unik. Bangun dengan kicauan burung pada pagi hari dan menikmati pemandangan yang luar biasa di atas teras sawah yang tenang, dan hutan tropis dari kamar tidur Anda adalah lanskap khas Bali. Kami berharap tamu kami bisa beristirahat di alam dan ketenangan dan keindahannya.",
+  "scraped_at": "2026-10-04T08:31:24Z"
+}

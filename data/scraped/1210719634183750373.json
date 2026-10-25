@@ -1,0 +1,37 @@
+{
+  "room_id": "1210719634183750373",
+  "name_raw": "Villa in Nusa Penida - Haven of serenity facing the sea",
+  "price_raw": "Rp 36,941,549",
+  "rating_raw": "4.97",
+  "review_count_raw": 64,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/1210719634183750373",
+  "sub_district": "Nusa Penida",
+  "latitude": -8.7777,
+  "longitude": 115.6157,
+  "capacity": {
+    "guests": "8",
+    "bedrooms": "3",
+    "beds": "5",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Terletak di atas tebing yang menghadap ke laut, vila ini menawarkan pemandangan tak tertandingi dari perairan berkilauan di bawahnya. Tamu juga bisa menikmati pemandangan perbukitan hijau subur Nusa Penida yang tenang, memberikan perpaduan sempurna antara pemandangan pesisir dan pedesaan. \n\nLokasi yang unik memastikan privasi dan ketenangan, menjadikannya tempat peristirahatan yang ideal untuk relaksasi dan peremajaan.",
+  "scraped_at": "2026-10-04T08:36:58Z"
+}

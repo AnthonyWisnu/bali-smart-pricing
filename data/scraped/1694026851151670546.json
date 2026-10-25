@@ -1,0 +1,37 @@
+{
+  "room_id": "1694026851151670546",
+  "name_raw": "Room in Negara - Beachfront in West Bali-Twin Bedroom",
+  "price_raw": "Rp 8,750,000",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1694026851151670546",
+  "sub_district": "Jembrana",
+  "latitude": -8.3994,
+  "longitude": 114.66,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Our beachfront spacious place with big swimming pool will be the best place to stay during your visit to west part of Bali. \nWe are located in a Balinese fishermen village and very close to a turtle conservation place.",
+  "scraped_at": "2026-10-04T08:28:19Z"
+}

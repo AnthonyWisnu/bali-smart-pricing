@@ -1,0 +1,37 @@
+{
+  "room_id": "1738588125484973718",
+  "name_raw": "Home in Ubud - Ubud Family Cabin Villa w/Pool & Riverside Balcony",
+  "price_raw": "Rp 5,040,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1738588125484973718",
+  "sub_district": "Ubud",
+  "latitude": -8.5356,
+  "longitude": 115.2813,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Sangat cocok untuk keluarga hingga 4 tamu, kabin kayu kami yang menawan menawarkan liburan yang damai dikelilingi alam tropis. Menampilkan satu kamar tidur yang nyaman dan ruang tamu yang luas dengan dapur kecil, tempat ini ideal untuk 2 orang dewasa dan 2 anak-anak.\n\nNikmati ruang tamu terbuka yang cerah dengan dapur pribadi lengkap, area makan, sofa nyaman, dan Smart TV. Balkon pribadi kami menghadap sungai yang tenang, tempat Anda bisa bersantai sambil menikmati kopi pagi hari atau beristirah",
+  "scraped_at": "2026-10-04T08:22:04Z"
+}

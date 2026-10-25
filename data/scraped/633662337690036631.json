@@ -1,0 +1,37 @@
+{
+  "room_id": "633662337690036631",
+  "name_raw": "Room in Nusa Penida - Sunrise Paradise: Cottage with Ocean View and Pool",
+  "price_raw": "Rp 1,301,438",
+  "rating_raw": "4.78",
+  "review_count_raw": 340,
+  "regency": "Kabupaten Klungkung",
+  "url": "https://www.airbnb.com/rooms/633662337690036631",
+  "sub_district": "Kecamatan Nusa Penida",
+  "latitude": -8.70378,
+  "longitude": 115.58217,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bangun dengan suara ombak dan keindahan matahari terbit di tempat peristirahatan tepi laut kami. Nikmati privasi, pemandangan laut yang indah, dan penginapan pulau yang nyaman.\n\nDi sini, Anda mungkin disambut dan dibantu oleh pemilik atau tim di lokasi dengan keramahtamahan lokal. Hidangan laut segar masakan rumahan juga mungkin tersedia sesuai dengan permintaan, tergantung ketersediaan.\n\nDi pondok sederhana ini, Anda akan mendapatkan:\nTempat tidur ☑ queen\n☑ Kamar mandi dalam\n☑ Wi-Fi hingga 27 M",
+  "scraped_at": "2026-10-04T08:36:45Z"
+}

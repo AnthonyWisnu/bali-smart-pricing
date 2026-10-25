@@ -1,0 +1,37 @@
+{
+  "room_id": "9463499",
+  "name_raw": "Room in Pekutatan - Dikaloha Medewi beach hut",
+  "price_raw": "Rp 843,177",
+  "rating_raw": "4.58",
+  "review_count_raw": 83,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/9463499",
+  "sub_district": "Pekutatan",
+  "latitude": -8.41181,
+  "longitude": 114.80069,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Tempat kami di tengah sawah dan di depan lautan India, jika Anda ingin tempat untuk bersantai jauh dari keramaian dan berselancar di tempat kami adalah yang tepat untuk Anda, ada restoran di sekitar dan pasar malam atau pergi ke pasar ikan tradisional untuk membeli ikan segar di pagi hari.",
+  "scraped_at": "2026-10-04T08:26:14Z"
+}

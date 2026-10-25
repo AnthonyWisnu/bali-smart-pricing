@@ -1,0 +1,37 @@
+{
+  "room_id": "31271875",
+  "name_raw": "Guesthouse in Denpasar Utara - CanangSari Guesthouse great for friend/family of 4",
+  "price_raw": "Rp 4,066,645",
+  "rating_raw": "5.0",
+  "review_count_raw": 37,
+  "regency": "Kota Denpasar",
+  "url": "https://www.airbnb.com/rooms/31271875",
+  "sub_district": "Denpasar Utara",
+  "latitude": -8.6417,
+  "longitude": 115.2218,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "CanangSari Guesthouse adalah bagian dari Canang Sari Homestay di Denpasar, terletak di lantai 2 dengan 2 kamar tidur individu ensuite, masing - masing dengan dapur pribadi dan balkon.  \n\nNikmati taman tropis alami dan kamar yang cerah dan luas. Perlengkapan sarapan gratis, seperti sereal, susu, mie, dan telur, disediakan untuk pagi pertama Anda. Bergabunglah dengan Tur Berjalan Kaki, Tur Tekstil, Kelas Kebugaran, atau Kelas Memasak kami untuk mempelajari resep lokal.\n\nHubungi kami jika kamar ini",
+  "scraped_at": "2026-10-04T08:08:43Z"
+}

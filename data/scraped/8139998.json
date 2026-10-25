@@ -1,0 +1,37 @@
+{
+  "room_id": "8139998",
+  "name_raw": "Villa in Seririt - 4BR Beachfront Tropical Villa",
+  "price_raw": "Rp 13,971,598",
+  "rating_raw": "4.89",
+  "review_count_raw": 257,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/8139998",
+  "sub_district": "Seririt",
+  "latitude": -8.18423,
+  "longitude": 114.90691,
+  "capacity": {
+    "guests": "10",
+    "bedrooms": "4",
+    "beds": "6",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa Danison adalah vila pantai depan yang indah, dikelilingi kebun anggur, sawah, kebun rimbun, dan kolam renang infinity, terletak di pantai Utara Bali yang autentik, di daerah yang tenang dan damai, hanya 20 menit dari Lovina.",
+  "scraped_at": "2026-10-04T08:23:10Z"
+}

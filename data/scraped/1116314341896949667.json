@@ -1,0 +1,37 @@
+{
+  "room_id": "1116314341896949667",
+  "name_raw": "Apartment in Seririt - Private 1BR Suite with Shared Pool by the Beach",
+  "price_raw": "Rp 4,275,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 9,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1116314341896949667",
+  "sub_district": "Seririt",
+  "latitude": -8.1904,
+  "longitude": 114.8886,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bersantai di suite pribadi 1 kamar tidur ini yang hanya beberapa langkah dari pantai di Bali Utara yang tenang. Suite ini dilengkapi AC, kamar mandi pribadi, ruang tamu, dan dapur sederhana untuk kenyamanan Anda. Nikmati kolam renang bersama yang terletak di depan kamar dan akses ke pantai yang indah tepat di seberang properti. Warung tepi pantai lokal di dekatnya menyajikan makanan Indonesia yang lezat dengan nuansa Bali yang autentik, cocok untuk menikmati matahari terbenam dan suasana pantai ",
+  "scraped_at": "2026-10-04T08:23:59Z"
+}

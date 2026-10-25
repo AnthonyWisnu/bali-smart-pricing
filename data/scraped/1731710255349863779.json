@@ -1,0 +1,37 @@
+{
+  "room_id": "1731710255349863779",
+  "name_raw": "Home in Kecamatan Denpasar Barat - Pool Villa Paradise - Canggu / Seminyak",
+  "price_raw": "Rp 10,118,228",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kota Denpasar",
+  "url": "https://www.airbnb.com/rooms/1731710255349863779",
+  "sub_district": "Kecamatan Denpasar Barat",
+  "latitude": -8.66919,
+  "longitude": 115.17741,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa 2 kamar tidur modern baru yang indah dengan kamar mandi en - suite yang dipisahkan oleh kolam renang pribadi dan taman yang terletak di pusat Seminyak utara di pinggir jalan yang tenang jauh dari kebisingan. \n\nIni adalah lokasi yang bagus untuk menjelajahi Bali karena Anda sangat sentral. 10 menit dari Canggu, 10 menit dari Seminyak, 50 menit dari Uluwatu, 50 menit dari Ubud dan 30 menit dari bandara. Villa memiliki dapur lengkap, Smart TV di setiap kamar dan sound bar tempat yang sempurna",
+  "scraped_at": "2026-10-04T08:07:47Z"
+}

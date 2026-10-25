@@ -1,0 +1,37 @@
+{
+  "room_id": "33693141",
+  "name_raw": "Home in Kecamatan Jembrana - Lost Paradise - Find the true Spirit of Bali",
+  "price_raw": "Rp 44,884,429",
+  "rating_raw": "5.0",
+  "review_count_raw": 3,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/33693141",
+  "sub_district": "Kecamatan Jembrana",
+  "latitude": -8.39943,
+  "longitude": 114.65537,
+  "capacity": {
+    "guests": "7",
+    "bedrooms": "4",
+    "beds": "8",
+    "baths": "7"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Kami adalah Keluarga Jerman - Indonesia dan kami menciptakan Impian kami di salah satu daerah paling menarik di Barat - Bali,  di Negara/Jembrana. Jauh dari kerumitan dan kerepotan Kawasan Kuta yang penuh sesak, kami membangun sebuah Rumah, yang tampaknya lebih mirip Kastil kecil. Di dalam Pittoresk Bali Village, Mansion 4 kamar tidur dengan 2 Rumah Pantai tambahan ini berlokasi langsung di Pantai dengan lahan seluas 1,4 hektar. Tetangga adalah orang Bali yang ramah dan Staf berasal dari sini.",
+  "scraped_at": "2026-10-04T08:23:59Z"
+}

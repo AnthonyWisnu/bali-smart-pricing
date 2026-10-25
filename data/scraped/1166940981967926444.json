@@ -1,0 +1,37 @@
+{
+  "room_id": "1166940981967926444",
+  "name_raw": "Rooms in Kecamatan Ubud - Room with Stunning sunrise & rice field in ubud",
+  "price_raw": "Rp 9,340,660",
+  "rating_raw": "4.96",
+  "review_count_raw": 80,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1166940981967926444",
+  "sub_district": "Kecamatan Ubud",
+  "latitude": -8.499,
+  "longitude": 115.2735,
+  "capacity": {
+    "guests": "5",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bersantai di tempat liburan unik dan tenteram ini.",
+  "scraped_at": "2026-10-04T08:21:42Z"
+}

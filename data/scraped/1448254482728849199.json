@@ -1,0 +1,37 @@
+{
+  "room_id": "1448254482728849199",
+  "name_raw": "Home in Mendoyo - Serenity 2BRVilla RiceField view",
+  "price_raw": "Rp 5,509,061",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1448254482728849199",
+  "sub_district": "Mendoyo",
+  "latitude": -8.381,
+  "longitude": 114.68569,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa Baru, villa 2BR yang tenang terletak di pusat desa tradisional Bali di dekat Pantai Delod Berawah. Dikelilingi sawah yang subur, vila ini menawarkan pemandangan matahari terbit yang menakjubkan & suasana pedesaan yang autentik — cocok bagi mereka yang mencari kedamaian dan pengalaman budaya lokal.\n- Area duduk yang luas\n- Dapur dengan perlengkapan lengkap\n- Wi-Fi cepat dan area kerja khusus\nTerletak hanya 5 menit dari Pantai Delod Berawah, dekat dengan pasar lokal, rumah sakit, beberapa wa",
+  "scraped_at": "2026-10-04T08:25:12Z"
+}

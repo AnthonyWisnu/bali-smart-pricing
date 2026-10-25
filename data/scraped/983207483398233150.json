@@ -1,0 +1,37 @@
+{
+  "room_id": "983207483398233150",
+  "name_raw": "Cabin in Penebel - 2ppl Hot Tub/Netflix Projector/BBQ patio Cabin",
+  "price_raw": "Rp 17,360,400",
+  "rating_raw": "4.96",
+  "review_count_raw": 136,
+  "regency": "Kabupaten Badung",
+  "url": "https://www.airbnb.com/rooms/983207483398233150",
+  "sub_district": "Penebel",
+  "latitude": -8.3629,
+  "longitude": 115.1126,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rasakan pengalaman hidup mewah di rumah pohon Bali kami, yang terletak di tengah-tengah pedesaan yang hijau. Kabin mewah yang menyerupai rumah mungil ini memiliki desain sempurna yang menyatu dengan alam. Bangunlah dengan pemandangan pegunungan yang menakjubkan, langsung dari tempat tidur Anda. Bersantailah di bak mandi luar ruangan yang unik, dikelilingi oleh bisikan-bisikan hutan yang tenang. Nikmati BBQ yang menyenangkan di dek pribadi, dengan latar belakang panorama yang indah.",
+  "scraped_at": "2026-10-04T08:09:54Z"
+}

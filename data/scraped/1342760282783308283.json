@@ -1,0 +1,37 @@
+{
+  "room_id": "1342760282783308283",
+  "name_raw": "Room in Mendoyo - Hidden 1BR Cottage Jembrana",
+  "price_raw": "Rp 5,000,000",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1342760282783308283",
+  "sub_district": "Kecamatan Mendoyo",
+  "latitude": -8.3915,
+  "longitude": 114.7696,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berliburlah ke pondok 1 - BR yang menawan di desa Bali yang tenang, sempurna untuk liburan yang damai. Tempat peristirahatan yang nyaman ini menawarkan akses ke kolam renang bersama, ruang tamu terbuka, dan dapur lengkap, memadukan kenyamanan modern dengan sentuhan tradisi. Bersantai di tepi kolam renang, menyiapkan makanan di dapur bersama, atau cukup nikmati lingkungan yang tenang. Ideal untuk pasangan atau wisatawan solo, properti ini memberikan kesempatan unik untuk merasakan pesona Bali yan",
+  "scraped_at": "2026-10-04T08:25:45Z"
+}

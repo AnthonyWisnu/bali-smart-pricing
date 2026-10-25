@@ -1,0 +1,37 @@
+{
+  "room_id": "1409301310483829298",
+  "name_raw": "Villa in Tegalalang - nia ubud villa private pool dipersawahan",
+  "price_raw": "Rp 3,510,156",
+  "rating_raw": "4.96",
+  "review_count_raw": 67,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1409301310483829298",
+  "sub_district": "Tegallalang",
+  "latitude": -8.45941,
+  "longitude": 115.28311,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Beristirahatlah dan bersantai sejenak di oasis damai ini.villa dengan dua kamar tidur yang terletak diutaranya ubud didaerah pedesaan yang dikelilingi hamparan sawah ,villa ini berjarak berkendara tuju menit dari ceking teraces yang terkenal didunia ,villa ini menawarkan malam yang lebih sejuk dari pusat ubud dan bali selatan  haega tidak termasuk sarapan.",
+  "scraped_at": "2026-10-04T08:13:40Z"
+}

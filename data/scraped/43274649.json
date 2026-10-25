@@ -1,0 +1,37 @@
+{
+  "room_id": "43274649",
+  "name_raw": "Rooms in Melaya - PUTRi Kori Villa and Resort Secret Getaway",
+  "price_raw": "Rp 4,595,467",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/43274649",
+  "sub_district": "Kecamatan Melaya",
+  "latitude": -8.25079,
+  "longitude": 114.47273,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "5",
+    "beds": "5",
+    "baths": "5"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Resor ini memiliki 5 Villa'sSetiap villa Memiliki Tempat Tidur & Kamar Mandi Kingsize dengan pemandangan ke Kolam Renang. Anda bisa memesan 1 Villa untuk 2 tamu. Kami berada di Desa lokal melaya sumbersari. 3 menit Berjalan kaki ke Pantai Hanya Beberapa Fischermann. Buka Jungle View. 30 menit Berkendara ke Permuteran 20 menit Berkendara ke Thema Ferry ke Gilimunuk.Daytrip ke Thema Hotsprings an Lovina.",
+  "scraped_at": "2026-10-04T08:27:36Z"
+}

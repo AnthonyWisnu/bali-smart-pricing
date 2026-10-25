@@ -1,0 +1,37 @@
+{
+  "room_id": "1362039709693669365",
+  "name_raw": "Villa in Tembuku - Private 2BR Balinese Artist Villa | Jungle/FirePit",
+  "price_raw": "Rp 4,506,610",
+  "rating_raw": "5.0",
+  "review_count_raw": 5,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1362039709693669365",
+  "sub_district": "Tembuku",
+  "latitude": -8.4453,
+  "longitude": 115.3968,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Vila Bali 2BR Terpencil | Jungle Escape\n\nTerletak di ujung jalan yang tenang, vila modern tradisional ini menawarkan ukiran yang rumit, teras besar, dan pemandangan hutan. Bersantai di kamar tidur yang luas, ruang tamu terbuka, dan ruang santai yang nyaman dengan Netflix. Bangunlah untuk menikmati kicauan b****g, jelajahi air terjun terdekat, dan bersantai dengan ketenangan total. Sangat cocok untuk pasangan, orang kreatif, atau pencinta alam yang mencari tempat peristirahatan yang damai. Wifi, ",
+  "scraped_at": "2026-10-04T08:13:22Z"
+}

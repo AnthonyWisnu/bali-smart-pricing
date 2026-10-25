@@ -1,0 +1,37 @@
+{
+  "room_id": "1694665751405540176",
+  "name_raw": "Villa in Payangan - Luxury Hexagon Floating Ricefield Sanctuary",
+  "price_raw": "Rp 6,185,465",
+  "rating_raw": "5.0",
+  "review_count_raw": 5,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1694665751405540176",
+  "sub_district": "Payangan",
+  "latitude": -8.45278,
+  "longitude": 115.25218,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di Neira Villa Ubud, mahakarya arsitektur unik berbentuk segi enam yang tampak melayang dengan anggun di atas sawah hijau zamrud yang subur di Desa Kelusa. Jika Anda mencari tempat liburan terbaik dari hiruk pikuk kehidupan kota tanpa mengorbankan kenyamanan dan kemewahan, tempat peristirahatan ini adalah jawaban Anda. Tempat ini dirancang sempurna untuk liburan romantis, penyembuhan spiritual, atau merayakan bulan madu yang tak terlupakan.",
+  "scraped_at": "2026-10-04T08:20:12Z"
+}

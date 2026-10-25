@@ -1,0 +1,37 @@
+{
+  "room_id": "4543313",
+  "name_raw": "Villa in Seririt - Villa Aparna, luxury Balinese pool villa on beach",
+  "price_raw": "Rp 44,723,425",
+  "rating_raw": "4.96",
+  "review_count_raw": 57,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/4543313",
+  "sub_district": "Grogkak",
+  "latitude": -8.19771,
+  "longitude": 114.8707,
+  "capacity": {
+    "guests": "8",
+    "bedrooms": "4",
+    "beds": "5",
+    "baths": "4"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa Aparna adalah vila liburan mewah yang indah yang melayani 8 tamu dengan 4 kamar tidur dan 4 kamar mandi, di taman eksotis yang indah seluas 2.700 meter persegi dengan pemandangan laut yang indah, tepat di pantai di Bali Utara yang tak tersentuh. Dengan 5 staf, layanan yang sangat baik, kolam renang besar dan perabotan kelas atas dan dekorasi yang berselera tinggi, ini adalah tempat menginap untuk liburan yang berkesan. Anda akan menikmati layanan premium 7 hari seminggu.",
+  "scraped_at": "2026-10-04T08:27:21Z"
+}

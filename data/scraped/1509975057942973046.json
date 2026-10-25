@@ -1,0 +1,37 @@
+{
+  "room_id": "1509975057942973046",
+  "name_raw": "Home in Abang - Julim Flora Eco Village",
+  "price_raw": "Rp 20,000,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 12,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1509975057942973046",
+  "sub_district": "Abang",
+  "latitude": -8.3225,
+  "longitude": 115.62299,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "2",
+    "beds": "3",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di properti kami, buka sejak 2025.\nKami menciptakan ruang yang hangat dan menarik, tempat Anda bisa merasa seperti di rumah sambil menikmati keindahan lingkungan eksotis.\nSetiap kamar tidur benar-benar pribadi dan memiliki pintu masuk tersendiri dari luar, memastikan ruang pribadi untuk setiap tamu.\nSetiap kamar juga memiliki kamar mandi pribadi, menawarkan kenyamanan dan kemudahan.\nRuang tamu dilengkapi perabot lengkap dan dirancang untuk bersantai atau menghabiskan waktu berkual",
+  "scraped_at": "2026-10-04T08:34:25Z"
+}

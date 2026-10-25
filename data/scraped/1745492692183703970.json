@@ -1,0 +1,37 @@
+{
+  "room_id": "1745492692183703970",
+  "name_raw": "Guesthouse in Karangasem - Atta Residence - Natural View",
+  "price_raw": "Rp 3,750,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1745492692183703970",
+  "sub_district": "Karangasem",
+  "latitude": -8.4408,
+  "longitude": 115.6557,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Atta Residence adalah tempat peristirahatan yang damai di Seraya, Karangasem, yang menawarkan kenyamanan modern dan pemandangan laut yang indah. Setiap kamar dilengkapi tempat tidur double, AC, Wi-Fi gratis, Smart TV, meja kerja, kamar mandi pribadi, dan teras pribadi. Cocok untuk pasangan atau wisatawan solo yang mencari liburan santai. Dikelilingi alam dan hanya berkendara sebentar ke Pantai Virgin, Pantai Bias Tugel, Taman Ujung Water Palace, dan Candidasa.",
+  "scraped_at": "2026-10-04T08:32:43Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "946809762065757630",
+  "name_raw": "Room in Tegalalang - Brand New Country Side Room in Taro Tegallalang",
+  "price_raw": "Rp 1,940,000",
+  "rating_raw": "4.87",
+  "review_count_raw": 45,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/946809762065757630",
+  "sub_district": "Tegallalang",
+  "latitude": -8.3979,
+  "longitude": 115.2861,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "1",
+    "beds": "3",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Anda akan menikmati bersantai di tempat yang tenang dan bergaya ini yang terletak di Ubud utara, Tempat kami terletak di Delodsema Village, Taro ( Di utara Ubud ). Anda bisa menemukan di G - map Bali Coconut House Ini adalah desa tempat saya tinggal dan besar! Di sini, Kami senang membantu Anda melihat Bali khususnya desa kecil kami hanya 60 keluarga yang menetap dan tinggal di sana, sekitar 45 Menit berkendara ke Ubud Tengah, 2 menit berkendara ke Mason Elephant Park - Taro di tempat yang berke",
+  "scraped_at": "2026-10-04T08:12:23Z"
+}

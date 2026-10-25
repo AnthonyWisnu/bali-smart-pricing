@@ -1,0 +1,37 @@
+{
+  "room_id": "937235850520082822",
+  "name_raw": "Villa in Karangasem - Atta Villa | Oasis Tropical Gem with Private Pool",
+  "price_raw": "Rp 7,019,810",
+  "rating_raw": "4.9",
+  "review_count_raw": 115,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/937235850520082822",
+  "sub_district": "Karangasem",
+  "latitude": -8.4432,
+  "longitude": 115.6605,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Atta Villa - permata tropis di pusat pedesaan Bali yang tenang.\nVila ini adalah tempat yang sempurna untuk wisatawan yang mencari kedamaian, alam, dan kehidupan Bali yang autentik.\n\nTerletak di desa kecil Seraya, Anda akan terbangun dengan suara burung, angin pegunungan yang segar, dan senyum hangat dari warga lokal yang ramah.\nMulailah pagi Anda dengan berendam di kolam renang pribadi Anda, atau bersantai di teras sambil menikmati taman di sekitarnya dan pemandangan panorama yang jauh",
+  "scraped_at": "2026-10-04T08:31:35Z"
+}

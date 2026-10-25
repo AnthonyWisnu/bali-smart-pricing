@@ -1,0 +1,37 @@
+{
+  "room_id": "1518648300557384358",
+  "name_raw": "Room in Selat - The Sangka Rooms Selat Karangasem",
+  "price_raw": "Rp 1,751,375",
+  "rating_raw": "5.0",
+  "review_count_raw": 3,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1518648300557384358",
+  "sub_district": "Selat",
+  "latitude": -8.44294,
+  "longitude": 115.48781,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nikmati sisi Bali yang tenang di kamar baru kami yang berlokasi di Selat, Karangasem. Bangun dengan udara segar dan nikmati kopi pagi Anda sambil menghadap sawah hijau yang subur langsung dari ruang pribadi Anda.\n\nTempat kami sangat cocok bagi mereka yang mencari kedamaian dan ketenangan, jauh dari hiruk pikuk, namun dekat dengan harta karun alam Bali seperti Gunung Agung, Gunung Batur, dan tempat arung jeram terkenal di Bali Timur. Tenang saja di tempat liburan yang unik dan tenang ini.",
+  "scraped_at": "2026-10-04T08:32:08Z"
+}

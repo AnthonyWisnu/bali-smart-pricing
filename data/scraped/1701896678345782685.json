@@ -1,0 +1,37 @@
+{
+  "room_id": "1701896678345782685",
+  "name_raw": "Guesthouse in Abiansemal - 2-bedroom private villa with pool",
+  "price_raw": "Rp 4,343,405",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1701896678345782685",
+  "sub_district": "Abiansemal",
+  "latitude": -8.4683,
+  "longitude": 115.24,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa 2 kamar tidur dengan kolam renang pribadi, dapur, 1 kamar mandi dengan bak besar dan 1 kamar mandi tanpa bak besar, di lengkapi dengan semua fasilitas dan perlengkapan, dapatkan masa inap yang nyaman di kelilingi oleh budaya bali asli yang sebenarnya dan anda akan tinggal di lingkungan keluarga owner, keluarga yang ramah, villa ini berjarak 25 menit ke ubud dan anda juga bisa menyewa scooter dari owner untuk berkeliling mengelilingi desa dan menikmati pemandangan yang indah",
+  "scraped_at": "2026-10-04T08:16:27Z"
+}

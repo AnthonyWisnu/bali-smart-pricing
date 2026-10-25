@@ -1,0 +1,37 @@
+{
+  "room_id": "42781042",
+  "name_raw": "Rooms in Kecamatan Jembrana - Parahiyangan Homestay",
+  "price_raw": "Rp 3,706,499",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/42781042",
+  "sub_district": "Kecamatan Jembrana",
+  "latitude": -8.36075,
+  "longitude": 114.6288,
+  "capacity": {
+    "guests": "8",
+    "bedrooms": "6",
+    "beds": "6",
+    "baths": "6"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "",
+  "scraped_at": "2026-10-04T08:28:08Z"
+}

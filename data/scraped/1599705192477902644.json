@@ -1,0 +1,37 @@
+{
+  "room_id": "1599705192477902644",
+  "name_raw": "Home in Ubud - Ubud Modern Family Villa Private Pool and Kitchen",
+  "price_raw": "Rp 5,903,492",
+  "rating_raw": NaN,
+  "review_count_raw": 0,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1599705192477902644",
+  "sub_district": "Ubud",
+  "latitude": -8.47788,
+  "longitude": 115.24638,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa 2 Kamar Tidur dengan Kolam Renang Pribadi yang Cocok untuk Keluarga di Dekat Ubud\n\nSangat cocok untuk keluarga atau rombongan, vila kolam renang pribadi dua kamar tidur yang luas ini menawarkan kenyamanan, privasi, dan kemudahan. Setiap kamar tidur dilengkapi tempat tidur king size yang nyaman dan bak mandi yang santai, ideal bagi orang tua untuk bersantai setelah seharian menjelajah.",
+  "scraped_at": "2026-10-04T08:21:25Z"
+}

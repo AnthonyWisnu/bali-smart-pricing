@@ -1,0 +1,37 @@
+{
+  "room_id": "43629767",
+  "name_raw": "Treehouse in Sidemen - Veluvana Bali - Owl Bamboo House",
+  "price_raw": "Rp 42,794,138",
+  "rating_raw": "4.85",
+  "review_count_raw": 167,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/43629767",
+  "sub_district": "Sidemen",
+  "latitude": -8.47288,
+  "longitude": 115.44081,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Veluvana adalah rumah bambu unik dengan pemandangan Lembah Sidemen yang menakjubkan, lanskap tropis asli dengan puncak Gunung Agung di punggungnya. Tempat liburan ini adalah tempat yang luar biasa untuk mewujudkan petualangan impian para pengembara sejati. Kami mengundang Anda untuk merasakan getaran luar biasa dari seluruh rumah untuk melarikan diri dari kehidupan yang penuh drama ke dalam perjalanan dengan sukacita tertinggi.",
+  "scraped_at": "2026-10-04T08:32:17Z"
+}

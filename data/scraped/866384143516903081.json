@@ -1,0 +1,37 @@
+{
+  "room_id": "866384143516903081",
+  "name_raw": "Villa in Seririt - A Luxury, Hidden Retreat to Relax, Unwind, & Enjoy",
+  "price_raw": "Rp 24,363,173",
+  "rating_raw": "4.88",
+  "review_count_raw": 50,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/866384143516903081",
+  "sub_district": "Kecamatan Seririt",
+  "latitude": -8.1873,
+  "longitude": 114.913,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa yang nyaman dan indah yang terasa seperti rumah — tempat yang sempurna untuk bersantai, mengisi ulang tenaga, dan menikmati laut.\n\nLarikan diri dari hiruk pikuk dan benamkan diri Anda dalam ketenangan pantai utara Bali yang tidak terganggu—di desa Umeanyar. Villa kami bukan sekadar tempat menginap, tetapi tempat perlindungan penyembuhan di mana waktu melambat.",
+  "scraped_at": "2026-10-04T08:25:57Z"
+}

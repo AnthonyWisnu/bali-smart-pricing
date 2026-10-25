@@ -1,0 +1,37 @@
+{
+  "room_id": "1739443497528379422",
+  "name_raw": "Barn in Abiansemal - 2-bedroom wooden house, 2 toilets, pool, kitchen,",
+  "price_raw": "Rp 5,527,981",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1739443497528379422",
+  "sub_district": "Kecamatan Abiansemal",
+  "latitude": -8.4685,
+  "longitude": 115.2395,
+  "capacity": {
+    "guests": "3",
+    "bedrooms": "2",
+    "beds": "4",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Dapatkan kenyamanan dan nikmati tempat pedesaan ini, lingkungan hutan lokal , sungai natural , udara pegunungan ",
+  "scraped_at": "2026-10-04T08:15:21Z"
+}

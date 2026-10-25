@@ -1,0 +1,37 @@
+{
+  "room_id": "1207649867875103260",
+  "name_raw": "Treehouse in Selat - Magic Hills Pearl House - A Hillside Bamboo Escape",
+  "price_raw": "Rp 19,320,000",
+  "rating_raw": "4.86",
+  "review_count_raw": 74,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1207649867875103260",
+  "sub_district": "Kecamatan Selat",
+  "latitude": -8.4233,
+  "longitude": 115.45768,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Villa bambu unik ini memiliki kolam renang pribadi. Anda akan memiliki semua yang Anda butuhkan untuk masa inap yang nyaman, termasuk air panas dan dingin, handuk bersih, dan kulkas yang dilengkapi dengan minuman. Restoran juga hanya berjarak satu menit berjalan kaki.",
+  "scraped_at": "2026-10-04T08:31:36Z"
+}

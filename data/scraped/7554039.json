@@ -1,0 +1,37 @@
+{
+  "room_id": "7554039",
+  "name_raw": "Villa in Pekutatan - Medewi Beachfront Surf Villa with Private Pool",
+  "price_raw": "Rp 9,634,617",
+  "rating_raw": "4.75",
+  "review_count_raw": 55,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/7554039",
+  "sub_district": "Pekutatan",
+  "latitude": -8.414,
+  "longitude": 114.8053,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "2",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Tepat di lokasi favorit berselancar Medewi di Bali Barat: vila kami terletak hanya 80 meter dari pantai, dengan pemandangan Samudra Hindia dan lima tempat berselancar yang berbeda tepat di depan pintu Anda. Medewi Point yang legendaris — salah satu tempat terbaik untuk pengguna tangan kiri di Bali — hanya berjarak 1,9 km. 3 kamar tidur, kolam renang pribadi, dapur lengkap, dan layanan kebersihan harian dengan sarapan sudah termasuk.",
+  "scraped_at": "2026-10-04T08:24:42Z"
+}

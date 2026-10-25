@@ -1,0 +1,37 @@
+{
+  "room_id": "1651876988522017879",
+  "name_raw": "Room in Kintamani - The Serene Lake House by Santhi Loka",
+  "price_raw": "Rp 6,754,465",
+  "rating_raw": "5.0",
+  "review_count_raw": 5,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1651876988522017879",
+  "sub_district": "Kintamani",
+  "latitude": -8.24515,
+  "longitude": 115.40498,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Kamar ini terletak di bagian tengah villa, sehingga Anda bisa mengakses semua fasilitas dengan mudah. Dikelilingi suasana yang damai di dekat danau, tempat ini memberikan keseimbangan sempurna antara kenyamanan, kemudahan, dan relaksasi.",
+  "scraped_at": "2026-10-04T08:35:19Z"
+}

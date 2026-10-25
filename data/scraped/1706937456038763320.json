@@ -1,0 +1,37 @@
+{
+  "room_id": "1706937456038763320",
+  "name_raw": "Cabin in Selat - The Mundis Bali Villa-Private Pool & Mt Agung View",
+  "price_raw": "Rp 23,971,756",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1706937456038763320",
+  "sub_district": "Selat",
+  "latitude": -8.43,
+  "longitude": 115.4613,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di surga pribadi Anda! Terletak di jantung kawasan paling tenang di Bali, properti indah ini menawarkan perpaduan sempurna antara kemewahan modern dan pesona tropis autentik. Baik Anda mencari tempat peristirahatan yang tenang jauh dari keramaian atau liburan romantis, permata tersembunyi ini dirancang untuk menyempurnakan pengalaman Anda di Bali.",
+  "scraped_at": "2026-10-04T08:30:03Z"
+}

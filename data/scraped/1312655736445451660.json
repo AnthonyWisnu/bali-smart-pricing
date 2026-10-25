@@ -1,0 +1,37 @@
+{
+  "room_id": "1312655736445451660",
+  "name_raw": "Home in Manggis - AngiLou Villa Beachfront Candiddasa",
+  "price_raw": "Rp 6,847,062",
+  "rating_raw": "5.0",
+  "review_count_raw": 5,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1312655736445451660",
+  "sub_district": "Kecamatan Manggis",
+  "latitude": -8.51,
+  "longitude": 115.5689,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "\nHarap perhatikan: Harga telah diturunkan karena jalan setapak sedang dibangun tepat di depan villa, dan orang-orang berjalan melewati properti.\n\n\nVila 2 lantai yang indah ini menawarkan akomodasi eksklusif. Kamar tidur lantai atas memiliki balkon pribadi, cocok untuk bersantai dan menikmati pemandangan indah. Vila ini berada di tepi pantai, dengan akses langsung ke Pantai Candidasa, ideal untuk berjalan-jalan dengan tenang atau aktivitas di tepi laut. Dekat dengan restoran, ini adalah tempat li",
+  "scraped_at": "2026-10-04T08:31:24Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1388888147024424216",
+  "name_raw": "Treehouse in Sidemen - Bamboo Villa - Corazon Bali - Banana Tree House",
+  "price_raw": "Rp 14,805,377",
+  "rating_raw": "4.98",
+  "review_count_raw": 100,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/1388888147024424216",
+  "sub_district": "Sidemen",
+  "latitude": -8.46808,
+  "longitude": 115.44403,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Nikmati alam di vila bambu mewah ini, yang terletak di tebing di pusat Sidemen, Bali. Bangun dengan pemandangan teras sawah yang rindang, Gunung Agung, dan pegunungan yang menakjubkan — semuanya hanya berjalan kaki sebentar dari kafe dan fasilitas lokal.\n\nBersantai di kolam renang infiniti pribadi Anda, atau menatap bintang-bintang melalui atap jendela langit vila. Dipenuhi cahaya dan dibuat dari bahan alami, tempat peristirahatan romantis ini cocok untuk pasangan yang mencari kedamaian, keindah",
+  "scraped_at": "2026-10-04T08:31:04Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1475345933531903604",
+  "name_raw": "Home in Tegalalang - 1 BR New Villa with Private Pool and Valley View",
+  "price_raw": "Rp 7,350,000",
+  "rating_raw": "4.95",
+  "review_count_raw": 22,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1475345933531903604",
+  "sub_district": "Tegallalang",
+  "latitude": -8.3954,
+  "longitude": 115.2907,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bangunlah untuk menikmati pemandangan lembah yang indah dari vila pribadi Anda sendiri. Menampilkan kolam renang infinity pribadi, interior yang luas, dan area luar ruangan yang santai, vila ini menawarkan suasana yang sempurna untuk bersantai dan menikmati lingkungan yang damai. Dirancang dengan cermat dengan kenyamanan modern dan sentuhan tropis, ini adalah pilihan ideal untuk pasangan dan liburan romantis.",
+  "scraped_at": "2026-10-04T08:13:40Z"
+}

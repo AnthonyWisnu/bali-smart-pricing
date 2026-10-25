@@ -1,0 +1,37 @@
+{
+  "room_id": "1742594334631402580",
+  "name_raw": "Home in Sukawati - Stylish Living 2 Bedroom Pool Villas w Kitchenette",
+  "price_raw": "Rp 8,538,000",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1742594334631402580",
+  "sub_district": "Sukawati",
+  "latitude": -8.5776,
+  "longitude": 115.2871,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bersantailah dan Chilling bersama seluruh keluarga di tempat menginap yang tenang ini.",
+  "scraped_at": "2026-10-04T08:21:37Z"
+}

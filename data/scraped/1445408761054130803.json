@@ -1,0 +1,37 @@
+{
+  "room_id": "1445408761054130803",
+  "name_raw": "Home in Tampaksiring - Villa 3 bedrooms with a swimming pool",
+  "price_raw": "Rp 10,488,931",
+  "rating_raw": "4.96",
+  "review_count_raw": 70,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1445408761054130803",
+  "sub_district": "Tampaksiring",
+  "latitude": -8.5109,
+  "longitude": 115.2866,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "3",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Temukan vila tiga kamar tidur kami yang akrab di Pejeng Kawan, hanya sepuluh menit dari Ubud. Setiap kamar memiliki tempat tidur berukuran king, kelambu, dan kamar mandi pribadi. Nikmati ruang tamu dan ruang makan modern dengan aksen kayu tradisional, dapur lengkap, dan tempat parkir pribadi untuk mobil dan skuter. Bersantai di tepi kolam renang di kursi berjemur. Sarapan belum termasuk. Di dekatnya Anda akan menemukan sawah, kunjungan ke kuil, jalan-jalan yang indah, dan restoran pada jarak 50m",
+  "scraped_at": "2026-10-04T08:19:21Z"
+}

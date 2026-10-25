@@ -1,0 +1,37 @@
+{
+  "room_id": "1579577633553101429",
+  "name_raw": "Villa in Ubud - Stylish Ubud Hideaway Nr. Monkey Forest w/15m pool",
+  "price_raw": "Rp 14,474,836",
+  "rating_raw": "5.0",
+  "review_count_raw": 35,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1579577633553101429",
+  "sub_district": "Ubud",
+  "latitude": -8.5368,
+  "longitude": 115.2618,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "8",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di oasis pribadi Anda di Lodtunduh yang dibangun di atas lahan seluas 500 meter persegi, 10 menit dari Central Ubud — vila 2 kamar tidur yang luas yang dirancang untuk kenyamanan, relaksasi, dan kemudahan. Terletak hanya 10 menit dari tempat wisata ikonik seperti Hutan Monyet, tempat arung jeram, air terjun, wahana ATV, dan sawah yang indah, tempat liburan yang tenang ini sangat cocok untuk keluarga kecil, pasangan, dan pelawat bisnis.",
+  "scraped_at": "2026-10-04T08:19:37Z"
+}

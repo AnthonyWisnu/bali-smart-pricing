@@ -1,0 +1,37 @@
+{
+  "room_id": "1181567780003250845",
+  "name_raw": "Home in Pemuteran - Villa Kimu Sumberkima Hill",
+  "price_raw": "Rp 23,232,784",
+  "rating_raw": "5.0",
+  "review_count_raw": 5,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1181567780003250845",
+  "sub_district": "Pemuteran",
+  "latitude": -8.16918,
+  "longitude": 114.64814,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Temukan ketenangan di Sumberkima Hill Retreat, tempat liburan damai di desa tepi laut Bali Sumberkima, dekat Pemuteran dan Pulau Menjangan - surga penyelam. Nikmati pemandangan gunung berapi Hills,  Bay, dan Jawa yang menakjubkan. Bersantap di dua restoran yang menampilkan cita rasa lokal dan internasional, bersantai dengan yoga, perawatan spa, dan bersantai di sauna kami atau mandi es yang menyegarkan. Tim kami siap mengatur tamasya, sesi kesehatan, dan banyak lagi untuk membenamkan Anda dalam ",
+  "scraped_at": "2026-10-04T08:24:01Z"
+}

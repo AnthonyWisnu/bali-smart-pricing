@@ -1,0 +1,37 @@
+{
+  "room_id": "1293099124801880638",
+  "name_raw": "Place to stay in Banjar - Waterfall Lodge Wood-Fire place, Sauna & Ice-Bath",
+  "price_raw": "Rp 25,537,060",
+  "rating_raw": "4.94",
+  "review_count_raw": 48,
+  "regency": "Kabupaten Buleleng",
+  "url": "https://www.airbnb.com/rooms/1293099124801880638",
+  "sub_district": "Kecamatan Banjar",
+  "latitude": -8.26085,
+  "longitude": 115.07045,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rasakan Kebahagiaan Alpen di Bali\n\nDi puncak pegunungan, di ketinggian 1000 meter, pondok kayu kami yang luas menawarkan pelarian unik di Pulau Dewata. Nikmati pesona suasana pegunungan dengan pemandangan panorama yang menakjubkan, kehangatan perapian kayu, dan sentuhan gaya retro klasik. \n\nSaat malam menjadi lebih dingin, nyalakan perapian, meringkuk di bawah duvet bawah, dan kagumi keajaiban kunang - kunang yang menari di luar.",
+  "scraped_at": "2026-10-04T08:17:52Z"
+}

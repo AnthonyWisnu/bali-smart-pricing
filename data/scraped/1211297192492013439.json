@@ -1,0 +1,37 @@
+{
+  "room_id": "1211297192492013439",
+  "name_raw": "Rooms in Kecamatan Jembrana - Villa Gelar",
+  "price_raw": "Rp 2,658,942",
+  "rating_raw": "5.0",
+  "review_count_raw": 3,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/1211297192492013439",
+  "sub_district": "Kecamatan Jembrana",
+  "latitude": -8.29932,
+  "longitude": 114.65608,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "13",
+    "beds": "15",
+    "baths": "13"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Menjauh dari segalanya saat menginap di bawah bintang-bintang.",
+  "scraped_at": "2026-10-04T08:23:05Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1419939495653821086",
+  "name_raw": "Hotel in Kintamani - Cinze Villas and Hot Spring",
+  "price_raw": "Rp 7,492,874",
+  "rating_raw": "4.8",
+  "review_count_raw": 35,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1419939495653821086",
+  "sub_district": "Kintamani",
+  "latitude": -8.2452,
+  "longitude": 115.3946,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Vila Cinze dan Mata Air Panas\n\nTerletak di pusat Kintamani, Cinze menawarkan vila yang luas dengan kolam renang mini pribadi dan pemandangan Danau Batur dan Gunung Abang yang menakjubkan. Tamu menikmati akses gratis ke  Pyramid Infinity Hot Spring Pool  yang didukung oleh sumber air panas alami — menampilkan lebih dari 47 kolam mini dan kolam renang. Sempurna untuk liburan santai yang dikelilingi alam.",
+  "scraped_at": "2026-10-04T08:12:19Z"
+}

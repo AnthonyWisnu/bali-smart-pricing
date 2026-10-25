@@ -1,0 +1,37 @@
+{
+  "room_id": "17030854",
+  "name_raw": "Villa in Gerokgak - Exclusive Villa Bayu Segara near Lovina",
+  "price_raw": "Rp 18,193,708",
+  "rating_raw": "4.89",
+  "review_count_raw": 35,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/17030854",
+  "sub_district": "Gerokgak",
+  "latitude": -8.19605,
+  "longitude": 114.87149,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "6",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Vila yang menakjubkan ini menawarkan kenyamanan, privasi dengan interior yang elegan dan gaya Bali modern yang menawarkan 3 kamar tidur dengan teras besar, kolam renang infinity, paviliun relaksasi di dua lantai, platform tersembunyi, semuanya memanjang ke taman yang dikelilingi oleh sungai. Melalui akses pribadi di sepanjang sungai Anda mencapai pantai berpasir hitam lebar di depan samudra Hindia. Staf kami yang hangat dan penuh perhatian akan membuat masa menginap Anda menjadi pengalaman yang ",
+  "scraped_at": "2026-10-04T08:25:49Z"
+}

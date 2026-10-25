@@ -1,0 +1,37 @@
+{
+  "room_id": "1684796072492494394",
+  "name_raw": "Villa in Ubud - Serene Ubud Tropical with Spacious Garden Retreat",
+  "price_raw": "Rp 11,092,035",
+  "rating_raw": "5.0",
+  "review_count_raw": 22,
+  "regency": "Kabupaten Bangli",
+  "url": "https://www.airbnb.com/rooms/1684796072492494394",
+  "sub_district": "Ubud",
+  "latitude": -8.4982,
+  "longitude": 115.2694,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Berliburlah ke surga Anda sendiri di pusat Bali. Vila kami menawarkan perpaduan sempurna antara kenyamanan modern dan pesona tradisional Bali. Langkah keluar dari pintu Anda ke taman pribadi yang luas dan rindang - oasis yang sempurna untuk yoga pagi, membaca, atau membiarkan angin tropis menenangkan jiwa Anda.\nYang membuat tempat kami benar-benar istimewa adalah pengalaman budaya yang autentik. Terletak hanya beberapa langkah dari kompleks keluarga kami, Anda akan merasakan kehangatan, keramaha",
+  "scraped_at": "2026-10-04T08:12:41Z"
+}

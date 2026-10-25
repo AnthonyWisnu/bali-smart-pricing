@@ -1,0 +1,37 @@
+{
+  "room_id": "1419535387477337748",
+  "name_raw": "Guesthouse in Kuta - 8 mins to Airport, Transit, Central Kuta, Waterbom",
+  "price_raw": "Rp 3,412,119",
+  "rating_raw": "4.95",
+  "review_count_raw": 96,
+  "regency": "Kota Denpasar",
+  "url": "https://www.airbnb.com/rooms/1419535387477337748",
+  "sub_district": "Kuta",
+  "latitude": -8.7317,
+  "longitude": 115.1763,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "SANGAT BAGUS UNTUK TRANSIT !\n\nCheck-in & check-out mandiri sesuai keinginan Anda.\n\nKamar tidur bergaya & nyaman yang baru direnovasi dengan akses mudah ke seluruh Kuta!\n\n8 menit dari Bandara Ngurah Rai\n7 menit naik sepeda ke Kuta & Pantai Jerman \n5 menit berjalan kaki ke Laota, makanan Cina 24 jam \n3 menit berjalan kaki ke toserba & restoran\n\nFitur:\n\n- Tempat tidur queen yang nyaman \n- Teras pribadi\n- Meja kerja\n- Pemanas air\n- Perlengkapan mandi \n- Pengering rambut\n- AC.\n- Handuk\n- Ruang bebas ",
+  "scraped_at": "2026-10-04T08:07:09Z"
+}

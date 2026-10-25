@@ -1,0 +1,37 @@
+{
+  "room_id": "47226092",
+  "name_raw": "Villa in Seririt - Beach front private pool villas",
+  "price_raw": "Rp 6,618,108",
+  "rating_raw": "4.82",
+  "review_count_raw": 108,
+  "regency": "Kabupaten Jembrana",
+  "url": "https://www.airbnb.com/rooms/47226092",
+  "sub_district": "Seririt",
+  "latitude": -8.19641,
+  "longitude": 114.8899,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Vila kami terletak di Tegallenga taman, kolam luar ruangan sepanjang tahun dan teras berjemur. WiFi dan parkir pribadi dapat diakses di villa secara gratis.\n\nMenawarkan patio, setiap unit ber - AC dan menawarkan area makan dan area duduk dengan TV layar datar satelit. Ada kamar mandi pribadi dengan pancuran di semua unit.",
+  "scraped_at": "2026-10-04T08:27:48Z"
+}

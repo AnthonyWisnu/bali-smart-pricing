@@ -1,0 +1,37 @@
+{
+  "room_id": "23331984",
+  "name_raw": "Villa in Amed Beach - Beachfront+Big Pool, Fabulous views, Chef",
+  "price_raw": "Rp 22,905,547",
+  "rating_raw": "4.92",
+  "review_count_raw": 213,
+  "regency": "Kabupaten Karangasem",
+  "url": "https://www.airbnb.com/rooms/23331984",
+  "sub_district": "Amed Beach",
+  "latitude": -8.3354,
+  "longitude": 115.6576,
+  "capacity": {
+    "guests": "6",
+    "bedrooms": "3",
+    "beds": "4",
+    "baths": "3"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 1,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rumah Pantai Anda sendiri dengan kolam renang. Sangat cocok untuk liburan keluarga, waktu berkualitas bersama rombongan, atau liburan romantis. 3 kamar tidur dengan AirCon, 3 kamar mandi. Berenang di kolam renang sepanjang 10 meter, melompat ke laut.  Beberapa tempat menyelam & snorkeling terbaik di pesisir pantai tepat di luar gerbang. Bersantai & pulihkan diri di berbagai ruang pribadi yang menyenangkan, bale dengan bantal & pergola dan kolam renang dengan kursi berjemur & hammock. Pemilik/kok",
+  "scraped_at": "2026-10-04T08:33:44Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1633857713719449452",
+  "name_raw": "Home in Selemadeg Barat - Private Ocean Sunset Villa · Real Bali · 2BR Pool",
+  "price_raw": "Rp 10,500,000",
+  "rating_raw": "5.0",
+  "review_count_raw": 15,
+  "regency": "Kabupaten Tabanan",
+  "url": "https://www.airbnb.com/rooms/1633857713719449452",
+  "sub_district": "Selemadeg Barat",
+  "latitude": -8.4941,
+  "longitude": 114.95626,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 0
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 0,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Bali yang sesungguhnya masih ada.\n\nMatahari terbenam di laut, pohon palem, dan sawah tepat di depan Anda. Vila pribadi untuk pagi yang santai dan malam yang tenang, hanya 3 menit dari pantai pasir hitam yang sepi.\n\n• 1 menit menuju Supersenang\n• 4 menit dengan sepeda ke kota Balian\n• Tips lokal & pijat di vila\n\nCatatan kecil untuk transparansi penuh: Ada konstruksi yang sedang berlangsung di properti tetangga, di luar kendali kami. Kami berupaya sebaik mungkin untuk meminimalkan kebisingan atau ",
+  "scraped_at": "2026-10-04T08:38:29Z"
+}

@@ -1,0 +1,37 @@
+{
+  "room_id": "1737012284666877133",
+  "name_raw": "Room in Ubud - Charming stay only walking distance to Ubud Market",
+  "price_raw": "Rp 4,140,500",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kabupaten Gianyar",
+  "url": "https://www.airbnb.com/rooms/1737012284666877133",
+  "sub_district": "Ubud",
+  "latitude": -8.5066,
+  "longitude": 115.2719,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Menginap di pusat Ubud, hanya 15 menit berjalan kaki dari Pusat Ubud dan beberapa saat dari kafe, restoran, pasar swalayan, dan tempat wisata lokal. Hotel butik kami menawarkan kamar yang luas dengan tempat tidur king mewah, kamar mandi pribadi dalam, Wi-Fi gratis, dan fasilitas modern. Bersantailah di tepi kolam renang besar setelah seharian menjelajah dan nikmati perpaduan sempurna antara kenyamanan, kemudahan, dan keramahtamahan Bali yang autentik.",
+  "scraped_at": "2026-10-04T08:21:57Z"
+}

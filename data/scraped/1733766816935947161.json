@@ -1,0 +1,37 @@
+{
+  "room_id": "1733766816935947161",
+  "name_raw": "Villa in Kuta Utara - Modern Tropical Villa Retreat in Heart of Berawa",
+  "price_raw": "Rp 11,164,572",
+  "rating_raw": "New",
+  "review_count_raw": 0,
+  "regency": "Kota Denpasar",
+  "url": "https://www.airbnb.com/rooms/1733766816935947161",
+  "sub_district": "Kuta Utara",
+  "latitude": -8.6468,
+  "longitude": 115.1473,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "2",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Selamat datang di Singgah Layang, penginapan bergaya di lantai dua yang dirancang untuk kenyamanan dan kemudahan. Nikmati interior modern, kamar tidur yang nyaman, dapur lengkap, WiFi berkecepatan tinggi, dan area tamu yang santai. Hanya 5 menit dari Pantai Berawa, FINNS Beach Club, dan Atlas Beach Club. Anda juga akan dekat dengan kafe, restoran, butik, pusat kebugaran, dan studio kesehatan terbaik di Canggu—sangat cocok untuk pasangan, nomaden digital, dan penjelajah Bali",
+  "scraped_at": "2026-10-04T08:08:30Z"
+}

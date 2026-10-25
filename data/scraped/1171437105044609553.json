@@ -1,0 +1,37 @@
+{
+  "room_id": "1171437105044609553",
+  "name_raw": "Villa in Banjar - Lovina Villa with Private Pool",
+  "price_raw": "Rp 8,050,215",
+  "rating_raw": "4.82",
+  "review_count_raw": 141,
+  "regency": "Kabupaten Buleleng",
+  "url": "https://www.airbnb.com/rooms/1171437105044609553",
+  "sub_district": "Kecamatan Banjar",
+  "latitude": -8.1679,
+  "longitude": 115.021,
+  "capacity": {
+    "guests": "4",
+    "bedrooms": "2",
+    "beds": "135",
+    "baths": "2"
+  },
+  "badges": {
+    "superhost": 0,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 1,
+    "has_pool": 1,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 0,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "Rasakan kemewahan di Brandon Villa Lovina, tempat peristirahatan minimalis modern dengan sentuhan bohemian, sempurna untuk pasangan atau keluarga. Nikmati pengalaman hidup pribadi di dalam dan luar ruangan dengan kolam renang dan ruang kerja khusus. Terletak hanya 5 menit berkendara dari Pantai Lovina, menawarkan ketenangan dan akses mudah ke tempat wisata lokal. Cocok untuk 2-4 tamu dengan nyaman.",
+  "scraped_at": "2026-10-04T08:17:43Z"
+}

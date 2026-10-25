@@ -1,0 +1,37 @@
+{
+  "room_id": "1155510115201327138",
+  "name_raw": "Room in Kecamatan Denpasar Utara - The Barn: Cozy 1st Floor Studio",
+  "price_raw": "Rp 2,244,260",
+  "rating_raw": "4.98",
+  "review_count_raw": 86,
+  "regency": "Kota Denpasar",
+  "url": "https://www.airbnb.com/rooms/1155510115201327138",
+  "sub_district": "Kecamatan Denpasar Utara",
+  "latitude": -8.6413,
+  "longitude": 115.2224,
+  "capacity": {
+    "guests": "2",
+    "bedrooms": "1",
+    "beds": "1",
+    "baths": "1"
+  },
+  "badges": {
+    "superhost": 1,
+    "guest_favorite": 1,
+    "self_checkin": 1
+  },
+  "amenities": {
+    "has_private_pool": 0,
+    "has_pool": 0,
+    "has_kitchen": 1,
+    "has_ac": 1,
+    "has_wifi": 1,
+    "has_parking": 1,
+    "has_workspace": 1,
+    "has_bathtub": 0,
+    "has_washer": 1,
+    "has_view": 1
+  },
+  "description": "The Barn di Canang Sari Homestay adalah unit yang berdiri sendiri di komplek rumah Bali lokal.\n\nTerinspirasi oleh lumbung padi tradisional Bali yang disebut Jineng🌾, tempat ini menawarkan kamar studio lantai 1 yang nyaman yang ideal untuk wisatawan solo atau pasangan. \n\nNikmati perlengkapan sarapan gratis di pagi pertama Anda, termasuk sereal, susu, mie, dan telur yang tersedia di dapur Anda. \n\nHubungi kami bila kamar ini dipesan atau bila Anda membutuhkan akomodasi yang lebih besar.",
+  "scraped_at": "2026-10-04T08:07:38Z"
+}
