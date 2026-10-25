@@ -1,13 +1,18 @@
 """
 =============================================================================
-KALKULATOR TARIF SEWA VILLA & HOMESTAY BALI
-Sistem Cerdas Estimasi Harga Sewa Harian Berbasis Lokasi, Fasilitas & Kalender
-Universitas Udayana - Program Studi Teknologi Informasi
+BALI SMART PRICING ENGINE - WEB APPLICATION (STREAMLIT)
+Sistem Penaksir Tarif Sewa Wajar Villa & Homestay di Bali Berbasis ML Murni
+=============================================================================
+Pengembang:
+- I Kadek Adi Sunetra (2305551053)
+- Anthony Wisnu Jati (2305551138)
+Dosen Pengampu:
+- Yogiswara Dharma Putra, S.TI., M.T.
+Program Studi Teknologi Informasi, Fakultas Teknik, Universitas Udayana
 =============================================================================
 """
 
 import os
-from datetime import date, timedelta
 import joblib
 import pandas as pd
 import numpy as np
@@ -49,130 +54,133 @@ st.markdown("""
         letter-spacing: -0.02em;
     }
     .app-header p {
-        color: #cbd5e1 !important;
-        font-size: 0.95rem !important;
-        margin: 8px 0 0 0 !important;
-        font-weight: 400;
+        color: #94a3b8 !important;
+        font-size: 0.92rem !important;
+        margin: 6px 0 0 0 !important;
     }
-    .tag-pill {
-        display: inline-block;
-        background-color: #334155;
-        color: #f1f5f9;
-        font-size: 0.8rem;
+
+    .badge-bar {
+        display: flex;
+        gap: 10px;
+        margin-top: 14px;
+        flex-wrap: wrap;
+    }
+    .badge-item {
+        background: #1e293b;
+        color: #38bdf8;
+        border: 1px solid #0284c7;
+        font-size: 0.75rem;
         font-weight: 600;
         padding: 4px 12px;
         border-radius: 20px;
-        margin-top: 12px;
-        margin-right: 8px;
-        border: 1px solid #475569;
     }
-    
-    .price-box {
-        background: linear-gradient(135deg, #064e3b 0%, #047857 100%);
-        border: 1px solid #10b981;
-        border-radius: 14px;
-        padding: 26px 20px;
-        color: #ffffff;
-        margin: 18px 0 24px 0;
-        text-align: center;
-        box-shadow: 0 4px 14px rgba(16, 185, 129, 0.2);
-    }
-    .price-box-label {
-        font-size: 0.88rem;
-        font-weight: 700;
-        text-transform: uppercase;
-        letter-spacing: 0.08em;
-        color: #a7f3d0;
-        margin-bottom: 8px;
-    }
-    .price-box-amount {
-        font-size: 2.7rem;
-        font-weight: 800;
-        color: #ffffff;
-        font-variant-numeric: tabular-nums;
-        margin: 8px 0;
-    }
-    .price-box-range {
-        font-size: 0.98rem;
-        color: #fef08a;
+    .badge-item-green {
+        background: #064e3b;
+        color: #34d399;
+        border: 1px solid #059669;
+        font-size: 0.75rem;
         font-weight: 600;
-    }
-    
-    .stat-card {
-        background-color: rgba(255, 255, 255, 0.05);
-        border: 1px solid #334155;
-        border-radius: 10px;
-        padding: 16px 18px;
-        margin-bottom: 12px;
-    }
-    .stat-card-title {
-        font-size: 0.8rem;
-        color: #cbd5e1;
-        font-weight: 600;
-        text-transform: uppercase;
-        letter-spacing: 0.03em;
-    }
-    .stat-card-value {
-        font-size: 1.32rem;
-        font-weight: 700;
-        color: #ffffff;
-        margin-top: 5px;
+        padding: 4px 12px;
+        border-radius: 20px;
     }
 
-    .stTabs [data-baseweb="tab-list"] {
-        gap: 12px;
-        border-bottom: 2px solid #334155;
-        padding-bottom: 6px;
-        margin-bottom: 24px;
+    .price-box {
+        background: linear-gradient(135deg, #064e3b 0%, #022c22 100%);
+        border: 1.5px solid #10b981;
+        border-radius: 14px;
+        padding: 24px;
+        text-align: center;
+        margin-bottom: 22px;
+        box-shadow: 0 8px 24px rgba(16, 185, 129, 0.15);
     }
-    .stTabs [data-baseweb="tab"] {
-        height: auto;
-        padding: 10px 18px !important;
-        border-radius: 8px 8px 0 0 !important;
-        background-color: rgba(255, 255, 255, 0.03) !important;
-        border: 1px solid transparent !important;
-        transition: all 0.2s ease;
+    .price-box-label {
+        font-size: 0.95rem;
+        font-weight: 700;
+        color: #6ee7b7;
+        text-transform: uppercase;
+        letter-spacing: 0.08em;
     }
-    .stTabs [data-baseweb="tab"]:hover {
-        background-color: rgba(255, 255, 255, 0.08) !important;
+    .price-box-amount {
+        font-size: 2.5rem;
+        font-weight: 800;
+        color: #ffffff;
+        margin: 8px 0;
+        letter-spacing: -0.02em;
     }
-    .stTabs [data-baseweb="tab"] p, 
-    .stTabs [data-baseweb="tab"] div, 
-    .stTabs [data-baseweb="tab"] span {
-        font-size: 1.05rem !important;
-        font-weight: 600 !important;
-        color: #e2e8f0 !important;
+    .price-box-range {
+        font-size: 0.88rem;
+        color: #a7f3d0;
+        font-weight: 500;
     }
-    .stTabs [aria-selected="true"] {
-        background-color: rgba(56, 189, 248, 0.12) !important;
-        border-bottom: 3px solid #38bdf8 !important;
+
+    .stat-card {
+        background-color: #1e293b;
+        border: 1px solid #334155;
+        border-radius: 10px;
+        padding: 14px 18px;
+        text-align: center;
     }
-    .stTabs [aria-selected="true"] p, 
-    .stTabs [aria-selected="true"] div, 
-    .stTabs [aria-selected="true"] span {
-        color: #38bdf8 !important;
-        font-weight: 700 !important;
+    .stat-card-title {
+        font-size: 0.75rem;
+        color: #94a3b8;
+        font-weight: 600;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+    }
+    .stat-card-value {
+        font-size: 1.15rem;
+        color: #f8fafc;
+        font-weight: 700;
+        margin-top: 4px;
     }
 
     .form-section-title {
-        color: #38bdf8;
-        font-size: 1.05rem;
+        font-size: 0.88rem;
         font-weight: 700;
+        color: #38bdf8;
+        text-transform: uppercase;
+        letter-spacing: 0.06em;
         margin-bottom: 12px;
         border-bottom: 1px solid #334155;
         padding-bottom: 6px;
+    }
+
+    div[data-testid="stExpander"] {
+        border: 1px solid #334155 !important;
+        border-radius: 10px !important;
+        background-color: #0f172a !important;
+    }
+
+    .stTabs [data-baseweb="tab-list"] {
+        gap: 8px;
+        border-bottom: 2px solid #334155;
+    }
+    .stTabs [data-baseweb="tab"] {
+        height: 48px;
+        white-space: pre-wrap;
+        border-radius: 8px 8px 0 0;
+        gap: 6px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        color: #94a3b8;
+        font-weight: 600;
+        font-size: 0.92rem;
+    }
+    .stTabs [aria-selected="true"] {
+        color: #38bdf8 !important;
+        border-bottom: 3px solid #38bdf8 !important;
+        background-color: rgba(56, 189, 248, 0.08) !important;
     }
 </style>
 """, unsafe_allow_html=True)
 
 # -----------------------------------------------------------------------------
-# 2. MEMUAT DATA, MODEL & REFERENSI SPATIAL KNN
+# 2. DEFINISI SENTRA WISATA & PEMUATAN MODEL & METADATA
 # -----------------------------------------------------------------------------
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_PATH = os.path.join(BASE_DIR, "data", "processed", "bali_airbnb_enriched_master.csv")
 MODEL_PATH = os.path.join(BASE_DIR, "models", "catboost_pricing_model.cbm")
 META_PATH = os.path.join(BASE_DIR, "models", "feature_metadata.joblib")
-KNN_REF_PATH = os.path.join(BASE_DIR, "models", "spatial_knn_reference.joblib")
 BENCHMARK_PATH = os.path.join(BASE_DIR, "reports", "model_benchmark_results.csv")
 TIER_PATH = os.path.join(BASE_DIR, "reports", "tier_accuracy_breakdown.csv")
 REPORTS_DIR = os.path.join(BASE_DIR, "reports")
@@ -204,13 +212,12 @@ def load_pricing_model():
         cb = CatBoostRegressor()
         cb.load_model(MODEL_PATH)
         meta = joblib.load(META_PATH)
-        knn_ref = joblib.load(KNN_REF_PATH) if os.path.exists(KNN_REF_PATH) else None
-        return cb, meta, knn_ref
-    return None, None, None
+        return cb, meta
+    return None, None
 
 
 df_master = load_dataset()
-cb_model, meta, knn_ref = load_pricing_model()
+cb_model, meta = load_pricing_model()
 
 # -----------------------------------------------------------------------------
 # 3. HEADER UTAMA
@@ -218,44 +225,46 @@ cb_model, meta, knn_ref = load_pricing_model()
 total_units = len(df_master) if not df_master.empty else 1000
 st.markdown(f"""
 <div class="app-header">
-    <h1>Kalkulator Tarif Sewa Villa & Homestay Bali</h1>
-    <p>Sistem cerdas penaksiran tarif sewa harian wajar berbasis lokasi mikro, fasilitas, tetangga terdekat, dan kalender Check-in / Check-out.</p>
-    <div>
-        <span class="tag-pill">Basis Data: {total_units} Penginapan Organik Bali</span>
-        <span class="tag-pill">Arsitektur: Spatial-KNN + CatBoost Ensemble</span>
-        <span class="tag-pill">Cakupan: 9 Kabupaten / Kota</span>
+    <h1>Kalkulator Tarif Sewa Wajar Villa & Homestay Bali</h1>
+    <p>Sistem Inferensi Harga Sewa Berbasis Data-Driven Machine Learning Murni (Tanpa Pengali Aturan Manual)</p>
+    <div class="badge-bar">
+        <span class="badge-item-green">CatBoost Champion Model</span>
+        <span class="badge-item">Dataset Bersih: {total_units:,} Properti Bali</span>
+        <span class="badge-item">42 Kecamatan Baku</span>
+        <span class="badge-item">38 Fitur Murni (0% Data Leakage)</span>
     </div>
 </div>
 """, unsafe_allow_html=True)
 
-if df_master.empty or cb_model is None:
-    st.error("Data penginapan atau model perhitungan belum siap. Silakan jalankan script pipeline terlebih dahulu.")
+if cb_model is None or meta is None:
+    st.error("Model CatBoost atau berkas metadata belum tersedia. Silakan jalankan modul pelatihan di scripts/04_train_and_benchmark_models.py.")
     st.stop()
 
+# Koordinat median per kecamatan untuk penentuan titik otomatis
 coord_lookup = df_master.groupby(['regency', 'sub_district'])[['latitude', 'longitude']].median().reset_index()
 
 # -----------------------------------------------------------------------------
 # 4. TAB NAVIGASI UTAMA
 # -----------------------------------------------------------------------------
-tab_val, tab_map, tab_bench, tab_xai = st.tabs([
-    "Cek Estimasi Harga & Kalender",
+tab_calc, tab_map, tab_bench, tab_xai = st.tabs([
+    "Cek Estimasi Harga Properti",
     "Peta Persebaran Lokasi",
     "Akurasi Model Prediksi",
-    "Faktor Penentu Harga"
+    "Faktor Penentu Harga (SHAP)"
 ])
 
 # =============================================================================
-# TAB 1: CEK ESTIMASI HARGA & SIMULASI KALENDER CHECK-IN / CHECK-OUT
+# TAB 1: FORMULIR INFERENSI TARIF SEWA WAJAR (ML MURNI)
 # =============================================================================
-with tab_val:
-    st.markdown("### Masukkan Spesifikasi Penginapan & Tanggal Menginap")
-    st.caption("Pilih lokasi, kapasitas kamar, fasilitas, serta tanggal Check-in dan Check-out untuk menghitung tarif harian dan total biaya masa menginap.")
+with tab_calc:
+    st.markdown("### Simulasi Karakteristik Properti & Penaksiran Tarif Sewa Wajar")
+    st.caption("Masukkan spesifikasi fisik, lokasi, dan fasilitas penginapan. Model Machine Learning CatBoost akan menaksir tarif sewa wajar per malam secara objektif.")
 
-    col1, col2, col3 = st.columns([1.05, 1.05, 1.2])
+    col1, col2, col3 = st.columns(3)
 
     with col1:
         with st.container(border=True):
-            st.markdown('<div class="form-section-title">1. Lokasi, Tipe & Tanggal</div>', unsafe_allow_html=True)
+            st.markdown('<div class="form-section-title">1. Lokasi & Tipe Properti</div>', unsafe_allow_html=True)
 
             regencies = sorted(df_master['regency'].unique().tolist())
             def_reg_idx = regencies.index("Gianyar") if "Gianyar" in regencies else 0
@@ -263,7 +272,7 @@ with tab_val:
 
             sub_list = sorted(df_master[df_master['regency'] == sel_regency]['sub_district'].unique().tolist())
             def_sub_idx = sub_list.index("Ubud") if "Ubud" in sub_list else 0
-            sel_subdistrict = st.selectbox("Kecamatan / Kawasan:", sub_list, index=def_sub_idx)
+            sel_subdistrict = st.selectbox("Kecamatan / Kawasan Wisata:", sub_list, index=def_sub_idx)
 
             type_options = ["Villa", "Private Room/Homestay", "Cottage/Bungalow", "Entire House", "Apartment", "Shared Room/Hostel"]
             type_labels = {
@@ -281,17 +290,7 @@ with tab_val:
                 index=0
             )
 
-            default_checkin = date.today() + timedelta(days=5)
-            default_checkout = date.today() + timedelta(days=7)
-            col_d1, col_d2 = st.columns(2)
-            with col_d1:
-                inp_checkin = st.date_input("Tanggal Check-in:", value=default_checkin, min_value=date.today())
-            with col_d2:
-                inp_checkout = st.date_input(
-                    "Tanggal Check-out:",
-                    value=max(default_checkout, inp_checkin + timedelta(days=1)),
-                    min_value=inp_checkin + timedelta(days=1)
-                )
+            is_room_selected = sel_property_type in ["Private Room/Homestay", "Shared Room/Hostel"]
 
             match_coords = coord_lookup[(coord_lookup['regency'] == sel_regency) & (coord_lookup['sub_district'] == sel_subdistrict)]
             if not match_coords.empty:
@@ -301,21 +300,12 @@ with tab_val:
                 cur_lat = -8.5069
                 cur_lon = 115.2625
 
-            lead_days = (inp_checkin - date.today()).days
-            stay_nights = max(1, (inp_checkout - inp_checkin).days)
-            if 4 <= lead_days <= 14:
-                lead_status = f"Optimal ({lead_days} hari sebelum Check-in: Kalender homestay & villa terbuka penuh)"
-            elif lead_days < 4:
-                lead_status = f"Pemesanan Mendadak ({lead_days} hari: Sebagian homestay butuh waktu persiapan)"
-            else:
-                lead_status = f"Jangka Panjang ({lead_days} hari ke depan: Sebagian homestay lokal mengunci kalender > 14 hari)"
-            st.caption(f"Status Kalender: {lead_status}")
+            st.caption(f"Titik Koordinat Pusat: {cur_lat:.4f}, {cur_lon:.4f}")
 
     with col2:
         with st.container(border=True):
             st.markdown('<div class="form-section-title">2. Kapasitas & Reputasi</div>', unsafe_allow_html=True)
 
-            is_room_selected = sel_property_type in ["Private Room/Homestay", "Shared Room/Hostel"]
             default_br = 1 if is_room_selected else 2
             default_acc = 2 if is_room_selected else 4
             default_baths = 1.0 if is_room_selected else 2.0
@@ -328,7 +318,7 @@ with tab_val:
                 inp_beds = st.number_input("Jumlah Tempat Tidur", min_value=1, max_value=16, value=default_br, step=1)
                 inp_bathrooms = st.number_input("Jumlah Kamar Mandi", min_value=1.0, max_value=12.0, value=default_baths, step=0.5)
 
-            inp_rating = st.slider("Skor Kepuasan Tamu (1.0 - 5.0)", min_value=3.5, max_value=5.0, value=4.88, step=0.01)
+            inp_rating = st.slider("Skor Kepuasan Tamu (Rating)", min_value=3.5, max_value=5.0, value=4.88, step=0.01)
             inp_reviews = st.number_input("Jumlah Ulasan Tamu", min_value=0, max_value=1000, value=24, step=1)
 
     with col3:
@@ -353,7 +343,7 @@ with tab_val:
                 opt_budget = st.checkbox("Konsep Ekonomis / Sederhana", value=is_room_selected)
 
     # -------------------------------------------------------------------------
-    # PERHITUNGAN FITUR SPASIAL, TETANGGA KNN & HARGA KALENDER DINAMIS
+    # INFERENSI MODEL MACHINE LEARNING
     # -------------------------------------------------------------------------
     def build_feature_row(cfg):
         lat = cfg['latitude']
@@ -372,14 +362,8 @@ with tab_val:
         nlp_lux = int(cfg['nlp_luxury'])
         nlp_bch = int(cfg['nlp_beach_ocean'])
 
-        lux_score = float(
-            priv_pool * 2 +
-            bathtub +
-            jacuzzi * 2 +
-            nlp_lux * 2 +
-            nlp_bch * 2 +
-            staff
-        )
+        # Total fasilitas mewah tanpa pembobotan manual
+        total_lux = priv_pool + pool_any + bathtub + jacuzzi + staff
 
         d_canggu = haversine_km(lat, lon, -8.6650, 115.1450)
         d_ubud = haversine_km(lat, lon, -8.5069, 115.2625)
@@ -389,50 +373,35 @@ with tab_val:
         d_airport = haversine_km(lat, lon, -8.7467, 115.1668)
         min_hub = min(d_canggu, d_ubud, d_uluwatu, d_sanur)
 
-        if knn_ref is not None:
-            q_vec = np.array([[lat, lon, br, room_only, lux_score]]) * knn_ref['scale_vec']
-            dists, n_idxs = knn_ref['nn_model'].kneighbors(q_vec, n_neighbors=12)
-            w = 1.0 / (dists[0] + 0.15)
-            w = w / np.sum(w)
-            knn_mean_log = float(np.sum(knn_ref['train_log_prices'][n_idxs[0]] * w))
-            knn_med_log = float(np.median(knn_ref['train_log_prices'][n_idxs[0]]))
-            knn_log_ppb = float(np.sum(knn_ref['train_log_ppb'][n_idxs[0]] * w))
-            expected_spatial_br_log = float(np.log1p(np.expm1(knn_log_ppb) * br))
-        else:
-            knn_mean_log = float(np.log1p(df_master['price_idr'].median()))
-            knn_med_log = knn_mean_log
-            knn_log_ppb = knn_mean_log - float(np.log(br))
-            expected_spatial_br_log = knn_mean_log
-
         row = {
+            'rating': float(cfg['rating']),
+            'is_new_listing': 1 if int(cfg['review_count']) == 0 else 0,
+            'review_count': int(cfg['review_count']),
+            'is_room_only': room_only,
+            'latitude': lat,
+            'longitude': lon,
             'accommodates': acc,
             'bedrooms': br,
             'beds': bds,
             'bathrooms': bth,
-            'is_room_only': room_only,
-            'guests_per_bedroom': acc / br,
-            'baths_per_bedroom': bth / br,
-            'beds_per_bedroom': bds / br,
-            'total_rooms_index': br + bth,
-            'rating': float(cfg['rating']),
-            'review_count': int(cfg['review_count']),
-            'is_new_listing': 1 if int(cfg['review_count']) == 0 else 0,
             'is_superhost': int(cfg['is_superhost']),
+            'has_self_checkin': int(cfg['has_self_checkin']),
             'has_private_pool': priv_pool,
             'has_pool': pool_any,
             'has_bathtub': bathtub,
-            'has_jacuzzi': jacuzzi,
-            'has_service_staff': staff,
             'has_parking': int(cfg['has_parking']),
             'has_workspace': int(cfg['has_workspace']),
-            'has_self_checkin': int(cfg['has_self_checkin']),
             'nlp_luxury': nlp_lux,
             'nlp_beach_ocean': nlp_bch,
             'nlp_nature_view': int(cfg['nlp_nature_view']),
             'nlp_budget_cozy': int(cfg['nlp_budget_cozy']),
-            'luxury_amenity_score': lux_score,
-            'latitude': lat,
-            'longitude': lon,
+            'has_jacuzzi': jacuzzi,
+            'has_service_staff': staff,
+            'guests_per_bedroom': acc / br,
+            'baths_per_bedroom': bth / br,
+            'beds_per_bedroom': bds / br,
+            'total_rooms_index': br + bth,
+            'total_luxury_amenities': total_lux,
             'dist_canggu_seminyak_km': d_canggu,
             'dist_ubud_center_km': d_ubud,
             'dist_uluwatu_km': d_uluwatu,
@@ -440,10 +409,6 @@ with tab_val:
             'dist_kintamani_km': d_kintamani,
             'dist_airport_km': d_airport,
             'min_dist_tourism_hub_km': min_hub,
-            'spatial_knn_log_price': knn_mean_log,
-            'spatial_knn_median_log_price': knn_med_log,
-            'spatial_knn_log_ppb': knn_log_ppb,
-            'expected_spatial_bedroom_log_price': expected_spatial_br_log,
             'regency': str(cfg['regency']),
             'sub_district': str(cfg['sub_district']),
             'property_type': str(cfg['property_type'])
@@ -457,61 +422,6 @@ with tab_val:
             df_row[c] = df_row[c].astype(str)
         log_val = cb_model.predict(df_row[meta['all_features']])
         return float(np.expm1(log_val)[0])
-
-    def evaluasi_kalender_menginap(base_rate, checkin_dt, checkout_dt):
-        nights = max(1, (checkout_dt - checkin_dt).days)
-        daily_rates = []
-        weekend_nights = 0
-        season_labels = set()
-
-        for d_idx in range(nights):
-            cur_d = checkin_dt + timedelta(days=d_idx)
-            m = cur_d.month
-            day = cur_d.day
-            # Faktor musim pariwisata Bali
-            if (m == 12 and day >= 20) or (m == 1 and day <= 5) or m in [7, 8]:
-                s_mult = 1.20
-                season_labels.add("Musim Puncak (Peak Season +20%)")
-            elif m in [6, 9, 12]:
-                s_mult = 1.10
-                season_labels.add("Musim Ramai (High Season +10%)")
-            elif m in [2, 3, 11]:
-                s_mult = 0.92
-                season_labels.add("Musim Tenang (Low Season -8%)")
-            else:
-                s_mult = 1.00
-                season_labels.add("Musim Normal (Tarif Standar)")
-
-            # Faktor akhir pekan (Jumat = 4, Sabtu = 5)
-            if cur_d.weekday() in [4, 5]:
-                w_mult = 1.08
-                weekend_nights += 1
-            else:
-                w_mult = 1.00
-
-            daily_rates.append(base_rate * s_mult * w_mult)
-
-        avg_before_discount = float(np.mean(daily_rates))
-        if nights >= 28:
-            los_disc = 0.25
-            los_label = "Diskon Bulanan (-25%)"
-        elif nights >= 7:
-            los_disc = 0.10
-            los_label = "Diskon Mingguan (-10%)"
-        else:
-            los_disc = 0.0
-            los_label = "Tarif Harian Normal (0%)"
-
-        effective_nightly = avg_before_discount * (1.0 - los_disc)
-        total_stay_cost = effective_nightly * nights
-        return {
-            "nights": nights,
-            "weekend_nights": weekend_nights,
-            "season_summary": ", ".join(sorted(season_labels)),
-            "los_label": los_label,
-            "effective_nightly": effective_nightly,
-            "total_stay_cost": total_stay_cost
-        }
 
     konfigurasi_aktif = {
         'accommodates': inp_accommodates,
@@ -541,55 +451,64 @@ with tab_val:
         'property_type': sel_property_type
     }
 
-    tarif_dasar_ml = hitung_tarif_dasar(konfigurasi_aktif)
-    kal_info = evaluasi_kalender_menginap(tarif_dasar_ml, inp_checkin, inp_checkout)
-    harga_taksiran = kal_info['effective_nightly']
-    batas_bawah = harga_taksiran * 0.85
-    batas_atas = harga_taksiran * 1.15
+    # Prediksi tarif wajar murni dari model CatBoost
+    tarif_wajar_ml = hitung_tarif_dasar(konfigurasi_aktif)
+    toleransi_error = 418217.0  # MedAE pada Data Uji
+    batas_bawah = max(150000.0, tarif_wajar_ml - toleransi_error)
+    batas_atas = tarif_wajar_ml + toleransi_error
+
+    # Hitung jarak terdekat ke sentra wisata untuk ditampilkan
+    d_canggu = haversine_km(cur_lat, cur_lon, -8.6650, 115.1450)
+    d_ubud = haversine_km(cur_lat, cur_lon, -8.5069, 115.2625)
+    d_uluwatu = haversine_km(cur_lat, cur_lon, -8.8149, 115.0884)
+    d_sanur = haversine_km(cur_lat, cur_lon, -8.6913, 115.2628)
+    min_hub_km = min(d_canggu, d_ubud, d_uluwatu, d_sanur)
 
     # -------------------------------------------------------------------------
-    # KARTU HASIL PREDIKSI
+    # KARTU HASIL PREDIKSI TARIF WAJAR
     # -------------------------------------------------------------------------
     st.markdown(f"""
     <div class="price-box">
-        <div class="price-box-label">Estimasi Tarif Sewa Wajar per Malam ({inp_checkin.strftime('%d %b %Y')} s.d. {inp_checkout.strftime('%d %b %Y')})</div>
-        <div class="price-box-amount">Rp {harga_taksiran:,.0f} <span style="font-size: 1.1rem; font-weight: 500; color: #a7f3d0;">/ malam</span></div>
-        <div class="price-box-range">Total Tagihan {kal_info['nights']} Malam: Rp {kal_info['total_stay_cost']:,.0f} | Rentang Pasar Wajar: Rp {batas_bawah:,.0f} s.d. Rp {batas_atas:,.0f} / malam</div>
+        <div class="price-box-label">Estimasi Tarif Sewa Wajar per Malam (Inferensi Machine Learning Murni)</div>
+        <div class="price-box-amount">Rp {tarif_wajar_ml:,.0f} <span style="font-size: 1.1rem; font-weight: 500; color: #a7f3d0;">/ malam</span></div>
+        <div class="price-box-range">Rentang Pasar Wajar: Rp {batas_bawah:,.0f} s.d. Rp {batas_atas:,.0f} / malam (Toleransi MedAE Data Uji Rp {toleransi_error:,.0f})</div>
     </div>
     """, unsafe_allow_html=True)
 
     col_s1, col_s2, col_s3, col_s4 = st.columns(4)
     with col_s1:
+        eff_br = max(1, konfigurasi_aktif['bedrooms'])
+        tarif_per_kamar = tarif_wajar_ml / eff_br
         st.markdown(f"""
         <div class="stat-card">
-            <div class="stat-card-title">Tarif Dasar Properti (ML)</div>
-            <div class="stat-card-value">Rp {tarif_dasar_ml:,.0f}</div>
-            <div style="font-size:0.75rem; color:#cbd5e1; margin-top:3px;">Sebelum penyesuaian musim/kalender</div>
+            <div class="stat-card-title">Tarif per Kamar Tidur</div>
+            <div class="stat-card-value">Rp {tarif_per_kamar:,.0f}</div>
+            <div style="font-size:0.75rem; color:#cbd5e1; margin-top:3px;">Berdasarkan {eff_br} kamar tidur aktif</div>
         </div>
         """, unsafe_allow_html=True)
     with col_s2:
         st.markdown(f"""
         <div class="stat-card">
-            <div class="stat-card-title">Rincian Kalender Menginap</div>
-            <div class="stat-card-value">{kal_info['nights']} Malam ({kal_info['weekend_nights']} Akhir Pekan)</div>
-            <div style="font-size:0.75rem; color:#cbd5e1; margin-top:3px;">{kal_info['season_summary']}</div>
+            <div class="stat-card-title">Jarak ke Sentra Wisata Terdekat</div>
+            <div class="stat-card-value">{min_hub_km:.1f} km</div>
+            <div style="font-size:0.75rem; color:#cbd5e1; margin-top:3px;">Fitur Geospasial Haversine Riil</div>
         </div>
         """, unsafe_allow_html=True)
     with col_s3:
-        omzet_bulan = tarif_dasar_ml * 30 * 0.70
+        omzet_bulan = tarif_wajar_ml * 30 * 0.70
         st.markdown(f"""
         <div class="stat-card">
-            <div class="stat-card-title">Potensi Omzet / Bulan</div>
+            <div class="stat-card-title">Proyeksi Omzet / Bulan</div>
             <div class="stat-card-value">Rp {omzet_bulan / 1e6:.1f} Juta</div>
-            <div style="font-size:0.75rem; color:#cbd5e1; margin-top:3px;">Asumsi tingkat hunian 70% (21 malam)</div>
+            <div style="font-size:0.75rem; color:#cbd5e1; margin-top:3px;">Asumsi okupansi 70% (21 malam)</div>
         </div>
         """, unsafe_allow_html=True)
     with col_s4:
-        if harga_taksiran < 750000:
+        if tarif_wajar_ml < 750000:
             kategori_teks = "Homestay / Ekonomis"
-        elif harga_taksiran <= 2500000:
+        elif tarif_wajar_ml <= 2500000:
             kategori_teks = "Villa Reguler Populer"
-        elif harga_taksiran <= 6000000:
+        elif tarif_wajar_ml <= 6000000:
             kategori_teks = "Villa Menengah"
         else:
             kategori_teks = "Villa Premium"
@@ -598,16 +517,16 @@ with tab_val:
         <div class="stat-card">
             <div class="stat-card-title">Kelas Pasar Properti</div>
             <div class="stat-card-value">{kategori_teks}</div>
-            <div style="font-size:0.75rem; color:#cbd5e1; margin-top:3px;">{kal_info['los_label']}</div>
+            <div style="font-size:0.75rem; color:#cbd5e1; margin-top:3px;">Segmen Pasar Wisata Bali</div>
         </div>
         """, unsafe_allow_html=True)
 
     # -------------------------------------------------------------------------
-    # TABEL SIMULASI NILAI TAMBAH FASILITAS (WHAT-IF ROI)
+    # TABEL SIMULASI NILAI TAMBAH FASILITAS (WHAT-IF ROI BERBASIS MODEL ML)
     # -------------------------------------------------------------------------
     st.markdown("<br/>", unsafe_allow_html=True)
-    st.markdown("### Simulasi Nilai Tambah Fasilitas (Panduan Investasi Pemilik)")
-    st.caption("Perbandingan perubahan tarif dasar per malam apabila fasilitas tertentu ditambahkan pada penginapan ini:")
+    st.markdown("### Simulasi Nilai Tambah Fasilitas (What-If Analysis Murni Berbasis Model)")
+    st.caption("Perubahan tarif sewa yang diproyeksikan langsung oleh model CatBoost jika pemilik menambah fasilitas tertentu:")
 
     c_pool_on = konfigurasi_aktif.copy(); c_pool_on['has_private_pool'] = 1; c_pool_on['has_pool'] = 1; c_pool_on['is_room_only'] = 0
     c_pool_off = konfigurasi_aktif.copy(); c_pool_off['has_private_pool'] = 0; c_pool_off['has_pool'] = 0
@@ -626,10 +545,10 @@ with tab_val:
     tambah_sh = abs(hitung_tarif_dasar(c_sh_on) - hitung_tarif_dasar(c_sh_off))
 
     tabel_saran = [
-        {"Fasilitas / Peningkatan": "Kolam Renang Pribadi (Private Pool)", "Potensi Kenaikan Tarif": f"+ Rp {tambah_pool:,.0f} / malam", "Persentase": f"{(tambah_pool / max(1, tarif_dasar_ml)) * 100:.1f}%", "Rekomendasi Strategis": "Daya tarik utama wisatawan di Bali untuk menaikkan kelas sewa"},
-        {"Fasilitas / Peningkatan": "Bak Mandi (Bathtub) Kamar Utama", "Potensi Kenaikan Tarif": f"+ Rp {tambah_tub:,.0f} / malam", "Persentase": f"{(tambah_tub / max(1, tarif_dasar_ml)) * 100:.1f}%", "Rekomendasi Strategis": "Biaya instalasi terukur dengan dampak nilai jual tinggi"},
-        {"Fasilitas / Peningkatan": "Penataan Interior Eksklusif / Luxury", "Potensi Kenaikan Tarif": f"+ Rp {tambah_lux:,.0f} / malam", "Persentase": f"{(tambah_lux / max(1, tarif_dasar_ml)) * 100:.1f}%", "Rekomendasi Strategis": "Meningkatkan daya saing visual pada foto halaman pencarian"},
-        {"Fasilitas / Peningkatan": "Reputasi Pelayanan Superhost", "Potensi Kenaikan Tarif": f"+ Rp {tambah_sh:,.0f} / malam", "Persentase": f"{(tambah_sh / max(1, tarif_dasar_ml)) * 100:.1f}%", "Rekomendasi Strategis": "Meningkatkan tingkat kepercayaan dan okupansi bulanan"}
+        {"Fasilitas / Peningkatan": "Kolam Renang Pribadi (Private Pool)", "Potensi Kenaikan Tarif": f"+ Rp {tambah_pool:,.0f} / malam", "Persentase": f"{(tambah_pool / max(1, tarif_wajar_ml)) * 100:.1f}%", "Rekomendasi Strategis": "Daya tarik utama wisatawan di Bali untuk menaikkan kelas sewa"},
+        {"Fasilitas / Peningkatan": "Bak Mandi (Bathtub) Kamar Utama", "Potensi Kenaikan Tarif": f"+ Rp {tambah_tub:,.0f} / malam", "Persentase": f"{(tambah_tub / max(1, tarif_wajar_ml)) * 100:.1f}%", "Rekomendasi Strategis": "Biaya instalasi terukur dengan dampak nilai jual tinggi"},
+        {"Fasilitas / Peningkatan": "Penataan Interior Eksklusif / Luxury", "Potensi Kenaikan Tarif": f"+ Rp {tambah_lux:,.0f} / malam", "Persentase": f"{(tambah_lux / max(1, tarif_wajar_ml)) * 100:.1f}%", "Rekomendasi Strategis": "Meningkatkan daya saing visual pada foto listing"},
+        {"Fasilitas / Peningkatan": "Reputasi Pelayanan Superhost", "Potensi Kenaikan Tarif": f"+ Rp {tambah_sh:,.0f} / malam", "Persentase": f"{(tambah_sh / max(1, tarif_wajar_ml)) * 100:.1f}%", "Rekomendasi Strategis": "Meningkatkan tingkat kepercayaan dan okupansi bulanan"}
     ]
     st.table(pd.DataFrame(tabel_saran))
 
@@ -637,47 +556,45 @@ with tab_val:
 # TAB 2: PETA PERSEBARAN LOKASI
 # =============================================================================
 with tab_map:
-    st.markdown("### Peta Persebaran Tarif Harian Penginapan di Bali")
-    st.caption(f"Visualisasi geospasial {len(df_master)} penginapan pasar reguler di 9 Kabupaten/Kota Bali (Tarif Murni 1 Malam).")
+    st.markdown("### Peta Persebaran Geospasial Penginapan di Seluruh Bali")
+    st.caption("Visualisasi sebaran 1.000 listing penginapan bersih di 9 Kabupaten/Kota Bali yang telah distandardisasi ke 42 kecamatan resmi:")
 
-    col_mf1, col_mf2, col_mf3 = st.columns(3)
-    with col_mf1:
-        flt_regency = st.multiselect("Pilih Kabupaten / Kota:", regencies, default=regencies)
-    with col_mf2:
-        avail_types = sorted(df_master['property_type'].unique().tolist())
-        flt_type = st.multiselect("Pilih Tipe Penginapan:", avail_types, default=avail_types)
-    with col_mf3:
-        max_limit = float(np.ceil(df_master['price_idr'].max() / 1e6))
-        flt_price = st.slider("Rentang Tarif per Malam (Juta Rupiah):", 0.0, max_limit, (0.0, max_limit), step=0.5)
+    col_m1, col_m2 = st.columns([1, 3])
+    with col_m1:
+        filter_reg = st.multiselect("Filter Kabupaten / Kota:", regencies, default=[])
+        filter_type = st.multiselect("Filter Tipe Properti:", type_options, default=[])
+        max_price_view = st.slider("Batas Tarif Tertinggi (Juta Rp):", min_value=1.0, max_value=10.0, value=10.0, step=0.5)
 
-    filtered_df = df_master[
-        (df_master['regency'].isin(flt_regency)) &
-        (df_master['property_type'].isin(flt_type)) &
-        (df_master['price_idr'] >= flt_price[0] * 1e6) &
-        (df_master['price_idr'] <= flt_price[1] * 1e6)
-    ].copy()
+    df_view = df_master.copy()
+    if filter_reg:
+        df_view = df_view[df_view['regency'].isin(filter_reg)]
+    if filter_type:
+        df_view = df_view[df_view['property_type'].isin(filter_type)]
+    df_view = df_view[df_view['price_idr'] <= (max_price_view * 1e6)]
 
-    st.write(f"Menampilkan **{len(filtered_df)} penginapan** dengan median tarif **Rp {filtered_df['price_idr'].median():,.0f} / malam**.")
-
-    if not filtered_df.empty:
-        fig_map = px.scatter_map(
-            filtered_df,
+    with col_m2:
+        st.markdown(f"Menampilkan **{len(df_view):,}** dari {len(df_master):,} penginapan:")
+        fig_map = px.scatter_mapbox(
+            df_view,
             lat="latitude",
             lon="longitude",
             color="price_idr",
-            size="bedrooms",
+            size="accommodates",
             hover_name="name",
             hover_data={
                 "sub_district": True,
                 "regency": True,
+                "price_idr": ":,.0f",
                 "bedrooms": True,
-                "price_idr": ":,.0f"
+                "rating": True,
+                "latitude": False,
+                "longitude": False
             },
             color_continuous_scale="Viridis",
-            range_color=[300000, 5000000],
-            zoom=9.3,
-            center={"lat": -8.4500, "lon": 115.1889},
-            map_style="carto-positron",
+            range_color=[150000, 6000000],
+            zoom=9,
+            center={"lat": -8.45, "lon": 115.15},
+            mapbox_style="carto-positron",
             height=580
         )
         fig_map.update_layout(
@@ -696,7 +613,7 @@ with tab_map:
 # =============================================================================
 with tab_bench:
     st.markdown("### Evaluasi Ilmiah Akurasi Model Prediksi")
-    st.caption("Hasil pengujian independen pada 20% Data Uji terisolasi (0% Data Leakage) setelah normalisasi tarif harian 1 malam dan rekayasa fitur geospasial.")
+    st.caption("Hasil pengujian independen pada 20% Data Uji terisolasi (0% Data Leakage) dengan rekayasa fitur data-driven murni.")
 
     if os.path.exists(BENCHMARK_PATH):
         bench_data = pd.read_csv(BENCHMARK_PATH)
@@ -706,7 +623,7 @@ with tab_bench:
         r2_val = float(cb_row['Test_R2'])
         mdape_val = float(cb_row['Test_MdAPE_Pct'])
     else:
-        med_ae_val, mae_val, r2_val, mdape_val = 422387.0, 743361.0, 0.6379, 30.52
+        med_ae_val, mae_val, r2_val, mdape_val = 418217.0, 784580.0, 0.6351, 31.25
 
     col_acc1, col_acc2, col_acc3, col_acc4 = st.columns(4)
     with col_acc1:
@@ -722,7 +639,7 @@ with tab_bench:
         <div class="stat-card">
             <div class="stat-card-title">Rata-rata Selisih Absolut (MAE)</div>
             <div class="stat-card-value" style="color: #10b981;">Rp {mae_val:,.0f}</div>
-            <div style="font-size:0.78rem; color:#cbd5e1; margin-top:3px;">Turun 86,7% dari arsitektur lama</div>
+            <div style="font-size:0.78rem; color:#cbd5e1; margin-top:3px;">Mean Absolute Error Data Uji</div>
         </div>
         """, unsafe_allow_html=True)
     with col_acc3:
@@ -745,9 +662,9 @@ with tab_bench:
     with st.container(border=True):
         st.markdown("#### Mengapa Model Ini Minim Halusinasi dan Akurat di Semua Kelas?")
         st.markdown("""
-        1. **Dekonvolusi Tarif 1 Malam Murni**: Mengeliminasi distorsi harga akumulasi 5 malam pada halaman pencarian tanpa tanggal sehingga harga homestay dan villa mencerminkan tarif harian nyata.
-        2. **Kanonisasi Geospasial 42 Kecamatan Resmi & Rekonsiliasi Kapasitas**: Menyatukan variasi penulisan nama kecamatan, mengoreksi label kabupaten yang tercampur akibat perluasan peta pencarian, serta menyelaraskan jumlah kamar tidur dan kapasitas tamu.
-        3. **Spatial Hedonic Price-Per-Bedroom IDW (0% Data Leakage)**: Model menghitung indeks harga per kamar tidur dari 12 penginapan sejenis terdekat menggunakan bobot jarak terbalik (Inverse-Distance Weighting) murni dari data latih.
+        1. **Dekonvolusi Tarif 1 Malam Murni**: Mengeliminasi distorsi harga akumulasi multi-hari pada antarmuka pencarian default sehingga harga homestay dan villa mencerminkan tarif harian nyata.
+        2. **Kanonisasi Geospasial 42 Kecamatan Baku & Rekonsiliasi Kapasitas**: Mengoreksi label kabupaten yang tertukar akibat perluasan radius pencarian awal, serta merekonstruksi kapasitas ranjang dan kamar dari data teks terstruktur.
+        3. **Pemodelan Spasial Murni & Jarak Haversine Riil**: Model mempelajari koordinat fisik GPS dan jarak Haversine ke 6 sentra pariwisata utama Bali secara langsung tanpa bumbu pengali buatan dan tanpa kebocoran data.
         """)
 
     if os.path.exists(TIER_PATH):
@@ -864,7 +781,7 @@ with tab_bench:
 # =============================================================================
 with tab_xai:
     st.markdown("### Analisis Faktor Penentu Harga Sewa (Explainable AI - SHAP)")
-    st.caption("Interpretasi transparan dari model kecerdasan buatan mengenai atribut lokasi dan fasilitas yang paling menentukan tarif sewa harian di Bali:")
+    st.caption("Interpretasi transparan dari model kecerdasan buatan mengenai atribut fisik, lokasi, dan fasilitas yang paling menentukan tarif sewa harian di Bali:")
 
     col_x1, col_x2 = st.columns(2)
     with col_x1:
@@ -872,12 +789,12 @@ with tab_xai:
             img_imp = os.path.join(REPORTS_DIR, "shap_feature_importance.png")
             if os.path.exists(img_imp):
                 st.markdown("**1. Peringkat Faktor Paling Menentukan Tarif Sewa**")
-                st.image(img_imp, use_container_width=True)
+                st.image(img_imp, width="stretch")
                 st.markdown("""
                 *Ringkasan Temuan:*
-                * **Harga Pasar Tetangga Sekitar & Lokasi Wisata**: Sesuai teori dependensi spasial, klaster lingkungan mikro dan jarak ke pusat wisata menjadi fondasi utama pembentuk tarif.
-                * **Skala Ruangan & Kapasitas**: Jumlah kamar tidur, kamar mandi, dan rasio kapasitas tamu memisahkan kelas homestay dari villa keluarga.
-                * **Fasilitas Premium**: Kolam renang pribadi dan bathtub memberikan kontribusi nilai tambah tertinggi.
+                * **Skala Ruangan & Kapasitas**: Jumlah kamar tidur, kapasitas tamu, dan rasio ranjang memisahkan kelas homestay dari villa keluarga.
+                * **Lokasi Spasial & Kawasan Wisata**: Kecamatan wisata (seperti Ubud, Kuta Utara, Uluwatu) dan jarak ke sentra keramaian pariwisata menjadi faktor diferensiasi harga utama.
+                * **Fasilitas Premium**: Kolam renang pribadi, bak mandi (bathtub), dan status superhost memberikan kontribusi kenaikan tarif paling konsisten.
                 """)
 
     with col_x2:
@@ -885,11 +802,11 @@ with tab_xai:
             img_bee = os.path.join(REPORTS_DIR, "shap_summary_beeswarm.png")
             if os.path.exists(img_bee):
                 st.markdown("**2. Arah Pengaruh Setiap Fitur terhadap Harga**")
-                st.image(img_bee, use_container_width=True)
+                st.image(img_bee, width="stretch")
                 st.markdown("""
                 *Cara Membaca Grafik:*
-                * **Titik Merah di Sebelah Kanan**: Nilai fitur yang tinggi (seperti tersedianya kolam renang pribadi, jumlah kamar banyak, atau lingkungan premium) mendorong tarif sewa naik.
-                * **Titik Biru di Sebelah Kiri**: Unit kamar tunggal (homestay) atau jarak yang jauh dari pusat wisata menjaga tarif tetap ekonomis dan terjangkau.
+                * **Titik Merah di Sebelah Kanan**: Nilai fitur yang tinggi (seperti tersedianya kolam renang pribadi, jumlah kamar banyak, atau kawasan premium) mendorong tarif sewa naik.
+                * **Titik Biru di Sebelah Kiri**: Unit kamar tunggal (homestay) atau jarak yang jauh dari sentra wisata menjaga tarif tetap ekonomis dan terjangkau.
                 """)
 
     st.markdown("<br/>", unsafe_allow_html=True)
@@ -897,7 +814,7 @@ with tab_xai:
         img_wf = os.path.join(REPORTS_DIR, "shap_waterfall_example.png")
         if os.path.exists(img_wf):
             st.markdown("**3. Bedah Perhitungan Harga pada 1 Sampel Penginapan Riil**")
-            st.image(img_wf, use_container_width=True)
+            st.image(img_wf, width="stretch")
             st.caption("Grafik Waterfall SHAP di atas memperlihatkan kontribusi bertahap setiap fitur dari nilai rata-rata dasar pulau Bali menuju prediksi akhir properti tersebut.")
 
 # -----------------------------------------------------------------------------

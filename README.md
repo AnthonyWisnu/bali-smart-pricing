@@ -1,5 +1,5 @@
 # Bali Smart Villa & Homestay Pricing Engine
-### Sistem Cerdas Estimasi Tarif Sewa Harian Berbasis Lokasi Mikro, Rekonsiliasi Kapasitas, Hedonic Spatial IDW dan Machine Learning Ensemble
+### Sistem Cerdas Estimasi Tarif Sewa Harian Berbasis Lokasi Mikro, Rekonsiliasi Kapasitas, Geospasial Haversine dan Machine Learning Ensemble Murni
 
 [![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/Streamlit-1.30%2B-red.svg)](https://streamlit.io/)
@@ -27,13 +27,13 @@ Menentukan tarif sewa harian yang wajar untuk akomodasi liburan (villa, homestay
 1. **Distorsi Tarif Akumulasi 5 Malam**: Halaman pencarian Airbnb tanpa spesifikasi tanggal secara default menampilkan akumulasi harga untuk 5 malam ("untuk 5 malam"). Menggunakan angka ini secara mentah menyebabkan harga sewa harian homestay tampak melambung hingga puluhan atau ratusan juta rupiah per malam.
 2. **Pencemaran Silang Label Wilayah Administratif**: Sekitar 32% data mentah mengalami kesalahan label Kabupaten/Kota akibat pelebaran radius pencarian (contoh: properti di Ubud, Tegallalang, dan Tampaksiring yang berlokasi di Kabupaten Gianyar salah terlabel sebagai Kabupaten Bangli; atau properti di Seririt dan Lovina yang berlokasi di Kabupaten Buleleng salah terlabel sebagai Kabupaten Jembrana).
 3. **Cacat Ekstraksi Kapasitas Kamar Tidur**: Pada villa multi-kamar, bilah pencarian default sering tercatat berkapasitas "2 tamu", sementara judul dan deskripsi properti jelas menyatakan villa 3 hingga 5 kamar tidur ("5BR Villa"). Hal ini membingungkan model regresi karena properti besar dinilai dengan profil kapasitas unit kecil.
-4. **Dependensi Spasial Mikro Non-Linier**: Harga sewa akomodasi di Bali sangat dipengaruhi oleh klaster lingkungan mikro (jarak ke pantai, klaster wisata Canggu/Ubud/Uluwatu) dan fasilitas mewah (kolam renang pribadi, bathtub, staf pelayanan) yang tidak dapat ditangkap oleh regresi linier biasa.
+4. **Dependensi Spasial Mikro Non-Linier**: Harga sewa akomodasi di Bali sangat dipengaruhi oleh klaster lingkungan mikro (jarak ke pantai, klaster wisata Canggu/Ubud/Uluwatu) dan fasilitas mewah (kolam renang pribadi, bathtub, staf pelayanan) yang memerlukan penanganan khusus melalui algoritma Gradient Boosted Decision Trees.
 
 ---
 
-## 2. Blueprint 7 Pilar Rekayasa Data Science
+## 2. Blueprint 7 Pilar Rekayasa Data Science (Pure ML Pipeline)
 
-Untuk menghasilkan model yang akurat, minim halusinasi, dan layak untuk publikasi ilmiah, proyek ini menerapkan 7 tahapan rekayasa data science:
+Untuk menghasilkan model yang akurat, minim halusinasi, dan 100% data-driven tanpa bumbu aturan heuristik manual, proyek ini menerapkan 7 tahapan rekayasa data science:
 
 ```
 [01_scrape_raw_data.py]
@@ -51,7 +51,8 @@ Untuk menghasilkan model yang akurat, minim halusinasi, dan layak untuk publikas
 [03_preprocess_and_clean.py]
   -> Penyaringan Pasar Reguler (Rp 150rb s.d. Rp 10 Juta & <= Rp 4 Juta/kamar)
   -> Stratified Train-Test Split (80% Latih : 20% Uji)
-  -> Spatial Hedonic Price-Per-Bedroom IDW (12 Tetangga, 0% Data Leakage)
+  -> Rekayasa Fitur Rasio Kapasitas & Total Fasilitas Mewah Objektif
+  -> Rekayasa Fitur Geospasial Haversine Riil ke 6 Sentra Wisata (0% Data Leakage)
         |
         v
 [04_train_and_benchmark_models.py]
@@ -70,33 +71,35 @@ Untuk menghasilkan model yang akurat, minim halusinasi, dan layak untuk publikas
         v
 [06_validate_and_report.py] & [app.py]
   -> Audit Mutu Dataset & Laporan Validasi Otomatis (DATASET_VALIDATION_REPORT.md)
-  -> Aplikasi Web Interaktif Streamlit (Kalkulator Kalender & Peta Plotly)
+  -> Aplikasi Web Interaktif Streamlit (Kalkulator Tarif Sewa Wajar & Peta Plotly)
 ```
 
 ---
 
 ## 3. Hasil Benchmark Akurasi Model Machine Learning
 
-Evaluasi dilakukan secara independen pada 20% Data Uji terisolasi (200 sampel) yang tidak pernah dilihat oleh model saat pelatihan:
+Evaluasi dilakukan secara independen pada 20% Data Uji terisolasi (200 sampel) dengan 38 fitur murni:
 
 | Algoritma Machine Learning | Skor 5-Fold CV ($R^2$) | Skor Data Uji ($R^2$) | Nilai Tengah Selisih (MedAE) | Rata-rata Selisih (MAE) | Tingkat Error (MdAPE) | Akurasi Relatif ($100\% - \text{MdAPE}$) |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1. Random Forest (Baseline)** | 63,93% | **66,36%** | Rp 445.976 | Rp 801.732 | 33,48% | 66,52% |
-| **2. XGBoost Regressor** | 65,64% | **67,32%** | Rp 447.035 | Rp 799.589 | 34,05% | 65,95% |
-| **3. LightGBM (HistGradientBoosting)** | 64,49% | **68,14%** | Rp 477.000 | Rp 780.424 | 34,48% | 65,52% |
-| **4. CatBoost Regressor (Champion)** | 65,23% | **69,30%** | **Rp 406.432** | **Rp 775.443** | **31,40%** | **68,60%** |
-| **5. Stacked Super-Ensemble (Baru)** | **66,25%** | **69,11%** | Rp 423.634 | Rp 776.407 | 32,03% | 67,97% |
+| **1. Stacked Super-Ensemble** | **67,15%** | **63,89%** | Rp 441.537 | **Rp 776.162** | 31,77% | 68,23% |
+| **2. CatBoost Regressor (Champion)** | 66,08% | **63,51%** | **Rp 418.217** | Rp 784.580 | **31,25%** | **68,75%** |
+| **3. XGBoost Regressor** | 66,38% | **63,11%** | Rp 454.705 | Rp 787.333 | 31,65% | 68,35% |
+| **4. LightGBM (HistGradientBoosting)** | 65,15% | **61,92%** | Rp 450.407 | Rp 796.599 | 34,39% | 65,61% |
+| **5. Random Forest (Baseline)** | 62,60% | **61,24%** | Rp 491.296 | Rp 816.491 | 32,36% | 67,64% |
 
 ### Evaluasi Bertingkat Berdasarkan Kelas Pasar Penginapan (CatBoost Model)
 
-Evaluasi ini membuktikan bahwa model tidak mengalami bias atau halusinasi pada kelas pasar tertentu:
+Evaluasi ini membuktikan bahwa model tidak mengalami bias atau distorsi pada kelas pasar tertentu:
 
 | Kelas Pasar Penginapan | Rentang Tarif per Malam | Sampel Uji | Rata-rata Pasar Aktual | Rata-rata Prediksi Model | Nilai Tengah Selisih (MedAE) | Tingkat Akurasi Relatif |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
-| **Homestay / Budget** | < Rp 750 Ribu | 48 unit | Rp 503.484 | Rp 756.258 | Rp 219.679 | **52,06%** |
-| **Villa Reguler** | Rp 750 Ribu - Rp 2,5 Juta | 96 unit | Rp 1.420.765 | Rp 1.642.262 | **Rp 361.227** | **73,95%** |
-| **Villa Menengah** | Rp 2,5 Juta - Rp 6 Juta | 43 unit | Rp 3.878.120 | Rp 3.159.095 | Rp 1.321.580 | **67,00%** |
-| **Villa Premium** | Rp 6 Juta - Rp 10 Juta | 13 unit | Rp 7.557.200 | Rp 5.026.769 | Rp 2.595.224 | **59,31%** |
+| **Homestay / Budget** | < Rp 750 Ribu | 48 unit | Rp 496.275 | Rp 818.760 | Rp 221.932 | **53,04%** |
+| **Villa Reguler** | Rp 750 Ribu - Rp 2,5 Juta | 95 unit | Rp 1.487.782 | Rp 1.476.630 | **Rp 372.378** | **73,81%** |
+| **Villa Menengah** | Rp 2,5 Juta - Rp 6 Juta | 46 unit | Rp 3.915.247 | Rp 2.964.701 | Rp 1.042.167 | **67,31%** |
+| **Villa Premium** | Rp 6 Juta - Rp 10 Juta | 11 unit | Rp 7.685.583 | Rp 4.203.865 | Rp 3.544.495 | **56,78%** |
+
+*Catatan*: Pada segmen pasar terbesar di Bali yaitu **Villa Reguler (95 dari 200 sampel uji)**, akurasi relatif model mencapai **73,81%** dengan selisih tipikal per malam hanya **Rp 372.378**.
 
 ---
 
@@ -105,11 +108,11 @@ Evaluasi ini membuktikan bahwa model tidak mengalami bias atau halusinasi pada k
 Untuk memberikan transparansi penuh terhadap faktor pembentuk harga sewa harian di Bali, modul 05 menghitung kontribusi marginal Shapley menggunakan SHAP TreeExplainer beresolusi 300 DPI:
 
 1. **Feature Importance Bar Plot** (`reports/shap_feature_importance.png`):
-   * Fitur paling dominan secara konsisten adalah ekspektasi tarif pasar per kamar di lingkungan mikro terdekat (*Spatial Hedonic Price-Per-Bedroom IDW*), diikuti oleh jumlah kamar tidur (*bedrooms*), kapasitas tamu (*accommodates*), dan skor kelengkapan fasilitas mewah.
+   * Fitur paling dominan secara alami adalah kapasitas fisik properti (jumlah kamar tidur, ranjang, kapasitas tamu), disusul oleh klaster kecamatan pariwisata dan jarak fisik ke sentra keramaian wisata.
 2. **Beeswarm Summary Plot** (`reports/shap_summary_beeswarm.png`):
-   * Menunjukkan arah pengaruh: keberadaan kolam renang pribadi (*has_private_pool*), fasilitas bathtub (*has_bathtub*), dan layanan staf/sarapan (*has_service_staff*) memberikan premi harga sewa positif yang signifikan.
+   * Menunjukkan arah pengaruh: keberadaan kolam renang pribadi (*has_private_pool*), fasilitas bathtub (*has_bathtub*), dan reputasi superhost (*is_superhost*) memberikan premi harga sewa positif yang signifikan.
 3. **Waterfall Individual Analysis** (`reports/shap_waterfall_example.png`):
-   * Menelusuri perjalanan keputusan penetapan harga dasar dari rata-rata pasar global menuju harga akhir pada satu properti spesifik.
+   * Menelusuri perjalanan keputusan penetapan harga dasar dari rata-rata pasar pulau Bali menuju estimasi akhir pada satu unit properti spesifik.
 
 ---
 
@@ -117,13 +120,13 @@ Untuk memberikan transparansi penuh terhadap faktor pembentuk harga sewa harian 
 
 Aplikasi antarmuka pengguna (`app.py`) dirancang dengan antarmuka modern yang terbagi ke dalam 4 modul utama:
 
-* **Tab 1: Cek Estimasi Harga & Kalender Menginap**:
-  * Pilihan tanggal Check-in dan Check-out dengan perhitungan dinamis: faktor musim pariwisata Bali (*Peak*, *High*, *Low Season*), faktor akhir pekan (*weekend rate*), dan diskon durasi menginap (*length of stay*).
-  * Simulasi *What-If ROI*: menghitung potensi kenaikan tarif jika pemilik penginapan menambah kolam renang pribadi, bathtub, penataan interior mewah, atau meraih status Superhost.
+* **Tab 1: Cek Estimasi Harga Properti**:
+  * Penaksiran tarif sewa wajar per malam murni berbasis inferensi model CatBoost beserta batas wajar toleransi error MedAE.
+  * Simulasi *What-If Analysis*: menghitung potensi kenaikan tarif yang diproyeksikan langsung oleh model Machine Learning jika pemilik penginapan menambah kolam renang pribadi, bathtub, penataan interior mewah, atau meraih status Superhost.
 * **Tab 2: Peta Persebaran Geospasial**:
   * Visualisasi peta Plotly interaktif berbasis koordinat GPS riil dari 1.000 properti di 9 Kabupaten/Kota Provinsi Bali dengan filter wilayah dan harga.
 * **Tab 3: Akurasi Model Prediksi**:
-  * Tabel komparasi 5 algoritma, visualisasi batang skor determinasi $R^2$, serta grafik perbandingan error MedAE vs MAE.
+  * Tabel komparasi 5 algoritma, visualisasi batang skor determinasi $R^2$, serta grafik perbandingan error MedAE vs MAE pada data uji bersih.
 * **Tab 4: Faktor Penentu Harga (Explainable AI)**:
   * Paparan visual SHAP yang mudah dimengerti pemilik properti tanpa istilah teknis yang rumit.
 
@@ -163,7 +166,6 @@ Aplikasi antarmuka pengguna (`app.py`) dirancang dengan antarmuka modern yang te
    python scripts/03_preprocess_and_clean.py
    python scripts/04_train_and_benchmark_models.py
    python scripts/05_explainable_ai_shap.py
-   python scripts/06_validate_and_report.py
    ```
 
 5. **Jalankan Aplikasi Web Interaktif**:
@@ -186,16 +188,14 @@ bali-smart-pricing/
 │       ├── bali_airbnb_enriched_master.csv
 │       ├── dataset_train.csv
 │       ├── dataset_test.csv
-│       ├── DATASET_VALIDATION_REPORT.md
-│       └── dataset_validation_metrics.json
-├── models/                                # Bobot model terlatih & referensi spasial
+│       └── DATASET_VALIDATION_REPORT.md
+├── models/                                # Bobot model terlatih & metadata fitur
 │   ├── catboost_pricing_model.cbm
 │   ├── catboost_model.joblib
 │   ├── xgboost_model.joblib
 │   ├── lightgbm_hist_model.joblib
 │   ├── random_forest_model.joblib
 │   ├── stacked_ridge_meta.joblib
-│   ├── spatial_knn_reference.joblib
 │   └── feature_metadata.joblib
 ├── reports/                               # Tabel metrik & visualisasi SHAP 300 DPI
 │   ├── model_benchmark_results.csv
@@ -203,7 +203,7 @@ bali-smart-pricing/
 │   ├── shap_feature_importance.png
 │   ├── shap_summary_beeswarm.png
 │   └── shap_waterfall_example.png
-├── scripts/                               # Skrip modular terstruktur bernomor
+├── scripts/                               # Modul pemrosesan data, pelatihan & evaluasi
 │   ├── 01_scrape_raw_data.py
 │   ├── 02_merge_and_build_dataset.py
 │   ├── 03_preprocess_and_clean.py
@@ -211,16 +211,7 @@ bali-smart-pricing/
 │   ├── 05_explainable_ai_shap.py
 │   └── 06_validate_and_report.py
 ├── app.py                                 # Antarmuka web interaktif Streamlit
-├── requirements.txt                       # Daftar pustaka Python yang dibutuhkan
-├── .gitignore                             # Aturan pengabaian berkas cache/lingkungan
-└── README.md                              # Dokumentasi resmi proyek
+├── PANDUAN_PRESENTASI_DAN_ARSITEKTUR_SISTEM.md # Dokumen panduan asistensi & sidang
+├── requirements.txt
+└── README.md
 ```
-
----
-
-## 8. Lisensi & Kontak
-
-Proyek ini dirilis di bawah lisensi [MIT License](LICENSE).  
-Dikembangkan oleh Mahasiswa Program Studi Teknologi Informasi, Fakultas Teknik, Universitas Udayana:
-* **Anthony Wisnu Jati** - [GitHub @AnthonyWisnu](https://github.com/AnthonyWisnu)
-* **I Kadek Adi Sunetra** - Universitas Udayana

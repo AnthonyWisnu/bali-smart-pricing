@@ -71,6 +71,7 @@ FEATURE_LABEL_MAP = {
     'spatial_knn_log_ppb': 'Tarif Pasar per Kamar di Lingkungan Sekitar',
     'expected_spatial_bedroom_log_price': 'Ekspektasi Harga Spasial Sesuai Jumlah Kamar',
     'luxury_amenity_score': 'Skor Kelengkapan Fasilitas Mewah',
+    'total_luxury_amenities': 'Total Fasilitas Mewah',
     'has_jacuzzi': 'Fasilitas Jacuzzi / Hot Tub Pribadi',
     'has_service_staff': 'Layanan Staf / Sarapan / Butler',
     'review_count': 'Jumlah Ulasan Tamu',
